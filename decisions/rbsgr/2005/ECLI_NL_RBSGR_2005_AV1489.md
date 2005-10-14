@@ -16,6 +16,8 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 [...] The punishment to be imposed is based on the Articles 47 an 57 of the Netherlands criminal code; 8 of the Criminal Law in Wartime Act. [...]
 
 ## Uitspraak
