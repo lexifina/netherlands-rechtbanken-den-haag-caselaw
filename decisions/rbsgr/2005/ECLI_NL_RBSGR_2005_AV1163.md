@@ -16,6 +16,8 @@ published_in: ["Rechtspraak.nl", "NJFS 2006, 28"]
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 [...] The punishment to be imposed is based on the articles: - 47 and 57 of the Netherlands Criminal Code
 
 - 1 of the Torture Convention Implementation Act - 8 and 9 of the Criminal Law in Wartime Act [...]
