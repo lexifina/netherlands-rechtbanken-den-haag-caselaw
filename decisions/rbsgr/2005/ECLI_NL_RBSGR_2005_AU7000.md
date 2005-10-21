@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBSGR:2005:AU7000"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RFR 2006, 10"]
 ---
 
 # ECLI:NL:RBSGR:2005:AU7000 Rechtbank 's-Gravenhage , 21-10-2005 / 234027
