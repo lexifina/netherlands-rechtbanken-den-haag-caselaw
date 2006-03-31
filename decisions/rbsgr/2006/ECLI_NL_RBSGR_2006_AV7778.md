@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBSGR:2006:AV7778"
-published_in: ["Rechtspraak.nl", "RZA 2006, 73", "RSV 2006, 149", "NJ 2006, 320", "NJF 2006, 253", "PJ 2006, 74", "V-N 2006/21.17 met annotatie van Redactie", "GJ 2006/42"]
+published_in: ["Rechtspraak.nl", "RZA 2006, 73", "RSV 2006, 149", "NJ 2006, 320", "NJF 2006, 253", "PJ 2006, 74", "V-N 2006/21.17", "GJ 2006/42"]
 ---
 
 # ECLI:NL:RBSGR:2006:AV7778 Rechtbank 's-Gravenhage , 31-03-2006 / KG 06/125
