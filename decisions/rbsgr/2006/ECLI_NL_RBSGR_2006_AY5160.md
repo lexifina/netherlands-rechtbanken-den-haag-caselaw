@@ -17,6 +17,8 @@ relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2017:1760, (Gedeelt
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 The District Court acquits the defendant of the charges under counts 1, 2 and 3. These charges refer to a number of actions that have been penalized under the Criminal Law in Wartime Act. The Court considers the fact proven that the defendant together and in conjunction with an other or others supplied weapons to Charles Taylor and/or his armed forces. The punishment that has been imposed, a prison sentence of 8 years, is based on: - articles 47 and 57 of the Penal Code; - articles 1, opening lines and under 2° (old), 1, opening lines and under 1°, 2 and 6 of the Economic Offenses Act; articles 2 (old), 2, 3 (old), 3 and 13 of the Sanctions Act 1977; - article 2 of the Liberian Sanctions Regulations 2001; - article 2 of the Liberian Sanctions Regulations 2002; - ML1 and ML2 of the Schedule to the Import and Export Decree on Strategic Goods.
 
 ## Uitspraak
