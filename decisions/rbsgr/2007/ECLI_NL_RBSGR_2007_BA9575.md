@@ -17,6 +17,8 @@ relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSGR:2009:BK8758, (Gedee
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 Judgment in the criminal proceedings against a defendant charged with war crimes, who was a former officer of the Afghan Military Intelligence Service Khad-e-Nezami. The Court acquits the defendant of the charges.
 
 ## Uitspraak
