@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBSGR:2009:BI2444"
-published_in: ["Rechtspraak.nl", "NJFS 2009, 178"]
+published_in: ["Rechtspraak.nl", "NJFS 2009, 178", "AA20110884 met annotatie van Sliedregt van E. Elies"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSGR:2011:BR0686, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
