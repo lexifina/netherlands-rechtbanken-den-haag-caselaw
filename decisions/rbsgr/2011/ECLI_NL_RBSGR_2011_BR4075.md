@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBSGR:2011:BR4075"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2014", "V-N 2011/44.11 met annotatie van Redactie", "Belastingadvies 2011/21.5", "FutD 2011-1855"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2014", "V-N 2011/44.11 met annotatie van Redactie", "Belastingadvies 2011/21.5", "FutD 2011-1855", "Viditax (FutD) 2011080401"]
 ---
 
 # ECLI:NL:RBSGR:2011:BR4075 Rechtbank 's-Gravenhage , 20-05-2011 / AWB 10/2859 IB/PVV
