@@ -1,0 +1,144 @@
+---
+ecli: "ECLI:NL:RBSGR:2012:BW1089"
+court: "Rechtbank 's-Gravenhage"
+court_code: "RBSGR"
+docket: "AWB 11/34652"
+decided: "2012-03-28"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBSGR:2012:BW1089"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2013:CA2856, Meerdere afhandelingswijzen"]]
+---
+
+# ECLI:NL:RBSGR:2012:BW1089 Rechtbank 's-Gravenhage , 28-03-2012 / AWB 11/34652
+
+## Inhoudsindicatie
+
+De rechtbank is van oordeel dat verweerder niet kan volhouden dat slechts sprake is van een gewijzigde feitelijke situatie, nu verweerder de feitelijke situatie vóór 2011 niet heeft onderzocht. (…) Veeleer lijkt sprake te zijn van een gewijzigde uitvoeringspraktijk, te weten een verscherpte controle op het bestaan van prioriteitgenietend aanbod, dan wel een verscherpt toezicht op de inspanningen die moeten worden verricht om het prioriteitgenietend aanbod te bereiken. Een dergelijk verscherpt handhaven van een bestaand criterium is in strijd met de Standstill-bepaling (zie ook de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (AbRS) van 2 februari 2011 (LJN: BP2822)).
+
+Verweerder heeft, naast zijn standpunt dat in het algemeen voldoende prioriteitgenietend aanbod beschikbaar is, ook per individuele werkgever beoordeeld of sprake is van voldoende prioriteitgenietend aanbod. (…) De rechtbank is van oordeel dat de beoordeling van verweerder, aan de hand van het Stappenplan 2009, of een werkgever voldoende wervingsinspanningen heeft verricht, niet in strijd is met de Standstill-bepaling, zolang althans deze beoordeling niet strenger is dan voorheen. (…) De rechtbank is van oordeel dat verweerder ook ter zake hiervan onvoldoende heeft gemotiveerd dat geen sprake is van een ontoelaatbare aanscherping van beleid.
+
+## Uitspraak
+
+RECHTBANK 'S-GRAVENHAGE
+
+Sector bestuursrecht
+
+zaaknummer: AWB 11/34652
+
+uitspraak van de meervoudige kamer ingevolge artikel 8:77 van de Algemene wet bestuursrecht (Awb) in de zaak tussen
+
+Maatschap [A], [B], [C] en [D], eiseres
+
+(gemachtigde: mr. C. Staudt-Bos en mr. B.J. Maes),
+
+en
+
+de raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, verweerder
+
+(gemachtigde: mr. R. van Arkel en mr. R.J.M. van den Tweel).
+
+Procesverloop
+
+Op 14 maart 2011 heeft eiseres aanvragen ingediend tot het verlenen van een tewerkstellingsvergunning voor het verrichten van arbeid als medewerker volle grond groenteteelt aardbeien ten behoeve van 38 vreemdelingen van Roemeense nationaliteit.
+
+Verweerder heeft bij brief van 1 april 2011 eiseres meegedeeld voornemens te zijn om de aanvragen af te wijzen. Eiseres heeft bij brief van 6 april 2011 haar zienswijze schriftelijk naar voren gebracht. Verweerder heeft eiseres bij e-mail van 12 april 2011 het voorstel gedaan een aantal tijdelijke tewerkstellingsvergunningen te verlenen voor de duur van
+
+drie maanden. Bij brief van 19 april 2011 heeft eiseres gereageerd op het aanbod en aangegeven in beginsel akkoord te gaan met het aanbod. Verweerder heeft bij besluit van
+
+20 april 2011 onder voorwaarden 10 tijdelijke tewerkstellingsvergunningen verleend voor maximaal drie maanden. Bij afzonderlijk besluit van 20 april 2011 zijn de overige
+
+28 aanvragen geweigerd.
+
+Eiseres heeft tegen deze besluiten een bezwaarschrift ingediend. Tevens heeft eiseres de voorzieningenrechter van deze rechtbank verzocht een voorlopige voorziening te treffen. Bij uitspraak van 22 juli 2011 (AWB 11/19117) heeft de voorzieningenrechter dit verzoek toegewezen, in die zin dat het besluit wordt geschorst tot zes weken nadat verweerder op het bezwaarschrift heeft beslist. Daarbij heeft de voorzieningenrechter verweerder opgedragen eiseres te behandelen als ware zij in bezit van de door haar gevraagde tewerkstellingsvergunningen voor de gevraagde termijn, zonder nader te stellen voorwaarden. Bij besluit van 16 september 2011 heeft verweerder het bezwaar vervolgens ongegrond verklaard.
+
+Bij brief van 26 oktober 2011 heeft eiseres tegen dit besluit beroep ingesteld bij de rechtbank. Verweerder heeft de op de zaak betrekking hebbende stukken ingezonden en een verweerschrift ingediend.
+
+De openbare behandeling van het beroep heeft, tegelijk met een tweetal soortgelijke beroepen, met de registratienummers AWB 11/36185 en AWB 11/34620, plaatsgevonden op 22 februari 2012. [B] en [D] zijn aldaar in persoon verschenen, bijgestaan door hun gemachtigden. Verweerder heeft zich doen vertegenwoordigen door zijn gemachtigden.
+
+Overwegingen
+
+1 Eiseres heeft in beroep - samengevat - het volgende aangevoerd. Verweerder heeft zich ten onrechte op het standpunt gesteld dat voldoende prioriteitgenietend aanbod beschikbaar is. Daarnaast heeft eiseres aangevoerd dat zij voldoende wervingsinspanningen heeft verricht. Eiseres heeft gesteld dat het bestreden besluit in strijd is met de Standstill-bepaling als genoemd in artikel 14 van bijlage VII bij het Protocol betreffende de voorwaarden en de nadere regels voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie (hierna: het Protocol) en met artikel 49, 56 en 106, eerste lid, van het Verdrag betreffende de werking van de Europese Unie (VWEU). Eiseres heeft voorts een beroep gedaan op artikel 4:84 van de Awb en aangevoerd dat verweerder algemene beginselen van behoorlijk bestuur heeft geschonden.
+
+2 Verweerder heeft zich, ten aanzien van de geweigerde tewerkstellingsvergunningen, op het standpunt gesteld dat deze vergunningen op goede gronden zijn geweigerd. Verweerder heeft ter onderbouwing van dit standpunt betoogd dat voldoende prioriteitgenietend aanbod op de arbeidsmarkt beschikbaar is en dat eiseres niet heeft aangetoond dat zij voldoende inspanningen heeft verricht om de arbeidsplaatsen door prioriteitgenietend op de arbeidsmarkt beschikbaar aanbod te vervullen. Daarnaast heeft verweerder betoogd dat hij op goede gronden 10 tewerkstellingsvergunningen onder voorwaarden voor drie maanden heeft verleend op grond van artikel 10 en artikel 11 van de Wet arbeid vreemdelingen (Wav).
+
+3.1 Ingevolge artikel 1, aanhef en onder g, van de Wav wordt in deze wet en de daarop berustende bepalingen verstaan onder prioriteitgenietend aanbod: aanbod van de zijde van Nederlanders en vreemdelingen als bedoeld in de artikelen 3, eerste lid, aanhef en onder a, en 4, eerste lid.
+
+Ingevolge artikel 2 van de Wav is het een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning.
+
+Ingevolge artikel 8, eerste lid, aanhef en onder a, van de Wav wordt een tewerkstellingsvergunning geweigerd indien voor de desbetreffende arbeidsplaats prioriteitgenietend aanbod op de arbeidsmarkt beschikbaar is.
+
+Ingevolge artikel 9, eerste lid, aanhef en onder a, van de Wav kan een tewerkstellingsvergunning worden geweigerd indien de werkgever niet kan aantonen voldoende inspanningen te hebben gepleegd de arbeidsplaats door prioriteitgenietend op de arbeidsmarkt beschikbaar aanbod te vervullen.
+
+Ingevolge artikel 10, aanhef en onder a, van de Wav kunnen aan een tewerkstellingsvergunning voorschriften worden verbonden welke ertoe strekken dat de werkgever inspanningen pleegt arbeidsplaatsen door prioriteitgenietend op de arbeidsmarkt beschikbaar aanbod te doen vervullen.
+
+Ingevolge artikel 11, eerste lid, van de Wav wordt een tewerkstellingsvergunning voor ten hoogste drie jaar verleend. Ten behoeve van tijdelijk werk wordt, ingevolge artikel 11, derde lid, van de Wav een tewerkstellingsvergunning voor ten hoogste vier en twintig weken verleend.
+
+3.2 Volgens paragraaf 2 van de Uitvoeringsregels Wav, behorende bij het Delegatie- en uitvoeringsbesluit Wav (hierna: de Uitvoeringsregels Wav), is het uitgangspunt voor de uitvoering van de Wav een consequente toepassing van het restrictieve toelatingsbeleid. Dit houdt in dat in beginsel alle toepasselijke weigeringsgronden, waarin de Wav voorziet, zullen worden tegengeworpen.
+
+Volgens paragraaf 11 van de Uitvoeringsregels Wav wordt, voor zover hier van belang, een tewerkstellingsvergunning ingevolge artikel 8, eerste lid, aanhef en onder a, van de Wav geweigerd indien voor de desbetreffende arbeidsplaats prioriteitgenietend aanbod op de arbeidsmarkt beschikbaar is.
+
+Volgens paragraaf 32 van de Uitvoeringsregels Wav wordt een tewerkstellingsvergunning in de regel geweigerd, in geval de werkgever niet kan aantonen zich voldoende te hebben ingespannen om prioriteitgenietend aanbod te mobiliseren.
+
+Volgens paragraaf 36 van de Uitvoeringsregels Wav kunnen, ingevolge artikel 10, aanhef en onder a, van de Wav, aan de vergunning voorschriften worden verbonden, die de werkgever verplichten inspanningen te verrichten gericht op het vervullen van arbeidsplaatsen met prioriteitgenietend aanbod en het wegnemen van gebreken. De mogelijkheid voorschriften aan de vergunning te verbinden dient uitsluitend te worden toegepast, indien de werkgever desgevraagd bereid is gevraagde inspanningen te verrichten en indien de werkgever reeds enige inspanningen heeft verricht om prioriteitgenietend aanbod te mobiliseren of de gesignaleerde beletselen te verhelpen.
+
+3.3 Op 25 april 2005 heeft Nederland het Verdrag tussen de Europese Unie en de Republiek Bulgarije en Roemenië betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie (hierna: het Toetredingsverdrag) ondertekend. Het Toetredingsverdrag is op 1 januari 2007 in werking getreden.
+
+Ingevolge artikel 20 van het Protocol zijn de in de bijlagen VI en VII bij dit Protocol vermelde maatregelen van toepassing onder de daarin neergelegde voorwaarden.
+
+In artikel 14 van bijlage VII is bepaald dat de toepassing van de in de bijlage genoemde punten 2 tot en met 5 en 7 tot en met 12 niet mag leiden tot strengere voorwaarden voor de toegang van Roemeense onderdanen tot de arbeidsmarkten van de huidige lidstaten dan de op de datum van ondertekening van het toetredingsverdrag geldende voorwaarden (hierna: de Standstill-bepaling).
+
+4 De rechtbank overweegt allereerst dat tussen partijen niet in geschil is dat het toetsingscriterium van artikel 8, eerste lid, aanhef en onder a, en van artikel 9, eerste lid, aanhef en onder a, van de Wav niet is gewijzigd en dat evenmin is gebleken dat de beleidsregels terzake zijn gewijzigd. In geschil is of de uitvoeringspraktijk die verweerder sinds 2011 hanteert, strijd oplevert met de Standstill-bepaling.
+
+Zoals het Hof van Justitie van de Europese Unie (HvJEU) eerder heeft overwogen heeft een standstill-bepaling tot doel te verhinderen dat een lidstaat nieuwe maatregelen neemt die ten doel of tot gevolg hebben strengere voorwaarden te stellen dan die welke golden vóór de datum waarop deze clausules van toepassing werden (zie bijvoorbeeld het arrest van het Hof van Justitie van de Europese Gemeenschappen van 11 mei 2000, C-37/98, Savas, punt 69). Voorts heeft het HvJEU in het arrest van 9 december 2010, C-300/09 en C-301/09, Toprak en Oguz, geoordeeld dat een aanscherping van een beleid, na een eerdere versoepeling van het beleid, een 'nieuwe' beperking is en derhalve in strijd is met de standstill-bepaling.
+
+Verweerder heeft zich op het standpunt gesteld dat de gewijzigde uitvoeringspraktijk gelegen is in een gewijzigde feitelijke situatie. Voorheen ging verweerder er op basis van mededelingen vanuit de markt en van werkgevers vanuit dat, hoewel er bij ongeschoolde arbeid in beginsel vanuit kan worden gegaan dat vacatures met prioriteitgenietend aanbod kunnen worden opgevuld, er onvoldoende reëel prioriteitgenietend aanbod beschikbaar was. Sinds 2011 heeft verweerder zich, naar aanleiding van signalen uit de markt dat wel reëel prioriteitgenietend aanbod beschikbaar was en op basis van onderzoek naar de aanwezigheid van prioriteitgenietend aanbod, op het standpunt gesteld dat voldoende reëel prioriteitgenietend aanbod beschikbaar is. Verweerder heeft betoogd dat, aangezien slechts sprake is van een gewijzigde feitelijke situatie, geen sprake is van schending van de Standstill-bepaling.
+
+De rechtbank is van oordeel dat verweerder niet kan volhouden dat slechts sprake is van een gewijzigde feitelijke situatie, nu verweerder de feitelijke situatie vóór 2011 niet heeft onderzocht. Verweerder heeft immers niet kunnen aangeven of in de jaren voorafgaande aan 2011 daadwerkelijk geen prioriteitgenietend aanbod dan wel te weinig prioriteitgenietend aanbod beschikbaar was. Het enkele feit dat verweerder vóór 2011 geen signalen uit de markt of van werkgevers ontving dat voldoende prioriteitgenietend aanbod beschikbaar was, is onvoldoende voor het oordeel dat het prioriteitgenietend aanbod in de jaren voorafgaande aan 2011 ook daadwerkelijk niet beschikbaar was. De rechtbank acht dan ook niet zonder meer aannemelijk dat het prioriteitgenietend aanbod in de jaren voorafgaande aan 2011 niet, dan wel onvoldoende beschikbaar was, te meer nu ook in bijvoorbeeld 2010 al Poolse werknemers (vrij) op de arbeidsmarkt werden toegelaten en de algehele financiële situatie in Nederland reeds was verslechterd. Het betoog van verweerder dat de onderhavige situatie kan worden gelijkgesteld met de situatie genoemd in het arrest van het HvJEU van
+
+21 januari 2010, C-546/07, Commissie/Duitsland, volgt de rechtbank gelet op het vorenoverwogene evenmin. In dit arrest heeft het HvJEU - samengevat - overwogen dat geen sprake is van strijd met de standstill-bepaling aangezien een ongewijzigde juridische situatie en bestuurspraktijk werd toegepast op een slechts feitelijk gewijzigde situatie. In de onderhavige situatie is door verweerder echter onvoldoende onderbouwd dat slechts sprake is van een gewijzigde feitelijke situatie (het bestaan van prioriteitgenietend aanbod waar dit voorheen niet bestond). Niet is immers onderzocht of in de jaren voorafgaand aan 2011 daadwerkelijk geen dan wel te weinig prioriteitgenietend aanbod beschikbaar was. Veeleer lijkt sprake te zijn van een gewijzigde uitvoeringspraktijk, te weten een verscherpte controle op het bestaan van prioriteitgenietend aanbod, dan wel een verscherpt toezicht op de inspanningen die moeten worden verricht om het prioriteitgenietend aanbod te bereiken. Een dergelijk verscherpt handhaven van een bestaand criterium is in strijd met de Standstill-bepaling (zie ook de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (AbRS) van 2 februari 2011 (LJN: BP2822)).
+
+Gezien het voorgaande heeft verweerder onvoldoende gemotiveerd dat slechts sprake is van een gewijzigde feitelijke situatie en dat daarom geen sprake is van strijd met de Standstill-bepaling.
+
+5.1 Verweerder heeft, naast zijn standpunt dat in het algemeen voldoende prioriteitgenietend aanbod beschikbaar is, ook per individuele werkgever beoordeeld of sprake is van voldoende prioriteitgenietend aanbod. Hierbij heeft verweerder aan de hand van het Stappenplan 2009 beoordeeld of eiseres voldoende inspanningen heeft verricht om het prioriteitgenietend aanbod te werven. De rechtbank is van oordeel dat deze beoordeling aansluit bij de uitvoeringspraktijk die verweerder in de jaren voorafgaande aan 2011 hanteerde. In de jaren voorafgaande aan 2011 kon een werkgever immers ook aantonen, door het Stappenplan 2009 op een juiste manier te doorlopen, dat hij voldoende wervingsinspanningen had verricht maar geen prioriteitgenietend aanbod had kunnen werven. In dat geval stelde verweerder zich op het standpunt dat de werkgever aannemelijk had gemaakt dat voor hem als individuele werkgever geen prioriteitgenietend aanbod beschikbaar was, waarna de aanvragen werden toegewezen. De rechtbank is van oordeel dat de beoordeling van verweerder, aan de hand van het Stappenplan 2009, of een werkgever voldoende wervingsinspanningen heeft verricht, niet in strijd is met de Standstill-bepaling, zolang althans deze beoordeling niet strenger is dan voorheen. Dat verweerder vanaf 2011 concreet heeft aangegeven welke uitzendbureaus beschikken over prioriteitgenietend aanbod acht de rechtbank geen aanscherping, maar moet worden gezien als dienstverlening van verweerder en leidt derhalve op zich nog niet tot het oordeel dat sprake is van strijd met de Standstill-bepaling.
+
+5.2 Eiseres heeft aangevoerd dat, hoewel zij het Stappenplan 2009 ten behoeve van de onderhavige aanvragen op dezelfde wijze heeft doorlopen als ten behoeve van haar aanvragen in 2010, welke aanvragen zijn ingewilligd, verweerder nu stelt dat eiseres onvoldoende wervingsinspanningen heeft verricht. De rechtbank ziet zich derhalve voor de vraag gesteld of verweerder zich, het Stappenplan 2009 op dezelfde wijze toepassend als in de jaren voorafgaande aan 2011, in redelijkheid op het standpunt heeft kunnen stellen dat eiseres onvoldoende wervingsinspanningen heeft verricht.
+
+Ter zitting heeft verweerder aangegeven dat bij aanvragen die in de jaren voorafgaande aan 2011 werden ontvangen, eveneens werd beoordeeld of de werkgever het Stappenplan 2009 had doorlopen en dat, indien de stukken daartoe aanleiding gaven, nader onderzoek werd gedaan naar de verrichte wervingsinspanningen. In incidentele gevallen werden aanvragen vervolgens geweigerd. Verweerder heeft deze - ter zitting door eiseres wat betreft door haar eerder ingediende aanvragen betwiste - stelling niet aannemelijk gemaakt en derhalve onvoldoende gemotiveerd waarom eiseres niet kan worden gevolgd in haar stelling dat, hoewel zij dezelfde wervingsinspanningen heeft verricht, haar aanvragen in 2010 zijn ingewilligd, terwijl de onderhavige aanvragen zijn afgewezen vanwege onvoldoende wervingsinspanningen. Gelet hierop is de rechtbank van oordeel dat verweerder ook ter zake hiervan onvoldoende heeft gemotiveerd dat geen sprake is van een ontoelaatbare aanscherping van beleid.
+
+6 Gelet op het vorenstaande ontbeert het bestreden besluit een deugdelijke motivering als bedoeld in artikel 7:12 van de Awb. De rechtbank verklaart het beroep derhalve gegrond en vernietigt het bestreden besluit. Hetgeen overigens in beroep is aangevoerd behoeft thans geen beoordeling.
+
+7 De rechtbank ziet in dit geval aanleiding verweerder met toepassing van artikel 8:75, eerste lid, van de Awb en op voet van het bepaalde in het Besluit proceskosten bestuursrecht (Bpb) te veroordelen in de kosten die eiseres in verband met de behandeling van het beroep redelijkerwijs heeft moeten maken. De kosten van de door de gemachtigden beroepsmatig verleende rechtsbijstand zijn vastgesteld op € 874,- (1 punt voor het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van € 437,- en een wegingsfactor 1). Daarnaast veroordeelt de rechtbank verweerder in de door eiseres gemaakte reiskosten, waarbij een bedrag van € 76,24 (retour [plaats] - 's-Gravenhage voor 2 personen) wordt toegekend. De rechtbank ziet geen aanleiding voor vergoeding van de reiskosten voor nog 2 personen, nu niet is gebleken dat naast [D] en [B] nog andere belanghebbenden ter zitting aanwezig waren. Voor zover eiseres heeft verzocht om reiskostenvergoeding ten behoeve van haar gemachtigden, overweegt de rechtbank dat deze kosten reeds zijn begrepen in de vergoeding voor rechtsbijstand en om die reden niet (nogmaals) voor vergoeding in aanmerking komen. Voorts ziet de rechtbank aanleiding om verweerder te veroordelen in de door eiseres verzochte verletkosten van
+
+€ 318,54 (3 uren voor 2 personen). Het totaal door verweerder te vergoeden bedrag aan proceskosten bedraagt € 1.268,78.
+
+Beslissing
+
+De rechtbank:
+
+1 verklaart het beroep gegrond;
+
+2 vernietigt het bestreden besluit van 16 september 2011;
+
+3 bepaalt dat verweerder met in achtneming van deze uitspraak een nieuw besluit op het bezwaarschrift neemt;
+
+4 veroordeelt verweerder in de proceskosten van € 1.268,78 en bepaalt dat verweerder deze kosten aan eiseres dient te vergoeden;
+
+5 gelast dat verweerder het door eiseres betaalde griffierecht ten bedrage van € 152,- vergoedt.
+
+Deze uitspraak is gedaan door mr. A.P. Pereira Horta, voorzitter, en
+
+mr. C.I.H. Kerstens-Fockens en mr. G.F. van der Linden-Burgers, leden, in aanwezigheid van mr. S.J.T. van der Maarl-Pruijn, griffier. De beslissing is in het openbaar uitgesproken op 28 maart 2012.
+
+griffier voorzitter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen vier weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
+
+Bij het beroepschrift dient een kopie van deze uitspraak te worden overgelegd. Het beroepschrift moet worden geadresseerd aan de Raad van State, Afdeling bestuursrechtspraak, Hoger beroep vreemdelingenzaken, Postbus 16113, 2500 BC Den Haag. (Nadere informatie www.raadvanstate.nl)
