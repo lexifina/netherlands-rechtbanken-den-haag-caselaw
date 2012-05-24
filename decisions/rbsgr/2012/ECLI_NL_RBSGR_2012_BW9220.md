@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBSGR:2012:BW9220"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/2175", "V-N 2012/40.19.54", "FutD 2012-1681"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/2175", "V-N 2012/40.19.54", "FutD 2012-1681", "Viditax (FutD) 2012062506"]
 ---
 
 # ECLI:NL:RBSGR:2012:BW9220 Rechtbank 's-Gravenhage , 24-05-2012 / AWB 12/84
