@@ -1,0 +1,311 @@
+---
+ecli: "ECLI:NL:RBSGR:2012:BW9964"
+court: "Rechtbank 's-Gravenhage"
+court_code: "RBSGR"
+docket: "AWB 10/845 en AWB 10/847"
+decided: "2012-06-06"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBSGR:2012:BW9964"
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1653", "V-N 2012/45.6 met annotatie van Redactie", "FutD 2012-1792 met annotatie van Fiscaal up to Date", "NTFR 2012/2006 met annotatie van mr. D.N.N. Jansen"]
+---
+
+# ECLI:NL:RBSGR:2012:BW9964 Rechtbank 's-Gravenhage , 06-06-2012 / AWB 10/845 en AWB 10/847
+
+## Inhoudsindicatie
+
+Naheffing van door fiscus ongevraagd teruggestorte loonbelastingbetalingen, gevolgen van het binnen een aangiftetijdvak doen van meerdere elektronische aangiften loonheffingen, correctieberichten, schending hoorplicht.
+
+In januari 2009 heeft verweerder geconstateerd dat eiseres in de periode 1 januari 2007 tot en met 31 december 2008 voor elk aangiftetijdvak binnen de aangiftetermijn elektronisch twee afzonderlijke loonaangiften heeft ingediend, één voor de loonbetaling aan de dga en één voor de loonbetaling aan de werknemers. In het systeem van de aangifteverwerking van verweerder werd de als eerste ingediende aangifte steeds door de tweede vervangen. De gegevens van de eerste aangifte bleven wel raadpleegbaar in dat systeem. Voor zover de betalingen door eiseres de bedragen van de tweede aangiften overtroffen, zijn deze door verweerder teruggestort. Eiseres heeft geen correctieberichten als bedoeld in artikel 28a van de Wet op de loonbelasting 1964 ingediend waarin zowel de loongegevens van de dga als die van het personeel van eiseres zijn opgenomen. Verweerder heeft daarom de teruggestorte betalingen nageheven op de voet van artikel 20 Awr.
+
+De rechtbank oordeelt dat verweerder de naheffingsaanslagen niet heeft mogen opleggen nu gesteld noch gebleken is dat eiseres verzoeken om teruggaaf heeft gedaan als bedoeld in artikel 20 Awr. De teruggaven hebben dan ook kennelijk ambtshalve en buiten de wil van eiseres plaatsgevonden. Dat eiseres zich volgens verweerder bij het doen van de aangiften niet heeft gehouden aan de in het Handboek loonheffingen voorgeschreven handelwijze, maakt dit niet anders. De hoorplicht is niet geschonden ondanks het feit dat eiseres heeft verzocht te worden gehoord en geen hoorgesprek heeft plaatsgevonden. Verweerder heeft zich voldoende ingespannen om een hoorgesprek mogelijk te maken.
+
+## Uitspraak
+
+RECHTBANK 'S-GRAVENHAGE
+
+Sector bestuursrecht
+
+zaaknummers: AWB 10/845 en AWB 10/847
+
+uitspraak van de meervoudige kamer van 6 juni 2012 in de zaak tussen
+
+[X] BV, gevestigd te [Z], eiseres
+
+(gemachtigde: [A]),
+
+en
+
+de inspecteur van de Belastingdienst [te P], verweerder.
+
+Procesverloop
+
+Verweerder heeft aan eiseres over de tijdvakken januari tot en met december 2007 de hierna vermelde naheffingsaanslagen loonheffingen (hierna: de naheffingsaanslagen 2007) opgelegd. Gelijktijdig met het opleggen van de naheffingsaanslagen 2007 heeft verweerder bij beschikkingen de hierna vermelde bedragen aan heffingsrente in rekening gebracht (hierna: de beschikkingen heffingsrente 2007):
+
+Tabel 1
+
+Verweerder heeft bij uitspraak op bezwaar van 22 december 2009 de naheffingsaanslagen 2007 verminderd tot de hierna vermelde bedragen en de beschikkingen heffingsrente 2007 herroepen.
+
+Tabel 2
+
+Verweerder heeft aan eiseres over de tijdvakken januari tot en met december 2008 de hierna vermelde naheffingsaanslagen loonheffingen (hierna: de naheffingsaanslagen 2008) opgelegd. Gelijktijdig met het opleggen van de naheffingsaanslagen 2008 heeft verweerder bij beschikkingen de hierna vermelde bedragen aan heffingsrente in rekening gebracht (hierna: de beschikkingen heffingsrente 2008):
+
+Tabel 3
+
+Verweerder heeft bij uitspraak op bezwaar van 22 december 2009 de naheffingsaanslagen  2008 gehandhaafd en de beschikkingen heffingsrente 2008 herroepen.
+
+Eiseres heeft tegen de hiervoor vermelde uitspraken op bezwaar bij brief van 1 februari 2010, per fax ontvangen bij de rechtbank op dezelfde datum, beroep ingesteld.
+
+Verweerder heeft de op de zaak betrekking hebbende stukken overgelegd en een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 20 maart 2012.
+
+Namens eiseres is daar verschenen [A], directeur van eiseres. Namens verweerder zijn verschenen [B] en [C].
+
+De beroepen zijn ter zitting gezamenlijk behandeld met het beroep met zaaknummer
+
+AWB 10/843. Al hetgeen in die zaak is verklaard en overgelegd, wordt geacht ook te zijn verklaard en overgelegd in deze zaken.
+
+Eiseres heeft ter zitting een pleitnota voorgedragen en exemplaren daarvan overgelegd aan de rechtbank en aan verweerder.
+
+Overwegingen
+
+Feiten
+
+1. Op grond van de stukken van het geding en het verhandelde ter zitting staat het volgende vast.
+
+2. Eiseres is opgericht op 30 december 1999 en oefent een advocaten- en belastingadviespraktijk uit. Directeur-grootaandeelhouder van eiseres is
+
+[A] (hierna: de dga).
+
+3. Vanaf 1 januari 2006 is eiseres aangifteplichtig voor de loonheffingen. In de jaren 2007 en 2008 waren bij eiseres zes respectievelijk vijf werknemers in dienst.
+
+4. In januari 2009 heeft verweerder geconstateerd dat eiseres in de periode 1 januari 2006 tot en met 31 december 2008 voor elk aangiftetijdvak binnen de aangiftetermijn elektronisch twee afzonderlijke loonaangiften heeft ingediend, één voor de loonbetaling aan de dga en één voor de loonbetalingen aan de werknemers. In het systeem van de aangifteverwerking van verweerder werd de als eerste ingediende aangifte steeds door de tweede vervangen. De gegevens van de eerste aangifte bleven wel raadpleegbaar in dat systeem. Naar aanleiding van deze constatering heeft een controlemedewerker van verweerder op 25 februari 2009 een bezoek gebracht aan eiseres. Hiervan is met dagtekening 27 februari 2009 een rapport opgesteld (hierna: het rapport). Een afschrift van het rapport behoort tot de gedingstukken.
+
+5. In het rapport staat vermeld dat met de dga (telefonisch) is afgesproken dat door eiseres digitaal losse correctieberichten als bedoeld in artikel 28a van de Wet op de loonbelasting 1964 (hierna: de Wet LB) ingestuurd zullen worden voor de periode van
+
+1 januari 2006 tot en met 31 december 2008 en dat in die correctieberichten zowel de loongegevens van de dga als die van het personeel van eiseres opgenomen dienen te worden.
+
+6. Eiseres is de onder 5 bedoelde afspraak niet nagekomen en verweerder heeft daarom bij brief van 15 april 2009 aan eiseres een zogenoemde correctieverplichting over de periode 1 januari 2006 tot en met 31 december 2008 opgelegd (hierna: de correctieverplichting). In de brief is vermeld dat eiseres de correcties moet indienen vóór
+
+12 juni 2009.
+
+7. In reactie op de onder 6 genoemde brief heeft eiseres bij brief van 12 juni 2009 om uitstel gevraagd voor de indiening van de correcties tot ná 20 juli 2009. Voorts staat in de brief, voor zover hier van belang, het volgende:
+
+"(. . .) Naar aanleiding van uw brief heb ik nog een vraag. U verzoekt om opnieuw aangifte loonheffing te doen over de aangifte tijdvakken in de periode 1 januari 2006 t/m 31 december 2008. Over deze tijdvakken zijn aangiften gedaan. Ik begrijp derhalve niet, waarom er opnieuw aangiften gedaan moeten worden.
+
+Ik heb de indruk, dat de administratie van de Belastingdienst in het ongerede is geraakt met betrekking tot de loonbelastingaangiften. Hiervan word ik het slachtoffer.
+
+Ik verzoek u aan mij gemotiveerd mee te delen, hoe het komt dat de Belastingdienst het aangiftedossier loonheffing met nummer (. . .) in het ongerede heeft laten komen."
+
+8. Bij brief van 20 juli 2009 heeft verweerder gereageerd op de brief van eiseres van 12 juni 2009. Onder verwijzing naar de onder 4 vermelde constatering verklaart verweerder dat de aangiften van eiseres niet zijn zoekgeraakt. Verder staat in de brief, voor zover hier van belang, het volgende:
+
+"(. . .) Omdat de gegevens onvolledig en dus onjuist in de polisadministratie zijn opgenomen kan dit mettertijd gevolgen hebben voor mogelijke uitkeringen aan de betrokken werknemers.
+
+Doordat de van de overschreven aangiften niet in mijn administratie werden opgenomen zijn in 2007 en 2008 de daarbij behorende afdrachten aan u terugbetaald.
+
+Door het over 2006 niet volledig functionerende systeem zijn terugbetalingen en naheffingen over dit jaar uitgebleven. Overigens is mij gebleken dat over de aangiftetijdvakken van 2006 alleen de afdrachten van de aangiften van de [dga] zijn gedaan.
+
+(. . .)"
+
+Als bijlage bij zijn brief heeft verweerder een kopie van het rapport gevoegd.
+
+9. Eiseres heeft geen gevolg gegeven aan de correctieverplichting. Daarom heeft verweerder bij brief van 26 augustus 2009, voor zover hier van belang, het volgende aan eiseres meegedeeld:
+
+"(. . .)
+
+Geconstateerde fouten
+
+Voor een specificatie van de geconstateerde onjuistheden verwijs ik u naar het rapport van 27 februari 2009 inzake een actualiteitsbezoek en naar mijn brief van 20 juli 2009.
+
+U moet gegevens aanleveren
+
+U bent verplicht de fouten te verbeteren door mij alsnog juiste gegevens aan te leveren. Ik moet deze gegevens uiterlijk op 23 september 2009 binnen hebben. Als door het corrigeren nieuwe fouten ontstaan in deze of andere aangiften loonheffingen, moet u die aangifte(n) ook corrigeren.
+
+Wat betekent dit voor u?
+
+Als u niet aan deze verplichting voldoet, krijgt u een naheffingsaanslag met een eventuele boete en heffingsrente. Als deze naheffingsaanslag volgens u niet juist is, moet u in dat geval aantonen dat de gegevens waarop ik de naheffingsaanslag heb gebaseerd, niet kloppen (omkering van de bewijslast).
+
+(. . .)"
+
+10. Eiseres heeft (opnieuw) niet binnen de gestelde termijn aan de correctieverplichting voldaan. Verweerder heeft daarom met dagtekening 9 oktober 2009 de naheffingsaanslagen 2007 opgelegd, met dagtekening 13 november 2009 de naheffingsaanslagen 2008 voor de maanden januari en februari en met dagtekening 16 november 2009 de overige naheffingsaanslagen 2008 opgelegd.
+
+11. Verweerder heeft bij brieven van 19 november 2009 aan eiseres bericht dat hij voornemens is het bezwaarschrift dat eiseres tegen de naheffingsaanslagen 2007 en 2008 heeft ingediend af te wijzen. In die brief staat ondermeer het volgende:
+
+"(. . .)Mondelinge toelichting
+
+Ik ben voornemens het bezwaarschrift af te wijzen. Voordat ik dat doe, wil ik u nog in de gelegenheid stellen uw bezwaarschrift mondeling toe te lichten. U kunt daarvoor een afspraak met mij maken. Mijn doorkiesnummer staat in het briefhoofd.
+
+(. . .)"
+
+12. In de uitspraak op bezwaar betreffende de naheffingsaanslagen 2007 staat, voor zover hier van belang, het volgende:
+
+"(. . .)Mondelinge toelichting
+
+In mijn brief van 19 november 2009 heb ik u mijn voornemen medegedeeld om gedeeltelijk aan uw bezwaar tegemoet te komen. Hierbij heb ik u in de gelegenheid gesteld om uw bezwaar mondeling toe te lichten of een nadere reactie te geven. Deze gelegenheid heb ik opnieuw geboden tijdens het telefonisch contact dat ik met uw kantoor heb gehad op 7 december j.l. en 9 december j.l. Een nadere reactie heb ik niet van u ontvangen evenmin als de brieven die u mij zou toezenden. Ook op mijn laatste telefonische verzoek van 16 december j.l. heeft u niet gereageerd en de geboden optie om eerdergenoemde brieven per fax toe te zenden is niet gebruikt. Daarom ga ik er, zoals medegedeeld, vanuit dat u niet nader reageert en geen gebruik wenst te maken van de mogelijkheid om uw bezwaar mondeling toe te lichten.
+
+(. . . )
+
+Beoordeling van uw bezwaar
+
+(. . .)
+
+Bij uw bezwaarschrift heeft u informatie gevoegd omtrent de aangiften en betalingen over de onderhavige periode. Naar nu blijkt heeft u betalingen inzake de loonheffing voor uw medewerkers verricht met een onjuist betalingskenmerk. Hierdoor zijn de betalingen terechtgekomen op een onjuist loonheffingennummer of aan u teruggestort. Ik heb de betalingen getraceerd en voor zover ze niet zijn teruggestort, merk ik ze alsnog aan als zijnde een gedane betaling op het onderhavige loonheffingennummer. Dit heeft de volgende consequenties:
+
+Het totaal verschuldigde bedrag volgens de aangiften is € 37.076
+
+Het totaal betaalde bedrag op het juiste nummer is € 21.122
+
+Het totaal betaalde bedrag op het onjuiste nummer is € 12.005
+
+Nog verschuldigd € 3.949
+
+Het bedrag ad € 3.949 dat nog verschuldigd is wordt veroorzaakt (door, rechtbank) betalingen die zijn teruggestort omdat ze hoger waren dan de geaccepteerde aangiften. Het gaat om de volgende betalingen:
+
+€ 335 van de betaling van 5 april 2007 inzake tijdvak 0702
+
+€ 321 van de betaling van 11 april 2007 inzake tijdvak 0703
+
+€ 1.499 van de betaling van 19 november 2007 inzake tijdvak 0710
+
+€ 897 van de betaling van 13 december 2007 inzake tijdvak 0711
+
+€ 897 van de betaling van 28 januari 2008 inzake tijdvak 0712
+
+In verband met het bovenstaande ben ik voornemens om de naheffingsaanslag nader vast te stellen op het verschil van € 3.949. Omdat nu blijkt dat er reeds eerder betalingen zijn verricht, zal ik de heffingsrente naar nihil terugbrengen.
+
+(. . .)"
+
+13. In de uitspraak op bezwaar betreffende de naheffingsaanslagen 2008 staat, voor zover hier van belang, het volgende:
+
+"(. . .)Mondelinge toelichting
+
+In mijn brief van 19 november 2009 heb ik u mijn voornemen medegedeeld om gedeeltelijk aan uw bezwaar tegemoet te komen. Hierbij heb ik u in de gelegenheid gesteld om uw bezwaar mondeling toe te lichten of een nadere reactie te geven. Deze gelegenheid heb ik opnieuw geboden tijdens het telefonisch contact dat ik met uw kantoor heb gehad op 7 december j.l. en 9 december j.l. Een nadere reactie heb ik niet van u ontvangen evenmin als de brieven die u mij zou toezenden. Ook op mijn laatste telefonische verzoek van 16 december j.l. heeft u niet gereageerd en de geboden optie om eerdergenoemde brieven per fax toe te zenden is niet gebruikt. Daarom ga ik er, zoals medegedeeld, vanuit dat u niet nader reageert en geen gebruik wenst te maken van de mogelijkheid om uw bezwaar mondeling toe te lichten.
+
+(. . . )
+
+Beoordeling van uw bezwaar
+
+(. . .)
+
+Bij uw bezwaarschrift heeft u informatie gevoegd omtrent de aangiften en betalingen over de onderhavige periode. Naar nu blijkt heeft u betalingen inzake de loonheffing voor uw medewerkers verricht met een onjuist betalingskenmerk. Hierdoor zijn er betalingen aan u teruggestort. Ik heb de betalingen getraceerd en voor zover ze niet zijn teruggestort, merk ik ze alsnog aan als zijnde een gedane betaling op het onderhavige loonheffingennummer. Dit heeft de volgende consequenties:
+
+Het totaal verschuldigde bedrag volgens de aangiften is € 37.077
+
+Het totaal betaalde bedrag op het juiste nummer is € 17.474
+
+Nog verschuldigd € 19.603
+
+Het bedrag ad € 19.603 dat nog verschuldigd is wordt veroorzaakt (door, rechtbank) betalingen die zijn teruggestort omdat ze hoger waren dan de geaccepteerde aangiften. Het gaat om de volgende betalingen:
+
+€ 1.276 van de betaling van 29 februari 2008 inzake tijdvak 0801
+
+€ 1.865 van de betaling van 28 maart 2008 inzake tijdvak 0802
+
+€ 1.865 van de betaling van 21 april 2008 inzake tijdvak 0803
+
+€ 1.865 van de betaling van 19 mei 2008 inzake tijdvak 0804
+
+€ 3.036 van de betaling van 24 juni 2008 inzake tijdvak 0805
+
+€ 1.017 van de betaling van 29 juli 2008 inzake tijdvak 0806
+
+€ 1.865 van de betaling van 1 september 2008 inzake tijdvak 0807
+
+€ 1.865 van de betaling van 19 september 2008 inzake tijdvak 0808
+
+€ 1.028 van de betaling van 17 oktober 2008 inzake tijdvak 0809
+
+€ 1.028 van de betaling van 16 november 2008 inzake tijdvak 0810
+
+€ 1.028 van de betaling van 12 december 2008 inzake tijdvak 0811
+
+€ 1.865 van de betaling van 27 januari 2009 inzake tijdvak 0812
+
+In verband met het bovenstaande ben ik voornemens om de naheffingsaanslagen op de voornoemde bedragen te handhaven. Omdat nu blijkt dat de betalingen reeds eerder zijn verricht, zal ik wel de heffingsrente naar nihil terugbrengen.
+
+(. . .)"
+
+Geschil
+
+14. In geschil is:
+
+* of verweerder eiseres ten onrechte niet in de gelegenheid heeft gesteld te worden gehoord;
+
+* of de naheffingsaanslagen ten onrechte dan wel (na vermindering in bezwaar) op een te hoog bedrag zijn vastgesteld;
+
+* of eiseres recht heeft op vergoeding van de in verband met de bezwaar- en beroepschriften door haar gemaakte kosten.
+
+15. Eiseres beantwoordt deze vragen bevestigend en verweerder ontkennend.
+
+16. Eiseres concludeert tot gegrondverklaring van het beroepen en tot vernietiging van de uitspraken op bezwaar en de naheffingsaanslagen.
+
+17. Verweerder concludeert tot ongegrondverklaring van de beroepen.
+
+18. Voor het overige verwijst de rechtbank naar de gedingstukken.
+
+Beoordeling van het geschil
+
+Schending van de hoorplicht
+
+19. Op grond van artikel 25, eerste lid van de Algemene wet inzake rijksbelastingen (hierna: de Awr) wordt in afwijking van artikel 7:2 van de Awb de belanghebbende gehoord op zijn verzoek. Vast staat dat eiseres in haar bezwaarschriften niet heeft verzocht om te worden gehoord. Wel heeft eiseres ter zitting onweersproken gesteld dat zij in telefonische contacten met verweerder heeft gezegd dat verweerder een hoorgesprek moest houden. Eveneens staat vast dat verweerder eiseres in zijn brief van 19 november 2009 houdende de vooraankondiging van de uitspraak op bezwaar heeft gewezen op de mogelijkheid om te worden gehoord. Voorts heeft verweerder, zoals blijkt uit de onder 12 en 13 opgenomen citaten, telefonisch op 7, 9 en 16 december 2009 eiseres de gelegenheid geboden om de bezwaren mondeling toe te lichten of een nadere reactie te geven. Tot de gedingstukken behoren telefoonnotities ter zake van die contacten. De telefoonnotitie van 16 december 2009 luidt als volgt: "Misschien zijn ze nog niet helemaal de deur uit (mevr. (. . .)). Was het antwoord op mijn vraag waar de brieven bleven. Mevr. geeft e.e.a. door. Gevraagd of zij ook door wil geven dat als ik a.s. maandag 21/12 geen reactie heb gehad, ik er vanuit ga dat [de dga] niet reageert of gehoord wil worden en dat ik uitspraak doe. Faxnummer ook doorgegeven." Eiseres heeft, naar verweerder onweersproken heeft gesteld, niet gereageerd vóór 21 december 2009. Verweerder heeft vervolgens uitspraak op het bezwaar gedaan zonder eiseres te hebben gehoord.
+
+20. Gelet op de hiervoor geschetste herhaalde pogingen van verweerder om eiseres te horen en het uitblijven van een reactie van eiseres op deze pogingen, heeft verweerder naar het oordeel van de rechtbank de hoorplicht niet geschonden. Ook van een handelen van verweerder in strijd met enig beginsel van behoorlijk bestuur is geen sprake. Bij deze oordelen neemt de rechtbank het volgende in aanmerking. Verweerder heeft eiseres in zijn brief van 19 november 2009 een redelijke termijn gegeven om mee te delen of eiseres gehoord wilde worden. Voorts is eiseres bij de onder 19 vermelde telefonische contacten in de gelegenheid gesteld om het bezwaar mondeling toe te lichten of een nadere reactie te geven. Verweerder heeft na het uitblijven van een reactie van eiseres niet rauwelijks uitspraak op bezwaar gedaan, maar heeft tot driemaal toe geprobeerd om alsnog tot een hoorgesprek te komen. Eiseres heeft de weergave van de telefonische contacten in de telefoonnotitie van 16 december 2009 niet betwist. Dit alles brengt naar het oordeel van de rechtbank mee dat het niet horen van eiseres verweerder niet kan worden aangerekend, maar voor rekening van eiseres moet blijven.
+
+Naheffingsaanslagen
+
+21. Zoals vermeld onder 12 en 13 is verweerder bij het opleggen van de naheffingsaanslagen er vanuit gegaan dat het totaal verschuldigde bedrag volgens alle aangiften voor het jaar 2007 € 37.076 bedraagt en voor het jaar 2008 € 37.077. Deze bedragen zijn tussen partijen als zodanig niet in geschil.
+
+22. De rechtbank stelt vast dat eiseres in de periode 1 januari 2007 tot en met 31 december 2008 voor elk aangiftetijdvak twee afzonderlijke aangiften heeft ingediend, één voor de loonbetaling aan de dga en één voor de loonbetalingen aan de werknemers; dat het systeem van de Belastingdienst een dergelijke manier van aangifte doen niet juist kan verwerken en dat als gevolg daarvan de tweede aangifte steeds de eerste aangifte heeft vervangen; dat dit tot gevolg heeft gehad dat betalingen over een tijdvak die meer beliepen dan het bedrag van de tweede aangifte zijn terugbetaald aan eiseres. De naheffingsaanslagen 2007 en 2008 betreffen die terugbetaalde bedragen. Ter zitting heeft verweerder desgevraagd verklaard dat hij de binnen de aangiftetermijn ontvangen tweede aangiften beschouwt als verbeterde aangiften die in de plaats komen van de eerder ingediende aangiften en dat de naheffingsaanslagen 2007 en 2008 zijn opgelegd op grond van artikel 20 van de Awr.
+
+23. Artikel 20 van de Awr luidt, voor zover hier van belang, als volgt:
+
+"1. Indien belasting die op aangifte behoort te worden voldaan of afgedragen, geheel of gedeeltelijk niet is betaald, kan de inspecteur de te weinig geheven belasting naheffen. Met geheel of gedeeltelijk niet betaald zijn wordt gelijkgesteld het geval waarin, naar aanleiding van een gedaan verzoek, ten onrechte of tot een te hoog bedrag, vrijstelling of vermindering van inhouding van belasting dan wel teruggaaf van belasting is verleend."
+
+24. Naheffing van teruggegeven bedragen is op grond van artikel 20 van de Awr derhalve alleen mogelijk als kan worden gesteld dat die teruggaven hebben plaatsgevonden naar aanleiding van verzoeken. Gesteld noch gebleken is dat eiseres dergelijke verzoeken heeft gedaan. De teruggaven hebben dan ook kennelijk ambtshalve en buiten de wil van eiseres plaatsgevonden. Dat eiseres zich, zoals verweerder stelt, bij het doen van de aangiften niet heeft gehouden aan de in het Handboek loonheffingen voorgeschreven handelwijze, maakt dit niet anders. Het vorenstaande leidt de rechtbank tot het oordeel dat verweerder de naheffingsaanslagen 2007 en 2008 niet heeft mogen opleggen.
+
+25. Gelet op wat hiervoor is overwogen, dienen de beroepen gegrond te worden verklaard.
+
+Proceskosten
+
+26. De rechtbank vindt aanleiding verweerder te veroordelen in de kosten die eiseres in verband met de behandeling van de beroepen redelijkerwijs heeft moeten maken. Daarbij merkt de rechtbank deze zaken en de zaak bekend onder het nummer AWB 10/483 aan als samenhangende zaken in de zin van het Besluit proceskosten bestuursrecht (hierna: het Besluit). De kosten worden door de rechtbank op de voet van het Besluit vastgesteld op               € 150 wegens verletkosten, waarvan tweederde deel, dus € 100, wordt toegerekend aan deze zaken. Voor een hogere kostenvergoeding ziet de rechtbank geen aanleiding. De rechtbank is van oordeel dat geen sprake is van door een derde beroepsmatig verleende rechtsbijstand in de bezwaar- en beroepsfase, nu het bezwaar en het beroep zijn ingediend door de directeur van eiseres, die ook namens eiseres ter zitting is verschenen. De directeur van een rechtspersoon is geen "derde" in de zin van artikel 1, aanhef en onderdeel a, van het Besluit.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart de beroepen gegrond;
+
+- vernietigt de uitspraken op bezwaar;
+
+- vernietigt de belastingaanslagen 2007 en 2008 en bepaalt dat deze uitspraak in
+
+zoverre in de plaats treedt van de vernietigde uitspraken op bezwaar;
+
+- veroordeelt verweerder in de proceskosten tot een bedrag van € 100, te betalen aan eiseres;
+
+- draagt verweerder op het betaalde griffierecht van € 297 aan eiseres te vergoeden.
+
+Deze uitspraak is gedaan door mr. G.J. Ebbeling, voorzitter, en mr. G.J. van Leijenhorst en mr. L. van Schaik, leden, in aanwezigheid van F.J. Crabbendam, griffier. De beslissing is in het openbaar uitgesproken op 6 juni 2012.
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kunnen partijen binnen zes weken na de verzenddatum hoger beroep instellen bij het gerechtshof te 's-Gravenhage (belastingkamer), Postbus 20021, 2500 EA Den Haag.
+
+Bij het instellen van hoger beroep dient het volgende in acht te worden genomen:
+
+1. - bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd.
+
+2. - het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden:
+
+a. de naam en het adres van de indiener;
+
+b. een dagtekening;
+
+c. een omschrijving van de uitspraak waartegen het hoger beroep is ingesteld;
+
+d. de gronden van het hoger beroep.
