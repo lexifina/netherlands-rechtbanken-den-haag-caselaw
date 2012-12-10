@@ -30,7 +30,7 @@ zaaknummer: AWB 11 / 41596
 
 uitspraak van de meervoudige kamer van 10 december 2012 in de zaak tussen
 
-[S.A.], eiser,
+[eiser], eiser,
 
 (gemachtigde: mr. I. van den Elshout),
 
@@ -50,7 +50,7 @@ Het onderzoek ter zitting heeft plaatsgevonden op 30 oktober 2012. Eiser is vers
 
 Overwegingen
 
-1.	Eiser, die stelt te zijn geboren op 9 juli 1995 en de Afghaanse nationaliteit te hebben, heeft op 7 november 2011 voornoemde aanvraag ingediend.
+1.	Eiser, die stelt te zijn geboren op [geboortedatum 1] 1995 en de Afghaanse nationaliteit te hebben, heeft op 7 november 2011 voornoemde aanvraag ingediend.
 
 2.	Bij het thans bestreden besluit heeft verweerder deze aanvraag afgewezen op grond van artikel 30, eerste lid, aanhef en onder a, van de Vw 2000, omdat Italië verantwoordelijk is voor de asielaanvraag van eiser. Uit dactyloscopisch onderzoek met behulp van het Eurodacsysteem is gebleken dat eiser op 21 augustus 2011 in Italië een asielaanvraag heeft ingediend. Gelet op het bepaalde in artikel 16, eerste lid, onder c, van Verordening
 
@@ -88,7 +88,7 @@ Eiser stelt dat nu hij minderjarig is en geen asielaanvraag heeft ingediend in I
 
 Blijkens informatie uit het Eurodacsysteem heeft eiser op 21 augustus 2011 in Italië een asielaanvraag ingediend. Eiser weerspreekt dit en verwijst daartoe naar het schrijven van het Italiaanse Bureau Dublin van 8 oktober 2012. In dit schrijven staat vermeld dat eiser op
 
-21 augustus 2011 “photofingerprinted” is in Italië en aldaar bekend is onder de alias Samim Amini, geboren op 1 januari 1993. De rechtbank kan uit dit schrijven niet opmaken dat eiser in Italië een asielaanvraag heeft ingediend. De door eiser aangehaalde stukken lijken dit te bevestigen nu hierin, onder meer, staat vermeld dat de Italiaanse autoriteiten inkomende vreemdelingen automatisch registreren als hebben zij een asielaanvraag ingediend, ofschoon zij nog niet zijn toegelaten tot de asielprocedure ofwel in zijn geheel geen asielaanvraag hebben ingediend.
+21 augustus 2011 “photofingerprinted” is in Italië en aldaar bekend is onder de alias [alias], geboren op [geboortedatum 2] 1993. De rechtbank kan uit dit schrijven niet opmaken dat eiser in Italië een asielaanvraag heeft ingediend. De door eiser aangehaalde stukken lijken dit te bevestigen nu hierin, onder meer, staat vermeld dat de Italiaanse autoriteiten inkomende vreemdelingen automatisch registreren als hebben zij een asielaanvraag ingediend, ofschoon zij nog niet zijn toegelaten tot de asielprocedure ofwel in zijn geheel geen asielaanvraag hebben ingediend.
 
 12.	Onder de gegeven omstandigheden is de rechtbank van oordeel dat verweerder zich – met de enkele verwijzing naar de informatie uit het Eurodacsysteem – niet op het standpunt  heeft kunnen stellen dat eiser in Italië een asielaanvraag heeft ingediend. Immers, gelet op eisers betoog kan niet op voorhand worden uitgesloten dat eiser in Italië geen asielaanvraag heeft ingediend waardoor, in het verlengde daarvan, een beroep op artikel 6 van de Verordening een kans van slagen heeft. Het bestreden besluit ontbeert derhalve een zorgvuldige voorbereiding. De rechtbank draagt verweerder op nader onderzoek in te stellen bij de Italiaanse autoriteiten aangaande de vraag of eiser aldaar al dan niet een asielaanvraag heeft ingediend.
 
