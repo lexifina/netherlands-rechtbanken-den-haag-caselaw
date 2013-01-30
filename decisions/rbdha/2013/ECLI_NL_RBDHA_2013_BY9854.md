@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2013:BY9854"
-published_in: ["Rechtspraak.nl", "NJF 2013/99", "RAV 2013/46", "OR-Updates.nl 2013-0055"]
+published_in: ["Rechtspraak.nl", "NJF 2013/99", "RAV 2013/46", "OR-Updates.nl 2013-0055", "AA20130482 met annotatie van Hoek van A.A.H. Aukje"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2015:3587, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:134, Overig"]]
 ---
 
