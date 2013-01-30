@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2013:BY9845"
-published_in: ["Rechtspraak.nl", "RO 2013/33", "JONDR 2013/545", "OR-Updates.nl 2013-0057"]
+published_in: ["Rechtspraak.nl", "RO 2013/33", "JONDR 2013/545", "OR-Updates.nl 2013-0057", "AA20130482 met annotatie van Hoek van A.A.H. Aukje"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2015:3586, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:133, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
