@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2014:16696"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/319", "V-N 2015/19.20.2", "FutD 2015-0399", "NTFR 2015/977 met annotatie van mr. T.A.D. van Wordragen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/319", "V-N 2015/19.20.2", "NTFR 2015/977 met annotatie van mr. T.A.D. van Wordragen", "FutD 2015-0399", "Viditax (FutD) 2015021209"]
 ---
 
 # ECLI:NL:RBDHA:2014:16696 Rechtbank Den Haag , 09-12-2014 / C/09/478717 / KG RK 14-2364
