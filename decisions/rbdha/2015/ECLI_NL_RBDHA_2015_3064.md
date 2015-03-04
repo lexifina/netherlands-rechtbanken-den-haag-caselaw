@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2015:3064"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/805", "V-N 2015/23.3.3", "FutD 2015-1024", "NTFR 2015/1811 met annotatie van mr. drs. A.J. Meijer"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/805", "V-N 2015/23.3.3", "NTFR 2015/1811 met annotatie van mr. drs. A.J. Meijer", "FutD 2015-1024", "Viditax (FutD) 2015041401"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2016:1737, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 cites_law: ["netherlands/national/acts/awr/art-016.md", "netherlands/national/acts/awr/art-027e.md", "netherlands/national/acts/awr/art-067e.md"]
 ---
