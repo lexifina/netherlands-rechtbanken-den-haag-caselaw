@@ -1,0 +1,409 @@
+---
+ecli: "ECLI:NL:RBDHA:2015:2702"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "09-777257-14"
+decided: "2015-03-12"
+published: "2015-03-12"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2015:2702"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2015:2702 Rechtbank Den Haag , 12-03-2015 / 09-777257-14
+
+## Inhoudsindicatie
+
+Jeugdstrafrecht - Promis
+
+Vier jonge mannen, waaronder twee minderjarigen, die in november 2014 zijn aangehouden na een spectaculaire achtervolging op de Rijksstraatweg bij Den Hoorn, zijn door de Haagse rechtbank veroordeeld tot gevangenisstraffen en werkstraffen. De rechtbank acht bewezen dat zij hebben geprobeerd in te breken in een woning in Schipluiden. Toen de bewoner thuiskwam werd hij bedreigd met een stroomstootwapen.
+
+Vervolgens zijn zij gevlucht in een auto. Tijdens hun vlucht zijn ze gevolgd en gefilmd door een politiehelikopter en achtervolgd door de politie. De vlucht is geëindigd in een frontale botsing met een BMW. Daarna is de politieauto op de vluchtauto gebotst.
+
+## Uitspraak
+
+Rechtbank Den Haag
+
+Meervoudige kamer jeugdstrafzaken
+
+Parketnummer 09/777257-14
+
+Datum uitspraak:  12 maart 2015
+
+Tegenspraak
+
+(Promis)
+
+De rechtbank Den Haag, rechtdoende in jeugdstrafzaken, heeft op de grondslag van de tenlastelegging en naar aanleiding van het onderzoek ter terechtzitting het navolgende vonnis gewezen in de zaak van de officier van justitie tegen de verdachte:
+
+[verdachte 1] ,
+
+geboren te [geboorteplaats] op [geboortedag] 1997,
+
+adres: [woonplaats].
+
+1
+Het onderzoek ter terechtzitting
+
+Het onderzoek is gehouden ter terechtzitting met gesloten deuren van 26 februari 2015.
+
+De rechtbank heeft kennis genomen van de vordering van de officier van justitie
+
+mr. K.J.R. van Halderen en van hetgeen door de raadsvrouw van de verdachte
+
+mr. F.A.M. Engels, advocaat te Den Haag, en door de verdachte naar voren is gebracht.
+
+2
+De tenlastelegging
+
+Aan de verdachte is ten laste gelegd dat:
+
+hij op of omstreeks [datum] 2014 te [plaats 1] ter uitvoering van het door verdachte voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toeëigening in/uit een woning (gelegen aan de [adres 1]) weg te nemen twee laptops en/of een camera en/of geld en/of goederen van
+
+zijn/hun gading, geheel of ten dele toebehorende aan [slachtoffer], in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s) en zich daarbij de toegang tot die woning te verschaffen en/of die/dat weg te nemen laptops en/of camera en/of geld en/of goederen van hun gading onder zijn/hun bereik te brengen door middel van braak, verbreking en/of inklimming,
+
+met een of meer van zijn mededader(s), althans alleen, door het raam te forceren, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid,
+
+welke poging tot diefstal werd vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen [slachtoffer], gepleegd met het oogmerk om die diefstal gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan (een) andere deelnemer(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of
+
+welke bedreiging met geweld hierin bestond(en) dat die [slachtoffer] de woorden "Wegwezen of je krijgt tikken" en/of "Wegwezen of ik schiet" werden toegevoegd en/of het (daarbij/vervolgens) richten van een stroomstootwapen/taser, althans een op een op enig wapen gelijkend voorwerp op
+
+die [slachtoffer];
+
+art 310 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 4 Wetboek van Strafrecht
+
+art 311 lid 1 ahf/sub 5 Wetboek van Strafrecht
+
+art 45 lid 1 Wetboek van Strafrecht
+
+3
+Bewijsoverwegingen
+
+3.1
+
+Inleiding
+
+De volgende feiten kunnen als vaststaand worden aangemerkt. Deze feiten hebben ter terechtzitting niet ter discussie gestaan en kunnen zonder nadere motivering dienen als vertrekpunt voor de bewijsvraag.
+
+Op [datum] 2014 omstreeks 16.20 uur kwam [slachtoffer] (verder: de aangever) thuis in zijn woning aan de [adres 1] te [plaats 1]. Toen hij eenmaal binnen was, hoorde hij boven in zijn woning geluiden.
+
+De aangever zag vervolgens een man op de overloop staan. Een tweede man kwam uit zijn kantoor de overloop op gelopen. De man die al op de overloop stond had volgens de aangever “een heel donkere huidskleur, negroïde”, was 1.75 meter lang, had een smal gezicht en was omstreeks 18 jaar oud, en zei “ Wegwezen of je krijgt tikken”. De aangever vroeg wat ze aan het doen waren en de man zei nogmaals: ”Je krijgt tikken hoor”. De aangever deed nog een stap omhoog op de trap en op dat moment trok diezelfde persoon een pistool en zei hij:” Wegwezen of ik schiet.” De aangever vroeg nogmaals wat ze daar deden en de man begon te schieten. De aangever zag flitsen en hoorde het geluid “als van een kindermitrailleur”. De aangever heeft de man, meerdere malen in zijn gezicht geslagen. De tweede persoon, die volgens de aangever forser en lichter getint was dan de andere man, ook 1.75 meter lang, een capuchon op zijn hoofd had en ook omstreeks 18 jaar oud was, kwam er ook bij. De mannen gingen naar beneden en op de begane grond zag de aangever dat een raam aan de voorkant van zijn woning was geforceerd en dat de tweede man door dat raam naar buiten aan het klimmen was. De aangever gaf de eerste man een zetje zodat hij sneller buiten was. De aangever zag over de kade een derde man aan komen en vervolgens zetten de drie mannen  het alle drie op een lopen over de kade in de richting van [plaats 1].
+
+De aangever heeft in een aanvullende aangifte d.d. 18 november 2014 verklaard dat de negroïde man een grijze broek en donkere bovenkleding aan had, of andersom. Verder had hij een jas aan met een capuchon, die hij niet op had. Over het “pistool” waarover hij eerder verklaard had, verklaarde de aangever dat hij het idee had dat het geen echt wapen was. Nadat de politie hem een foto van een stroomstootwapen in de vorm van een telefoon toonde, verklaarde de aangever dat dit inderdaad het voorwerp zou kunnen zijn geweest waarmee hij is bedreigd.
+
+De tweede persoon had volgens de aangever een donkere jas aan met een capuchon die hij op zijn hoofd had. Deze persoon had een wat gezetter postuur dan de negroïde man en wel een donkere huidskleur, maar “meer Pakistaans”. De derde man, die kwam aanlopen en waarvan de aangever het gezicht voor het geforceerde raam zag, was ook getint en droeg donkere kleding. Hij zou een oudere broer van de tweede man kunnen zijn, aldus de aangever.
+
+In het kantoor van de aangever stond een plastic boodschappen tas van de Jumbo met daarin twee laptops en een lederen tasje met daarin een fototoestel. Het fototoestel was weggenomen uit de rechterlade van zijn bureau. Naast de plastictas lag ook een fluwelen zakje met muntgeld, dit fluwelen tasje was weggenomen uit de linkerlade van zijn bureau, aldus de aangever.
+
+Verder trof de aangever in zijn kantoor naast de Jumbotas nog een verzamel videobox aan van de Godfather. Deze verzamelbox was weggenomen uit een lade onder de televisie in de opkamer, televisiekamer, op de begane grond, zijnde de kamer waar het raam is geforceerd.
+
+Verbalisanten [verbalisant 1] en [verbalisant 2] begeven zich naar aanleiding van de melding van de inbraak naar de woning aan [adres 1] te [plaats 1]. Onderweg vernemen zij dat de gevluchte verdachten zijn weggereden in een groene Toyota. Rijdende op de Dorpsstraat te [plaats 1] zien de verbalisanten dat een groene auto van het merk Daewoo of Toyota hen tegemoet komt rijden en zij besluiten de achtervolging in te zetten om deze auto te stoppen. Via de meldkamer horen zij dat het inderdaad de auto van de gevluchte verdachten betreft. Op de Rijksstraatweg zetten zij de achtervolging in van de groene Toyota, met optische geluidssignalen en het oplichtend transparant met de woorden ‘STOP’ en ‘POLITIE’ aan.
+
+Op [datum] 2014 omstreeks 16.33 uur vond er op de Rijksstraatweg te Den Hoorn een ongeluk plaats waarbij een groene Toyota Corolla met hoge snelheid botste op een donkere auto die uit de tegengestelde richting kwam. Ook kwam een opvallend politievoertuig tegen de Toyota Corolla tot stilstand.
+
+De verdachten [verdachte 2] (verder: [verdachte 2]), [verdachte 1] (verder: [verdachte 1]) en  [verdachte 3] (verder: [verdachte 3]) werden in of nabij de groene Toyota Corolla aangehouden. [verdachte 2] zat rechtsachter op de achterbank in de Toyoto Corolla en [verdachte 1] zat linksachter op de achterbank, aan de bestuurderskant. [verdachte 3] werd naast de Toyota Corolla aangetroffen. Op de achterbank van de auto werd een zwarte rugzak van het merk Puma aangetroffen, met daarin twee schroevendraaiers en een rood gelakt breekijzer. Ook werd er op de achterbank van de auto een blauwe jas van het merk ‘Jack&Jones’ aangetroffen, met in de voering van de jas een taser dan wel stroomstootwapen, model mobiele telefoon.
+
+De verdachte [verdachte 4] (verder: [verdachte 4]) is op de vlucht geslagen, in het water gedoken en naar de overkant gezwommen, rende over voetbal- en sportvelden, is nogmaals een paar sloten ingedoken en is uiteindelijk bij een flat aan de Mozartlaan te [plaats 3] aangehouden.
+
+Bij zijn aanhouding droeg [verdachte 3] een blauwe spijkerbroek, een zwart t-shirt en een donkerblauwe jas zonder capuchon, [verdachte 1] een donkerblauw vest met capuchon, een donkerblauw t-shirt en een grijze spijkerbroek, [verdachte 2] een donkere Adidas trainingsbroek met gele lengte strepen, een zwart/wit gestreept t-shirt, een grijze sweater met capuchon en een zwarte jas en [verdachte 4] een zwart D&G t-shirt, een donkerblauw poloshirt, een blauwe spijkerbroek en zwarte All Star schoenen.
+
+Op de middag van de woninginbraak, [datum] 2014, hebben diverse getuigen een groene Toyota Corolla in [plaats 1] gezien. De auto en de inzittenden vallen op in [plaats 1]. Het kenteken wordt genoteerd.
+
+Omstreeks 15.15 uur wordt de groene Toyota op de Burgemeester Musquetiersingel in [plaats 1] gesignaleerd door getuige [getuige 1] De bestuurder, lichtgetinte huidskleur, zwart kort stekelachtig haar en 20 jaar oud, vraagt hem de weg naar de [locatie 1] Er zitten drie personen in de auto, twee voorin, één op de achterbank.
+
+Getuige [getuige 2], signaleert om 15.30 uur op de [locatie 2], op een doodlopend stuk weg, de Toyota met vier donker getinte personen erin. De auto wordt geparkeerd in een parkeervak en twee inzittenden stappen uit. Zij hebben allebei een zwarte trui aan en hun capuchon op. De ene persoon was iets dikker dan de andere. Ze lopen de dijk op, richting de woning van de getuige aan de [adres 2]. De getuige is ongeveer 5 minuten in zijn eigen huis geweest en ziet even later de Toyota wegrijden. De bestuurder is licht getint en links achterin zit een negroïde persoon.
+
+Om 15.30 uur ziet getuige [getuige 3] de Toyota bij de Willemoordseweg in [plaats 1] met vier inzittenden, waaronder een getinte bestuurder en een negroïde persoon links op de achterbank. De auto stopt bij een boerderij en de bestuurdersdeur gaat open. Zij rijdt door naar haar huis op de [adres 2] Ongeveer tien minuten nadat zij thuis is, ziet zij drie personen voorbij lopen, waaronder een lichtgetinte jongen met kort donker haar en een spijkerbroek en twee personen met een donkere trui met capuchon, waarvan er één een donkere rugzak van stof op zijn rug droeg. Zij lopen richting het huis van Jan, in de richting van de hogere huisnummers.
+
+Haar zoon [getuige 2] komt om 16.15 uur drie personen tegen die op de Willemoordseweg lopen. Het betreft een dunne, negroïde jongen, ongeveer 1.90 à 2.00 meter, met zwarte jas met capuchon op en een spijkerbroek, een tweede persoon met zwarte kleding en een derde persoon, een Turks/Marokkaanse jongen, licht getint, ongeveer 1.70 meter lang, dikker dan de rest, met zwarte trui met capuchon en een trainingsbroek, zwart met twee gele strepen. De drie personen lopen flink door.
+
+Ten slotte ziet getuige [getuige 4] op [datum] 2014 om 16.20 uur dat er op het erf bij haar woning aan de [adres 3] te [plaats 1] een groene of blauw oude auto staat, die even vantevoren hard is aan komen rijden uit de richting van de Vlaardingsekade. Zij ziet drie personen in en uit het voertuig stappen en ook nog één persoon in het voertuig zitten. Ze waren allemaal van buitenlandse afkomst en ze heeft het kenteken opgeschreven en later aan de politie gegeven.
+
+Technisch onderzoek van de in de groene Toyota Corolla aangetroffen schroevendraaiers en het breekijzer, zoals reeds gemeld, levert op dat de braaksporen die zijn aangetroffen in het raamkozijn van de woning aan de [adres 1] te [plaats 1] zijn veroorzaakt met het breekijzer en één van de aangetroffen schroevendraaiers.
+
+In de mobiele telefoon van [verdachte 1] zijn de telefoonnummers en (bij)namen van [verdachte 4] en [verdachte 3] opgeslagen en op 13 en [datum] 2014 is er veelvuldig contact geweest tussen de telefoons in gebruik bij [verdachte 4], [verdachte 3] en [verdachte 2], waarbij veelvuldig de zendmast aan de [locatie 3] te Den Haag wordt aangestraald, maar op [datum] 2014 ook de zendmast [locatie 4] [plaats 1].
+
+[verdachte 2] heeft bij de politie verklaard dat hij op [datum] 2014 aan de wandel was met zijn vriendin [naam] en dat hij vervolgens omstreeks 16.15 uur werd opgepikt door een auto waarin de hem bekende [bijnaaam] een Surinaams/Hindoestaanse jongen, zat maar die door een blanke jongen met stekels werd bestuurd. Vlak nadat hij was ingestapt, vond de aanrijding plaats en sprongen de bestuurder en [bijnaaam] uit de auto.
+
+[verdachte 1] heeft bij de politie verklaard dat hij bevriend is met [verdachte 3] en dat hij [verdachte 4] via hem kent. [verdachte 2] kent hij uit de buurt. De verwondingen die hij heeft opgelopen aan zijn hoofd en hand en aan zijn schouder zijn volgens [verdachte 1] het gevolg van ongeluk hoewel hij zijn gordel om had. Hij zat links achterin de auto. Hij is niet in de woning aan de [adres 1] geweest en de spullen die in de auto zijn gevonden, zijn niet van hem. Voor het overige beroept hij zich op zijn zwijgrecht.
+
+[verdachte 3] heeft zich bij de politie telkens op zijn zwijgrecht beroepen.
+
+[verdachte 4] heeft bij de politie verklaard dat hij bevriend is met [verdachte 3] en dat hij [verdachte 2] en [verdachte 1] niet kent en beroept zich voor het overige op zijn zwijgrecht.
+
+Op grond van de hiervoor beschreven feiten en omstandigheden stelt de rechtbank vast dat op [datum] 2014 in een woning aan de [adres 1] te [plaats 1] een poging inbraak heeft plaatsgevonden, in vereniging gepleegd, waarbij de aangever is bedreigd met geweld en aan hem een stroomstootwapen/taser is getoond.
+
+De rechtbank ziet zich gesteld voor de vraag of de verdachte, die samen met zijn medeverdachten naar aanleiding van deze poging inbraak is aangehouden, betrokken is geweest bij voornoemde poging en zo ja, hoe deze betrokkenheid dient te worden gekwalificeerd.
+
+3.2
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gevorderd dat de rechtbank wettig en overtuigend bewezen zal verklaren dat de verdachte dit feit heeft begaan.
+
+3.3
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft vrijspraak van het ten laste gelegde feit bepleit, nu er onvoldoende wettig en overtuigend bewijs voorhanden is. De verdachte betwist niet dat hij in de verongelukte Toyota Corolla is aangetroffen, maar heeft vanaf het begin ontkend iets met de poging tot woninginbraak met bedreiging van geweld te maken te hebben. Hij is alleen maar in de auto aanwezig geweest. De verdachte heeft zich om hem moverende redenen op zijn zwijgrecht beroepen.
+
+Enig bewijs voor de betrokkenheid van de verdachte bij het ten laste gelegde, ontbreekt aldus de raadsvrouw. Er is geen bewijs voor de aanwezigheid van de verdachte in de woning, er is geen bewijs voor zijn aanwezigheid buiten de auto, er is geen bewijs voor daderschap noch voor enige nauwe en bewuste samenwerking voor het medeplegen aan de poging goederen weg te nemen dan wel het raam te forceren.
+
+Het enige duidelijke signalement van de verdachten komt volgens de raadsvrouw van de aangever en qua uiterlijk en qua kleding voldoet de verdachte hier niet aan. Nu de getuige [getuige 4] ziet dat één persoon in de auto blijft zitten, is de verklaring van de verdachte dat hij al die tijd in de auto is geweest aannemelijk. Temeer nu onderzoek van het DNA van de verdachte ook geen belastende informatie heeft opgeleverd.
+
+3.4
+
+De beoordeling van de tenlastelegging
+
+Ter terechtzitting heeft [verdachte 1] verklaard dat hij links achterin de groene Toyota Corolla zat en dat [verdachte 2] naast hem zat, maar dat hij op de achterbank van de auto geen rugzak heeft zien liggen. Hij heeft verklaard dat hij zijn gordel om had, maar aan zijn hoofd en handen gewond is geraakt. Desgevraagd heeft hij verklaard dat ze gewoon aan het chillen/rijden waren in de polder in [plaats 1], dat hij al ongeveer 30 tot 45 minuten in de auto zat voordat het ongeluk gebeurde, dat hij al die tijd in de auto heeft gezeten en dat hij verder niets te zeggen heeft. Hij ontkent in de woning aan de [adres 1] te zijn geweest, maar wil niet zeggen waar hij op dat moment dan wel was. Ze zijn weggevlucht voor de politie, omdat niemand in de auto een rijbewijs had, ook de bestuurder niet.
+
+Gelet op de onder 3.1 vaststaande feiten, mede gezien de in beslaggenomen, omschreven en gefotografeerde kleding van de vier aangehouden verdachten en de persoonsbeschrijvingen zoals die in het dossier voorhanden zijn, concludeert de rechtbank het volgende.
+
+Op [datum] 2014 tussen 15.15 uur en 16.33 uur is de groene Toyota Corolla door diverse getuigen gezien in [plaats 1], ook in de buurt van de woning van aangever [slachtoffer] aan de [adres 1]. De getuigen beschrijven veelal vier inzittenden van de groene Toyota. Ook is gezien dat de auto is geparkeerd en dat drie van de inzittenden de auto hebben verlaten, waarbij er één een rugzak droeg.
+
+De signalementen die de aangever geeft van de twee personen die in zijn woning aanwezig waren komen overeen met de signalementen die de getuigen Kester en [getuige 3] geven. Naar het oordeel van de rechtbank zijn in deze signalementen qua uiterlijk en qua kleding expliciet de verdachten [verdachte 1] en [verdachte 2] te herkennen.
+
+Het letsel dat [verdachte 1] heeft, aan zijn knokkels en op zijn hoofd, past - naar het oordeel van de rechtbank - bij de klappen die de aangever één van de daders van de overval heeft gegeven.
+
+De verklaring van [verdachte 1] dat nu uitgerekend hij dit letsel aan het ongeluk heeft overgehouden acht de rechtbank ongeloofwaardig, nu [verdachte 1] heeft verklaard dat hij ten tijde van het ongeluk zijn gordel om had en hij dan kennelijk als enige inzittende van de auto letsel zou hebben opgelopen, welk letsel ook nog overeenkomt met letsel dat het gevolg kan zijn van de door aangever uitgedeelde klappen.
+
+In de Toyota is na het ongeluk een rugzak, zoals de getuige [getuige 3] heeft beschreven, aangetroffen met daarin inbrekerswerktuigen die bij de inbraak in de woning zijn gebruikt.
+
+Geen van de verdachten heeft een aannemelijke verklaring voor het feit dat de Toyota bijna een uur lang op diverse plaatsen in [plaats 1] is gesignaleerd, dat er is geparkeerd, dat de auto is verlaten - met de rugzak -, dat er een match is tussen de in de auto in die rugzak veiliggestelde inbrekerswerktuigen en de braaksporen aan de woning van aangever, en dat de getuigen een of meer verdachten accuraat omschrijven. Ook voor de veelvuldige telefonische contacten onderling, waarbij de rechtbank uit de telefoongegevens van [verdachte 1] concludeert dat [bijnaaam] de verdachte [verdachte 3] moet zijn, hebben de verdachten geen aannemelijke verklaring.
+
+Gelet op het vorenstaande, alle bewijsmiddelen in onderlinge samenhang bezien, is de rechtbank van oordeel dat er sprake is geweest van een dusdanige bewuste en nauwe samenwerking tussen de vier verdachten dat er sprake is van medeplegen en hebben de
+
+vier verdachten, die na de aanrijding in de groene Toyota Corolla zijn aangetroffen, tezamen en in vereniging ingebroken in de woning van de aangever, waarbij het bij een poging is gebleven omdat de aangever hen heeft overlopen.
+
+Zoals reeds is vermeld, is de rechtbank van oordeel dat [verdachte 1] en [verdachte 2] in de woning zijn geweest, waarbij [verdachte 1] degene is geweest die de aangever heeft bedreigd en een stroomstootwapen op hem heeft gericht. [verdachte 3] was de derde man die aan kwam lopen en waarvan de aangever het gezicht voor het geforceerde raam zag en [verdachte 4] was de bestuurder van de auto.
+
+De rechtbank acht het aannemelijk dat [verdachte 4], als oudste van het gezelschap en als enige verdachte met meerdere antecedenten, als bestuurder van de auto de route heeft gepland. Hij heeft in [plaats 1] de weg gevraagd, geparkeerd in de buurt van de woning van de aangever en aldaar op zijn medeverdachten gewacht, waarna zij met zijn allen met grote haast in de groene Toyota Corolla de parkeerplaats hebben verlaten.
+
+De rechtbank wordt gesterkt in haar overtuiging gelet op het korte tijdsbestek tussen de aanrijding die om 16.33 uur op de Rijksstraatweg te Den Hoorn plaatsvond en de poging tot inbraak met bedreiging van geweld in de woning aan de [adres 1] die om 16.20 uur door de aangever werd ontdekt.
+
+De verklaring van [verdachte 1] bij de politie en ter terechtzitting acht de rechtbank, gelet op voornoemde bewijsmiddelen, volstrekt ongeloofwaardig.
+
+De rechtbank is dan ook van oordeel dat het ten laste gelegde feit wettig en overtuigend bewezen kan worden verklaard.
+
+3.5
+
+De bewezenverklaring
+
+De rechtbank acht wettig en overtuigend bewezen dat
+
+hij op [datum] 2014 te [plaats 1], gemeente Midden-Delfland, ter uitvoering van het door verdachte voorgenomen misdrijf om tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toeëigening in een woning (gelegen aan de [adres 1]) weg te nemen twee laptops en een camera en geld en goederen van hun gading, geheel of ten dele toebehorende aan
+
+[slachtoffer], en zich daarbij de toegang tot die woning te verschaffen en die weg te nemen laptops en camera en geld en goederen van hun gading onder hun bereik te brengen door middel van braak, met een of meer van zijn mededaders, door het raam te forceren, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid,
+
+welke poging tot diefstal werd vergezeld en gevolgd van bedreiging met geweld tegen [slachtoffer], gepleegd met het oogmerk om die diefstal gemakkelijk te maken en om bij betrapping op heterdaad aan zichzelf en aan andere deelnemers hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welke bedreiging met geweld hierin bestond dat die [slachtoffer] de woorden "Wegwezen of je krijgt tikken" en "Wegwezen of ik schiet" werden toegevoegd en het daarbij richten van een stroomstootwapen/taser, op die [slachtoffer].
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Blijkens het verhandelde ter terechtzitting is de verdachte daardoor niet geschaad in de verdediging.
+
+4
+De strafbaarheid van het feit
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van het feit uitsluiten.
+
+Dit levert het in de beslissing genoemde strafbare feit op.
+
+5
+De strafbaarheid van de verdachte
+
+De verdachte is eveneens strafbaar, omdat niet is gebleken van een omstandigheid die zijn strafbaarheid uitsluit.
+
+6
+De straf/maatregel
+
+6.1
+
+De vordering van de officier van justitie
+
+De officier van justitie heeft gevorderd dat de verdachte wordt veroordeeld tot jeugddetentie voor de duur van 12 maanden, met aftrek van de tijd in verzekering en voorlopige hechtenis doorgebracht, waarvan 6 maanden voorwaardelijk met een proeftijd van twee jaar, met als bijzondere voorwaarde toezicht en begeleiding door de jeugdreclassering.
+
+6.2
+
+Het standpunt van de verdediging
+
+De raadsvrouw heeft, zoals reeds vermeld, vrijspraak bepleit.
+
+De raadsvrouw heeft voorts aangegeven dat er sprake is van zorgwekkende omstandigheden, waarvoor de verdachte ook een behandeling bij het Palmhuis volgt, maar dat uithuisplaatsing in het civiele kader meer op zijn plaats zou zijn.
+
+Hoewel het betreurenswaardig is dat er geen persoonlijkheidsonderzoek en strafadvies van de Raad voor de Kinderbescherming voorhanden is, moet dit niet in het nadeel van de verdachte werken.
+
+6.3
+
+Het oordeel van de rechtbank
+
+Na te melden straffen zijn in overeenstemming met de ernst van het gepleegde feit en de omstandigheden waaronder het is begaan en de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan tijdens het onderzoek ter terechtzitting is gebleken.
+
+Daarbij is in het bijzonder het volgende in aanmerking genomen.
+
+De verdachte heeft zich samen met anderen schuldig gemaakt aan een poging tot inbraak in een woning in [plaats 1], waarbij de bewoner is bedreigd en er een stroomstootwapen op hem is gericht teneinde de verdachte en zijn mededader de gelegenheid te geven om de woning te kunnen verlaten.
+
+Inbraken in woningen maken een forse inbreuk op de privacy van de bewoners. Het is voor hen bijzonder onaangenaam om te leven met de wetenschap dat vreemden in hun woning zijn geweest en hun persoonlijke bezittingen hebben doorzocht. Bovendien moeten slachtoffers van woninginbraken die de daders in de woning aantreffen, zoals in onderhavige zaak, vaak lang met een gevoel van onveiligheid leven.
+
+Ook hebben de verdachte en zijn mededaders met hun handelen een gevoel van onveiligheid in de maatschappij en in het bijzonder in het betreffende dorp teweeg gebracht.
+
+De rechtbank weegt in het voordeel van de verdachte mee dat hij nog niet eerder is veroordeeld.
+
+De rechtbank heeft kennis genomen van diverse voorlichtingsrapporten van de Raad voor de Kinderbescherming (verder: de Raad) betreffende de persoon van de verdachte, alsook op het Plan van aanpak van de Stichting Jeugdbescherming west Haaglanden, afdeling jeugdreclassering/ITB Harde Kern, gedateerd 19 januari 2015, waarin schorsing van de voorlopige hechtenis van de verdachte is geadviseerd en de benodigde bijzondere voorwaarden zijn geformuleerd.
+
+Het beeld dat uit deze rapporten naar voren komt is problematisch en de kans op recidive wordt als hoog ingeschat, gelet op het lage IQ van de verdachte, zijn beïnvloedbaarheid, zijn gebrek aan attitude en vaardigheden en zijn impulsiviteit. Begeleiding door ITB Harde Kern leek aangewezen.
+
+Een recent strafadvies van de Raad, hoewel door de rechtbank wel verzocht, ontbreekt helaas. Een verzoek tot aanhouding van de Raad in de week voor de zitting is door de rechtbank afgewezen omdat dit niet in het belang van de verdachte is. De Raad heeft ruimschoots, te weten sinds november 2014, de gelegenheid gehad om onderzoek te doen naar de mogelijkheden van plaatsing van de verdachte in het civielrechtelijke kader dan wel naar de haalbaarheid van het opleggen van een gedragsbeïnvloedende maatregel.
+
+Ook ter zitting heeft de rechtbank om die reden wederom het verzoek tot aanhouding afgewezen.
+
+De zittingsvertegenwoordiger van de Raad heeft, hoewel de rechtbank daar wel van tevoren uitdrukkelijk om had verzocht, ter zitting ook geen inhoudelijk strafadvies kunnen geven.
+
+Van de zijde van Stichting Jeugdbescherming west heeft de heer [medewerker jeugdreclassering] gehoord als deskundige, meegedeeld dat de begeleiding in het kader van ITB Harde Kern problematisch verloopt en de verdachte bijna zijn tweede gele kaart, met als gevolg terugmelding, binnen heeft. Hij ondersteunt de visie van de Raad dat het belangrijk is het juiste passende traject voor de verdachte te vinden, temeer nu begeleiding door ITB Harde Kern dit niet lijkt te zijn.
+
+De rechtbank onderkent de ernstige zorgen betreffende de ontwikkeling van de verdachte, maar ziet thans aanleiding de strafzaak af te doen en zal uitgaan van de eerdere rapporten. Zij gaat ervan uit dat de Raad, mede ook gelet op de leeftijd van de verdachte, de problematiek van de verdachte in het civielrechtelijke kader voortvarend zal aanpakken.
+
+Gelet op de ernst van het bewezenverklaarde feit is de rechtbank allereerst van oordeel dat een vrijheidsbenemende straf van na te melden duur een passende reactie vormt.
+
+De rechtbank ziet, teneinde de verdachte in de toekomst van strafbare gedragingen te weerhouden en zijn begeleiding te waarborgen, wel aanleiding een deel van de vrijheidsbenemende straf voorwaardelijk op te leggen. Daarbij zal als algemene voorwaarde onder andere het meewerken aan toezicht en begeleiding door de jeugdreclassering worden opgelegd, in combinatie met de bijzondere voorwaarde dat de verdachte zich dient te melden bij de jeugdreclassering.
+
+Nu de begeleiding door ITB Harde Kern met alle specifieke voorwaarden daaraan verbonden te hoog gegrepen lijkt te zijn voor de verdachte, gaat de rechtbank ervan uit dat de reguliere jeugdreclassering de begeleiding van de verdachte zal voortzetten.
+
+De verdachte heeft de hem opgelegde onvoorwaardelijke vrijheidsbenemende straf reeds in voorarrest doorgebracht. De rechtbank ziet, anders dan de officier van justitie, geen reden om de verdachte opnieuw tijd in detentie te laten doorbrengen, maar zal hem naast voornoemde straf wel een werkstraf opleggen.
+
+7
+De toepasselijke wetsartikelen
+
+De op te leggen straffen zijn gegrond op de artikelen:
+
+45, 77a, 77g, 77h, 77i, 77m, 77n, 77x, 77y, 77z, 77aa, 77gg, 311, 312 van het Wetboek van Strafrecht.
+
+Deze voorschriften zijn, met uitzondering van artikel 77aa, toegepast zoals zij golden ten tijde van het bewezenverklaarde. Artikel 77aa is toegepast zoals dit geldt vanaf 1 januari 2015.
+
+8
+De beslissing
+
+De rechtbank:
+
+verklaart wettig en overtuigend bewezen, dat de verdachte het hem bij dagvaarding ten laste gelegde feit heeft begaan en dat het bewezene uitmaakt:
+
+poging tot diefstal door twee of meer verenigde personen, vergezeld en gevolgd van  bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal gemakkelijk te maken en om, bij betrapping op heterdaad, aan zichzelf en anderen hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, terwijl de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft en de weg te nemen goederen onder zijn bereik heeft gebracht door middel van braak
+
+verklaart het bewezene en de verdachte deswege strafbaar;
+
+verklaart niet bewezen hetgeen aan verdachte bij dagvaarding  meer of anders is ten laste gelegd dan hierboven is bewezen verklaard en spreekt hem daarvan vrij;
+
+veroordeelt de verdachte tot:
+
+jeugddetentie voor de duur van 188 DAGEN
+
+bepaalt dat een gedeelte van deze jeugddetentie groot 120 DAGEN, niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten wegens niet nakoming van na te melden voorwaarden;
+
+stelt de proeftijd vast op 2 jaren onder de algemene voorwaarden dat de veroordeelde:
+
+- zich voor het einde van die proeftijd niet zal schuldig maken aan een strafbaar feit;
+
+- ten behoeve van het vaststellen van zijn identiteit zijn medewerking zal verlenen aan het
+
+nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1
+
+Wet op de identificatieplicht ter inzage zal aanbieden;
+
+- zijn medewerking zal verlenen aan het door de jeugdreclassering te houden toezicht,
+
+bedoeld in artikel 77aa, eerste tot en met het vierde lid, van het Wetboek van Strafrecht,
+
+de medewerking aan huisbezoeken daaronder begrepen;
+
+en onder de bijzondere voorwaarde dat de veroordeelde:
+
+- zich gedurende de proeftijd op door de jeugdreclassering te bepalen tijdstippen zal melden
+
+bij de jeugdreclassering, zo frequent en zo lang deze instelling dat noodzakelijk acht;
+
+geeft opdracht aan Stichting Jeugdbescherming west Haaglanden, een gecertificeerde instelling die jeugdreclassering uitvoert, tot het houden van toezicht op de naleving van voormelde bijzondere voorwaarde en de veroordeelde ten behoeve daarvan te begeleiden;
+
+bepaalt dat de tijd, door de veroordeelde vóór de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis doorgebracht, bij de tenuitvoerlegging van het onvoorwaardelijk gedeelte van de hem opgelegde jeugddetentie geheel in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht;
+
+heft op het geschorste bevel tot voorlopige hechtenis van de verdachte;
+
+veroordeelt de verdachte voorts tot:
+
+een taakstraf, bestaande uit een werkstraf, zijnde het verrichten van onbetaalde arbeid, voor de tijd van 60 UREN;
+
+beveelt, voor het geval dat de veroordeelde de taakstraf niet naar behoren verricht, dat vervangende jeugddetentie zal worden toegepast voor de tijd van 30 DAGEN.
+
+Dit vonnis is gewezen door
+
+mr. E.A. Lensink,					          kinderrechter, voorzitter,
+
+mr. E.C. Koekman,				      	          kinderrechter,
+
+en mr. P. de Haan,					          kinderrechter,
+
+in tegenwoordigheid van mr. M.M. de Witte,		          griffier.
+
+Het is uitgesproken op de openbare terechtzitting van deze rechtbank van 12 maart 2015.
+
+Mr. Lensink is buiten staat dit vonnis te ondertekenen.
+
+Wanneer hierna wordt verwezen naar doorgenummerde dossierpagina’s betreft dit – voor zover niet anders weergegeven - delen van ambtsedige processen-verbaal, als bijlagen opgenomen bij het dossier van Politie Eenheid Den Haag, HGL District Rijswijk/Westland, met het nummer PL1500-2014290911, doorgenummerd als pagina 1 tot en met 275, met als losse ongenummerde bijlagen de processen-verbaal forensisch technisch onderzoek per verdachte met BVH-nummer 2014-290911.
+
+Proces-verbaal van aangifte van [slachtoffer], pagina 76/77.
+
+Proces-verbaal verhoor aangever [slachtoffer], pagina 185/188.
+
+Proces-verbaal van bevindingen, pagina 106/107.
+
+Proces-verbaal van bevindingen van de bemanning van de politiehelikopter, pagina 100.
+
+Proces-verbaal van aanhouding van [verdachte 2], pagina 47/48.
+
+Proces-verbaal van aanhouding van [verdachte 1], pagina 32/33.
+
+Proces-verbaal van aanhouding van [verdachte 3], pagina 18/19.
+
+Proces-verbaal van bevindingen van [verbalisant 1] pagina 106/108.
+
+Proces-verbaal van bevindingen van [verbalisant 2] pagina 109/111.
+
+Proces-verbaal forensisch technisch onderzoek, onderzoek personenauto, pagina 4.
+
+Proces-verbaal van aanhouding van [verdachte 4], pagina 60/62.
+
+Foto’s van de kleding van [verdachte 3], pagina 25/27.
+
+Foto’s van de kleding van [verdachte 1], pagina 41/42.
+
+Foto’s van de kleding van [verdachte 2], pagina 54/57.
+
+Foto’s van de kleding van [verdachte 4], pagina 70/74.
+
+Proces-verbaal verhoor getuige [getuige 1], pagina 262/263.
+
+Proces-verbaal verhoor getuige [getuige 2], pagina 81/82.
+
+Proces-verbaal verhoor getuige [getuige 3] pagina 90/91.
+
+Proces-verbaal verhoor getuige [getuige 2], pagina 86/87.
+
+Proces-verbaal verhoor getuige [getuige 4], pagina 94/95.
+
+Het deskundigenrapport van Politie Eenheid Den Haag d.d. 18 november 2014, opgesteld door
+
+werktuigsporendeskundige [deskundige], pagina 193/198.
+
+Proces-verbaal van bevindingen, pagina 275.
+
+Proces-verbaal van bevindingen, pagina 271/275.
+
+Proces verbaal verhoor verdachte [verdachte 2], pagina 132/139.
+
+Foto’s verwondingen [verdachte 1], pagina 114.
+
+Proces verbaal verhoor verdachte [verdachte 1], pagina 212/220.
+
+Proces verbaal verhoor verdachte [verdachte 4], pagina 239/245.
+
+Proces-verbaal van de terechtzitting d.d. 26 februari 2015, eigen verklaring verdachte.
