@@ -1,0 +1,72 @@
+---
+ecli: "ECLI:NL:RBDHA:2015:9099"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "AWB - 15 _ 899"
+decided: "2015-07-31"
+published: "2015-08-03"
+type: "uitspraak"
+procedure: "Bodemzaak"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2015:9099"
+published_in: ["Rechtspraak.nl"]
+cites_law: ["netherlands/national/acts/participatiewet/art-078z.md"]
+---
+
+# ECLI:NL:RBDHA:2015:9099 Rechtbank Den Haag , 31-07-2015 / AWB - 15 _ 899
+
+## Inhoudsindicatie
+
+Gezamernlijke huishouding. Hoofdelijke aansprakelijkheid. Niet in geschil is dat eiser in de van belang zijnde periode inkomsten uit arbeid genoot en dat verweerder voor de beoordeling van het recht van (-) op bijstand met deze inkomsten geen rekening heeft kunnen houden. Verweerder was daarom ingevolge artikel 59, tweede lid, van de Wwb bevoegd om de aan (-) ten onrechte of te veel verstrekte bijstand mede van eiser terug te vorderen. Niet gebleken is van omstandigheden op grond waarvan verweerder in eisers geval niet in redelijkheid van deze bevoegdheid gebruik heeft kunnen maken.
+
+## Uitspraak
+
+Rechtbank DEN Haag
+
+Bestuursrecht
+
+zaaknummers: SGR 15/899
+
+uitspraak van de meervoudige kamer van 31 juli 2015 in de zaak tussen
+
+[eiser] te [plaats] , eiser
+(gemachtigde: mr. P.A. van Dokkum),
+
+en
+
+het college van burgemeester en wethouders van Den Haag, verweerder
+(gemachtigde: mr. P.S. Teunissen).
+
+Procesverloop
+
+Bij besluit van 23 juli 2014 (primair besluit) heeft verweerder de in de periode van 28 februari 2007 tot en met 28 februari 2014 ten onrechte of te veel aan [naam 1] verstrekte bijstand ingevolge de Wet werk en bijstand (Wwb) (inclusief bijzondere bijstand en langdurigheidstoeslag) ten bedrage van € 121.357,44 mede van eiser teruggevorderd.
+
+Bij besluit van 22 december 2014 heeft verweerder eisers bezwaar tegen dit besluit ongegrond verklaard.
+
+Hiertegen heeft eiser beroep ingediend.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 18 juni 2015. Daar is dit beroep gevoegd met het beroep van [naam 1] (registratienummer SGR 14/9266) behandeld. De beroepen zijn na de zitting weer gesplitst. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+1. Met ingang van 1 januari 2015 is artikel I van de Invoeringswet Participatiewet in werking getreden (Stb. 2014, 270). Daarbij is onder meer de Wwb gewijzigd en ondergebracht in de Participatiewet. Omdat het bezwaarschrift is ingediend vóór inwerkingtreding van de Invoeringswet Participatiewet, is ingevolge artikel 78z, vierde lid, van de Participatiewet op dit geval de Wwb van toepassing.2.	De rechtbank gaat uit van de volgende feiten.2.1	[naam 1] ( [naam 1] ) ontving vanaf 10 december 2001 een bijstandsuitkering, laatstelijk ingevolge de Wwb, naar de norm van een alleenstaande ouder. Verweerder heeft op 21 december 2011 een anonieme melding ontvangen, inhoudende dat [naam 1] al jaren zou samenwonen met eiser op het adres [adres] te [woonplaats] . [naam 1] heeft twee kinderen, die beiden door eiser zijn erkend. Door verweerder op 10 november 2011 uitgevoerd onderzoek van de Gemeentelijke Basisadministratie (GBA) heeft uitgewezen dat de woon- of verblijfplaats van eiser onbekend is. Uit dossieronderzoek is verweerder vervolgens gebleken dat op 2 mei 2007 een huisbezoek heeft plaatsgevonden bij diens moeder [moeder] . Volgens de van dit huisbezoek opgemaakte rapportage heeft [moeder] tijdens het huisbezoek min of meer te kennen gegeven dat eiser bij [naam 1] zou wonen. De jongste dochter was toen net geboren en het geboortekaartje dat verweerder aantrof in de woning van [moeder] vermelde de namen van eiser, [naam 1] en het adres van [naam 1] . Een dag later heeft [moeder] vervolgens weer ontkend dat haar zoon met [naam 1] zou samenwonen. Na dit dossieronderzoek heeft verweerder vervolgens van 19 november 2012 tot en met 14 december 2012 observaties uitgevoerd bij de woning van [naam 1] . Daaruit is naar voren gekomen dat eiser gedurende die gehele periode bij [naam 1] heeft verbleven. Zijn auto stond dagelijks in de buurt van haar woning geparkeerd en hij verliet elke ochtend diezelfde woning om van daaruit naar zijn werk te gaan. Uiteindelijk heeft in 2013 en 2014 nog bijzonder onderzoek door de sociale recherche plaatsgevonden. De resultaten daarvan zijn onder meer neergelegd in het op ambtsbelofte opgemaakte proces-verbaal van bevindingen van 10 maart 2014. De resultaten van dat onderzoek en de eerdere observaties zijn voor verweerder aanleiding geweest om het recht van [naam 1] op bijstand over de periode van 28 februari 2007 tot en met 28 februari 2014 in te trekken en van haar uiteindelijk een bedrag van € 118.291,44 bruto terug te vorderen. Daarnaast heeft verweerder van haar een bedrag van € 3.066,- aan bijzondere bijstand en langdurigheidstoeslag teruggevorderd. Bij besluit van 23 juli 2014 heeft verweerder de ten onrechte aan [naam 1] verstrekte bijstand ter grootte van € 121.357,44 mede van eiser teruggevorderd en dit besluit na heroverweging gehandhaafd.3.	In beroep heeft eiser betwist dat hij in het bewuste tijdvak met [naam 1] een gezamenlijke huishouding heeft gevoerd op haar woonadres. Hij acht de verklaringen van de getuigen te algemeen om op basis daarvan aan te nemen dat hij zijn hoofdverblijf bij [naam 1] had. Daarnaast is het de vraag of eiser in de te beoordelen periode ook heeft voldaan aan het criterium van wederzijdse zorg. Eiser heeft er verder op gewezen dat de vordering te hoog is om in één keer te worden terugbetaald. Hij acht het onredelijk dat zijn verzoek om te komen tot een minnelijke betalingsregeling niet door verweerder is uitgevoerd, en de vordering in plaats daarvan is overgedragen aan een incassobureau. De tussenkomst van dit bureau brengt hogere kosten mee, die op hem worden verhaald. Ten slotte vindt eiser het niet redelijk dat de kosten van de openbare betekening op hem worden verhaald, terwijl hij al in bezwaar te kennen heeft gegeven woonplaats te kiezen op het adres van zijn gemachtigde.4.	De rechtbank overweegt het volgende.4.1	Het besluit tot medeterugvordering van bijstand is een voor eiser belastend besluit. Het is aan verweerder om de nodige kennis te vergaren over de relevante feiten en omstandigheden. Dat betekent dat de last om aannemelijk te maken dat aan de vereisten voor medeterugvordering is voldaan in beginsel op verweerder rust. 4.2	Tussen partijen is in geschil of eiser met [naam 1] in de te beoordelen periode een gezamenlijke huishouding heeft gevoerd. Ingevolge artikel 3, vierde lid, aanhef en onder b, van de Wwb wordt een gezamenlijke huishouding in ieder geval aanwezig geacht als de belanghebbenden hun hoofdverblijf hebben in dezelfde woning en uit hun relatie een kind is geboren of erkenning heeft plaatsgevonden van een kind van de een door de ander. 4.3	De rechtbank stelt vast dat [naam 1] moeder is van twee kinderen: [kind 1] (geboren op [datum 1] ) en [kind 2] (geboren op [datum 2] ). Eiser is de vader van [kind 2] en hij heeft daarnaast ook het eerste kind van [naam 1] erkend. Eiser heeft er, laatstelijk ter zitting, de nadruk op gelegd dat er in zijn geval geen sprake is geweest van wederzijdse zorg. Voor de beantwoording van de vraag of gedurende de hier te beoordelen periode sprake was van een gezamenlijke huishouding is echter gelet op hetgeen hiervoor onder 4.2 is overwogen enkel nog bepalend of eiser en [naam 1] beiden hun hoofdverblijf hadden in haar woning. Die vraag moet worden beantwoord aan de hand van concrete feiten en omstandigheden.  Het antwoord op de vraag naar de wederzijdse zorg kan derhalve in het midden blijven. Dit heeft tot gevolg dat de rechtbank geen acht zal slaan op de in dat kader naar voren gebrachte argumenten. 4.4	Verweerder heeft onderzoek verricht of laten verrichten naar de rechtmatigheid van de aan [naam 1] verstrekte Wwb-uitkering. In 2012 is daartoe locatieonderzoek gedaan en in 2013/2014 heeft de sociale recherche nog bijzonder onderzoek verricht. De resultaten daarvan zijn neergelegd in het rapport van bevindingen van 24 februari 2014 en het proces-verbaal van bevindingen van 10 maart 2014. De rechtbank is vervolgens van oordeel dat de bevindingen van de onderzoeken de conclusie rechtvaardigen dat eiser en [naam 1] vanaf de geboorte van hun dochter [kind 2] op 28 februari 2007 gezamenlijk hun hoofdverblijf hadden in de woning van [naam 1] op de Doornstraat 291 te Den Haag. De rechtbank acht daarbij allereerst van belang dat eiser in zijn tweede, op 17 februari 2014 afgelegde, verklaring duidelijk heeft aangegeven dat hij vanaf de geboorte van zijn dochter [kind 2] bij [naam 1] woont, met een onderbreking van hooguit een maand. Hoewel hij ter zitting van die verklaring is teruggekomen, ziet de rechtbank geen grond voor het oordeel dat eiser niet aan die verklaring mag worden gehouden. Niet aannemelijk is gemaakt dat er tijdens de verhoren ontoelaatbare druk op hem is uitgeoefend. Hier komt bij dat zijn verklaring in belangrijke mate aansluit bij die van [naam 1] . [naam 1] heeft immers op 17 februari 2014 onder meer verklaard dat er in 2007 en 2008 periodes zijn geweest dat eiser afwisselend wel en niet bij haar woonde. In 2009 en 2010 is hij volgens de verklaring van [naam 1] regelmatig bij haar langsgekomen of verbleef hij de meeste tijd bij haar. [naam 1] weet niet meer precies wanneer eiser bij haar is komen wonen, wel dat dat in ieder geval al enkele jaren het geval is. Ook heeft [naam 1] erkend dat eiser in september 2012, maart 2013 en december 2013 haar huur heeft betaald, omdat hij toen bij haar woonde. Ook [naam 1] heeft, laatstelijk ter zitting, betoogd dat zij niet aan haar afgelegde verklaringen mag worden gehouden. De rechtbank ziet daar echter geen reden voor, nu ook ten aanzien van haar verklaringen niet is gebleken dat deze onder ontoelaatbare druk zijn afgelegd, onjuist zijn of om een andere reden buiten beschouwing zouden moeten blijven. 4.5	In het kader van het bijzonder onderzoek zijn er ook getuigen gehoord. De rechtbank acht van belang de verklaringen van twee bewoners van het appartementencomplex [adres] ( [naam 2] en [naam 1]  ). Ook die ondersteunen het standpunt dat eiser ten tijde van belang bij [naam 1] woonde. De hiervan afwijkende verklaringen van [naam 3] en van [naam 4] acht de rechtbank minder zwaarwegend. [naam 3] is de moeder van [naam 1] , zodat zij niet als objectieve getuige kan worden aangemerkt, en [naam 4] heeft verklaard weinig contact te hebben gehad met eiser en [naam 1] .  4.6	Ten slotte acht de rechtbank het van belang dat de uitkomst van het locatieonderzoek en de waarnemingen die in het kader van het bijzonder onderzoek zijn gedaan in de periode van respectievelijk 19 november 2012 tot en met 14 december 2012 en van 8 tot en met 18 september 2013 ook ondersteunen dat eiser en [naam 1] in die periodes hun gezamenlijk hoofdverblijf hadden op het adres van [naam 1] . In die tijdvakken verbleef eiser immers dagelijks bij [naam 1] . 4.7	Uit het voorgaande volgt dat verweerder terecht tot de conclusie is gekomen dat eiser en [naam 1] ten tijde van belang hun gezamenlijke hoofdverblijf op het adres van [naam 1] hadden. Gelet op het uit de relatie geboren kind en het door eiser daarnaast (ook) erkende kind, is daarmee gegeven dat eiser en [naam 1] in de bewuste periode een gezamenlijke huishouding hebben gevoerd. Doordat [naam 1] verweerder niet van de gezamenlijk huishouding op de hoogte heeft gesteld, heeft zij de op haar ingevolge artikel 17, eerste lid, van de Wwb rustende inlichtingenplicht geschonden, waardoor zij in de periode van 28 februari 2007 tot en met 28 februari 2014 ten onrechte bijstand heeft ontvangen. 4.8	Ingevolge artikel 59, tweede lid, van de Wwb kunnen kosten van bijstand, indien de bijstand als gezinsbijstand aan gehuwden had moeten worden verleend maar zulks achterwege is gebleven, omdat de belanghebbende de inlichtingenplicht van artikel 17 van de Wwb heeft geschonden, mede worden teruggevorderd van de persoon met wiens middelen bij de verlening van bijstand rekening had moeten worden gehouden. Beide personen zijn ingevolge artikel 59, derde lid, van de Wwb, hoofdelijk aansprakelijk voor de terugbetaling van kosten van bijstand die worden teruggevorderd.4.9	Niet in geschil is dat eiser in de van belang zijnde periode inkomsten uit arbeid genoot en dat verweerder voor de beoordeling van het recht van [naam 1] op bijstand met deze inkomsten geen rekening heeft kunnen houden. Verweerder was daarom ingevolge artikel 59, tweede lid, van de Wwb bevoegd om de aan [naam 1] ten onrechte of te veel verstrekte bijstand mede van eiser terug te vorderen. Niet gebleken is van omstandigheden op grond waarvan verweerder in eisers geval niet in redelijkheid van deze bevoegdheid gebruik heeft kunnen maken. 4.10	Wat betreft eisers betoog dat het bedrag te groot is om in één keer terug te betalen, overweegt de rechtbank dat verweerder – al dan niet via beslag – waarschijnlijk maandelijks een bedrag van eiser zal gaan invorderen. Daarbij zal verweerder de zogeheten beslagvrije voet (artikel 475b en 475c van het Wetboek van Burgerlijke Rechtsvordering) in acht moeten nemen, zodat eiser altijd over een minimum inkomen zal kunnen beschikken. Bovendien geldt dat deze beroepsgrond ziet op de invordering van het betreffende bedrag, hetgeen buiten de omvang van het onderhavige geding valt. Om dezelfde reden komt de rechtbank niet toe aan een beoordeling van eisers gronden over een mogelijke betalingsregeling, de inschakeling van een incassobureau en de openbare betekening van de vordering.
+
+5. Gelet op het voorgaande is het beroep ongegrond.
+
+6. Er is geen aanleiding voor een proceskostenveroordeling.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. M.M. Meessen, voorzitter, en mr. D. Biever en mr. B. Hammer, leden, in aanwezigheid van mr. W. Goederee, griffier.
+
+De beslissing is in het openbaar uitgesproken op 31 juli 2015.
+
+griffier						voorzitter
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hoger beroepsrechter worden verzocht om het treffen van een voorlopige voorziening.
