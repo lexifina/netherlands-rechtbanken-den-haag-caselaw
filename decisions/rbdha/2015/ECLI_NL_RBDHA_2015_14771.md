@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2015:14771"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/40", "V-N 2016/6.2.1", "Belastingadvies 2016/4.4", "FutD 2016-0059 met annotatie van Fiscaal up to Date", "NTFR 2016/735 met annotatie van mr. W. Verstijnen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/40", "V-N 2016/6.2.1", "Belastingadvies 2016/4.4", "NTFR 2016/735 met annotatie van mr. W. Verstijnen", "FutD 2016-0059", "Viditax (FutD) 2016010701"]
 ---
 
 # ECLI:NL:RBDHA:2015:14771 Rechtbank Den Haag , 25-11-2015 / AWB - 15 _ 4243 en 15_4244
