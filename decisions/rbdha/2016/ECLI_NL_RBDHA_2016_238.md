@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2016:238"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/569", "FutD 2016-0732", "FutD 2016-0733", "NTFR 2016/1450 met annotatie van J.J.H. Reijnen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/569", "NTFR 2016/1450 met annotatie van J.J.H. Reijnen LLM", "FutD 2016-0732", "FutD 2016-0733", "Viditax (FutD) 2016031405"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2017:1963, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
