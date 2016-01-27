@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2016:741"
-published_in: ["Rechtspraak.nl", "AR 2016/290", "RO 2016/30", "PJ 2016/50", "JONDR 2016/580", "AR-Updates.nl 2016-0110", "OR-Updates.nl 2016-0049", "PR-Updates.nl AR-2016-0110"]
+published_in: ["Rechtspraak.nl", "AR 2016/290", "RO 2016/30", "PJ 2016/50", "JONDR 2016/580", "AR-Updates.nl 2016-0110", "OR-Updates.nl 2016-0049", "PR-Updates.nl AR-2016-0110", "PR-Updates.nl 2016-0110"]
 ---
 
 # ECLI:NL:RBDHA:2016:741 Rechtbank Den Haag , 27-01-2016 / C/09/485682 / HA ZA 15-0378
