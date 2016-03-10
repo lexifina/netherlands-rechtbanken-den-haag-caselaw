@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2016:2852"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/933", "V-N 2016/27.2.2", "FutD 2016-1072", "NTFR 2016/1669 met annotatie van mr. J. Nieuwenhuizen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/933", "V-N 2016/27.2.2", "NTFR 2016/1669 met annotatie van mr. J. Nieuwenhuizen", "FutD 2016-1072", "Viditax (FutD) 2016042103"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2016:3314, Bekrachtiging/bevestiging"]]
 ---
 
