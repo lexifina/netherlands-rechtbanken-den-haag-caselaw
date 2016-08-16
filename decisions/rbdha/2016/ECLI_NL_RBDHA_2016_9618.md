@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2016:9618"
-published_in: ["Rechtspraak.nl", "FJR 2017/64.23", "JPF 2016/126", "PFR-Updates.nl 2016-0217"]
+published_in: ["Rechtspraak.nl", "FJR 2017/64.23", "JPF 2016/126", "PFR-Updates.nl 2016-0217", "FJR 2026/46.56"]
 cites_law: ["netherlands/national/acts/bw-boek-1/art-377a.md"]
 ---
 
