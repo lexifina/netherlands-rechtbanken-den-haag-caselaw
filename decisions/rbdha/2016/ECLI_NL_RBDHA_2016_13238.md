@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2016:13238"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2463", "V-N 2016/64.7 met annotatie van Redactie", "FutD 2016-2838", "NTFR 2017/144 met annotatie van mr. drs. A.C.M. Kuypers", "NLF 2016/0608 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2463", "V-N 2016/64.7 met annotatie van Redactie", "NLF 2016/0608", "NTFR 2017/144 met annotatie van mr. drs. A.C.M. Kuypers", "FutD 2016-2838", "Viditax (FutD) 2016111503"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-02-003.md"]
 ---
 
