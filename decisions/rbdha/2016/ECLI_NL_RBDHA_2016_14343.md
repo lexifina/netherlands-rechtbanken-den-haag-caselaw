@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2016:14343"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2787", "Vp-bulletin 2017/11", "FutD 2016-3099", "NTFR 2017/108", "NLF 2016/0813 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2787", "Vp-bulletin 2017/11 met annotatie van Redactie", "NLF 2016/0813", "FutD 2016-3099", "Viditax (FutD) 2016121210"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2017:1723, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/awb/art-07-001.md", "netherlands/national/acts/awb/art-08-001.md", "netherlands/national/acts/awr/art-026.md"]
 ---
