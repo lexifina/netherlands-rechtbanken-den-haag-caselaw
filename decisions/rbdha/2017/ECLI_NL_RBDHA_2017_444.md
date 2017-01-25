@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2017:444"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/294", "V-N 2017/15.12 met annotatie van Redactie", "FutD 2017-0372 met annotatie van Fiscaal up to Date", "NTFR 2017/842 met annotatie van MR. E. ALINK", "NLF 2017/0344 met annotatie van", "NLF 2017/0344 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/294", "V-N 2017/15.12 met annotatie van Redactie", "NLF 2017/0344", "NLF 2017/0344", "NTFR 2017/842 met annotatie van MR. E. ALINK", "FutD 2017-0372", "Viditax (FutD) 2017020802"]
 ---
 
 # ECLI:NL:RBDHA:2017:444 Rechtbank Den Haag , 25-01-2017 / AWB - 16 _ 7206
