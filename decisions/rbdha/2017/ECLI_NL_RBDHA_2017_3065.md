@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2017:3065"
-published_in: ["Rechtspraak.nl", "V-N 2017/32.16.7", "V-N Vandaag 2017/866", "FutD 2017-0984", "NTFR 2017/1446", "NLF 2017/0922 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N 2017/32.16.7", "V-N Vandaag 2017/866", "NTFR 2017/1446", "NLF 2017/0922", "FutD 2017-0984", "Viditax (FutD) 2017041804"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-003.md"]
 ---
 
