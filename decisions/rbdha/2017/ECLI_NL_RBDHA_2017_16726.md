@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2017:16726"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0719", "PJ 2019/100", "PR-Updates.nl PR-2019-0098"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0719", "PJ 2019/100", "PR-Updates.nl PR-2019-0098", "VAAN-AR-Updates.nl 2019-0719", "PR-Updates.nl 2019-0098"]
 ---
 
 # ECLI:NL:RBDHA:2017:16726 Rechtbank Den Haag , 27-04-2017 / 5312856 / RL EXPL 16-22844
