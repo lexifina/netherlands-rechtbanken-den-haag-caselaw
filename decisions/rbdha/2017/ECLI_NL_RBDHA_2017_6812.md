@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2017:6812"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1628", "NTFR 2017/2077", "NLF 2017/1783 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1628", "NLF 2017/1783", "Viditax (FutD) 2017070503"]
 ---
 
 # ECLI:NL:RBDHA:2017:6812 Rechtbank Den Haag , 18-05-2017 / AWB - 16 _ 6208
