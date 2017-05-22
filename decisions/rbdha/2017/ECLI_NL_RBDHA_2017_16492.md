@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2017:16492"
-published_in: ["Rechtspraak.nl", "PJ 2018/93", "RAR 2018/114", "AR-Updates.nl 2018-0507", "PR-Updates.nl PR-2018-0055"]
+published_in: ["Rechtspraak.nl", "PJ 2018/93", "RAR 2018/114", "AR-Updates.nl 2018-0507", "PR-Updates.nl PR-2018-0055", "VAAN-AR-Updates.nl 2018-0507", "PR-Updates.nl 2018-0055"]
 ---
 
 # ECLI:NL:RBDHA:2017:16492 Rechtbank Den Haag , 22-05-2017 / 5787146 RP VERZ 17-50150
