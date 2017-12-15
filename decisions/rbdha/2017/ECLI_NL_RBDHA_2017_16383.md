@@ -16,6 +16,8 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 Unofficial English translation ECLI:NL:RBDHA:2017:14782 (09/748013-12) judgment District Court of The Hague, multiple judge panel of the Criminal Court responsible for cases concerning international crimes.
 
 Based upon the testimony of a number of witnesses and documents received from the Ethiopian authorities and found in the defendants home, the court has established the involvement of the defendant in the arbitrary detention of over 300 persons in cruel and degrading circumstances, the torture of more than 6 persons and the killing of 75 persons. He ordered the detention and killings and did not stop the torture.
