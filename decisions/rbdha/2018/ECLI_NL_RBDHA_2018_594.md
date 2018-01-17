@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:594"
-published_in: ["Rechtspraak.nl", "PJ 2018/80 met annotatie van W.P.M. Thijssen", "PFR-Updates.nl 2018-0041", "PR-Updates.nl PR-2018-0010", "FJR 2020/32.20", "FJR 2020/32.74"]
+published_in: ["Rechtspraak.nl", "PJ 2018/80 met annotatie van W.P.M. Thijssen", "PFR-Updates.nl 2018-0041", "PR-Updates.nl PR-2018-0010", "FJR 2020/32.20", "FJR 2020/32.74", "PR-Updates.nl 2018-0010"]
 ---
 
 # ECLI:NL:RBDHA:2018:594 Rechtbank Den Haag , 17-01-2018 / C/09/529857 / HA ZA 17-362
