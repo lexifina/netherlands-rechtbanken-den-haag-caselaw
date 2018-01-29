@@ -1,0 +1,333 @@
+---
+ecli: "ECLI:NL:RBDHA:2018:835"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "SGR 17/335"
+decided: "2018-01-29"
+published: "2018-01-29"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Omgevingsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:835"
+published_in: ["Rechtspraak.nl", "JOM 2018/126", "Jurisprudentie Grondzaken 2018/107 met annotatie van Loo, F.M.A. van der"]
+---
+
+# ECLI:NL:RBDHA:2018:835 Rechtbank Den Haag , 29-01-2018 / SGR 17/335
+
+## Inhoudsindicatie
+
+Ambtshalve aanpassing vergunningvoorschriften; PGS 29
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Bestuursrecht
+
+zaaknummer: SGR 17/335
+
+uitspraak van de meervoudige kamer van 29 januari 2018 in de zaak tussen
+
+Maatschap Europoort Terminal N.V., te Rotterdam, eiseres
+(gemachtigden: mr. M.G.J. Maas-Cooymans en mr. B. Ebben),
+
+tegen
+
+het college van gedeputeerde staten van Zuid-Holland, verweerder
+(gemachtigden: mr. S. Eekhout en ing. J. van Houten).
+
+Als derde-partij heeft aan het geding deelgenomen: de inspecteur-generaal van de Inspectie Leefomgeving en Transport, te Den Haag
+
+(gemachtigde: mr. K. Ulmer).
+
+Procesverloop
+
+Bij besluit van 25 november 2016 (het bestreden besluit) heeft verweerder een aantal voorschriften gewijzigd, die verbonden waren aan de op 13 december 1971, 8 juni 1972, 21 juni 1973, 31 oktober 1974, 21 november 1974, 28 maart 1978, 20 maart 2003, 9 november 2010 en 20 juli 2012 aan eiseres verleende vergunningen voor de inrichting aan [adres] te Rotterdam.
+
+Eiseres heeft tegen het bestreden besluit beroep ingesteld.
+
+Derde-partij heeft haar zienswijze op het beroep gegeven.
+
+De rechtbank heeft de Stichting Advisering Bestuursrechtspraak voor Milieu en Ruimtelijke Ordening (StAB) als deskundige benoemd. De StAB heeft op 13 juli 2017 een deskundigenbericht uitgebracht.
+
+Eiseres heeft bij brief van 21 augustus 2017 gereageerd. Verweerder heeft bij brief van 15 september 2017 gereageerd. Derde-partij heeft bij brief van 18 augustus 2017 gereageerd.
+
+De StAB heeft op 13 oktober 2017 een aanvullend deskundigenbericht uitgebracht.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Eiseres heeft bij brief van 16 oktober 2017 gereageerd op de reactie van verweerder op het deskundigenbericht.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 9 november 2017. Eiseres heeft zich laten vertegenwoordigen door haar gemachtigden. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden, werkzaam bij de DCMR Milieudienst Rijnmond. Derde-partij heeft zich laten vertegenwoordigen door zijn gemachtigde. Namens de StAB zijn verschenen [persoon 1] en [persoon 2]. De zaak is ter zitting gevoegd behandeld met de zaken met kenmerk SGR 17/299 en SGR 17/301. Na de behandeling ter zitting zijn de zaken gesplitst.
+
+Overwegingen
+
+1. Eiseres drijft een inrichting ten behoeve van het aan- en afvoeren en op- en overslaan van ruwe olie en aardolieproducten. Daarnaast worden verschillende soorten ruwe olie gemengd.
+
+2. Bij het bestreden besluit heeft verweerder op grond van de artikelen 2.30 en 2.31 van de Wet algemene bepalingen omgevingsrecht (Wabo) ambtshalve diverse vergunningvoorschriften aangepast. Verweerder heeft daaraan ten grondslag gelegd dat de nadelige gevolgen die de inrichting voor het milieu veroorzaakt, gezien de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu, verder moeten worden beperkt. Verweerder heeft bij de bepaling van de beste beschikbare technieken (BBT) rekening gehouden met de Publicatiereeks Gevaarlijke Stoffen 29 “Richtlijn voor bovengrondse opslag van brandbare vloeistoffen in verticale cilindrische tanks” uit 2008 (PGS 29:2008). Deze richtlijn is ingevolge artikel 5.4, eerste lid, van het Besluit omgevingsrecht (Bor), in samenhang gelezen met de bijlage bij artikel 9.2 van de Ministeriële regeling omgevingsrecht (Mor) in 2010 aangewezen als BBT-document. Omdat PGS 29:2008 niet meer actueel is, heeft verweerder de BBT nader bepaald aan de hand van de Tabel van erkende maatregelen (hierna: de Tabel) behorend bij de brief van de staatssecretaris van Infrastructuur en Milieu van 15 februari 2016.
+
+3. De rechtbank merkt op dat PGS 29 inmiddels is herzien. In juli 2016 is de eerste herziening gepubliceerd (PGS 29:2016, versie 1.0). In december 2016 (PGS 29:2016, versie 1.1) is daarop een aantal wijzigingen aangebracht. PGS 29:2016, versie 1.1 is per 1 oktober 2017 in het Mor opgenomen als BBT-document (Stcrt. 2017, 53562).
+
+Grondslag bestreden besluit
+
+4.1
+
+Eiseres betoogt dat verweerder niet bevoegd is de vergunning ambtshalve te actualiseren met toepassing van artikel 2.31, eerste lid, aanhef en onder b, gelezen in samenhang met artikel 2.30, eerste lid, van de Wabo, omdat wijziging van de PGS 29 dan wel de Tabel niet is aan te merken als de ontwikkeling van technische mogelijkheden tot bescherming van het milieu. PGS 29:2008 was bovendien al voor de verlening van de vergunning van 27 april 2010 als BBT-document in het Mor aangewezen. Voor zover de vergunningvoorschriften in het bestreden besluit zijn gebaseerd op PGS 29:2008, had verweerder deze voorschriften dus bij de vergunning van 27 april 2010 moeten opnemen. Dit kan niet alsnog bij de onderhavige vergunning. Eiseres verwijst in dit verband naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 17 augustus 2016 (ECLI:NL:RVS:2016:2245). Eiseres stelt zich subsidiair op het standpunt dat verweerder per vergunningvoorschrift had moeten motiveren of sprake is van een nieuwe technische ontwikkeling. Verder heeft verweerder ten onrechte geen maatwerk geleverd.
+
+4.2.1
+
+In 2013 is gestart met het actualiseren van PGS 29:2008, omdat deze richtlijn niet meer direct toepasbaar was en een aantal onjuistheden en onduidelijkheden bevatte. In het kader van die procedure hebben deskundigen van het bedrijfsleven en de overheid onder de verantwoordelijkheid van de PGS Programmaraad met inbreng van een onder het Brzo+ functionerende stuurgroep op basis van nieuwe inzichten overeenstemming bereikt over een aantal te wijzigen voorschriften. Deze zijn opgenomen in de Tabel. Daarin zijn voorschriften geactualiseerd, verduidelijkt en specifieker gemaakt en wordt verwezen naar de juiste en geactualiseerde normen. Voorts is een aantal voorschriften uit PGS 29:2008 niet meer opgenomen.
+
+4.2.2
+
+De rechtbank is op grond van deze feiten en omstandigheden van oordeel dat de voorschriften die zijn opgenomen in de Tabel de meest recente ontwikkelingen weergeven op het gebied van de bovengrondse opslag van brandbare vloeistoffen in verticale cilindrische tanks en zijn aan te merken als de meest recente technische ontwikkelingen tot bescherming van het milieu. De Tabel biedt daarmee voldoende grondslag voor ambtshalve wijziging van de vergunningvoorschriften op grond van artikel 2.31, eerste lid, aanhef en onder b, in samenhang gelezen met artikel 2.30, eerste lid, van de Wabo. Dat blijkens de lijst van non‑consensus maatregelen behorende bij de brief van de staatssecretaris van 15 februari 2016 niet over alle voorschriften uit de Tabel overeenstemming tussen het bedrijfsleven en de overheid is bereikt, brengt als zodanig niet met zich dat deze voorschriften niet als BBT kunnen worden beschouwd. Daarbij neemt de rechtbank in aanmerking dat om BBT te kunnen vaststellen, niet is vereist dat daarover algehele overeenstemming bestaat. Voorts is niet gebleken dat de maatregelen in hun algemeenheid onuitvoerbaar zijn of een onuitvoerbare last voor de bedrijfstak met zich brengen.
+
+4.3
+
+De rechtbank is van oordeel dat verweerder niet is gehouden bij een dergelijke grootschalige actualisering per vergunningvoorschrift te motiveren dat sprake is van een technische ontwikkeling. De maatregelen in de Tabel vormen het resultaat van voortschrijdend inzicht in het treffen van de noodzakelijke maatregelen om een zogenoemd Buncefieldscenario te voorkomen en veiligheidsrisico’s te beheersen en dienen meer in het algemeen de bescherming van het milieu. Deze maatregelen vormen een samenhangend geheel, dat vertaald is naar de bij het bestreden besluit aan de vergunning verbonden voorschriften. De rechtbank is daarom van oordeel dat verweerder bij de motivering of een voorschrift, gelet op de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu is geïndiceerd, heeft kunnen volstaan met de algemene verwijzing naar de Tabel. Voorts heeft eiseres niet toegelicht welke maatregelen in de Tabel identiek zijn aan de in PGS 29:2008 opgenomen voorbeeldvoorschriften. Reeds daarom gaat de rechtbank voorbij aan haar betoog dat verweerder de bestreden voorschriften reeds bij de vergunning van 27 april 2010 had moeten voorschrijven en thans niet bevoegd is de vergunning ambtshalve te actualiseren.
+
+4.4
+
+Het betoog van eiseres dat de vergunning onvoldoende is toegespitst op de voor haar van toepassing zijnde situatie slaagt evenmin. Niet is gebleken dat verweerder ten onrechte de PGS 29 op de inrichting van eiseres van toepassing heeft geacht. Indien eiseres van mening is dat een bepaald voorschrift niet (onverkort) op haar inrichting dan wel een bepaalde tank van toepassing zou moeten zijn, staat het haar vrij daartoe argumenten naar voren te brengen, zoals zij dat in deze procedure ook heeft gedaan, dan wel gelijkwaardigheid aan te tonen van de in haar inrichting aanwezige afwijkende voorzieningen.
+
+4.5
+
+Gelet op het bovenstaande, is de rechtbank van oordeel dat verweerder bevoegd was de vergunning ambtshalve te wijzigen met toepassing van artikel 2.31, eerste lid, aanhef en onder b, in samenhang gelezen met artikel 2.30, eerste lid, van de Wabo.
+
+Verwijzingen naar de NFPA-normen
+
+5.1
+
+Eiseres betoogt dat diverse vergunningvoorschriften tot rechtsonzekerheid leiden omdat wordt verwezen naar normen van de National Fire Protection Association (NFPA), zonder nadere concretisering welke delen van deze norm van toepassing zijn. Zij verwijst in dit verband naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 15 september 2010 (ECLI:NL:RVS:2010:BN7026) waaruit volgt dat alleen met een verwijzing naar een ander document kan worden volstaan als voldoende duidelijk is welke verplichtingen in het concrete geval daaruit voortvloeien. Als dit onduidelijk is, zijn de voorschriften in strijd met het rechtszekerheidsbeginsel dat eist dat de verplichtingen die voortkomen uit vergunningvoorschriften duidelijk en niet voor meerderlei uitleg vatbaar zijn. Vanwege de omvang, keuzemogelijkheden en mogelijke tegenstrijdigheden van de NFPA-normen met het bestreden besluit, had het op de weg van verweerder gelegen in de vergunningvoorschriften te specificeren welke elementen van de NFPA-normen concreet van toepassing zijn. Eiseres stelt dat de uitvoeringspraktijk van de normen voor haar helder is en dat verweerder heeft erkend dat bedrijven zelf het beste weten hoe met de normen moet worden omgegaan. Zij kan er echter niet op vertrouwen dat verweerder in het kader van toezicht en handhaving ook afgaat op de uitvoeringspraktijk van eiseres. Omdat de NFPA-normen zeer omvangrijk zijn, is het voor eiseres niet mogelijk alle mogelijke problemen vooraf te signaleren.
+
+5.2
+
+Verweerder stelt zich op het standpunt dat het verwijzen naar NFPA-normen in vergunningvoorschriften een internationaal aanvaarde werkwijze is. Reeds in de voorbeeldvoorschriften van PGS 29:2005 werd in zijn algemeenheid naar NFPA-normen verwezen. Voorts bestrijdt verweerder dat in het bestreden besluit integraal wordt verwezen naar NFPA-normen. In de vergunningvoorschriften is bepaald welk NFPA-normblad gebruikt moet worden en voor welk doel. Een dergelijke verwijzing is voldoende duidelijk voor de bij eiseres werkzame deskundigen op het gebied van brandveiligheid. Omdat de inrichting van eiseres over diverse brandveiligheidsvoorzieningen beschikt, is ervoor gekozen om niet voor elke voorziening naar specifieke onderdelen van NFPA-normbladen te verwijzen, maar algemene doelen te formuleren (bijvoorbeeld de benodigde hoeveelheid koelwater of schuimvormend middel) en van daaruit naar de NFPA-normen te verwijzen.
+
+5.3
+
+De StAB stelt in het deskundigenbericht vast dat de door eiseres bestreden vergunningvoorschriften zijn gebaseerd op de Tabel en PGS 29. In alle versies van deze richtlijn wordt verwezen naar integrale normen en richtlijnen als de NFPA, hoewel de verwijzing in sommige gevallen is verbijzonderd. De normen waarnaar in de vergunningvoorschriften is verwezen, voorzien veelal in een breed palet aan keuzemogelijkheden, toepassingsgebieden of scenario’s. Daardoor kunnen bij de handhaving discussies ontstaan over de interpretatie of over welk onderdeel van toepassing is.
+
+5.4
+
+De rechtbank is van oordeel dat verweerder in zijn algemeenheid heeft kunnen volstaan met de verwijzingen naar de NFPA-normen. In de door eiseres bestreden vergunningvoorschriften, waarin wordt verwezen naar deze normen, wordt aangegeven op welke specifieke installaties binnen de inrichting zij van toepassing zijn en wordt het te bereiken doel geconcretiseerd. Hierdoor wordt voldoende duidelijk welke verplichtingen uit het vergunningvoorschrift voortvloeien. Het voert te ver om van verweerder te eisen in elk vergunningvoorschrift en per (onderdeel van de) installatie in de inrichting nader te concretiseren aan welke (sub)onderdelen van de NFPA-normen moet worden voldaan. Dat de handhaving sinds enige jaren is verscherpt, zoals eiseres betoogt, maakt dit niet anders. Door eiseres zijn ook geen concrete voorbeelden genoemd van situaties waarin handhavend is opgetreden door verweerder en sprake was van een dergelijke verwijzing naar een NFPA-norm.
+
+Vergunningvoorschriften
+
+6.1
+
+Vergunningvoorschrift 4.11.2 luidt als volgt:
+
+“Op locaties waar verhoogde brandrisico’s met stoffen van de klassen 0, 1 en 2 aanwezig zijn (zoals o.a. pompputten/-plaatsen en verladingsplaatsen) dienen stationaire watermonitoren aanwezig te zijn om brandoverslag te voorkomen Monitoren die bestemd zijn voor schuimsuppletie moeten voldoende capaciteit hebben om de gehele oppervlakte (of compartiment geschikt voor de opvang van het scenario) te voorzien van een schuimlaag, conform NFPA 11.
+
+De stationaire watermonitoren nabij pompputten en pompplaatsen voor stoffen van de klassen 0, 1 en 2 zijn niet vereist indien aantoonbaar is gezorgd voor een bedrijfsbrandweerinzet conform de Bedrijfsbrandweeraanwijzing van MET van 17 januari 2005.”
+
+6.2
+
+Naar aanleiding van de beroepsgronden van eiseres is verweerder akkoord gegaan met het vervangen van het woord “watermonitoren” door het woord “voorzieningen” conform voorbeeldvoorschrift 4.2.51 van PGS:2016, versie 1.1, mits in de eerste zin “klasse 1 en 2” vervangen wordt door “klasse 0, 1 en/of 2”. Deze aanpassingen zijn opgenomen in de gewijzigde tekst van het voorschrift zoals vermeld in het dictum van deze uitspraak.
+
+6.3
+
+Eiseres kan zich evenwel niet verenigen met de verwijzing naar de bedrijfsbrandweeraanwijzing van 17 januari 2005. Bij wijziging van de bedrijfsbrandweeraanwijzing door de Veiligheidsregio Rotterdam-Rijnmond (VRR) zou zij geconfronteerd kunnen worden met twee met elkaar strijdige soorten voorschriften. Zij staat daarom voor dat in het vergunningvoorschrift wordt opgenomen dat zij, indien de vigerende bedrijfsbrandweeraanwijzing vervalt, goedkeuring kan vragen om de nieuwe bedrijfsbrand-weeraanwijzing na te leven of een gelijkwaardige inzet ter goedkeuring aan het bevoegd gezag kan overleggen die in de plaats komt van de huidige bedrijfsbrandweeraanwijzing.
+
+6.4
+
+Verweerder stelt zich op het standpunt dat in de vergunning moet worden verwezen naar een specifieke bedrijfsbrandweeraanwijzing. De koppeling tussen de omgevingsvergunning en de bedrijfsbrandweeraanwijzing kan namelijk alleen worden gemaakt indien het betreffende scenario waarvoor de bedrijfsbrandweer als gelijkwaardige voorziening wordt ingezet, tevens leidt tot een bedrijfsbrandweerplicht ingevolge art. 31 van de Wet veiligheidsregio’s. Indien de bedrijfsbrandweeraanwijzing wordt aangepast, kan eiseres er ook voor kiezen aan de eerste alinea van het vergunningvoorschrift te voldoen. Het opnemen van een goedkeuringsconstructie is onwenselijk omdat dit het systeem van de Wabo zou doorkruisen. Voorts voorziet verweerder in de praktijk geen problemen. Een verandering in de inrichting kan leiden tot een aanpassing van de bedrijfsbrandweer-aanwijzing, maar zulke veranderingen zijn tevens omgevingsvergunningplichtig, waarbij een eventueel noodzakelijke aanpassing van vergunningvoorschrift 4.11.2 kan worden meegenomen.
+
+6.5
+
+De rechtbank onderschrijft het standpunt van verweerder. Niet in geschil is dat eiseres beschikt over een bedrijfsbrandweerinzet conform de bedrijfsbrandweeraanwijzing van 17 januari 2005. Daarmee voldoet eiseres aan (de tweede alinea) van dit vergunningvoorschrift. Mocht de bedrijfsbrandweeraanwijzing in de toekomst wijzigen, dan kan eiseres verweerder verzoeken vergunningvoorschrift 4.11.2 te wijzigen.
+
+7.1
+
+Vergunningvoorschrift 4.8.1 stelt eisen aan de hoeveelheid schuimvormend middel die op het terrein beschikbaar moet zijn. Het voorschrift is niet van toepassing indien eiseres aantoonbaar lid is van een industriële brandbestrijdingspool (IBP) en voldoet aan de eisen zoals gesteld in vergunningvoorschrift 4.12.1 tot en met 4.12.12, waarin regels staan over de deelname van eiseres aan de IBP.
+
+7.2
+
+Eiseres heeft op 7 mei 2014 met het Openbaar Lichaam Gezamenlijke Brandweer een overeenkomst gesloten inzake de dienstverlening voor de IBP. In de overeenkomst zijn onder meer afspraken gemaakt over de beschikbaarheid van brandbestrijdingsmiddelen.
+
+7.3
+
+Eiseres betoogt dat het opnemen van vergunningvoorschriften 4.8.1 en 4.12.1 tot en met 4.12.12 in strijd is met het specialiteitsbeginsel omdat de voorschriften zaken regelen die elders al geregeld zijn en er bovendien geen milieubelang in het geding is. Niet verweerder maar (het bevoegd gezag van) de VRR is bevoegd dergelijke voorwaarden te stellen en dit is ook gebeurd in de bedrijfsbrandweeraanwijzing en de overeenkomst van 7 mei 2014. Verweerder had moeten volstaan met de eis dat eiseres moet deelnemen aan een door verweerder erkende IBP en dat deze deelname contractueel wordt vastgelegd, zoals is opgenomen in voorschrift 4.12.1.
+
+7.4
+
+De rechtbank volgt eiseres niet in haar betoog dat vergunningvoorschriften 4.8.1 en 4.12.1 tot en met 4.12.12 geen milieubelang dienen. De voorschriften beogen een effectieve brandbestrijding te verzekeren, met (mede) als doel het voorkomen van nadelige gevolgen voor het milieu. Het betoog dat het stellen van de onderhavige voorschriften tot de exclusieve bevoegdheid van de VRR behoort, slaagt evenmin. Verweerder kan op grond van artikel 5.7, eerste lid, aanhef en onder g, van het Bor vergunningvoorschriften opnemen met betrekking tot het voorkomen van ongevallen en het beperken van de gevolgen van ongevallen. Dat deze vergunningvoorschriften strijdig zijn met de bedrijfsbrandweer-aanwijzing of de overeenkomst van 7 mei 2014, dan wel dat deze voorschriften onevenredig bezwarend zijn, is niet onderbouwd of gebleken.
+
+8. Eiseres heeft ter zitting haar beroepsgronden tegen vergunningvoorschrift 2.15.2, 3.2.3 en paragraaf 2.22 van het bestreden besluit ingetrokken. Voorts stelt de rechtbank op grond van de stukken en het verhandelde ter zitting vast dat eiseres en verweerder ten aanzien van de hierna te noemen vergunningvoorschriften overeenstemming hebben bereikt over aanpassingen aan de tekst. Wat betreft deze voorschriften ziet de rechtbank aanleiding het beroep gegrond te verklaren, het bestreden besluit te vernietigen en met toepassing van artikel 8:72, derde lid, aanhef en onder b, van de Algemene wet bestuursrecht, zelf in de zaak te voorzien, op de wijze zoals in het dictum van deze uitspraak is weergegeven.
+
+9. Vergunningvoorschrift 2.2.1 wordt vervangen door de tekst van voorbeeldvoorschrift 3.4.3 van PGS 29:2016, versie 1.1. Vergunningvoorschrift 2.4.1 wordt vervangen door de in het dictum opgenomen tekst. Vergunningvoorschrift 2.4.2 wordt vervangen door de in het dictum opgenomen tekst. De toelichting vervalt. Vergunningvoorschrift 2.7.2 wordt vervangen door de tekst van voorbeeldvoorschrift 2.3.13 van PGS 29:2016, versie 1.1. Vergunningvoorschrift 2.10.1 wordt vervangen door de tekst van voorbeeldvoorschrift 3.5.6 van PGS 29:2016, versie 1.1. Vergunningvoorschrift 2.18.1 vervalt. In vergunningvoorschrift 2.19.2 wordt een asterisk geplaatst achter “afmetingen en nominale capaciteit van tankfundering en tankput”. Vergunningvoorschrift 2.20.4 wordt vervangen door de tekst van voorbeeldvoorschrift 3.8.3 van PGS 29:2016, versie 1.1 en vergunningvoorschrift 2.20.5 vervalt. Vergunningvoorschrift 3.1.1 wordt vervangen door de tekst van voorbeeldvoorschrift 3.5.7 van PGS 29:2016, versie 1.1. Vergunningvoorschrift 3.2.2. wordt vervangen door de tekst van voorbeeldvoorschrift 3.5.12 van PGS 29:2016, versie 1.1. Vergunningvoorschrift 3.2.4 wordt vervangen door de in het dictum opgenomen tekst. Vergunningvoorschriften 4.7.2 en 4.7.3 worden vervangen door de in het dictum opgenomen teksten.
+
+10. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiseres het door haar betaalde griffierecht vergoedt.
+
+11. De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.252,50 (1 punt voor het indienen van het beroepschrift, 0,5 punt voor het geven van een schriftelijke zienswijze naar aanleiding van het deskundigenbericht van de StAB en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 501,- en wegingsfactor 1).
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+- vernietigt het bestreden besluit voor zover het betreft de vergunningvoorschriften 2.2.1, 2.4.1, 2.4.2, 2.7.2, 2.10.1, 2.18.1, 2.19.2, 2.20.4, 2.20.5, 3.1.1, 3.2.2, 3.2.4, 4.7.2, 4.7.3 en 4.11.2;
+
+- bepaalt dat deze vergunningvoorschriften overeenkomstig onderstaande teksten komen te luiden, met uitzondering van vergunningvoorschriften 2.18.1, 2.20.5 en de toelichting op vergunningvoorschrift 2.4.2, die zijn vervallen;
+
+- draagt verweerder op het betaalde griffierecht van € 333,- aan eiseres te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.252,50.
+
+Vergunningvoorschrift 2.2.1:
+
+“Tanks moeten zijn voorzien van aarding en bliksemafleiding die voldoen, aan de tijdens de bouw van de installatie vigerende norm. Bij nieuwbouw en vervanging van de bliksembeveiliging moet worden voldaan aan NEN-EN-IEC 62305 en NPR 1014.
+
+Het ontwerpen, vervangen en installeren van de aarding en bliksembeveiliging van tanks en installaties moet plaatsvinden door een deskundige die een verklaring afgeeft waaruit blijkt dat de installatie voldoet aan NEN-EN-IEC 62305 en NPR 1014.”
+
+Vergunningvoorschrift 2.4.1:
+
+“De opvangcapaciteit van de tankput moet ten minste gelijk zijn aan de inhoud van de grootste tank vermeerderd met de grootste van de volgende twee volumina:
+
+10% van het volume van de overige tanks in die tankput;
+
+het volume bluswater dat volgens de in de vergunning vereiste capaciteit conform het maximale brandscenario in één uur in de tankput kan worden gebracht.”
+
+Vergunningvoorschrift 2.4.2:
+
+“Als regenwater in een tankput aanwezig kan zijn, moet dit volume, zoals is bepaald in voorschrift 2.4.1, in mindering worden gebracht op de beschikbare opvangcapaciteit. In verband met mogelijk optredende golfslag door de wind, moet rekening worden gehouden met additionele dijkhoogte. Hiertoe moet de tankputdijk verhoogd worden met 15 cm, tenzij kan worden aangetoond met een numeriek golfmodel dat dit niet nodig is.”
+
+Vergunningvoorschrift 2.7.2:
+
+“Een overgang over de putdijk moet van voldoende stevigheid zijn voor het te verwachten transport en de primaire functie van de putdijk intact laten. De overgang moet zijn afgesloten voor verkeer, tenzij het gebruik is beschreven in een procedure of is beschreven in een werkvergunning.”
+
+Vergunningvoorschrift 2.10.1:
+
+“Het gebruik van slangen voor producttransport in de tankput is niet toegelaten als er geen procedure of werkinstructie voor handen is.”
+
+Vergunningvoorschrift 2.19.2:
+
+“Het systeem moet ten minste de volgende data bevatten:
+
+- tanknummer en locatie;
+
+- bouwjaar;
+
+- afmetingen en nominale capaciteit;
+
+- bouwspecificaties en opsomming van materiaal soorten, dikte en kwaliteit*;
+
+- afmetingen en nominale capaciteit van tankfundering en tankput*;
+
+- bouwspecificaties en opsomming van materiaalsoorten van tankfundering en tankput*;
+
+- uitgangspunten voor het onderhoudssysteem;
+
+- gegevens van eventuele reparaties;
+
+- gegevens van eventuele wijzigingen;
+
+- gegevens van keuringen;
+
+- data van keuring en herkeuring;
+
+- specificatie van keuring en keuringsresultaten (meetresultaten, foto’s);
+
+- specificatie van de instantie, die de metingen en keuringen heeft verricht.
+
+*indien deze gegevens ontbreken worden hiermee de gegevens uit de ‘Fit for purpose’
+
+analyse/berekening bedoeld.”
+
+Vergunningvoorschrift 2.20.4:
+
+“Voor het slopen van een tank (of een serie tanks) moeten de richtlijnen worden gevolgd zoals die omschreven zijn in EEMUA 154.
+
+De gebruiker stelt de aannemer op de hoogte van de huidige conditie van de tank(s) om de sloopwerkzaamheden veilig te kunnen uitvoeren.”
+
+Vergunningvoorschrift 3.1.1:
+
+“Pijpleidingen met een werkdruk kleiner of gelijk aan 0,5 bar, waarin giftige en/of brandgevaarlijke stoffen voorkomen, alsmede het toebehoren, moeten vóór ingebruikname een drukweerstandsproef hebben ondergaan zoals bedoeld in de oorspronkelijke ontwerpcode.”
+
+Vergunningvoorschrift 3.2.2:
+
+“Leidingen en leidingondersteuningen die aan een weg zijn gelegen en waarbij een risico bestaat op een aanrijding (vb. ter plaatse van een bocht of een kruising) moeten zijn beschermd door vangrails of een gelijkwaardige constructie.”
+
+Vergunningvoorschrift 3.2.4:
+
+“Ondergrondse leidingen met toebehoren waardoor bodembedreigende stoffen worden
+
+vervoerd, moeten tegen corrosie zijn beschermd. Indien door bodemonderzoek is vastgesteld
+
+dat:
+
+de specifieke elektrische bodemweerstand kleiner is dan 50 ohm.meter (in waterwingebieden 100 ohm.meter), of
+
+de zuurgraad (pH) kleiner is dan 6, of
+
+de beïnvloeding door zwerfstromen groter is dan met de toegestane interferentiecriteria overeenkomt of
+
+verbindingen voorkomen tussen ongelijksoortige metalen, die galvanische corrosie kunnen veroorzaken, of
+
+het milieu anaeroob is,
+
+dan moeten, tenzij er om andere technische redenen bezwaren bestaan (zoals beschreven in
+
+de toelichting), ondergrondse pijpleidingen met toebehoren waardoor bodemverontreinigende stoffen worden vervoerd, uitwendig tegen corrosie zijn beschermd door middel van een kathodische bescherming volgens de NEN 6912. Kathodische bescherming is niet nodig bij bijvoorbeeld wegdoorvoeringen en dijkdoorvoeringen die op een andere wijze beschermd zijn tegen bodemcorrosie zoals thermisch geïsoleerde leidingen. Indien relevant moet ook NEN-EN 50162 “bescherming tegen corrosie door zwerfstromen uit gelijkspanningssystemen” toegepast worden. Protocol 6801 van de AS SIKB 6800, “kathodische bescherming” kan toegepast worden bij het onderzoek.
+
+Aanvullend hierop moet in plaats van de hierin genoemde grenswaarde van de metaal
+
+elektrolytpotentiaal steeds de polarisatiepotentiaal worden gehanteerd. De kathodische
+
+bescherming moet door een deskundige op ontwerp, uitvoering en goede werking zijn
+
+gecontroleerd en goedgekeurd in overeenstemming met de handleiding NEN-EN 13509
+
+“Meettechnieken van kathodische bescherming”.
+
+Toelichting:
+
+Bij bestaande installaties is het in sommige gevallen niet mogelijk om achteraf een kathodische bescherming aan te brengen, te denken valt aan elektrisch geleidende verbindingen met bovengrondse installatiedelen die niet opgeheven kunnen worden, leidingen die dicht naast elkaar liggen of leidingen die onder staalconstructies doorlopen. In deze gevallen moet op basis van een risicobeoordeling een periodieke inspectie plaatsvinden van de integriteit van de uitwendige coating.”
+
+Vergunningvoorschrift 4.7.2:
+
+“In tankputten met tanks met uitwendig drijvende daken mag de stationaire koeling
+
+achterwege blijven, mits de afstand tussen de tanks zo groot is dat bij een brand in een
+
+naburige tank een hittebelasting van 10 kW/m2 niet kan worden overschreden en het
+
+brand risico in de omgeving gering is. Hierbij dient men uit te gaan van het geldende
+
+referentiescenario voor drijvend-dak-tanks. Voor tanks met branddetectie in of boven de
+
+rimseal en een stationair blussysteem dat voldoet aan de NFPA 11 is dit een rimbrand.
+
+Zonder deze voorzieningen is dit een tankbrand.”
+
+Vergunningvoorschrift 4.7.3:
+
+“Voor de overige onderdelen van de tankinstallaties geldt het volgende uitgaande van het
+
+tankbrandscenario.
+
+bij drijvend dak tanks mag worden uitgegaan van het rimbrandscenario indien de tanks zijn voorzien van branddetectie in of boven de rimseal en een stationair blussysteem dat voldoet aan de NFPA 11;
+
+installaties/objecten/dragende constructies die kunnen worden aangestraald met een hogere warmtebelasting dan 10 kW/m2 en waarbij ten gevolge van de hittestraling een uitbreiding van de ontstane brand kan ontstaan, moeten worden beschermd tegen de te grote warmtebelasting;
+
+indien koelen met mobiele middelen gewenst is, moeten de effectiviteit en de inzetmogelijkheden daarvan worden aangetoond.
+
+Toelichting:
+
+Dit voorschrift beoogt te beschrijven dat koeling noodzakelijk is voor objecten op de inrichting, die niet elders genoemd zijn in deze PGS, waarbij een significante uitbreiding van het initiële scenario mogelijk is als er niet ingezet wordt op koeling of ander soortgelijke bescherming, zoals bijvoorbeeld fire-proofing. Bij deze hittebelasting van meer dan 70 kW/m2 dienen stationaire systemen in overweging genomen te worden, maar niet in alle gevallen benodigd als met mobiele middelen het zelfde doel bereikt kan worden. Dit zal in het kader van de aanwijzing bedrijfsbrandweren beoordeeld moeten worden. Bij een hittebelasting van meer dan 32 kW/m2 is directe koeling vereist middels een stationair systeem. Als gebruik wordt gemaakt van mobiele middelen dan kunnen in elk geval middels een operationeel plan de effectiviteit en de inzetmogelijkheden worden aangetoond. Het operationeel plan dient schriftelijk te zijn goedgekeurd door het bestuur van de veiligheidsregio binnen wiens gebied de betrokken inrichting geheel of in hoofdzaak zal zijn of is gelegen.
+
+Annex D van de El part 19 geeft een overzicht van de te hanteren capaciteiten aan
+
+koelwater voor de verschillende objecten op de inrichting.”
+
+Vergunningvoorschrift 4.11.2:
+
+“Op locaties waar verhoogde brandrisico’s met stoffen van de klassen 0, 1 en/of 2 aanwezig zijn (zoals o.a. pompputten/-plaatsen en verladingsplaatsen) dienen stationaire voorzieningen aanwezig te zijn om brandoverslag te voorkomen. Voorzieningen die bestemd zijn voor schuimsuppletie moeten voldoende capaciteit hebben om de gehele oppervlakte (of compartiment geschikt voor de opvang van het scenario) te voorzien van een schuimlaag, conform NFPA 11.De stationaire voorzieningen nabij pompputten en pompplaatsen voor stoffen van de klassen 0, 1 en/of 2 zijn niet vereist indien aantoonbaar is gezorgd voor een bedrijfsbrandweerinzet conform de Bedrijfsbrandweeraanwijzing van MET van 17 januari 2005.”
+
+Deze uitspraak is gedaan door mr. C.J. Waterbolk, voorzitter, en mr. D.A.J. Overdijk en mr. A.L. Frenkel, leden, in aanwezigheid van mr. J.V. Veldwijk en mr. E.L. Denters, griffiers. De beslissing is in het openbaar uitgesproken op 29 januari 2018.
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
