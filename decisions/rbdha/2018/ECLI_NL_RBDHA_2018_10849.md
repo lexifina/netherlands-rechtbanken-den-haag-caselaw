@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:10849"
-published_in: ["Rechtspraak.nl", "PJ 2018/178", "PFR-Updates.nl 2018-0241", "PR-Updates.nl PR-2018-0120", "FJR 2020/32.8"]
+published_in: ["Rechtspraak.nl", "PJ 2018/178", "PFR-Updates.nl 2018-0241", "PR-Updates.nl PR-2018-0120", "FJR 2020/32.8", "PR-Updates.nl 2018-0120"]
 ---
 
 # ECLI:NL:RBDHA:2018:10849 Rechtbank Den Haag , 07-02-2018 / C/09/530529 / HA ZA 17-398
