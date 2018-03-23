@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:4990"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1123", "NLF 2018/1252 met annotatie van Sabine de Wijkerslooth-Lhoëst", "Viditax (FutD), 25-05-2018", "FutD 2018-1414", "V-N 2018/35.2.1", "NTFR 2018/1366"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1123", "NLF 2018/1252 met annotatie van Sabine de Wijkerslooth-Lhoëst", "V-N 2018/35.2.1", "FutD 2018-1414", "Viditax (FutD) 2018052517"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2018:3680, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-02-014a.md"]
 ---
