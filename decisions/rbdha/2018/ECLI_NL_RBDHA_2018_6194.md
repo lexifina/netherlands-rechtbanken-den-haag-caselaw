@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:6194"
-published_in: ["Rechtspraak.nl", "PJ 2018/106", "PR-Updates.nl PR-2018-0075", "JERF Actueel 2018/209"]
+published_in: ["Rechtspraak.nl", "PJ 2018/106", "PR-Updates.nl PR-2018-0075", "JERF Actueel 2018/209", "PR-Updates.nl 2018-0075"]
 ---
 
 # ECLI:NL:RBDHA:2018:6194 Rechtbank Den Haag , 03-05-2018 / 6219597/17-19800
