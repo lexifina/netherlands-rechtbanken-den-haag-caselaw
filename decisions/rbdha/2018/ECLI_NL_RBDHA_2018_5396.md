@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:5396"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1187", "FutD 2018-1493", "Viditax (FutD), 04-06-2018", "NLF 2018/1421 met annotatie van Sonja Dusarduijn", "V-N 2018/40.25.5", "NTFR 2018/1499"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1187", "NLF 2018/1421 met annotatie van Sonja Dusarduijn", "V-N 2018/40.25.5", "FutD 2018-1493", "Viditax (FutD) 2018060407"]
 ---
 
 # ECLI:NL:RBDHA:2018:5396 Rechtbank Den Haag , 04-05-2018 / AWB - 17 _ 7987
