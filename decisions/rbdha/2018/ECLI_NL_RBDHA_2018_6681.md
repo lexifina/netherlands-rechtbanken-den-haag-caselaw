@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Europees civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:6681"
-published_in: ["Rechtspraak.nl", "PJ 2018/134", "SEW 2018, afl. 7/8, p. 331", "O&A 2018/48", "PR-Updates.nl PR-2018-0076"]
+published_in: ["Rechtspraak.nl", "PJ 2018/134", "SEW 2018, afl. 7/8, p. 331", "O&A 2018/48", "PR-Updates.nl PR-2018-0076", "PR-Updates.nl 2018-0076"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2019:3423"]]
 ---
 
