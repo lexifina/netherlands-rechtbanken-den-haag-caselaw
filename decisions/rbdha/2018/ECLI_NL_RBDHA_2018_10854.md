@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:10854"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0121", "FJR 2020/32.9"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0121", "FJR 2020/32.9", "PR-Updates.nl 2018-0121"]
 ---
 
 # ECLI:NL:RBDHA:2018:10854 Rechtbank Den Haag , 27-06-2018 / C-09-5305290HA ZA 17-398(2)
