@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:9386"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 04-01-2019", "FutD 2019-0023", "V-N Vandaag 2019/28", "V-N 2019/11.2.2", "NTFR 2019/731", "NLF 2019/0204 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/28", "V-N 2019/11.2.2", "NLF 2019/0204", "FutD 2019-0023", "Viditax (FutD) 2019010408"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2019:1184, Bekrachtiging/bevestiging"]]
 ---
 
