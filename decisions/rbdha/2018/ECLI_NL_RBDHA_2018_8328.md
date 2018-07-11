@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:8328"
-published_in: ["Rechtspraak.nl", "PJ 2018/146", "RO 2018/69", "PR-Updates.nl PR-2018-0096"]
+published_in: ["Rechtspraak.nl", "PJ 2018/146", "RO 2018/69", "PR-Updates.nl PR-2018-0096", "PR-Updates.nl 2018-0096"]
 ---
 
 # ECLI:NL:RBDHA:2018:8328 Rechtbank Den Haag , 11-07-2018 / C/09/551090 / KG ZA 18/342
