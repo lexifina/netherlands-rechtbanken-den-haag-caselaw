@@ -1,0 +1,71 @@
+---
+ecli: "ECLI:NL:RBDHA:2018:8904"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "AWB - 18 _ 4"
+decided: "2018-07-26"
+published: "2018-07-23"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:8904"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2018:8904 Rechtbank Den Haag , 26-07-2018 / AWB - 18 _ 4
+
+## Inhoudsindicatie
+
+Wmo 2015. Verweerder heeft onvoldoende onderzoek gedaan naar eisers ondersteuningsbehoefte ingevolge de Wmo 2015. Beroep gegrond. De rechtbank ziet tevens aanleiding om met toepassing van artikel 8:72, vijfde lid van de Awb een voorlopige voorziening te treffen. Verweerder zal in dat kader worden opgedragen om eiser, tot zes weken nadat op het bezwaar zal zijn beslist, 14 uur begeleiding per week te verstrekken in de vorm van een pgb ter grootte van € 35,- per uur.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Bestuursrecht
+
+zaaknummer: SGR 18/4
+
+uitspraak van de meervoudige kamer van 26 juli 2018 in de zaak tussen
+
+[eiser], te [plaats], eiser
+(gemachtigde: mr. R. Imkamp),
+
+en
+
+het college van burgemeester en wethouders van Wassenaar, verweerder
+(gemachtigde: T.M. de Waard en H. Wester).
+
+Procesverloop
+
+Bij besluit van 26 juni 2017 (het primaire besluit) heeft verweerder eisers aanvraag om individuele begeleiding ingevolge de Wet maatschappelijke ondersteuning 2015 (Wmo 2015) afgewezen.
+
+Eiser heeft tegen het primaire besluit bezwaar gemaakt. Eiser heeft tegen het met een besluit gelijk te stellen niet tijdig beslissen op zijn bezwaar op 29 december 2017 beroep ingesteld.
+
+Bij besluit van 12 februari 2018 heeft verweerder eisers bezwaar ongegrond verklaard.
+
+Het beroep tegen het niet tijdig beslissen op bezwaar richt zich van rechtswege mede tegen de alsnog genomen beslissing op bezwaar van 12 februari 2018 (bestreden besluit).
+
+Eiser heeft de gronden van het mede tegen het besluit van 12 februari 2018 gerichte beroep nader aangevuld.
+
+Verweerder heeft een verweerschrift ingediend en de in het procesdossier ontbrekende stukken aangevuld.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 14 juni 2018. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden. Ook aanwezig voor verweerder was [kwaliteitsmedewerker], kwaliteitsmedewerker.
+
+Overwegingen
+
+1. De rechtbank gaat uit van de volgende feiten en omstandigheden. Eiser heeft de nodige beperkingen wat betreft zijn mobiliteit, is rolstoelgebonden en woont in een zogeheten Fokus-woning waar hij beschikt over 24 uurs ADL-assistentie op afroep. Hij heeft zich op 14 maart 2017 gemeld bij verweerder om voortzetting te krijgen van de maatwerkvoorziening begeleiding ingevolge de Wmo 2015. Dit ten behoeve van zijn sociale participatie. SCIOPENG heeft op 5 mei 2017 medisch advies aan verweerder uitgebracht. De medisch adviseur acht eiser in staat zelfstandig in zijn aangepaste auto te reizen en buitenshuis te verblijven tot maximaal een half uur. Bij reizen en/of verblijf in het kader van participatie buitenshuis langer dan een half uur is het medisch noodzakelijk dat er een verpleegkundige aanwezig is voor katheteriseren, eventuele wondverzorging, het aansluiten van het beademingsapparaat tijdens of na het sporten en transfers tussen verschillende rolstoelen ten behoeve van het sporten. Deze handelingen worden volgens de medisch adviseur voorliggend vergoed vanuit de Zorgverzekeringswet (Zvw). Daarnaast is eiser afhankelijk van een derde voor het laden en lossen van zijn sportmateriaal. Deze hulp vereist volgens het advies geen specifieke kennis of vaardigheden en zou voorliggend door een vrijwilliger kunnen worden gedaan. Verweerder is op basis van het advies van SCIOPENG tot het besluit van 26 juni 2017 gekomen eiser geen individuele begeleiding als bedoeld in artikel 8.1 van de Verordening maatschappelijke ondersteuning Wassenaar 2015 (Vmo 2015) toe te kennen. 2.	In het bestreden besluit heeft verweerder [hockeyclub] in [plaats] aangemerkt als belangrijk onderdeel van het sociale netwerk van eiser. Daarnaast heeft verweerder – omdat eiser voor het eerst zelfstandig woont – eiser tijdelijk individuele begeleiding toegekend, zodat eiser een vrijwilligersnetwerk kan opbouwen en kan leren daar een beroep op te doen. De tijdelijke indicatie geldt voor de periode van 1 maart 2018 tot en met 31 mei 2018 (4 uur per week) en voor de periode van 1 juni 2018 tot en met 31 augustus 2018 (2 uur per week). Eiser krijgt voor deze zorg een persoonsgebonden budget (pgb). Voor het overige heeft verweerder zich op het standpunt gesteld dat eiser voor de maatwerkvoorziening begeleiding een beroep kan doen op vrijwilligers.3.	Eiser heeft – samengevat en zakelijk weergegeven – allereerst aangegeven dat het beroep is beperkt tot zijn behoefte aan begeleiding bij activiteiten buitenshuis. Het bestreden besluit is volgens eiser in strijd met artikel 2.3.2 juncto artikel 2.3.5 en 2.3.6 van de Wmo 2015. Ook heeft verweerder het bestreden besluit onzorgvuldig voorbereid en niet deugdelijk gemotiveerd. Verweerder had eiser ingevolge de Wmo 2015 voor zijn behoefte aan begeleiding buitenshuis een toereikende voorziening moeten geven, die hem in staat stelt om redelijkerwijs op gelijke voet met anderen deel te nemen aan het maatschappelijk verkeer en die recht doet aan zijn individuele situatie. Verweerder heeft nagelaten de totale hulpvraag van eiser en zijn ondersteuningsbehoefte in kaart te brengen. Het gebruik van vrijwilligers (en het tijdelijk budget om een netwerk van vrijwilligers op te bouwen) biedt geen passende oplossing voor eisers behoefte aan begeleiding. Eiser heeft de rechtbank gevraagd om, naast de beslissing op zijn beroep, ingevolge artikel 8:72, vijfde lid, van de Algemene wet bestuursrecht (Awb) een voorlopige voorziening te treffen.4.	De rechtbank komt tot de volgende beoordeling. Nu verweerder inmiddels op zowel het bezwaar als de dwangsom heeft beslist, heeft eiser geen belang meer bij de inhoudelijke behandeling van zijn beroep gericht tegen het niet tijdig beslissen op zijn bezwaar. Om die reden zal de rechtbank dit beroep niet-ontvankelijk verklaren. Ingevolge artikel 6:20, derde lid, van de Awb, zal de rechtbank thans de gronden met betrekking tot het bestreden besluit behandelen. 4.1	Op dit beroep is de Wmo 2015 en de daarop gebaseerde gemeentelijke Vmo 2015 van toepassing. Artikel 2.3.2 van de Wmo 2015 bepaalt dat indien bij het college melding wordt gedaan van een behoefte aan maatschappelijke ondersteuning, het college in samenspraak met degene door of namens wie de melding is gedaan en waar mogelijk met de mantelzorger(s) dan wel diens vertegenwoordiger, zo spoedig mogelijk, doch uiterlijk binnen zes weken, een onderzoek uitvoert overeenkomstig dit artikel.4.2	Artikel 2.1 van de Vmo 2015 bepaalt dat de bespreking van een hulpvraag start met een melding. Verweerder bespreekt de hulpvraag met de cliënt en kan voorafgaande aan het gesprek eerst de van belang zijnde gegevens voor dat gesprek verzamelen. Bij het gesprek staat het belang van de cliënt centraal. De melding en de bespreking van de behoefte aan ondersteuning leiden tot een gespreksverslag of tot een ondersteuningsplan. Daarin staan de afspraken die volgen uit de bespreking. Deze onderzoeksfase is een waarborg voor cliënten om gehoord te worden en in gezamenlijk overleg tot een kwalitatief goed ondersteuningsplan te komen. 4.3	Ingevolge artikel 4.1, tweede lid, van de Vmo 2015 beoordeelt verweerder een aanvraag van een maatwerkvoorziening ingevolge de Wmo 2015 aan de hand van het gespreksverslag of het ondersteuningsplan.4.4	Eiser is van mening dat verweerder zijn ondersteuningsbehoefte ingevolge de Wmo 2015 onvoldoende in kaart heeft gebracht. Deze beroepsgrond treft naar het oordeel van de rechtbank doel. Uit het dossier blijkt niet dat verweerder onderzoek heeft gedaan naar de aard en omvang van eisers ondersteuningsbehoefte ingevolge de Wmo 2015, zoals bedoeld in artikel 2.3.2 van de Wmo 2015 en de Vmo 2015. Er heeft, voor zover de rechtbank heeft kunnen nagaan, geen zogeheten ‘keukentafelgesprek’ met eiser plaatsgevonden, waarbij de volledige ondersteuningsbehoefte van eiser concreet in kaart is gebracht. Zo heeft verweerder nergens vastgelegd hoeveel tijd eiser besteedt aan elektrisch rolstoelhockey, concertbezoek en andere sociale activiteiten buitenshuis. Het medisch onderzoek door SCIOPENG, in het kader waarvan eiser op 19 april 2017 thuis is bezocht, is daartoe onvoldoende en strookt ook niet met de werkwijze, zoals die dwingend wordt voorgeschreven door artikel 2.3.2 van de Wmo 2015 en de Vmo 2015. Nu bovendien het advies van SCIOPENG geen inventarisatie bevat van de aard en omvang van eisers ondersteuningsbehoefte ingevolge de Wmo 2015 bij zijn activiteiten buitenshuis, kan dat advies moeilijk worden gezien als vervanging van het ondersteuningsplan. 4.5	Het voorgaande betekent dat het bestreden besluit niet zorgvuldig is voorbereid. Het beroep is daarom gegrond. Het bestreden besluit zal wegens strijd met artikel 3:2 van de Awb worden vernietigd. De rechtbank komt als gevolg daarvan niet toe aan de inhoudelijke beoordeling van eisers overige beroepsgronden. 4.6	De rechtbank ziet geen mogelijkheid om zelf in de zaak te voorzien. Het procesdossier biedt immers geen inzicht in de aard en omvang van eisers behoefte aan begeleiding ingevolge de Wmo 2015. De rechtbank kan daarom niet vaststellen in welke mate eiser begeleiding ingevolge de Wmo 2015 zou moeten worden verstrekt. 4.7	Verweerder zal gelet op het voorgaande alsnog onderzoek moeten doen, zoals voorgeschreven in artikel 2.3.3 van de Wmo 2015. Daarbij zal verweerder samen met eiser eerst volledig in kaart moeten brengen wat diens behoefte aan begeleiding ingevolge de Wmo 2015 precies inhoudt. Afhankelijk daarvan kan de omvang, de intensiteit en de frequentie die daarbij concreet noodzakelijk is worden vastgesteld. De vraag in hoeverre in eisers zorgbehoefte kan worden voorzien door eigen kracht of zijn omgeving, of door voorliggende voorzieningen, zoals de Zvw, kan pas daarna aan de orde komen. De rechtbank ziet geen aanleiding een bestuurlijke lus toe te passen, omdat dat naar het zich laat aanzien geen doelmatige en efficiënte afdoeningswijze zou inhouden. Verweerder zal daarom een nieuw besluit op bezwaar moeten nemen met inachtneming van deze uitspraak. 5.	Omdat de rechtbank het beroep gegrond verklaart, zal zij bepalen dat verweerder aan eiser het door hem betaalde griffierecht vergoedt.6.	De rechtbank veroordeelt verweerder in de door eiser in beroep gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.002,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde van € 501,- en een wegingsfactor 1).  7.	De rechtbank overweegt ten slotte met betrekking tot eisers verzoek om een voorlopige voorziening het volgende. Eiser ontving in het verleden AWBZ-zorg. Met het pgb dat hij ingevolge die wet ontving kon eiser aan allerlei activiteiten buitenshuis deelnemen. Zo deed eiser aan elektrisch rolstoelhockey, bezocht hij festivals en concerten en gaf hij clinics. Eiser heeft ter terechtzitting verklaard dat hij nu al zo'n anderhalf jaar al die activiteiten niet meer kan doen, omdat hij geen volledige begeleiding meer krijgt, zoals voorheen. De AWBZ is sinds 1 januari 2015 niet langer van kracht en begeleiding kan nu alleen worden verkregen als maatwerkvoorziening via de Wmo 2015. Eiser heeft aangegeven dat hij met zo'n 14 uur begeleiding per week (in de vorm van een pgb ter grootte van € 35,- per uur) voorlopig in ieder geval zou kunnen hockeyen. De rechtbank constateert dat verweerders besluitvorming in deze zaak lange tijd heeft geduurd. Eiser zag zich zelfs genoodzaakt beroep in te stellen tegen het niet tijdig beslissen op zijn bezwaar. Verweerder zal naar aanleiding van deze uitspraak opnieuw op bezwaar moeten beslissen. Die besluitvorming zal, naar mag worden verwacht, ook de nodige tijd in beslag nemen. De rechtbank ziet daarin en in het gegeven dat eiser al anderhalf jaar niet heeft kunnen deelnemen aan activiteiten buitenshuis, aanleiding om vooruitlopend op de uitkomst van het bezwaar, met toepassing van artikel 8:72, vijfde lid, van de Awb, een voorlopige voorziening te treffen. Verweerder zal in dat kader worden opdragen om eiser, tot zes weken nadat op het bezwaar zal zijn beslist, 14 uur begeleiding per week te verstrekken in de vorm van een pgb ter grootte van € 35,- per uur.Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gericht tegen het met een besluit gelijk te stellen niet tijdig 	beslissen op het bezwaar tegen het besluit van 26 juni 2017 niet-ontvankelijk;-	verklaart het mede tegen het besluit van 12 februari 2018 gerichte beroep gegrond;-	vernietigt het bestreden besluit van 12 februari 2018 en draagt verweerder op met 	inachtneming van deze uitspraak een nieuwe beslissing op bezwaar te nemen;-	bepaalt dat verweerder aan eiser het door hem betaalde griffierecht, te weten € 46,-, 	vergoedt;-	veroordeelt verweerder in de proceskosten ten bedrage van € 1.002,-;-	treft met toepassing van artikel 8:72, vijfde lid, van de Awb de voorlopige 	voorziening dat verweerder eiser tot zes weken nadat op het bezwaar zal zijn beslist, 	14 uur per week begeleiding verstrekt in de vorm van een pgb ter grootte 	van € 35,- 	per uur.
+
+Deze uitspraak is gedaan door mr. drs. H. Nijman, voorzitter, en mr. D.R. van der Meer en mr. F.X. Cozijn, leden, in aanwezigheid van mr. W. Goederee, griffier. De beslissing is in het openbaar uitgesproken op 26 juli 2018.
+
+griffier						voorzitter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak, voor zover daarbij op het beroep is beslist, kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
