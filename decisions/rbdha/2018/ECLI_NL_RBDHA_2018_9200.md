@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:9200"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 20-08-2018", "V-N Vandaag 2018/1749", "FutD 2018-2257 met annotatie van Fiscaal up to Date", "V-N 2018/65.2.1", "NTFR 2019/243"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1749", "V-N 2018/65.2.1", "FutD 2018-2257", "Viditax (FutD) 2018082009"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2019:1743, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
