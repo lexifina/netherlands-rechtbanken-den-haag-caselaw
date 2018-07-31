@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenbeschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:9664"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0122", "FJR 2020/32.52"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0122", "FJR 2020/32.52", "PR-Updates.nl 2018-0122"]
 ---
 
 # ECLI:NL:RBDHA:2018:9664 Rechtbank Den Haag , 31-07-2018 / C/09/531305 / FA RK 17-3121, C/09/544258 / FA RK 17-9307
