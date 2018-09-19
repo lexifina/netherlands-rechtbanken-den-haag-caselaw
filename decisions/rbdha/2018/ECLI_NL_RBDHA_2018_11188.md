@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:11188"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0134"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0134", "PR-Updates.nl 2018-0134"]
 ---
 
 # ECLI:NL:RBDHA:2018:11188 Rechtbank Den Haag , 19-09-2018 / C/09/533578 / HA ZA 17-592
