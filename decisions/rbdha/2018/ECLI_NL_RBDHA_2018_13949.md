@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:13949"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1068", "JAAN 2019/43 met annotatie van"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1068", "JAAN 2019/43 met annotatie van mr. M.J. Vidal"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2019:3384"]]
 ---
 
