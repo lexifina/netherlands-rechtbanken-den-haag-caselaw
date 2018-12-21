@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2018:15335"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1417", "PJ 2019/6", "PR-Updates.nl PR-2018-0159"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1417", "PJ 2019/6", "PR-Updates.nl PR-2018-0159", "VAAN-AR-Updates.nl 2018-1417", "PR-Updates.nl 2018-0159"]
 ---
 
 # ECLI:NL:RBDHA:2018:15335 Rechtbank Den Haag , 21-12-2018 / 7385023 \ RL EXPL  18-27322
