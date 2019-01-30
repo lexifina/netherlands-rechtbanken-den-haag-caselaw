@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Mededingingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:702"
-published_in: ["Rechtspraak.nl", "JAR 2019/45 met annotatie van Heemskerk, M.", "PJ 2019/18", "PR-Updates.nl PR-2019-0014"]
+published_in: ["Rechtspraak.nl", "JAR 2019/45 met annotatie van Heemskerk, M.", "PJ 2019/18", "PR-Updates.nl PR-2019-0014", "PR-Updates.nl 2019-0014"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2020:2384, Bekrachtiging/bevestiging"]]
 ---
 
