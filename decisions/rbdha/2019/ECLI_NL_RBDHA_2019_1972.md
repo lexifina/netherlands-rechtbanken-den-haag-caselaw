@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:1972"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0045"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0045", "PR-Updates.nl 2019-0045"]
 ---
 
 # ECLI:NL:RBDHA:2019:1972 Rechtbank Den Haag , 26-02-2019 / C/09/544047 / FA RK 17-9206
