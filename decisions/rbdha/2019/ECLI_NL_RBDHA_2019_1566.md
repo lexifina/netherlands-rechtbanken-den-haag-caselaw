@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:1566"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 12-04-2019", "FutD 2019-1050", "V-N Vandaag 2019/883", "V-N 2019/42.2.6", "NTFR 2019/1373 met annotatie van Mr. P.A. Caljé", "NLF 2019/0971 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/883", "V-N 2019/42.2.6", "NLF 2019/0971", "NTFR 2019/1373 met annotatie van Mr. P.A. Caljé", "FutD 2019-1050", "Viditax (FutD) 2019041221"]
 ---
 
 # ECLI:NL:RBDHA:2019:1566 Rechtbank Den Haag , 26-02-2019 / AWB - 18 _ 3668, AWB-18_3669 en AWB-18_3671
