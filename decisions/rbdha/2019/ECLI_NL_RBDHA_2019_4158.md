@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:4158"
-published_in: ["Rechtspraak.nl", "PJ 2019/84", "PR-Updates.nl PR-2019-0065"]
+published_in: ["Rechtspraak.nl", "PJ 2019/84", "PR-Updates.nl PR-2019-0065", "PR-Updates.nl 2019-0065"]
 ---
 
 # ECLI:NL:RBDHA:2019:4158 Rechtbank Den Haag , 15-03-2019 / C/09/526478 / FA RK 17-857, C/09/536719 / FA RK 17-5691
