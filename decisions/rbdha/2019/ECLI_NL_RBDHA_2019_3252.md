@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:3252"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1171", "JAAN 2019/95"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1171", "JAAN 2019/95 met annotatie van mr. E.L.H. Snijders-van Erp"]
 ---
 
 # ECLI:NL:RBDHA:2019:3252 Rechtbank Den Haag , 29-03-2019 / C-09-566373-KG ZA 19-35
