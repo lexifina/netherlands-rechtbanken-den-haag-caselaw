@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenbeschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:14523"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0089"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0089", "PR-Updates.nl 2020-0089"]
 ---
 
 # ECLI:NL:RBDHA:2019:14523 Rechtbank Den Haag , 17-04-2019 / C/09/528922 / FA RK 17-1990, C/09/553638, FA RK 18-3719
