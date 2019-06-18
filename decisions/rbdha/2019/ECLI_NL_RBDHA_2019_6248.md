@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:6248"
-published_in: ["Rechtspraak.nl", "TAR 2019/93", "PR-Updates.nl PR-2019-0089"]
+published_in: ["Rechtspraak.nl", "TAR 2019/93", "PR-Updates.nl PR-2019-0089", "PR-Updates.nl 2019-0089"]
 ---
 
 # ECLI:NL:RBDHA:2019:6248 Rechtbank Den Haag , 18-06-2019 / AWB 18 / 3986
