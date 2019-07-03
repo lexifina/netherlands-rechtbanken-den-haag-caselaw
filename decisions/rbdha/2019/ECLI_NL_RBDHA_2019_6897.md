@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:6897"
-published_in: ["Rechtspraak.nl", "PJ  2019/102", "PR-Updates.nl PR-2019-0095"]
+published_in: ["Rechtspraak.nl", "PJ  2019/102", "PR-Updates.nl PR-2019-0095", "PR-Updates.nl 2019-0095"]
 ---
 
 # ECLI:NL:RBDHA:2019:6897 Rechtbank Den Haag , 03-07-2019 / 7129028 RL EXPL 18-17661
