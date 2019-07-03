@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:12910"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0311", "PR-Updates.nl PR-2020-0004", "PJ 2020/72"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0311", "PR-Updates.nl PR-2020-0004", "PJ 2020/72", "PR-Updates.nl 2020-0004"]
 ---
 
 # ECLI:NL:RBDHA:2019:12910 Rechtbank Den Haag , 03-07-2019 / C/09/555794 / HA ZA 18-739
