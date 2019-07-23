@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:7430"
-published_in: ["Rechtspraak.nl", "NBSTRAF 2019/269 met annotatie van Zwanenburg, M.C.", "NbSr 2019/269 met annotatie van Zwanenburg, M.C."]
+published_in: ["Rechtspraak.nl", "NbSr 2019/269 met annotatie van Zwanenburg, M.C."]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:2130"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:103"]]
 ---
 
 # ECLI:NL:RBDHA:2019:7430 Rechtbank Den Haag , 23-07-2019 / 09/748003-18 & 09/748003-19
