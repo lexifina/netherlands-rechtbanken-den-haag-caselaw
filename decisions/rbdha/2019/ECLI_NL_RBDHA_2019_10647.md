@@ -10,11 +10,14 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:10647"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:2130"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:103"]]
 ---
 
 # ECLI:NL:RBDHA:2019:10647 Rechtbank Den Haag , 23-07-2019 / 09/748003-18V
 
 ## Inhoudsindicatie
+
+Judgement of the national Dutch District Court in The Hague
 
 Prison sentence of seven years and six months for participating in the Islamic State terrorist organization, preparatory acts for committing a terrorist crime and a war crime.
 
