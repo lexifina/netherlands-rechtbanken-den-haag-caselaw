@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:9785"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 18-09-2019", "V-N Vandaag 2019/2072", "FutD 2019-2450", "V-N 2020/2.26.2", "NTFR 2019/2513", "NLF 2019/2179 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2072", "V-N 2020/2.26.2", "NLF 2019/2179", "FutD 2019-2450", "Viditax (FutD) 2019091817"]
 ---
 
 # ECLI:NL:RBDHA:2019:9785 Rechtbank Den Haag , 12-09-2019 / AWB - 18 _ 6078
