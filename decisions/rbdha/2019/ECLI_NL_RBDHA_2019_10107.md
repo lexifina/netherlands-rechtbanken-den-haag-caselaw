@@ -1,0 +1,412 @@
+---
+ecli: "ECLI:NL:RBDHA:2019:10107"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "09/138671-19"
+decided: "2019-09-30"
+published: "2019-09-27"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:10107"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2019:10107 Rechtbank Den Haag , 30-09-2019 / 09/138671-19
+
+## Inhoudsindicatie
+
+De rechtbank Den Haag heeft drie mannen veroordeeld tot dertig maanden gevangenisstraf voor poging doodslag en openlijk geweld. Een deel van de straf wordt voorwaardelijk opgelegd zodat de verdachten behandeld worden voor hun problemen met alcohol en agressie. Ook moeten zij het slachtoffer een schadevergoeding betalen van € 1.285,00.
+
+## Uitspraak
+
+Rechtbank DEN HAAG
+
+Strafrecht
+
+Meervoudige strafkamer
+
+Parketnummers:	09/138671-19 en 09/159648-18 (tul)
+
+Datum uitspraak:	30 september 2019
+
+Tegenspraak
+
+(Promisvonnis)
+
+De rechtbank Den Haag heeft op de grondslag van de tenlastelegging en naar aanleiding van het onderzoek ter terechtzitting het navolgende vonnis gewezen in de zaak van de officier van justitie tegen de verdachte:
+
+[verdachte] ,
+
+[geboortedatum] 1992 [geboorteplaats] ),
+
+[adres 1] .
+
+1
+Het onderzoek ter terechtzitting
+
+Het onderzoek is gehouden ter terechtzitting van 17 september 2019. De rechtbank heeft kennis genomen van de vordering van de officier van justitie mr. B.R. Koenders en van hetgeen door verdachte en zijn raadsman mr. M.D. Winter naar voren is gebracht.
+
+2
+De tenlastelegging
+
+Aan de verdachte is - na wijziging van de tenlastelegging ter terechtzitting - ten laste gelegd dat:
+
+1.
+
+hij op of omstreeks 7 juni 2019 te 's-Gravenhage tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om [slachtoffer 1] opzettelijk van het leven te beroven,
+
+- meermalen (met geschoeide voet) (met kracht) heeft geschopt/getrapt tegen het lichaam en/of het hoofd van die [slachtoffer 1] en/of
+
+- ( met kracht) heeft gestompt in/tegen het hoofd/gezicht en/of het lichaam van die [slachtoffer 1] , terwijl die [slachtoffer 1] op de grond lag,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+subsidiair
+
+hij op of omstreeks 7 juni 2019 te ’s-Gravenhage tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om [slachtoffer 1]
+
+opzettelijk zwaar lichamelijk letsel toe te brengen,
+
+- meermalen (met geschoeide voet) (met kracht) heeft geschopt/getrapt tegen het lichaam en/of het hoofd van die [slachtoffer 1] en/of
+
+- (met kracht) heeft gestompt in/tegen het hoofd/gezicht en/of het lichaam van die [slachtoffer 1] , terwijl die [slachtoffer 1] op de grond lag,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+2
+
+hij op of omstreeks 7 juni 2019 te 's-Gravenhage openlijk, te weten op de [adres 2] en/of [adres 3] en/of [adres 4] , in elk geval op of aan de openbare weg en/of op een
+
+voor het publiek toegankelijjke plaats, in vereniging geweld heeft gepleegd tegen [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] , althans één/twee onbekend gebleven perso(o)n(en), door
+
+- die [slachtoffer 1] (meermalen) tegen zijn hoofd en/of lichaam te schoppen/trappen, terwijl die [slachtoffer 1] op de grond lag en/of
+
+- die [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] , althans die één/twee onbekend gebleven perso(o)n(en) in/tegen het gezicht en/of tegen het lichaam te stompen en/of te schoppen/trappen tegen het lichaam en/of
+
+- die [slachtoffer 1] een knietje te geven en/of
+
+- één van die onbekend gebleven personen aan zijn capuchon te trekken.
+
+3.	Bewijsoverwegingen
+
+3.1
+
+Inleiding
+
+Op 7 juni 2019 omstreeks 01:45 uur kreeg de politie een melding dat gevochten werd door een aantal mannen op de [adres 3] in Den Haag. Op de daar aanwezige toezichtcamera’s van de gemeente was tijdens de melding te zien dat een man voor Club
+
+‘ [clubnaam] ’ op de [adres 3] wankel liep en dat een man om de hoek in de [adres 2] op de grond lag. De man op de grond werd geschopt door drie mannen, die vervolgens wegliepen. Kort daarna werden zij alle drie aangehouden door de politie.
+
+De drie mannen bleken de verdachte en zijn [medeverdachte 1] en [medeverdachte 2] te zijn. De man op de grond werd aangetroffen door de politie en ter plekke behandeld door het personeel van een ambulance.
+
+De man op de grond bleek [slachtoffer 1] te zijn. Hij heeft op 7 juni 2019 aangifte gedaan en verklaarde dat hij omstreeks 1:45 uur het café (de rechtbank begrijpt: [clubnaam] op de [adres 3] ) was uitgelopen. Hij werd gevolgd door een aantal mannen.
+
+Die mannen schreeuwden naar hem. Hij riep nog "doe rustig". Vervolgens begonnen die mannen op hem in te slaan. Zij sloegen hem in het gezicht. Hij viel vervolgens op de grond. Toen hij op de grond lag voelde hij nog meer klappen op zijn hoofd. Hij probeerde zich te verdedigen. Dit lukte niet. Hij is vervolgens wakker geworden op een bankje. Toen kwam de politie.
+
+[slachtoffer 1] verklaarde de volgende dag dat een woordenwisseling was ontstaan in de rookruimte van de club. Aangever is vervolgens naar buiten gelopen. Daar waren vier of vijf jongens. Eén van hen begon aangever te slaan op het achterhoofd. Toen kwamen de andere jongens naar hem toe en viel hij op de grond. Toen hij daar lag begonnen de jongens hem te schoppen. Aangever probeerde zijn hoofd te beschermen met zijn armen. Aangever weet niet meer wat er is gebeurd, maar wel dat hij door al die jongens is geslagen en geschopt. Aangever verklaarde ook dat hij allemaal bulten op zijn hoofd, nek en rug voelde en dat hij heel veel pijn in zijn rug en pijn in zijn hoofd had. Hij is die ochtend twee keer flauw gevallen.
+
+Aangever is op 7 juni 2019 onderzocht in het Medisch Centrum Haaglanden, afdeling Westeinde. Uit de geneeskundige verklaring, opgesteld door een arts van de afdeling Spoedeisende hulp, blijkt dat geen zichtbaar letsel werd geconstateerd, maar wel (druk)pijn, duidend op contusies (kneuzingen) aan hoofd, nek en rug. Ook was er een vermoeden van niet uitwendig waarneembaar letsel. Een vervolgafspraak werd niet nodig gevonden, aangever werd pijnstilling geadviseerd. Als (voorlopige) diagnose is genoteerd dat sprake was van hoofdtrauma met bewustzijnsverlies en contusies (kneuzingen) aan twee paravertebralen (nekwervels). Op 18 juni 2019 verklaarde aangever dat hij inmiddels redelijk mobiel was, maar erg veel last had van zijn rug en hoofd. Hij was nog niet aan het werk als gevolg van zijn verwondingen.
+
+De verdachte heeft bekend dat hij, samen met de medeverdachten, die nacht aangever en een ander persoon heeft geslagen tegen het hoofd en tegen het lichaam. Hij ontkent dat hij aangever tegen het hoofd heeft geschopt.
+
+De twee andere personen die zijn geslagen en geschopt bleken [slachtoffer 2] en [slachtoffer 3] te zijn.
+
+De rechtbank moet – gelet op het voorgaande en gezien de tenlastelegging – de vragen beantwoorden of wettig en overtuigend kan worden bewezen dat de verdachte aangever (meermalen) tegen het hoofd heeft geschopt en, zo ja, of dit moet worden gekwalificeerd als een poging tot doodslag in vereniging of als een poging tot zware mishandeling in vereniging.
+
+3.2
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gerekwireerd tot bewezenverklaring van de onder 1 primair en onder 2 ten laste gelegde feiten. Ten aanzien van het onder 1 primair ten laste gelegde heeft hij aangevoerd dat de kans aanmerkelijk is dat een persoon die op de grond ligt en meermaals met geschoeide voet tegen het hoofd wordt geschopt, als gevolg van dit geweld zal overlijden. Door heftig, veelvuldig en gericht tegen het hoofd van aangever te trappen heeft de verdachte die kans bewust aanvaard. Daarom moet het handelen van de verdachte worden gekwalificeerd als een poging tot doodslag in vereniging.
+
+3.3
+
+Het standpunt van de verdediging
+
+De verdediging heeft zich ten aanzien van het onder 1 ten laste gelegde op het standpunt gesteld dat van een poging doodslag geen sprake is. Allereerst kan niet worden bewezen dat aangever meermalen met kracht tegen zijn hoofd is geschopt terwijl hij op de grond lag. Daarnaast stelt de verdediging dat de verdachte geen (voorwaardelijk) opzet had op de dood van aangever. De rechtbank zal de stellingen van de verdediging – voor zover relevant – hierna bespreken. Ten aanzien van feit 2 heeft de verdediging gesteld dat het ten laste gelegde niet ter discussie staat.
+
+3.4
+
+De beoordeling van de tenlastelegging
+
+Feit 1
+
+Is aangever tegen het hoofd geschopt?
+
+De politie heeft de beelden bekeken van de toezichtcamera’s waarop de incidenten van die avond zijn te zien. De beschrijving van de beelden luidt – voor zover hier van belang – als volgt. In de beschrijving wordt aangever [slachtoffer 1] aangeduid met ‘slachtoffer 1’ en worden de verdachte en zijn medeverdachten bij hun eigen naam genoemd.
+
+Camera 8136 - [adres 3]
+
+1:37:28 – (…) [verdachte] en [medeverdachte 1] lopen richting de [adres 2] . [verdachte] rent vervolgens terug naar slachtoffer 1. Slachtoffer 1 is gaan zitten op de grond. [verdachte] rent naar slachtoffer 1 toe en trapt slachtoffer 1 tegen het hoofd met zijn rechter been. [verdachte] trapt nog een keer, terwijl slachtoffer 1 op de grond ligt. [verdachte] stompt slachtoffer 1 tweemaal terwijl slachtoffer 1 op de grond ligt. [verdachte] trapt twee keer tegen slachtoffer 1, ter hoogte van het hoofd van slachtoffer 1. (…)
+
+Camera 8138 - [adres 2]
+
+(…)
+
+1:41:59 - Ik zie dat slachtoffer 1 vanaf de [adres 3] de [adres 2] inloopt.
+
+1:42:00 - Ik zie dat [verdachte] weer in beeld verschijnt vanaf de [adres 4] in de richting van de [adres 3] . (…) Ik zie dat [verdachte] in de richting van slachtoffer 1 rent. (…) Ik zie dat [medeverdachte 1] naar [verdachte] toe gerend komt. (…) Ik zie dat [medeverdachte 2] zich bij [verdachte] en [medeverdachte 1] heeft gevoegd. (…) Ik zie dat [verdachte] slachtoffer 1 ongeveer een meter in de lucht tilt. Ik zie dat [verdachte] met kracht slachtoffer 1 op de grond gooit. Ik zie dat slachtoffer 1 met zijn rug op de grond terecht komt. Ik zie dat de drie verdachten om slachtoffer 1 heen staan, terwijl slachtoffer 1 op de grond ligt. Ik zie dat slachtoffer 1 op zijn zij gaat liggen, terwijl alle drie de verdachten hem trappen. Ik zie dat [verdachte] 7 keer tegen het hoofd en op het hoofd trapt. Ik zie dat [verdachte] op het hoofd trapt, omdat [verdachte] zijn been optilt en vervolgens met kracht neer laat komen. Ik zie dat [medeverdachte 2] 7 keer tegen het hoofd en op het hoofd trapt. Ik zie dat [medeverdachte 2] op het hoofd trapt, omdat [medeverdachte 2] zijn been optilt en vervolgens met kracht neer laat komen. Ik zie dat [medeverdachte 1] 3 keer ter hoogte van het hoofd trapt. Ik zie dat de drie verdachten stoppen met trappen. Ik zie dat slachtoffer 1 blijft liggen op zijn rechter zij.
+
+1:42:29 - Ik zie dat [verdachte] slachtoffer 1 trapt tegen zijn rug. Ik zie dat [medeverdachte 1] tegen de rug van slachtoffer 1 trapt en drie maal tegen het hoofd.
+
+1:42:37 - Ik zie dat de drie verdachten in de richting van de [adres 4] lopen. Ik zie dat slachtoffer 1 blijft liggen. (...)
+
+Ter zitting heeft de rechtbank de beelden afgespeeld en zelf waargenomen wat daarop te zien is. De verdachte heeft zichzelf op de beelden herkend. Daarbij heeft de rechtbank vastgesteld dat de beschrijving van de camerabeelden door de politie overeenkomt met de waarneming van de rechtbank ter zitting. Uit de beelden blijkt dat aangever op twee locaties is geslagen en geschopt en dat hij vele slagen en schoppen heeft gekregen. Deze schoppen werden door alle verdachten en met geschoeide voet gegeven. Het hoofd van het slachtoffer is weliswaar niet zichtbaar op de beelden, maar wel is zichtbaar dat de drie verdachten neerwaartse trapbewegingen maken vlak naast de schouder van aangever, in de richting van de plek waar het hoofd van aangever zich bevindt in het verlengde van de romp, en dat zij de voet daarbij verder doorhalen dan wanneer die trappen zouden neerkomen op de rug of de schouders van aangever. Dat daarbij kracht wordt gebruikt blijkt uit het feit dat de verdachten stampende bewegingen naar het hoofd maken, de voet eerst naar achteren brengen en daarna uithalen, en zelfs springend naar het hoofd trappen.
+
+Op basis van het voorgaande stelt de rechtbank vast dat de verdachte en zijn medeverdachten meermalen tegen het hoofd van aangever hebben geschopt. Dit wordt bevestigd door de geneeskundige verklaring waarin het letsel wordt beschreven.
+
+Daaruit blijkt dat het vastgestelde letsel bestond uit hoofdtrauma met bewustzijnsverlies en kneuzingen aan twee nekwervels. Dit letsel past bij het geweld dat de rechtbank op de camerabeelden heeft waargenomen. Dat aangever geen althans nauwelijks zichtbaar letsel had aan het gezicht, zoals de verdediging heeft aangevoerd, doet daaraan niet af. Het ontbreken van zichtbaar letsel aan het gezicht van aangever is immers te verklaren uit de omstandigheid dat aangever met zijn armen probeerde zijn hoofd te beschermen. Daar komt bij dat uit de beelden blijkt dat de schoppen zich voornamelijk hebben gericht op de nek en het achterhoofd van de aangever, en aangever in lijn hiermee heeft verklaard dat hij allemaal bulten voelde op zijn hoofd, nek en rug.
+
+Had de verdachte opzet op de dood van aangever?
+
+Hiervoor is vastgesteld dat het geweld tegen aangever onder meer bestond uit meerdere schoppen tegen het hoofd van aangever. Vervolgens is de vraag aan de orde of deze handelingen aan te merken zijn als een poging tot doodslag in vereniging of als een poging tot zware mishandeling in vereniging.
+
+De rechtbank is van oordeel dat uit de bewijsmiddelen en het verhandelde ter terechtzitting niet blijkt dat de verdachte het volle opzet had op de dood van aangever. Dan rijst de vraag of er sprake is van voorwaardelijk opzet op de dood. Daarvan is sprake als kan worden vastgesteld dat de kans op de dood van het slachtoffer door het handelen van de verdachte aanmerkelijk was en de verdachte deze kans bewust heeft aanvaard.
+
+De rechtbank overweegt dat het hoofd bij uitstek een kwetsbaar en vitaal deel van het lichaam betreft. Naar algemene ervaringsregels kan het meermalen met geschoeide voet schoppen tegen het hoofd leiden tot de dood van het slachtoffer, omdat het schedel- en hersenletsel met dodelijke afloop tot gevolg kan hebben. Hiervoor heeft de rechtbank reeds vastgesteld dat aangever vele keren tegen het hoofd is geschopt. Uit het dossier blijkt dat de politie achttien schoppen tegen het hoofd en vier schoppen ter hoogte van het hoofd heeft geteld. Dit vond plaats tijdens twee verschillende incidenten, waartussen slechts enkele minuten waren verstreken. De trappen werden gegeven door drie personen tegelijkertijd, terwijl het slachtoffer al die tijd weerloos op de grond lag. Hiervoor is al vastgesteld dat dit met kracht gebeurde. Uit het letsel blijkt ten slotte dat vooral tegen de achterkant van het hoofd en tegen de nek is geschopt. Gelet op al deze feiten en omstandigheden is de rechtbank van oordeel dat de kans op het intreden van de dood van aangever in dit geval aanmerkelijk was.
+
+Uit het feit dat de schoppen op verschillende locaties zijn gegeven en de verdachten wegliepen en weer terugkwamen, leidt de rechtbank bovendien af dat de verdachte de kans op het intreden van de dood bewust heeft aanvaard. Daarmee is wettig en overtuigend bewezen dat de verdachte voorwaardelijk opzet had op de dood van aangever.
+
+Conclusie t.a.v. feit 1
+
+De rechtbank acht op basis van het voorgaande wettig en overtuigend bewezen dat de verdachte, samen met de medeverdachten, aangever meermalen met schoeide voet en met kracht heeft geschopt tegen het hoofd en het lichaam. Dit handelen moet worden gekwalificeerd als een poging tot doodslag in vereniging.
+
+Van het stompen tegen het hoofd/gezicht en het lichaam zal de verdachte worden vrijgesproken, omdat dit handelen – indien bewezen – niet zonder meer kan worden gekwalificeerd als een poging tot doodslag in vereniging.
+
+Feit 2
+
+De rechtbank komt tot een bewezenverklaring van het onder 2 ten laste gelegde feit op grond van de volgende bewijsmiddelen, waarbij de rechtbank – nu de verdachte een bekennende verdachte is als bedoeld in artikel 359, derde lid, van het Wetboek van Strafvordering en de verdediging geen vrijspraak heeft bepleit – zal volstaan met een opsomming van deze bewijsmiddelen, te weten:
+
+het proces-verbaal van bevindingen van 7 juni 2019, p. 84-86;
+
+het proces-verbaal van bevindingen van 9 juni 2019, p. 104;
+
+de bekennende verklaring van de verdachte, afgelegd ter terechtzitting van 17 september 2019.
+
+Van het onderdeel ‘één van die onbekend gebleven personen aan zijn capuchon te trekken’ zal de verdachte worden vrijgesproken, omdat dit niet zonder meer kan worden gekwalificeerd als het plegen van geweld.
+
+3.5
+
+De bewezenverklaring
+
+De rechtbank verklaart bewezen dat de verdachte:
+
+1. primair
+
+op 7 juni 2019 te 's-Gravenhage tezamen en in vereniging met anderen, ter uitvoering van het door verdachte voorgenomen misdrijf om [slachtoffer 1] opzettelijk van het leven te beroven, meermalen met geschoeide voet met kracht heeft geschopt tegen het lichaam en het hoofd van die [slachtoffer 1] , terwijl die [slachtoffer 1] op de grond lag, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+2
+
+op 7 juni 2019 te 's-Gravenhage openlijk, te weten op de [adres 2] en [adres 3] , in vereniging geweld heeft gepleegd tegen [slachtoffer 1] en [slachtoffer 2] en [slachtoffer 3] , door
+
+- die [slachtoffer 1] meermalen tegen zijn hoofd en lichaam te schoppen, terwijl die [slachtoffer 1] op de grond lag en
+
+- die [slachtoffer 1] en [slachtoffer 2] en [slachtoffer 3] tegen het gezicht of tegen het lichaam te stompen of te schoppen en
+
+- die [slachtoffer 1] een knietje te geven.
+
+4
+De strafbaarheid van het bewezenverklaarde
+
+Het bewezenverklaarde is volgens de wet strafbaar, omdat geen feiten of omstandigheden aannemelijk zijn geworden die de strafbaarheid van de feiten uitsluiten.
+
+5
+De strafbaarheid van de verdachte
+
+De verdachte is eveneens strafbaar, omdat geen feiten of omstandigheden aannemelijk zijn geworden die zijn strafbaarheid uitsluiten.
+
+6
+De strafoplegging
+
+6.1
+
+De vordering van de officier van justitie
+
+De officier van justitie heeft gevorderd dat de verdachte wordt veroordeeld tot een gevangenisstraf voor de duur van 30 maanden, met aftrek van de tijd in voorarrest doorgebracht, waarvan tien maanden voorwaardelijk met een proeftijd van twee jaren en als bijzondere voorwaarden een meldplicht bij de reclassering en een ambulante behandeling voor de problemen van de verdachte met alcohol en agressie.
+
+6.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft zich op het standpunt gesteld dat een onvoorwaardelijke straf gelijk aan het voorarrest passend zou zijn.
+
+6.3
+
+Het oordeel van de rechtbank
+
+Na te melden straf is in overeenstemming met de ernst van de gepleegde feiten, de omstandigheden waaronder deze zijn begaan en gegrond op de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan tijdens het onderzoek ter terechtzitting is gebleken. De rechtbank neemt hierbij in het bijzonder het volgende in aanmerking.
+
+De verdachte heeft zich schuldig gemaakt aan een poging tot doodslag door het slachtoffer meerdere malen met kracht tegen het hoofd en het lichaam te schoppen en te slaan, ook toen deze roerloos op de grond lag. Het door de verdachte gepleegde geweld had tot een fatale afloop kunnen leiden. De aanleiding voor het geweld was een woordenwisseling, waarop de verdachte volstrekt disproportioneel heeft gereageerd. De verdachte verkeerde bovendien onder invloed van veel alcohol, waardoor de situatie uit de hand is gelopen. Dat rekent de rechtbank de verdachte aan. Nog afgezien van de gevolgen voor het slachtoffer, draagt dergelijk geweld, zeker als het tijdens het uitgaan midden op straat wordt gepleegd, terwijl meerdere personen hier getuige van waren, bij aan gevoelens van onveiligheid en onbehagen in de samenleving. Bovendien heeft de verdachte bij het door hem in vereniging gepleegde geweld op straat twee argeloze voorbijgangers betrokken door hen te slaan en te schoppen, waardoor hij nog twee slachtoffers heeft gemaakt. Op dergelijke ernstige feiten kan naar het oordeel van de rechtbank slechts worden gereageerd met oplegging van een gevangenisstraf van aanzienlijke duur.
+
+Uit het strafblad van de verdachte van 30 augustus 2019 (dertien pagina’s) blijkt dat de verdachte in de afgelopen jaren meerdere keren met politie en justitie in aanraking is gekomen, waaronder voor geweldsdelicten. Bovendien liep hij in een proeftijd van een veroordeling van 21 augustus 2018 voor mishandeling en openlijk geweldpleging.
+
+De rechtbank heeft verder kennis genomen van het voortgangsverslag van de reclassering van 26 juni 2019. Dit verslag gaat over het toezicht tijdens de hiervoor genoemde proeftijd, waarbij als bijzondere voorwaarde is opgelegd een behandeling door forensische polikliniek Fivoor voor alcoholgebruik en omgang met agressie. De reclassering schrijft in het verslag dat de verdachte zich wisselend aan de voorwaarden houdt. In een e-mail van 11 juni 2019 heeft reclasseringswerker E. Witte (SVG Reclassering) geschreven dat eerdere behandeling – die tot afname van de recidivekans zou moeten leiden – onvoldoende van de grond is gekomen. De verdachte wil echter wel meewerken aan een behandeling die zal plaatsvinden via de Forensische Polikliniek van Fivoor. De reclassering acht voortzetting van de huidige voorwaarden aangewezen.
+
+Nu de door de verdachte gepleegde feiten raken aan zijn problemen met agressie en alcohol, acht de rechtbank het – ter voorkoming van recidive – van belang dat de verdachte hiervoor zal worden behandeld. Zij zal hiertoe een deel van de gevangenisstraf in voorwaardelijke vorm opleggen, zodat de lopende behandelverplichting na afloop van het onvoorwaardelijke deel van de gevangenisstraf kan worden voortgezet.
+
+De rechtbank gaat bij het bepalen van de hoogte (van het onvoorwaardelijke deel) van de gevangenisstraf boven de strafeis van de officier van justitie uit. Daarbij heeft de rechtbank aansluiting gezocht bij straffen die in dit soort zaken doorgaans worden opgelegd, en acht de rechtbank gelet op de rol van de drie verdachten bij het gepleegde geweld in beginsel een voor iedere verdachte gelijke gevangenisstraf passend. Bovendien weegt de rechtbank in het nadeel van de verdachte mee dat het forse geweld op meerdere locaties en meerdere momenten heeft plaatsgevonden en dat één van de slachtoffers vele schoppen tegen het hoofd heeft gekregen. Alles overziend acht de rechtbank een gevangenisstraf van dertig maanden passend en geboden, met aftrek van het voorarrest. Daarvan zal een deel van zes maanden voorwaardelijk worden opgelegd, met een proeftijd van twee jaar en de voorwaarden zoals hiervoor genoemd.
+
+7
+De vordering van de benadeelde partij en de schadevergoedingsmaatregel
+
+[slachtoffer 1] heeft zich als benadeelde partij gevoegd ter zake van de vordering tot schadevergoeding, groot € 4.606,06, te vermeerderen met de wettelijke rente. De vordering ziet op vergoeding van materiële schade (€ 3.706,06) en immateriële schade (€ 900,00). Verder heeft de benadeelde partij verzocht de schadevergoedingsmaatregel op te leggen.
+
+7.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft geconcludeerd tot toewijzing van de vordering tot een bedrag van € 2.932,00, te vermeerderen met de wettelijke rente en met hoofdelijke oplegging van de schadevergoedingsmaatregel. Voor het overige dient de benadeelde partij niet-ontvankelijk te worden verklaard in de vordering.
+
+7.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft zich gemotiveerd op het standpunt gesteld dat de gevorderde vergoeding van materiële schade moet worden afgewezen en de immateriële schade sterk gematigd.
+
+7.3
+
+Het oordeel van de rechtbank
+
+De schadepost ‘Eigen risico’ (€ 385,00) is voldoende onderbouwd door de benadeelde partij. Uit het onderzoek ter terechtzitting is vast komen te staan dat de benadeelde partij op dit punt rechtstreeks schade heeft geleden als gevolg van de bewezen verklaarde feiten.
+
+De benadeelde partij is per ambulance naar het ziekenhuis gebracht, waar hij verder is onderzocht. Deze post zal daarom worden toegewezen.
+
+De rechtbank zal de benadeelde partij ten aanzien van de overige materiële schadeposten niet-ontvankelijk verklaren in de vordering.
+
+Sieraden (€ 1.639,00): Diefstal van deze sieraden is niet ten laste gelegd. Uit het dossier blijkt ook niet dat de bewezen verklaarde feiten hebben geleid tot het verlies van gouden sieraden. In het dossier wordt wel melding gemaakt van een zilverkleurige schakelketting die de benadeelde partij zou zijn verloren, maar die ketting is al door de politie gevonden.
+
+Kleding (€ 135,00): Op de foto’s en camerabeelden in het dossier zijn geen bloedvlekken of andere beschadigingen te zien op de kleding van de benadeelde partij. Deze schadepost is dan ook onvoldoende onderbouwd.
+
+Reparatiekosten telefoon (€ 275,00): Uit het dossier blijkt niet dat bij de bewezen verklaarde feiten de telefoon van de benadeelde partij is beschadigd. In de aangifte is hier geen melding van gemaakt. Deze schadepost is dan ook onvoldoende onderbouwd.
+
+Gemiste inkomsten (€ 1.272,00): Deze schadepost ziet op een periode vanaf 3 juni 2019, terwijl de bewezen verklaarde feiten pas plaatsvonden op 7 juni 2019. Zonder nadere toelichting – waarvoor in deze procedure geen plaats is – is niet vast te stellen welk deel van de vordering toewijsbaar is. Ook deze schadepost is daarom onvoldoende onderbouwd.
+
+Ter zake van de gevorderde immateriële schade zal de rechtbank, gelet op hetgeen de benadeelde partij ter toelichting heeft aangevoerd, het gevorderde bedrag van € 900,00 toewijzen, nu is komen vast te staan dat de benadeelde partij rechtstreeks schade heeft geleden als gevolg van de bewezenverklaarde feiten. Bovendien is de omvang van deze schadepost in overeenstemming met de bedragen die doorgaans in vergelijkbare bedragen worden toegekend.
+
+De rechtbank zal derhalve de vordering toewijzen tot een bedrag van € 1.285,00.
+
+De rechtbank zal de gevorderde wettelijke rente toewijzen met ingang van 7 juni 2019, omdat vast is komen te staan dat de schade vanaf die datum is ontstaan. De rechtbank zal de benadeelde partij voor het overige niet-ontvankelijk in de vordering verklaren.
+
+De benadeelde partij kan dit deel van de vordering slechts bij de burgerlijke rechter aanbrengen.
+
+Proceskostenveroordeling
+
+Nu de vordering gedeeltelijk wordt toegewezen, zal de verdachte worden veroordeeld in de kosten die de benadeelde partij tot aan deze uitspraak in verband met de vordering heeft gemaakt, welke kosten de rechtbank tot op heden begroot op nihil, en in de kosten die de benadeelde partij ten behoeve van de tenuitvoerlegging van deze uitspraak nog moet maken.
+
+Hoofdelijkheid
+
+Nu de verdachte de strafbare feiten ter zake waarvan schadevergoeding zal worden toegekend samen met mededaders heeft gepleegd, zijn zij daarvoor ieder hoofdelijk aansprakelijk. Hetzelfde geldt voor de toegewezen proceskosten. Daarbij geldt dat de verdachte, indien en voor zover een van de mededaders de benadeelde partij betaalt, in zoverre jegens de benadeelde partij van deze betalingsverplichting is bevrijd.
+
+Schadevergoedingsmaatregel
+
+Nu de verdachte voor de onder 3.5 bewezen verklaarde strafbare feiten zal worden veroordeeld en hij jegens het slachtoffer naar burgerlijk recht aansprakelijk is voor de schade die door deze feiten is toegebracht, zal de rechtbank aan de verdachte hoofdelijk de verplichting opleggen tot betaling aan de Staat van een bedrag van € 1.285,00, vermeerderd met de wettelijke rente daarover vanaf 7 juni 2019 tot aan de dag van de algehele voldoening, ten behoeve van [slachtoffer 1] .
+
+8
+Vordering tenuitvoerlegging
+
+De rechtbank acht termen aanwezig voor toewijzing van de vordering van de officier van justitie van 20 augustus 2019 tot tenuitvoerlegging van het voorwaardelijk deel van de opgelegde gevangenisstraf van twaalf weken gevangenisstraf, waarvan zes weken voorwaardelijk, waartoe verdachte werd veroordeeld bij onherroepelijk geworden vonnis van de politierechter in deze rechtbank d.d. 21 augustus 2018. Uit het onderzoek ter terechtzitting is gebleken dat verdachte de algemene voorwaarde niet heeft nageleefd, doordat hij zich voor het einde van de proeftijd die bij voormeld vonnis was opgelegd, wederom heeft schuldig gemaakt aan strafbare feiten. De rechtbank zal daarom de vordering toewijzen tot tenuitvoerlegging van zes weken gevangenisstraf.
+
+9
+De toepasselijke wetsartikelen
+
+De op te leggen straf en maatregel zijn gegrond op de artikelen 14a, 14b, 14c, 14d, 36f, 45, 47, 57, 141 en 287 van het Wetboek van Strafrecht. Deze voorschriften zijn toegepast zoals zij golden ten tijde van het bewezen verklaarde.
+
+10
+De beslissing
+
+De rechtbank:
+
+verklaart wettig en overtuigend bewezen dat de verdachte de onder 1 primair en onder 2 ten laste gelegde feiten heeft begaan, zoals hierboven onder 3.5 bewezen is verklaard en dat het bewezen verklaarde uitmaakt:
+
+ten aanzien van feit 1:
+
+medeplegen van poging tot doodslag;
+
+ten aanzien van feit 2:
+
+openlijk in vereniging geweld plegen tegen personen;
+
+verklaart het bewezen verklaarde en de verdachte daarvoor strafbaar;
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders is ten laste gelegd dan hierboven is bewezen verklaard en spreekt de verdachte daarvan vrij;
+
+veroordeelt de verdachte tot:
+
+een gevangenisstraf voor de duur van 30 (dertig) maanden;
+
+bepaalt dat de tijd door de veroordeelde vóór de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis doorgebracht, bij de tenuitvoerlegging van het onvoorwaardelijk gedeelte van de hem opgelegde gevangenisstraf geheel in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht;
+
+bepaalt dat een gedeelte van die straf, groot 6 (zes) maanden, niet zal worden tenuitvoergelegd onder de voorwaarden dat de veroordeelde:
+
+- zich voor het einde van de hierbij op twee jaren vastgestelde proeftijd niet schuldig maakt aan een strafbaar feit;
+
+- zich gedurende de proeftijd meldt bij het GGZ Fivoor aan het adres Johanna Westerdijkplein 40 te Den Haag op door de reclassering te bepalen tijdstippen, zo frequent en zolang deze de reclassering dat noodzakelijk acht;
+
+- dat de veroordeelde zich gedurende de proeftijd onder behandeling zal stellen van Forensische Polikliniek Fivoor of een soortgelijke ambulante zorginstelling op de tijden en plaatsen door of namens die zorginstelling aan te geven, teneinde zich te laten behandelen voor zijn problemen op het gebied van agressie en alcohol;
+
+geeft opdracht aan GGZ Fivoor tot het houden van toezicht op de naleving van voormelde voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden;
+
+voorwaarden daarbij zijn dat de veroordeelde gedurende de proeftijd:
+
+- ten behoeve van het vaststellen van zijn identiteit medewerking zal verlenen aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt;
+
+- medewerking zal verlenen aan het reclasseringstoezicht, bedoeld in artikel 14d, tweede lid, van het Wetboek van Strafrecht, de medewerking aan huisbezoeken daaronder begrepen;
+
+de vordering van de benadeelde partij;
+
+wijst de vordering tot schadevergoeding van de benadeelde partij gedeeltelijk toe en veroordeelt de verdachte hoofdelijk om tegen behoorlijk bewijs van kwijting te betalen aan [slachtoffer 1] een bedrag van € 1.285,00, vermeerderd met de wettelijke rente daarover vanaf 7 juni 2019 tot aan de dag van de algehele voldoening;
+
+met bepaling dat de verdachte bij gehele of gedeeltelijke betaling door zijn mededaders aan de benadeelde partij, dan wel bij gehele of gedeeltelijke voldoening van de, aan de mededaders opgelegde, verplichting tot betaling aan de Staat, zal zijn bevrijd tot de hoogte van het betaalde bedrag;
+
+bepaalt dat de vordering voor het overige deel niet-ontvankelijk is in de vordering en dat de benadeelde partij dit deel van de vordering slechts bij de burgerlijke rechter kan aanbrengen;
+
+veroordeelt de verdachte tevens hoofdelijk in de proceskosten door de benadeelde partij gemaakt, tot op heden begroot op nihil, en ten behoeve van de tenuitvoerlegging nog te maken;
+
+de schadevergoedingsmaatregel;
+
+legt aan de verdachte hoofdelijk op de verplichting tot betaling aan de Staat van een bedrag groot € 1.285,00, vermeerderd met de wettelijke rente daarover vanaf 7 juni 2019 tot aan de dag van de algehele voldoening, ten behoeve van [slachtoffer 1] ;
+
+bepaalt dat in geval volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt - onder handhaving van voormelde verplichting - vervangende hechtenis zal worden toegepast voor de duur van 22 dagen;
+
+bepaalt dat voldoening van de gehele of gedeeltelijke betalingsverplichting aan de benadeelde partij de betalingsverplichting aan de Staat in zoverre doet vervallen, alsmede dat voldoening van de gehele of gedeeltelijke betalingsverplichting aan de Staat de betalingsverplichting aan de benadeelde partij in zoverre doet vervallen;
+
+de vordering tenuitvoerlegging;
+
+gelast de tenuitvoerlegging van de straf, voorwaardelijk opgelegd bij voormeld vonnis van de 20 augustus 2019 van de politierechter in deze rechtbank d.d. 21 augustus 2018, te weten een gevangenisstraf voor de duur van zes weken.
+
+Dit vonnis is gewezen door
+
+mr.	B.A. Sturm,							voorzitter,
+
+mr.	Chr.A.J.F.M. Hensen,						rechter,
+
+mr.	B. Hammer,							rechter,
+
+in tegenwoordigheid van mr. M. Wouters,				griffier,
+
+en uitgesproken ter openbare terechtzitting van deze rechtbank van 30 september 2019.
+
+Wanneer hierna wordt verwezen naar een proces-verbaal, wordt - tenzij anders vermeld - bedoeld een ambtsedig proces-verbaal, opgemaakt in de wettelijke vorm door (een) daartoe bevoegde opsporingsambtena(a)r(en). Waar wordt verwezen naar dossierpagina’s, betreft dit de pagina’s van het proces-verbaal met het registratienummer PL1500-2019153698, van de politie eenheid Den Haag, district Den Haag-Centrum, districtsrecherche, met bijlagen (doorgenummerd p. 1 t/m 157).
+
+Proces-verbaal van bevindingen van 7 juni 2019, p. 83.
+
+Proces-verbaal van bevindingen van 7 juni 2019, p. 84.
+
+Proces-verbaal van aangifte van [slachtoffer 1] van 7 juni 2019, p. 73.
+
+Proces-verbaal van verhoor van [slachtoffer 1] van 7 juni 2019, p. 80-81.
+
+Een geschrift, te weten een geneeskundige verklaring van 21 juni 2019, opgesteld door arts Du Pré, met bijlage, p. 156-157.
+
+Proces-verbaal van bevindingen van 18 juni 2019, p. 152.
+
+Verklaring van de verdachte afgelegd ter terechtzitting van 17 september 2019.
+
+Proces-verbaal van bevindingen van 9 juni 2019, p. 104.
+
+Proces-verbaal van bevindingen van 7 juni 2019, p. 84.
+
+Proces-verbaal van bevindingen van 7 juni 2019, p. 86.
+
+Eigen waarneming van de rechtbank ter zitting van 17 september 2019.
