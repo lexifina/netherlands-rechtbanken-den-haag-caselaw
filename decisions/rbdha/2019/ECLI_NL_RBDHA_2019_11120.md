@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:11120"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 20-02-2020", "FutD 2020-0539", "V-N Vandaag 2020/438", "V-N 2020/14.2.6", "NTFR 2020/1000 met annotatie van Mr. V.S. Huygen van Dyck-Jagersma", "NLF 2020/0515 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/438", "V-N 2020/14.2.6", "NLF 2020/0515", "NTFR 2020/1000 met annotatie van Mr. V.S. Huygen van Dyck-Jagersma", "FutD 2020-0539", "Viditax (FutD) 2020022004"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2020:2482, Bekrachtiging/bevestiging"]]
 ---
 
