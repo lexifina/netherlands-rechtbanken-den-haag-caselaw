@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:11206"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 07-11-2019", "V-N Vandaag 2019/2519", "FutD 2019-2959 met annotatie van Fiscaal up to Date", "ERF-Updates.nl 2019-0271", "Vp-bulletin 2020/16 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "NTFR 2019/2822", "NLF 2019/2483 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2519", "ERF-Updates.nl 2019-0271", "Vp-bulletin 2020/16 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "NLF 2019/2483", "FutD 2019-2959", "Viditax (FutD) 2019110701"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2020:1878, Bekrachtiging/bevestiging"]]
 ---
 
