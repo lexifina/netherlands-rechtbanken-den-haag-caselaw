@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:11805"
-published_in: ["Rechtspraak.nl", "PJ 2020/11", "PR-Updates.nl PR-2019-0168", "FJR 2020/32.75", "JPF 2020/145", "JERF Actueel 2019/376"]
+published_in: ["Rechtspraak.nl", "PJ 2020/11", "PR-Updates.nl PR-2019-0168", "FJR 2020/32.75", "JPF 2020/145", "JERF Actueel 2019/376", "PR-Updates.nl 2019-0168"]
 ---
 
 # ECLI:NL:RBDHA:2019:11805 Rechtbank Den Haag , 13-11-2019 / C-09-557586-HA ZA 18-859
