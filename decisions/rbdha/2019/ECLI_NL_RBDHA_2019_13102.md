@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:13102"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2975", "FutD 2020-0030", "Viditax (FutD), 23-12-2019", "V-N 2020/11.24.6", "NTFR 2020/90", "NLF 2020/0026 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2975", "V-N 2020/11.24.6", "NLF 2020/0026", "FutD 2020-0030", "Viditax (FutD) 2019122302"]
 ---
 
 # ECLI:NL:RBDHA:2019:13102 Rechtbank Den Haag , 02-12-2019 / AWB - 19 _ 4913
