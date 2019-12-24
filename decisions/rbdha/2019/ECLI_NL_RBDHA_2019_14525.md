@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2019:14525"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0087"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0087", "PR-Updates.nl 2020-0087"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:1025, Meerdere afhandelingswijzen"]]
 ---
 
