@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:14748"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0119", "PJ 2021/91"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0119", "PJ 2021/91", "PR-Updates.nl 2021-0119"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:1673, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2020:14748 Rechtbank Den Haag , 28-01-2020 / 7788212 RL EXPL 19-12080
