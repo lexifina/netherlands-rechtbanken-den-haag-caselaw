@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:629"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2020-0029", "PR-Updates.nl PR-2020-0018", "PJ 2020/52"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2020-0029", "PR-Updates.nl PR-2020-0018", "PJ 2020/52", "PR-Updates.nl 2020-0018"]
 cites_law: ["netherlands/national/acts/faillissementswet/art-001.md"]
 ---
 
