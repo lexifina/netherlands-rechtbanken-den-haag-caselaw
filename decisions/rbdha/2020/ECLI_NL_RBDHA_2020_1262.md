@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:1262"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 07-05-2020", "V-N Vandaag 2020/1220", "FutD 2020-1450", "NLF 2020/1224 met annotatie van Theo Hoogwout", "V-N 2020/35.2.1", "NTFR 2020/1846"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1220", "NLF 2020/1224 met annotatie van Theo Hoogwout", "V-N 2020/35.2.1", "FutD 2020-1450", "Viditax (FutD) 2020050701"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2020:2895, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2020:1262 Rechtbank Den Haag , 05-02-2020 / SGR 19/5518
