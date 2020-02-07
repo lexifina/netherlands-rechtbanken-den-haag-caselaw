@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenbeschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:5309"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0674", "PR-Updates.nl PR-2020-0126"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0674", "PR-Updates.nl PR-2020-0126", "VAAN-AR-Updates.nl 2020-0674", "PR-Updates.nl 2020-0126"]
 ---
 
 # ECLI:NL:RBDHA:2020:5309 Rechtbank Den Haag , 07-02-2020 / 8012879 RP VERZ 19-50514
