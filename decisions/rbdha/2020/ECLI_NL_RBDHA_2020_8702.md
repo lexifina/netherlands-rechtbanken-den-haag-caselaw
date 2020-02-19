@@ -1,0 +1,161 @@
+---
+ecli: "ECLI:NL:RBDHA:2020:8702"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "AWB 19.7462 en 19.7463 VK"
+decided: "2020-02-19"
+published: "2020-09-07"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:8702"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2020:8702 Rechtbank Den Haag , 19-02-2020 / AWB 19.7462 en 19.7463 VK
+
+## Inhoudsindicatie
+
+Strafzaak eiser geseponeerd, eiser voldeed niet meer aan voorwaarden verblijfsvergunning. Niet gebleken dat eiser heeft aangetoond dat hij vanwege de Liberiaanse autoriteiten niet meer in het bezit van een document voor grensoverschrijding kan worden gesteld. Verweerder terecht uitgegaan van het feit dat eiser niet alles in het werk heeft gesteld om in het bezit te komen van een document voor grensoverschrijding.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Amsterdam
+
+Bestuursrecht
+
+zaaknummers: 	AWB 19/7462 (beroep)
+
+AWB 19/7463 (voorlopige voorziening)
+
+V-nummer: [V-nummer]
+
+uitspraak van de enkelvoudige kamer voor vreemdelingenzaken en de voorzieningenrechter van 19 februari 2020 in de zaken tussen
+
+[eiser] ,
+
+geboren op [geboortedatum] , van Liberiaanse nationaliteit, eiser/verzoeker (hierna te noemen: eiser)
+
+(gemachtigde: [naam] ),
+
+en
+
+de staatssecretaris van Justitie en Veiligheid, verweerder
+
+(gemachtigde: [naam] ).
+
+Procesverloop
+
+Bij besluit van 12 december 2018 (het primaire besluit) heeft verweerder de verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘tijdelijke humanitaire gronden’ ingetrokken met terugwerkende kracht met ingang van 17 juli 2017. Daarnaast is in het primaire besluit de aanvraag van eiser van 25 januari 2018 tot verlenging van de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd afgewezen. Verder is de aanvraag van eiser van 31 augustus 2018 tot wijziging van zijn verblijfsvergunning voor bepaalde tijd onder de beperking ‘tijdelijke humanitaire gronden’ in een verblijfsvergunning regulier onder de beperking ‘niet-tijdelijke humanitaire gronden’ afgewezen. Het daartegen gemaakte bezwaar is bij besluit van 3 september 2019 (het bestreden besluit) ongegrond verklaard.
+
+Op 30 september 2019 heeft de rechtbank het beroepschrift van eiser ontvangen. Bij brief van diezelfde datum is verzocht een voorlopige voorziening te treffen die ertoe strekt de uitzetting te verbieden totdat op het beroep is beslist. Verweerder heeft verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 3 februari 2020. Eiser en zijn gemachtigde zijn – met voorafgaand bericht van verhindering – niet verschenen. Verweerder is vertegenwoordigd door zijn voornoemde gemachtigde. De rechtbank/voorzieningenrechter (hierna: rechtbank) heeft het onderzoek ter zitting gesloten.
+
+Overwegingen
+
+Ten aanzien van het beroep
+
+1.	Eiser heeft op 15 februari 2017 aangifte gedaan van mensenhandel. Vanwege deze aangifte is eiser in het bezit gesteld van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘tijdelijke humanitaire gronden’.
+
+Standpunt verweerder
+
+2.1
+
+Op 17 juli 2017 heeft het Openbaar Ministerie het strafrechtelijk onderzoek naar aanleiding van de aangifte van eiser geseponeerd en overgedragen aan de Belgische autoriteiten vanwege het ontbreken van opsporingsmogelijkheden in Nederland. Verweerder heeft eiser op 6 juni 2018 medegedeeld dat hij het voornemen heeft om zijn verblijfsvergunning in te trekken. Eiser heeft vervolgens een aanvraag ingediend voor een verblijfsvergunning met als doel ‘niet‑tijdelijke humanitaire gronden‘. Verweerder heeft de verblijfsvergunning onder de beperking ‘tijdelijke humanitaire gronden’ met terugwerkende kracht ingetrokken met ingang van 17 juli 2017 en de aanvraag tot verlenging ervan afgewezen. Op die datum werd het strafrechtelijk onderzoek geseponeerd, waardoor eiser niet meer voldeed aan de beperking waaronder die verblijfsvergunning was verleend.
+
+2.2
+
+Daarnaast heeft verweerder de aanvraag van eiser om zijn verblijfsvergunning te wijzigen in een verblijfsvergunning onder de beperking ‘niet-tijdelijke humanitaire gronden’ afgewezen. Verweerder heeft aan de afwijzing hiervan ten grondslag gelegd dat eiser niet voldoet aan het in artikel 16, eerste lid, aanhef en onder b, van de Vreemdelingenwet (Vw) 2000 genoemde paspoortvereiste en hem evenmin hiervan vrijgesteld. Volgens verweerder heeft eiser niet aangetoond dat hij niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld, zoals is vereist in artikel 3.72 van het Vreemdelingenbesluit (Vb) 2000.
+
+2.3
+
+Verder heeft verweerder deze aanvraag op grond van artikel 16, eerste lid, aanhef en onder g, van de Vw 2000 afgewezen, omdat eiser niet voldoet aan de in artikel 3.51, eerste lid, aanhef en onder k, van het Vb 2000 gestelde voorwaarden. Verweerder heeft zich hierbij op het standpunt gesteld dat geen sprake is van klemmende redenen van humanitaire aard die nopen tot verlening van de door eiser gevraagde verblijfsvergunning, omdat eiser niet voldoet aan de in paragraaf B9/12 van de Vreemdelingencirculaire (Vc) 2000 genoemde voorwaarden. Verweerder acht niet aannemelijk dat eiser slachtoffer is geworden van mensenhandel op de wijze waarop hij dat heeft verklaard. Gelet hierop acht verweerder evenmin aannemelijk dat hij een risico loopt op represailles van mensenhandelaren. Evenmin is volgens verweerder gebleken dat eiser een risico loopt op vervolging in het land van herkomst en dat hij aldaar geen mogelijkheden heeft van sociale en maatschappelijke herintegratie.
+
+Beroepsgronden eiser
+
+3.	Eiser voert aan dat het bestreden besluit niet met de vereiste zorgvuldigheid tot stand is gekomen en dat het bestreden besluit een draagkrachtige motivering ontbeert. Eiser betoogt dat sprake is van een combinatie van klemmende redenen van humanitaire aard op grond waarvan hij in het bezit gesteld zou moeten worden van een verblijfsvergunning. Eiser is namelijk slachtoffer van uitbuiting en heeft te vrezen voor represailles als hij terugkeert naar Liberia. Daarnaast betoogt eiser dat het feit dat de strafzaak geseponeerd is, niet mag leiden tot de conclusie dat hij geen slachtoffer is van uitbuiting. In dat kader beroept hij zich op twee uitspraken. Volgens eiser voldoet de Liberiaanse overheid nog steeds niet aan de minimumeisen voor de bestrijding van uitbuiting, al wekken ze wel de schijn hiervan, en kan hij niet bij de Liberiaanse overheid terecht. Eiser betoogt verder dat hij geen organisaties kan benaderen die hem behulpzaam zouden kunnen zijn bij zijn herintegratie in Liberia. Daarnaast betoogt eiser dat hij in de tijd die hij hier te lande heeft verbleven in voldoende mate geïntegreerd is in de Nederlandse samenleving en dat hij de Liberiaanse samenleving is ontwend. Eiser is deze dusdanig ontwend dat een terugkeer naar Liberia in redelijkheid niet kan worden verlangd. Tot slot heeft eiser stukken overgelegd waaruit volgens hem blijkt dat hij voldoet aan het vereiste van artikel 3.72 van het Vb 2000. Deze stukken betreffen e-mails en aanvraagformulieren die de inspanning van eiser aantonen voor het verkrijgen van een geboorteakte en paspoort.
+
+Intrekking verblijfsvergunning en afwijzing verlenging
+
+4.1
+
+Op grond van artikel 19 gelezen in samenhang met artikel 18, eerste lid, aanhef en onder f, van de Vw 2000 kan de verblijfsvergunning voor bepaalde tijd worden ingetrokken indien niet wordt voldaan aan de beperking waaronder de vergunning is verleend of een voorschrift dat aan de vergunning is verbonden.
+
+4.2
+
+Op grond van artikel 3.48, eerste lid, aanhef en onder b, van het Vb 2000 kan de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Vw 2000, onder een beperking verband houdend met de vervolging van mensenhandel worden verleend aan de vreemdeling die slachtoffer-aangever is van mensenhandel, voor zover sprake is van een strafrechtelijk opsporingsonderzoek of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit waarvan aangifte is gedaan. Op grond van het tweede lid, aanhef en onder a, van dit artikel kan de verblijfsvergunning voorts worden verleend aan vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken.
+
+4.3
+
+Uit paragraaf B8/3.2 van de Vc 2000 volgt dat verweerder de verblijfsvergunning van een slachtoffer van mensenhandel dat aangifte heeft gedaan of anderszins heeft meegewerkt, intrekt als geen sprake meer is van een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit waarvan aangifte is gedaan of waaraan op andere wijze medewerking is verleend.
+
+5.	De rechtbank stelt vast dat niet in geschil is dat de officier van justitie de strafzaak op 17 juli 2017 heeft geseponeerd. De rechtbank overweegt dat eiser met ingang van die datum dan ook niet meer voldoet aan de voorwaarden van de aan hem verleende vergunning, zoals staan genoemd in artikel 3.48, eerste lid, aanhef en onder b, van het Vb 2000. Eisers betoog dat hij ondanks het sepot, wel slachtoffer is van mensenhandel, doet daar, wat daar ook van zij, niet aan af. Uit het onderhavige toetsingskader volgt dat voor de beoordeling van het beroep tegen de intrekking van een verblijfsvergunning onder de beperking ‘humanitair tijdelijk’ slechts van belang is of het slachtoffer van mensenhandel aangifte heeft gedaan en of die aangifte aanleiding vormt voor strafrechtelijk opsporings- of vervolgingsonderzoek dan wel berechting van de verdachte van mensenhandel. De vergunning van eiser is daarom terecht ingetrokken en de verlenging ervan terecht afgewezen. De beroepsgrond slaagt niet.
+
+Afwijzing wijziging beperking
+
+6.1
+
+Op grond van artikel 16, eerste lid, aanhef en onder b, van de Vw 2000 kan een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vw 2000 worden afgewezen indien de vreemdeling niet beschikt over een geldig document voor grensoverschrijding.
+
+6.2
+
+Op grond van artikel 3.72 van het Vb 2000 wordt een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Vw 2000, niet op grond van artikel 16, eerste lid, aanhef en onder b, van de Vw 2000 afgewezen, indien de vreemdeling naar het oordeel van Onze Minister heeft aangetoond dat hij vanwege de regering van het land waarvan hij onderdaan is, niet of niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld.
+
+6.3
+
+Op grond van artikel 3.102, tweede lid, van het Vb 2000, legt de vreemdeling die niet beschikt over een geldig document voor grensoverschrijding, voor zover redelijkerwijs mogelijk, gegevens en bescheiden over waarmee wordt aangetoond dat hij vanwege de regering van het land waarvan hij onderdaan is, niet of niet meer in het bezit van een geldig document voor grensoverschrijding kan worden gesteld. In dat geval legt hij tevens aanvullende gegevens of bescheiden over omtrent zijn identiteit en nationaliteit.
+
+6.4
+
+Volgens het door verweerder gevoerde beleid, dat is neergelegd in paragraaf B1/8.3.4. van de Vc 2000, toont een vreemdeling aan dat hij vanwege de regering van het land waarvan hij onderdaan is niet in het bezit kan komen van een geldig document voor grensoverschrijding door het overleggen van een schriftelijke verklaring van de autoriteiten van dat land waarin wordt gemotiveerd waarom de vreemdeling niet (meer) in het bezit wordt gesteld van een geldig document voor grensoverschrijding.
+
+7.1
+
+De rechtbank stelt vast dat eiser geen geldig document voor grensoverschrijding heeft overgelegd. De rechtbank volgt verweerder in zijn stelling dat eiser niet heeft aangetoond dat hij vanwege de Liberiaanse autoriteiten niet, of niet meer, in het bezit van een dergelijk document kan worden gesteld. In dit kader heeft eiser in de bezwaarfase een niet ingevuld aanvraagformulier voor het verkrijgen van een geboorteakte bij [naam] overgelegd. In beroep heeft eiser e-mailverkeer van zijn casemanager bij het [naam] overgelegd, waaruit blijkt dat er een e-mail is verstuurd naar een katholieke gemeenschap in Liberia om te vragen of die iets voor hem kunnen betekenen inzake zijn geboorteakte. Uit deze stukken blijkt niet dat de Liberiaanse overheid niet wil meewerken aan het verkrijgen van een paspoort of een ander geldig document voor grensoverschrijding.
+
+7.2
+
+De rechtbank komt op grond van het voorgaande dan ook tot de conclusie dat verweerder zich terecht op het standpunt heeft gesteld dat eiser niet redelijkerwijs alles in het werk heeft gesteld om in het bezit te komen van een document voor grensoverschrijding.
+
+7.3
+
+Het niet beschikken over een geldig document voor grensoverschrijding vormt een zelfstandige grond voor afwijzing van de aanvraag. De rechtbank vindt steun voor dit oordeel in de uitspraak van de Raad van State van 27 februari 2014. Verweerder heeft daarom de aanvraag reeds vanwege het ontbreken van een geldig document voor grensoverschrijding kunnen afwijzen. Hetgeen eiser overigens heeft aangevoerd behoeft daarom geen bespreking.
+
+8. De rechtbank verklaart het beroep ongegrond.
+
+Ten aanzien van het verzoek om een voorlopige voorziening
+
+9. De gevraagde voorziening strekt ertoe de uitzetting te verbieden totdat is beslist op het beroep. In dit geval is geen aanleiding tot het treffen van de gevraagde voorziening, omdat de rechtbank heden op het beroep heeft beslist.
+
+Ten aanzien van het beroep en het verzoek om een voorlopige voorziening
+
+10. Voor een proceskostenveroordeling en vergoeding van het griffierecht bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank, in de zaak AWB 19/7462:
+
+- verklaart het beroep ongegrond.
+
+De voorzieningenrechter, in de zaak AWB 19/7463:
+
+- wijst het verzoek om voorlopige voorziening af.
+
+Deze uitspraak is gedaan door mr. A.K. Mireku, (voorzieningen)rechter, in aanwezigheid van mr. T.J.M. Schilder, griffier. De beslissing is in het openbaar uitgesproken op
+
+19 februari 2020.
+
+griffier
+
+(voorzieningen)rechter
+
+Afschrift verzonden aan partijen op:
+
+Tegen deze uitspraak kunnen partijen binnen vier weken na de dag van verzending daarvan hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State (adres: Raad van State, Afdeling bestuursrechtspraak, Hoger beroep vreemdelingenzaken, Postbus 16113, 2500 BC 's-Gravenhage). Naast de vereisten waaraan het beroepschrift moet voldoen op grond van artikel 6:5 van de Awb (zoals het overleggen van een afschrift van deze uitspraak) dient het beroepschrift ingevolge artikel 85, eerste lid, van de Vw 2000 een of meer grieven te bevatten. Artikel 6:6 van de Awb (herstel verzuim) is niet van toepassing. Tegen de uitspraak op het verzoek om een voorlopige voorziening staat geen rechtsmiddel open.
+
+Uitspraak van deze rechtbank en zittingsplaats Zwolle van 14 augustus 2013, AWB 13/8285, en de uitspraak van deze rechtbank en zittingsplaats Haarlem van 6 september 2013, AWB 13/15753.
+
+Uitspraak van 27 februari 2014, ECLI:NL:RVS:2014:711.
