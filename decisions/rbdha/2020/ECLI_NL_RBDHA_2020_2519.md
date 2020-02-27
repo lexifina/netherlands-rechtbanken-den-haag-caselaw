@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:2519"
-published_in: ["Rechtspraak.nl", "FutD 2020-1732", "Viditax (FutD), 05-06-2020", "V-N Vandaag 2020/1527", "V-N 2020/31.2.2", "NTFR 2020/2266 met annotatie van MR. E. ALINK", "NLF 2020/1399 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1527", "V-N 2020/31.2.2", "NLF 2020/1399", "NTFR 2020/2266 met annotatie van MR. E. ALINK", "FutD 2020-1732", "Viditax (FutD) 2020060518"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:129, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
