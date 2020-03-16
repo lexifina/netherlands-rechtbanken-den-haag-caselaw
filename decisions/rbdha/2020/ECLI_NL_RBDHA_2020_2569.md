@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:2569"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0085"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0085", "PR-Updates.nl 2020-0085"]
 ---
 
 # ECLI:NL:RBDHA:2020:2569 Rechtbank Den Haag , 16-03-2020 / C/09/572165 / FA RK 19-2985, C/09/578506 / FA RK 19-5938
