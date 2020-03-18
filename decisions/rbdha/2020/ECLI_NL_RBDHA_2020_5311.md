@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:5311"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0660", "PR-Updates.nl PR-2020-0121"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0660", "PR-Updates.nl PR-2020-0121", "VAAN-AR-Updates.nl 2020-0660", "PR-Updates.nl 2020-0121"]
 ---
 
 # ECLI:NL:RBDHA:2020:5311 Rechtbank Den Haag , 18-03-2020 / 8012879 RP VERZ 19-50514
