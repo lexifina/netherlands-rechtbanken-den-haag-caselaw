@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:3152"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 26-05-2020", "V-N Vandaag 2020/1398", "FutD 2020-1645", "V-N 2020/28.2.2", "NTFR 2020/1971", "NLF 2020/1294 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1398", "V-N 2020/28.2.2", "NLF 2020/1294", "FutD 2020-1645", "Viditax (FutD) 2020052601"]
 ---
 
 # ECLI:NL:RBDHA:2020:3152 Rechtbank Den Haag , 26-03-2020 / AWB - 19 _ 6665
