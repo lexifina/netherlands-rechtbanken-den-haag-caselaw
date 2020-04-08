@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:7095"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0161"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0161", "PR-Updates.nl 2020-0161"]
 ---
 
 # ECLI:NL:RBDHA:2020:7095 Rechtbank Den Haag , 08-04-2020 / C/09/586591 / HA ZA 20-55
