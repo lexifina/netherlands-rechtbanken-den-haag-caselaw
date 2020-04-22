@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:3707"
 published_in: ["Rechtspraak.nl", "NJF 2020/193", "GJ 2020/92", "JGR 2020/15 met annotatie van Mersch, M. van der"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2460, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2020:3707 Rechtbank Den Haag , 22-04-2020 / C/09/562492 / HA ZA 18-1125
