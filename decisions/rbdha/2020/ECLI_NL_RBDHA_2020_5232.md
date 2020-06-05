@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:5232"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0684", "PR-Updates.nl PR-2020-0118"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0684", "PR-Updates.nl PR-2020-0118", "VAAN-AR-Updates.nl 2020-0684", "PR-Updates.nl 2020-0118"]
 ---
 
 # ECLI:NL:RBDHA:2020:5232 Rechtbank Den Haag , 05-06-2020 / 588579/20-83
