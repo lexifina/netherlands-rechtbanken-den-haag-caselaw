@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:7103"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 03-08-2020", "V-N Vandaag 2020/1940", "FutD 2020-2276 met annotatie van Fiscaal up to Date", "ERF-Updates.nl 2020-0194", "NTFR 2020/2527 met annotatie van mr. W. Verstijnen", "VFP 2020/75", "Belastingadvies 2020/19.10", "V-N 2020/50.2.3", "NLF 2020/1763 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1940", "ERF-Updates.nl 2020-0194", "VFP 2020/75", "Belastingadvies 2020/19.10", "V-N 2020/50.2.3", "NLF 2020/1763", "NTFR 2020/2527 met annotatie van mr. W. Verstijnen", "FutD 2020-2276", "Viditax (FutD) 2020080302"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:2071, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2020:7103 Rechtbank Den Haag , 15-07-2020 / AWB - 18 _ 3930
@@ -173,7 +174,7 @@ b. het rechtens dan wel in feite, direct of indirect, vervreemden van vermogensb
 
 12. Artikel 16 van de SW luidt:
 
-“1. De bezittingen en de schulden van een afgezonderd particulier vermogen als bedoeld in artikel 2.14a, tweede lid, van de Wet inkomstenbelasting 2001, die tot het overlijden van een erflater ingevolge dat artikel zijn toegerekend aan die erflater, en met ingang van zijn overlijden aan zijn erfgenamen, worden voor de toepassing van deze wet en de daarop berustende bepalingen geacht door die erfgenamen krachtens erfrecht te zijn verkregen en wel per erfgenaam voor het deel dat ingevolge dat artikel aan de erfgenaam wordt toegerekend. De eerste volzin is van overeenkomstige toepassing met betrekking tot bezittingen en schulden als bedoeld in artikel [huisnummer 1] .14a, zevende lid, van de Wet inkomstenbelasting 2001 die zonder toepassing van dat lid tot het overlijden van de erflater zouden zijn toegerekend aan die erflater, en met ingang van zijn overlijden aan zijn erfgenamen.  . (…)”
+“1. De bezittingen en de schulden van een afgezonderd particulier vermogen als bedoeld in artikel 2.14a, tweede lid, van de Wet inkomstenbelasting 2001, die tot het overlijden van een erflater ingevolge dat artikel zijn toegerekend aan die erflater, en met ingang van zijn overlijden aan zijn erfgenamen, worden voor de toepassing van deze wet en de daarop berustende bepalingen geacht door die erfgenamen krachtens erfrecht te zijn verkregen en wel per erfgenaam voor het deel dat ingevolge dat artikel aan de erfgenaam wordt toegerekend. De eerste volzin is van overeenkomstige toepassing met betrekking tot bezittingen en schulden als bedoeld in artikel [huisnummer 1] .14a, zevende lid, van de Wet inkomstenbelasting 2001 die zonder toepassing van dat lid tot het overlijden van de erflater zouden zijn toegerekend aan die erflater, en met ingang van zijn overlijden aan zijn erfgenamen. [huisnummer 1] . (…)”
 
 Beoordeling van het geschil
 
