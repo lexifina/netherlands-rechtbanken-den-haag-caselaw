@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:7813"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1057", "PR-Updates.nl PR-2020-0151", "PJ 2020/134"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1057", "PR-Updates.nl PR-2020-0151", "PJ 2020/134", "VAAN-AR-Updates.nl 2020-1057", "PR-Updates.nl 2020-0151"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2023:2195, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2020:7813 Rechtbank Den Haag , 13-08-2020 / 7730397 \ RL EXPL  19-10284
