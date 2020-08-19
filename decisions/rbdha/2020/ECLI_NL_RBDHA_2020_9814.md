@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:9814"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0174"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0174", "PR-Updates.nl 2020-0174"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:1963, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBDHA:2020:9814 Rechtbank Den Haag , 19-08-2020 / C/09/574831 / FA RK 19-4218
