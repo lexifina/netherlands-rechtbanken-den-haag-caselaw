@@ -1,0 +1,110 @@
+---
+ecli: "ECLI:NL:RBDHA:2020:14785"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL20.6386"
+decided: "2020-08-31"
+published: "2021-06-03"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:14785"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2020:14785 Rechtbank Den Haag , 31-08-2020 / NL20.6386
+
+## Inhoudsindicatie
+
+Beroep niet tijdig - uitspraak buiten zitting - beroep gegrond.
+
+## Uitspraak
+
+uitspraak buiten zitting
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Utrecht Bestuursrecht zaaknummer: NL20.6386
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[eiser]
+, eiser V-nummer: [V-nummer]
+
+(gemachtigde: mr. W.C. Boelens), en
+
+de Staatssecretaris van Justitie en Veiligheid, verweerder (gemachtigde: L. Jaber).
+
+Procesverloop
+
+Deze uitspraak gaat over het beroep dat eiser heeft ingediend omdat verweerder niet op tijd heeft beslist op zijn aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd.
+
+Overwegingen
+
+De rechtbank overweegt dat het beroep is aangehouden vanwege de afgekondigde maatregelen rondom het coronavirus. Deze maatregelen beperkten verweerder in de mogelijkheden om eiser in de gelegenheid te stellen zijn asielaanvraag te onderbouwen. De rechtbank ziet geen aanleiding om het beroep nog langer aan te houden. Daarbij neemt de rechtbank in aanmerking dat de maatregelen rondom het coronavirus inmiddels zijn versoepeld en verweerder voldoende gelegenheid heeft gehad om zijn organisatie aan te passen aan de maatregelen die thans nog gelden. De rechtbank gaat daarom over tot een beoordeling van het beroep. De rechtbank nodigt partijen niet uit voor een zitting, omdat dat in deze zaak niet nodig is (artikel 8:54 van de Algemene wet bestuursrecht (Awb)). Hieronder legt de rechtbank dat verder uit.
+
+Als een bestuursorgaan niet op tijd beslist op een aanvraag of bezwaarschrift kan de betrokkene daartegen in beroep gaan. Wel moet de betrokkene dan eerst een ‘ingebrekestelling’ aan het bestuursorgaan sturen. Dat wil zeggen dat de betrokkene per brief aan het bestuursorgaan moet laten weten dat er binnen twee weken alsnog beslist moet worden op zijn aanvraag of bezwaar. Dit staat (onder andere) in de artikelen 6:2, 6:12 en 7:1 van de Awb.
+
+Partijen zijn het met elkaar eens dat verweerder te laat is met het beslissen op de aanvraag van eiser. In zijn verweerschrift van 24 april 2020 geeft verweerder dit ook aan. De rechtbank
+
+stelt vast dat eiser verweerder op 10 mei 2019 in gebreke heeft gesteld en dat sindsdien twee weken zijn verstreken.
+
+4. Verweerder stelt zich in het verweerschrift primair op het standpunt dat het beroep niet- ontvankelijk is. Volgens verweerder kan op dit moment, gelet op de geldende maatregelen rondom het coronavirus, niet worden bepaald wat een redelijke termijn is voor het nemen van een besluit op de asielaanvraag.
+
+De rechtbank volgt verweerder niet in deze stelling en verwijst daarbij naar de uitspraak van 3 juli 2020 van deze rechtbank, zittingsplaats Arnhem1, waarin de rechtbank heeft overwogen dat een beroep (niet tijdig) alleen niet-ontvankelijk is als de wet daartoe noopt, het procesbelang is vervallen, sprake is van misbruik van procesrecht of eerdere dwangsommen nog lopen. De rechtbank ziet geen aanleiding een nieuwe, buitenwettelijke ontvankelijkheidsgrond hieraan toe te voegen, te meer omdat de rechtbank altijd een termijn kan bepalen of een andere maatregel kan treffen als bedoeld in artikel 8:55d van de Awb en daarbij rekening kan houden met de moeilijkheden die verweerder ondervindt en met eventuele onzekere omstandigheden. Daarom verwerpt de rechtbank dit primaire standpunt van verweerder.
+
+5. Het beroep is kennelijk gegrond.
+
+6. Omdat verweerder nog geen besluit heeft genomen bepaalt de rechtbank dat verweerder dit alsnog moet doen.
+
+7. De rechtbank geeft daarvoor normaal een termijn van twee weken. Er kunnen omstandigheden zijn die ervoor zorgen dat de rechtbank een langere termijn geeft (artikel 8:55d, lid 3, van de Awb).
+
+8. In zijn verweerschrift zegt verweerder dat er achterstanden zijn in de behandeling van de asielaanvragen. Dit komt doordat er meer zaken zijn en de samenstelling van de zaken anders is dan verwacht. Verweerder geeft aan dat de doorlooptijden van de asielaanvragen nog steeds stijgt en noemt in zijn verweerschrift de maatregelen die hij neemt om de doorlooptijden te verminderen. Verweerder is namelijk extra personeel aan het werven. Verweerder merkt op dat eiser reeds in de gelegenheid is gesteld om zijn asielaanvraag te onderbouwen. Een eerste en nader gehoor hebben plaatsgevonden. Op 9 april 2020 is er een voornemen uitgebracht en is eiser in de gelegenheid gesteld om binnen vier weken een zienswijze uit te brengen, verweerder heeft deze zienswijze nog niet ontvangen ten tijde van het verweerschrift. Na ontvangst wil verweerder zo spoedig mogelijk op de asielaanvraag beslissen. Verweerder verzoekt om een termijn van zestien weken om alsnog te beslissen op de asielaanvraag. Verweerder stelt voorts dat een ‘standaard’ dwangsom op overschrijding van de termijn van € 100,- per dag onevenredig is en verzoekt de rechtbank dit bedrag te verlagen.
+
+9. De rechtbank ziet onder de gegeven omstandigheden aanleiding om aan verweerder een langere beslistermijn dan twee weken op te leggen. Om zowel recht te doen aan het belang van eiser bij een duidelijke beslistermijn, als het belang van verweerder om tot een zorgvuldige besluitvorming te kunnen komen, zal de rechtbank een uiterlijke beslistermijn
+
+1
+ECLI: NL:RBGEL:2020:6088
+
+opleggen van zes weken. Daarbij houdt de rechtbank rekening met het feit dat eiser nog zijn zienswijze op het voornemen mag geven, voordat verweerder een besluit neemt.
+
+10. De rechtbank bepaalt dat verweerder een dwangsom van € 100,- moet betalen voor elke dag waarmee de beslistermijn nu nog wordt overschreden door verweerder. De rechtbank ziet geen aanleiding om een lager bedrag toe te kennen, zoals door verweerder is verzocht. Daarbij verwijst de rechtbank naar de uitspraak van de ABRvS van 8 juli 2020.2
+
+In overeenstemming met het beleid voor vreemdelingenzaken, dat door het Landelijk Overleg Vakinhoud Bestuursrecht (LOVB) per 25 maart 2020 is gewijzigd, wordt het maximum bepaald op € 7.500,-.
+
+11. Het beroep is gegrond.
+
+12. Dat betekent ook dat eiser een vergoeding krijgt voor de proceskosten die hij heeft gemaakt. Verweerder moet dit betalen. Volgens het Besluit proceskosten bestuursrecht (Bbp) is dit een vast bedrag omdat eiser een professionele (juridische) hulpverlener heeft ingeschakeld om voor hem een beroepschrift in te dienen. Omdat de zaak alleen gaat over de vraag of de beslistermijn is overschreden wordt een lager bedrag toegekend (wegingsfactor 0,5). Verder zijn er geen kosten gemaakt die vergoed kunnen worden. Toegekend wordt € 262,50.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het, met een besluit gelijk te stellen, niet tijdig nemen van een besluit;
+
+draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak alsnog een besluit bekend te maken;
+
+bepaalt dat verweerder aan eiser een dwangsom van € 100,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van
+
+€ 7.500,-;
+
+- veroordeelt verweerder tot betaling van € 262,50 aan proceskosten. Verweerder moet dit bedrag betalen aan eiser.
+
+Deze uitspraak is gedaan door mr. S.G.M. van Veen, rechter, in aanwezigheid van
+
+L.S. Lodder, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt de uitspraak alsnog, voor zover nodig, in het openbaar uitgesproken.
+
+2
+ECLI:NL:RVS:2020:1560
+
+De uitspraak is bekendgemaakt op:
+
+31 augustus 2020
+
+Documentcode: [documentcode]
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak kunt een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen zes weken na de dag waarop deze uitspraak is verzonden. Als u graag een zitting wilt waarbij u persoonlijk uw mening aan de rechter kunt geven, kunt u dit in uw verzetschrift aangeven.
