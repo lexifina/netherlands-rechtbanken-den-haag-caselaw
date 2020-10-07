@@ -1,0 +1,117 @@
+---
+ecli: "ECLI:NL:RBDHA:2020:9929"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "SGR 19/1538"
+decided: "2020-10-07"
+published: "2020-10-06"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:9929"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2020:9929 Rechtbank Den Haag , 07-10-2020 / SGR 19/1538
+
+## Inhoudsindicatie
+
+Aanvraag bijzondere bijstand voor de kosten van de eigen bijdrage voor een advocaat afgewezen. Er is een toevoeging verleend, dus de noodzaak voor de kosten kan in beginsel worden aangenomen. Eiser heeft geen zienswijze kunnen indienen tegen de opgelegde maatregel waar over geprocedeerd wordt. Ook in hij niet in de gelegenheid gesteld om in persoon zijn bezwaren tegen de maatregel op te leggen tijdens een hoorzitting. Gelet hierop is de noodzaak voor het inschakelen van een advocaat en het maken van de gevraagde kosten naar het oordeel van de rechtbank gegeven. Eiser heeft namelijk niet op een andere wijze zijn standpunten wat betreft de opgelegde maatregel naar voren kunnen brengen en was om die reden genoodzaakt om een verzoek om een voorlopige voorziening in te dienen. De rechtbank verklaart het beroep dan ook gegrond en vernietigt het bestreden besluit. Verweerder moet een nieuw besluit op het bezwaar nemen.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Bestuursrecht
+
+zaaknummer: SGR 19/1538
+
+uitspraak van de enkelvoudige kamer van 7 oktober 2020 in de zaak tussen
+
+[eiser] , te [woonplaats] , eiser,
+
+tegen
+
+het dagelijks bestuur van de Intergemeentelijke Sociale Dienst (ISD) Bollenstreek, verweerder
+
+(gemachtigde: mr. D.F. Rosenbaum).
+
+Procesverloop
+
+Bij besluit van 31 oktober 2018 (het primaire besluit) heeft verweerder de aanvraag van eiser om bijzondere bijstand voor de kosten van rechtsbijstand afgewezen.
+
+Bij besluit van 11 februari 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.
+
+Eiser heeft tegen het bestreden besluit beroep ingesteld.
+
+Bij uitspraak van 25 juli 2019 (ECLI:NL:RBDHA:2019:7670) heeft de rechtbank het beroep kennelijk niet-ontvankelijk verklaard wegens het niet betalen van het verschuldigde griffierecht.
+
+Bij uitspraak van 12 december 2019 (ECLI:NL:RBDHA:2019:13367) heeft de rechtbank het door eiser gedane verzet gegrond verklaard en het onderzoek voortgezet in de stand waarin het zich bevond.
+
+Verweerder heeft een verweerschrift ingediend.
+
+In de onderhavige zaak, alsmede in de zaken met de zaaknummers SGR 18/6383, 18/7835, 18/8386, 18/8370, 19/1014, 19/2155, 19/2162, 19/2163, 19/2169, 19/2772, 19/3941, 19/4738, 19/4741, 19/4743, 19/4811, 19/4991, 19/5340, 19/5525, 19/5832, 19/5833, 19/5834, 19/6088, 19/6089, 19/6090, 19/6288, 19/6292, 19/6441, 19/6443, 19/7248, 19/7115, 19/7122, 19/7417, 19/7787, 19/788, 19/7790, 19/7965, 19/7996, 20/311, 20/886, 20/887, 20/888, 20/987, 20/989, SGR 20/990, SGR 20/991, SGR 20/1007, SGR 20/1008, 20/1009 en 20/1010, zijn eiser, de heer [A] , directeur van de ISD Bollenstreek, en de heer [B] , wethouder van de gemeente Hillegom, bij brieven van 20 februari 2020 opgeroepen om te verschijnen op de regiezitting van de meervoudige kamer van 13 maart 2020. Eiser is verschenen. Verweerder heeft zich tijdens deze regiezitting laten vertegenwoordigen door mr. V.L.T. van Roy. Voorts zijn namens verweerder [A] , [B] de gemachtigde van verweerder, mr. D.F. Rosenbaum, verschenen. Ter zitting hebben beide partijen aangegeven bereid te zijn om middels mediation te proberen tot een oplossing van het conflict te komen. Hiertoe heeft de rechtbank het onderzoek in deze zaken geschorst in afwachting van de uitkomst van het mediationtraject. Op 30 maart 2020 heeft het mediationbureau van de rechtbank bericht dat het mediationtraject zonder onderlinge overeenstemming beëindigd is.
+
+De meervoudige kamer heeft de behandeling van de onderhavige zaak verwezen naar de enkelvoudige kamer ter verdere behandeling.
+
+Het onderzoek ter zitting is voortgezet op 2 september 2020, waarbij tevens het beroep in de zaken met de nummers SGR 18/7091, SGR 18/8386 en SGR 19/2163 is behandeld. Eiser is verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+1. Eiser heeft een beroep gedaan op het bestaan van betalingsonmacht ten aanzien van het betalen van griffierecht in onderhavige beroepszaak. Dit beroep is ter zitting op
+
+2 september 2020 gehonoreerd. Er bestaat daarom geen grond om het beroep wegens het niet betalen van griffierecht niet-ontvankelijk te verklaren.
+
+2. De rechtbank gaat uit van de volgende feiten en omstandigheden.
+
+2.1
+
+Op 24 augustus 2018 heeft eiser een aanvraag ingediend om bijzondere bijstand voor de kosten van rechtsbijstand. Het gaat hierbij om de eigen bijdrage voor een advocaat en de kosten van het griffierecht met betrekking tot de behandeling van een verzoek om een voorlopige voorziening gericht tegen het besluit van verweerder om, bij wijze van maatregel, de bijstandsuitkering van eiser met ingang van 1 augustus 2018 met 100% te verlagen voor de duur van één maand. Op het aanvraagformulier geeft eiser aan dat het om een totaalbedrag van € 189,- gaat.
+
+2.2
+
+Bij het primaire besluit heeft verweerder deze aanvraag afgewezen. Verweerder heeft zich daarbij op het standpunt gesteld dat geen sprake is van uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten. De kosten zijn namelijk ontstaan door een gedraging van eiser en eiser is zelf verantwoordelijk voor de gevolgen van die gedraging.
+
+3. Bij het bestreden besluit heeft verweerder, onder verwijzing naar het advies van de ambtelijke commissie bezwaarschriften ISD Bollenstreek van 7 februari 2019, het bezwaar ongegrond verklaard en het primaire besluit gehandhaafd. Aan het bestreden besluit ligt ten grondslag dat in dit geval het uitgangpunt, dat de noodzaak voor het maken van kosten van griffierecht en een eigen bijdrage voor rechtsbijstand in beginsel kan worden aangenomen als krachtens een toevoeging rechtsbijstand is verleend, niet geldt. Eiser heeft de noodzaak om te procederen over zichzelf afgeroepen en had de te maken kosten zelf kunnen voorkomen. Deze kosten zijn ontstaan omdat verweerder een maatregel heeft opgelegd naar aanleiding van het door eiser na afloop van een zitting op 21 augustus 2018 ernstig bedreigen van een medewerkster van verweerder en haar kinderen. De kosten voor het voeren van procedures over de gevolgen hiervan zijn niet noodzakelijk en dienen voor rekening en risico van eiser te komen.
+
+4. In beroep voert eiser aan dat volgens vaste rechtspraak de noodzaak voor het maken van kosten voor de eigen bijdrage voor rechtsbijstand en het griffierecht in beginsel kan worden aangenomen als er krachtens een toevoeging rechtsbijstand is verleend. Eiser verwijst daarbij naar een uitspraak van de Centrale Raad van Beroep (hierna: CRvB) van
+
+24 juli 2018, ECLI:NL:CRVB:2018:2252. Volgens eiser is in dit geval een toevoeging verleend en moet dus de noodzaak voor het maken van voornoemde kosten aangenomen worden. Verweerder gaat daaraan voorbij door te stellen dat eiser de noodzaak om te procederen over zichzelf heeft afgeroepen. Volgens eiser gaat verweerder in feite op de stoel van de rechter zitten, hetgeen niet de bedoeling kan zijn. Verweerder geeft dit zelf ook aan in een beslissing op bezwaar van 18 februari 2019, waarin eisers bezwaarschrift gericht tegen de afwijzing van een aanvraag om bijzondere bijstand voor de kosten van het griffierecht in een andere procedure wél gegrond wordt verklaard. Hieruit kan niet anders geconcludeerd worden dan dat sprake is van volstrekte willekeur. Voor de volledigheid wil eiser opmerken dat de aantijging dat eiser een medewerkster van verweerder en haar kinderen ernstig bedreigd zou hebben een pertinente leugen is. Verweerder kan op geen enkele wijze objectief aannemelijk maken dat deze vermeende gedraging heeft plaatsgevonden. Op grond van het strafrechtelijk onderzoek heeft het Openbaar Ministerie de zaak bovendien geseponeerd.
+
+5. Ter zitting heeft eiser naar voren gebracht dat verweerder uiteindelijk bijzondere bijstand heeft toegekend voor het griffierecht waar het in deze zaak om draait, het griffierecht voor de voorlopige voorzieningenprocedure met zaaknummer SGR 18/5838. Voorts heeft eiser desgevraagd ter zitting bevestigd dat de kosten voor het griffierecht geen rol meer spelen in deze procedure en dat het enkel nog gaat om de kosten voor de eigen bijdrage voor een advocaat met betrekking tot voornoemde voorlopige voorzieningenprocedure. Met betrekking tot deze kosten komt de rechtbank tot de volgende beoordeling.
+
+5.1
+
+De rechtbank stelt vast, en tussen partijen is niet in geschil dat eiser in de desbetreffende voorlopige voorzieningenprocedure, met zaaknummer SGR 18/5838, werd bijgestaan door een advocaat en dat hiervoor een toevoeging is verleend.
+
+5.2
+
+Volgens vaste rechtspraak van de CRvB kan de Wet op de rechtsbijstand (Wrb) in beginsel als een toereikende en passende voorliggende voorziening worden aangemerkt indien een betrokkene een aanvraag indient om bijzondere bijstand in de kosten van rechtsbijstand. De kosten van een procedure die de Wrb voor eigen rekening laat, zoals de eigen bijdrage, kunnen onder bepaalde omstandigheden tot de bijzondere noodzakelijke kosten van het bestaan worden gerekend. In het geval dat rechtsbijstand is verleend op grond van een toevoeging kan in beginsel de noodzaak voor het verlenen van rechtshulp worden aangenomen.
+
+5.3
+
+In dit geval is een toevoeging verleend. Dit betekent dat de noodzaak voor de desbetreffende kosten van rechtsbijstand, de eigen bijdrage, in beginsel kan worden aangenomen. Verweerder heeft zich op het standpunt gesteld dat van dit uitgangspunt afgeweken moet worden, omdat eiser de kosten te danken heeft aan zijn eigen gedraging. Volgens verweerder is daarom geen sprake van noodzakelijke kosten. De rechtbank volgt verweerder niet in dit standpunt. Uit het dossier met zaaknummer SGR 18/7091 en de behandeling ter zitting van deze zaak, welke tegelijkertijd met onderhavige zaak heeft plaatsgevonden op 2 september 2020, is namelijk gebleken dat eiser –naar het oordeel van de rechtbank- ten onrechte niet in de gelegenheid is gesteld om zijn zienswijze kenbaar te maken voordat de maatregel waarover geprocedeerd werd in de voorlopige voorzieningenprocedure met zaaknummer SGR 18/1538 werd opgelegd. Daarnaast is gebleken dat eiser evenmin in de gelegenheid is gesteld om in persoon zijn bezwaren tegen het opleggen van deze maatregel mondeling toe te lichten tijdens een hoorzitting. Gelet hierop is de noodzaak voor het inschakelen van een advocaat en het maken van de gevraagde kosten naar het oordeel van de rechtbank gegeven. Eiser heeft namelijk niet op een andere wijze zijn standpunten wat betreft de opgelegde maatregel naar voren kunnen brengen en was om die reden genoodzaakt om een verzoek om een voorlopige voorziening in te dienen. De rechtbank verklaart het beroep dan ook gegrond en vernietigt het bestreden besluit, wegens schending van artikel 3:2 en artikel 7:12 van de Algemene wet bestuursrecht. De rechtbank ziet geen aanleiding om de rechtsgevolgen van het vernietigde bestreden besluit in stand te laten en zal verweerder daarom opdragen een nieuwe beslissing op bezwaar te nemen met inachtneming van hetgeen in deze uitspraak is overwogen. De rechtbank stelt hiervoor een termijn van acht weken na de dag van verzending van deze uitspraak.
+
+6.	Nu het beroep gegrond wordt verklaard, is er in beginsel aanleiding om verweerder te veroordelen in de kosten die eiser in verband met de behandeling van het beroep redelijkerwijs heeft moeten maken. Gelet op het door eiser ter zitting ingeleverde proceskostenformulier gaat het om de reiskosten die eiser heeft moeten maken om naar de rechtbank te reizen. De rechtbank heeft in de uitspraak van heden in de zaak met nummer SGR 18/7091, die gelijk met deze zaak ter zitting van 2 september 2020 is behandeld, verweerder veroordeeld in de proceskosten (de reiskosten) van eiser van € 17,02. Nu eiser voor het bijwonen van de zitting van 2 september 2020 één keer reiskosten heeft gemaakt, moeten de reiskosten ook maar één keer aan eiser worden vergoed. In deze zaak zal daarom geen proceskostenveroordeling worden uitgesproken.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het bestreden besluit;
+
+draagt verweerder op binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak.
+
+Deze uitspraak is gedaan door mr. M.P. Verloop, rechter, in aanwezigheid van mr. R.A.E. Bach, griffier. De beslissing is in het openbaar uitgesproken op 7 oktober 2020.
+
+griffier						rechter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
+
+Zie bijvoorbeeld de uitspraak van 30 juni 2020, ECLI:NL:CRVB:2020:1325.
