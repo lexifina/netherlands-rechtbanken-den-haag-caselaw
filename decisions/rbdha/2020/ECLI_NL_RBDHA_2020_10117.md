@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:10117"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0170"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0170", "PR-Updates.nl 2020-0170"]
 ---
 
 # ECLI:NL:RBDHA:2020:10117 Rechtbank Den Haag , 07-10-2020 / SGR 19/1484
