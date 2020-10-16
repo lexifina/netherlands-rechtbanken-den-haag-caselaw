@@ -1,0 +1,95 @@
+---
+ecli: "ECLI:NL:RBDHA:2020:11150"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "AWB - 19 _ 7644"
+decided: "2020-10-16"
+published: "2020-11-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:11150"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2020:11150 Rechtbank Den Haag , 16-10-2020 / AWB - 19 _ 7644
+
+## Inhoudsindicatie
+
+weigering voorrangsverklaring - hardheidsclausule - ongegrond
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Bestuursrecht
+
+zaaknummer: SGR 19/7644
+
+uitspraak van de enkelvoudige kamer van 16 oktober 2020 in de zaak tussen
+
+[eiseres] , te [woonplaats] , eiseres
+(gemachtigde: mr. R.A. Goemmatov),
+
+en
+
+Het college van burgemeester en wethouders van Den Haag, verweerder
+(gemachtigde: mr. L. Otte).
+
+Procesverloop
+
+Bij besluit van 22 mei 2019 (het primaire besluit) heeft verweerder de aanvraag van eiseres om een voorrangsverklaring afgewezen.
+
+Bij besluit van 22 oktober 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard.
+
+Eiseres heeft tegen het bestreden besluit beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Eiseres heeft nadere gronden ingediend.
+
+Het onderzoek ter zitting heeft, via een Skype-verbinding, plaatsgevonden op 7 oktober 2020. Beide partijen hebben zich laten vertegenwoordigen door hun gemachtigde.
+
+Overwegingen
+
+1. Op 17 april 2019 heeft eiseres een voorrangsverklaring als woningzoekende aangevraagd. In de aanvraag stelt eiseres dat haar woning te klein is voor haar, omdat het een eenpersoons woning is en zij twee kinderen heeft. De kinderen kunnen ook nergens veilig spelen, omdat de keuken zich in de woonkamer bevindt. Daarnaast betreft het een woning waarvoor eiseres twee trappen op moet. Eiseres stelt dat zij haar kinderen deze trappen elke keer op moet dragen en dat zij hierdoor zoveel pijn krijgt dat ze niet goed kan functioneren. 2.	Verweerder heeft de aanvraag van eiseres afgewezen omdat zij niet zou voldoen aan artikel 29, eerste lid, onder e, van de Huisvestingsverordening gemeente Den Haag 2015-2019 (de Verordening 2015-2019). Volgens verweerder verkeert eiseres niet buiten haar eigen schuld en toedoen in een dusdanige situatie dat zij binnen drie maanden andere woonruimte behoeft. Hieraan legt verweerder ten grondslag dat eiseres een woning met trappen heeft gehuurd op de tweede etage, ondanks dat zij gezondheidsklachten had en kon weten dat dit tot problemen kon leiden. Voorts is niet gebleken dat eiseres heeft geprobeerd om met haar kinderen in de gezamenlijke woning (waar haar ex-partner woont) te blijven, ondanks dat eiseres gezag heeft over de kinderen en zij hoofdverblijf bij haar hebben. Verweerder stelt zich daarom op het standpunt dat de huidige woonsituatie van eiseres verwijtbaar is.3.	Eiseres kan zich niet verenigen met het bestreden besluit en voert aan dat verweerder de Verordening 2015-2019 niet ten grondslag heeft mogen leggen aan het bestreden besluit, nu de wettelijke grondslag van de Verordening 2015-2019 ontbreekt.  Voorts voert eiseres aan dat zij buiten eigen schuld in haar problematische woonsituatie is terechtgekomen. Eiseres kon zich destijds niet bij de noodopvang melden om van daaruit te zoeken naar een woonruimte, zoals verweerder haar verwijt, omdat zij op dat moment geen verblijfstitel had en men dan niet wordt toegelaten tot de opvang. Zij was daarom gedwongen de huidige woning aan te nemen. Gelet op het voorgaande is sprake van een motiveringsgebrek aan de zijde van verweerder. Voorts stelt eiseres dat op grond van sociale en medische omstandigheden sprake is van een levens ontwrichtende woonsituatie buiten haar schuld om. Eiseres kan haar kinderen wegens gezondheidsproblemen niet elke keer de trap op krijgen, waardoor de kinderen meerdere dagen per week niet naar buiten mogen. Verweerder had volgens eiseres naar aanleiding van haar medische problemen en de overgelegde stukken de aanvraag verder inhoudelijk moeten onderzoeken. Tot slot is in de woning sprake van lekkage en schimmel waardoor het jongste kind geregeld ziek wordt.
+
+4. Op grond van artikel 29, eerste lid, aanhef en onder e, van de Verordening 2015-2019 verlenen burgemeester en wethouders een voorrangsverklaring aan woningzoekenden die buiten eigen schuld en toedoen in een dusdanige situatie verkeren dat zij binnen drie maanden andere woonruimte behoeven.
+
+5. De rechtbank overweegt als volgt.
+
+5.1.
+
+Zoals verweerder ter zitting heeft gesteld, volgt uit artikel 4 van de Huisvestingswet dat de gemeenteraad bij verordening regels kan geven met betrekking tot het in gebruik nemen of geven van woonruimte. Dat verweerder de Verordening 2015-2019 niet ten grondslag heeft mogen leggen aan het bestreden besluit volgt de rechtbank dan ook niet.
+
+5.2.
+
+De rechtbank is voorts van oordeel dat verweerder zich in redelijkheid op het standpunt heeft gesteld dat eiseres niet heeft voldaan aan de voorwaarde genoemd in artikel 29, eerste lid, aanhef en onder e, van de Verordening 2015-2019. Verweerder heeft mogen stellen dat eiseres door haar eigen toedoen in de huidige woonsituatie terecht is gekomen, nu zij destijds een woning met trappen op de tweede etage heeft gehuurd ondanks dat zij al gezondheidsklachten had. Eveneens was eiseres bekend met het feit dat in het huurcontract stond aangegeven dat de woning bestemd is voor maximaal twee personen, waaronder één kind.
+
+5.3.
+
+De rechtbank overweegt verder dat verweerder, zoals ook gesteld ter zitting, de mogelijkheid tot maatschappelijke (nood)opvang alleen heeft genoemd als een voorbeeld hoe eiseres haar huidige woonprobleem had kunnen voorkomen. De stelling dat eiseres geen toegang zou hebben gekregen tot deze opvang als gevolg van het feit dat zij destijds geen verblijfstitel had, leidt niet tot een ander oordeel. Niet is namelijk gebleken dat eiseres zich daadwerkelijk heeft gemeld voor opvang. Ter zitting heeft verweerder daarnaast gemeld dat eiseres ook zonder verblijfstitel in haar situatie in aanmerking was gekomen voor opvang, nu een alleenstaande moeder met een minderjarig kind altijd noodopvang zal worden verstrekt.
+
+5.4.
+
+Ten aanzien van de gestelde lekkage en schimmel in het huis van eiseres heeft verweerder in het verweerschrift terecht gesteld dat eiseres dit met haar verhuurder kan oplossen. In het geval eiseres dit probleem niet kan oplossen met de verhuurder, kan zij een melding doen bij het meld- en steunpunt Woonoverlast, zoals verweerder heeft gesteld. 5.5.	Nu eiseres niet voldoet aan de bovenliggende voorwaarde dat zij buiten eigen schuld en toedoen in een dusdanige situatie verkeert dat zij binnen drie maanden andere woonruimte behoeft, heeft verweerder de aanvraag terecht niet inhoudelijk getoetst aan artikel 29, tweede lid, van de Verordening 2015-2019. De rechtbank komt dan ook niet toe aan hetgeen eiseres hierover heeft aangevoerd in beroep en verwijst in dit verband naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 6 januari 2020 (ECLI:NL:RVS:2020:6).
+
+5.6.
+
+Voor zover eiseres onder verwijzing naar haar medische klachten betoogt dat verweerder toepassing had moeten geven aan de hardheidsclausule, overweegt de rechtbank als volgt. Niet is gebleken dat de medische klachten van eiseres pas zijn ontstaan nadat zij haar huidige woning is ingetrokken en dat de klachten direct samenhangen met de trappen in haar woning. Gelet op het voorgaande acht de rechtbank het niet onredelijk dat verweerder geen toepassing heeft gegeven aan de hardheidsclausule.
+
+6.	Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. A.E. Dutrieux, rechter, in aanwezigheid van mr. J.F.A. Bleichrodt, griffier. De beslissing is in het openbaar uitgesproken op 16 oktober 2020.
+
+griffier						rechter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.
