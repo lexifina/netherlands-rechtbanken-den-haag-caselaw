@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:12186"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0027", "JPF 2021/47"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0027", "JPF 2021/47", "PR-Updates.nl 2021-0027"]
 ---
 
 # ECLI:NL:RBDHA:2020:12186 Rechtbank Den Haag , 19-10-2020 / C/09/558282 / FA RK 18-5949, C/09/567214 / FA RK 19-590
