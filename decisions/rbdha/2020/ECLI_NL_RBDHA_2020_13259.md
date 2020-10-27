@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:13259"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 23-6-2021", "V-N Vandaag 2021/1506", "FutD 2021-1984", "FutD 2021-1985", "NLF 2021/1322"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1506", "NLF 2021/1322", "Viditax (FutD) 2021062301", "FutD 2021-1985"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:1325, Bekrachtiging/bevestiging"]]
 ---
 
