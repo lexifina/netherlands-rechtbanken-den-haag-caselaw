@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:10976"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0184", "PJ 2021/5"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0184", "PJ 2021/5", "PR-Updates.nl 2020-0184"]
 ---
 
 # ECLI:NL:RBDHA:2020:10976 Rechtbank Den Haag , 04-11-2020 / AWB - 19 _ 1785
