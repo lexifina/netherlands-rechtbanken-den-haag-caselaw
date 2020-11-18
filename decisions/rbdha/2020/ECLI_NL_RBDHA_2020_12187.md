@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:12187"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0026"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0026", "JPF 2021/104 met annotatie van Reinhartz, B.E.", "PR-Updates.nl 2021-0026"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2021:962, Meerdere afhandelingswijzen"]]
 ---
 
