@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:13158"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0020", "PJ 2021/22"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0020", "PJ 2021/22", "PR-Updates.nl 2021-0020"]
 ---
 
 # ECLI:NL:RBDHA:2020:13158 Rechtbank Den Haag , 09-12-2020 / C/09/603803 - KG ZA 20-1178
