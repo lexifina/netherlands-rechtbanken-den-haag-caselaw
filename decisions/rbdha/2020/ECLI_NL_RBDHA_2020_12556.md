@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2020:12556"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/649", "Viditax (FutD), 16-03-2021", "FutD 2021-0938", "NTFR 2021/1123", "V-N 2021/17.2.8"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/649", "V-N 2021/17.2.8", "FutD 2021-0938", "Viditax (FutD) 2021031607"]
 ---
 
 # ECLI:NL:RBDHA:2020:12556 Rechtbank Den Haag , 22-12-2020 / AWB - 19 _ 4761
