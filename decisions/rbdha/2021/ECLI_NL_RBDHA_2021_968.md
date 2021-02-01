@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:968"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2035"]]
 ---
 
 # ECLI:NL:RBDHA:2021:968 Rechtbank Den Haag , 01-02-2021 / AWB - 19 _ 6249
