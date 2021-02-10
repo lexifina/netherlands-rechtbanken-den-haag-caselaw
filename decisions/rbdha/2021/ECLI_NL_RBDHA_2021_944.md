@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:944"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0035", "PJ 2021/37"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0035", "PJ 2021/37", "PR-Updates.nl 2021-0035"]
 ---
 
 # ECLI:NL:RBDHA:2021:944 Rechtbank Den Haag , 10-02-2021 / C-09-580679-HA ZA 19-1011
