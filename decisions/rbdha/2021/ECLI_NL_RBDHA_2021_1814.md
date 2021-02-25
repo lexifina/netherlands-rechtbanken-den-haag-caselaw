@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:1814"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0256", "PR-Updates.nl PR-2021-0062", "VAAN-AR-Updates.nl 2021-0256"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0256", "PR-Updates.nl PR-2021-0062", "VAAN-AR-Updates.nl 2021-0256", "PR-Updates.nl 2021-0062"]
 ---
 
 # ECLI:NL:RBDHA:2021:1814 Rechtbank Den Haag , 25-02-2021 / 8879398 RP VERZ 20-50651
