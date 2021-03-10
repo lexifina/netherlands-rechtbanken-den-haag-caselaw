@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:2390"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0071", "RFR 2021/102"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0071", "RFR 2021/102", "PR-Updates.nl 2021-0071"]
 ---
 
 # ECLI:NL:RBDHA:2021:2390 Rechtbank Den Haag , 10-03-2021 / C/09/559961 / HA ZA 18-980
