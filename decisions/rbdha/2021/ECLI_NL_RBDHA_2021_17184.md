@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:17184"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0159"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0159", "PR-Updates.nl 2023-0159"]
 ---
 
 # ECLI:NL:RBDHA:2021:17184 Rechtbank Den Haag , 14-04-2021 / C/09/584458 / FA RK 19-8968
