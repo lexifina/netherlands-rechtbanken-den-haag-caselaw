@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-.
+Judgement of the national Dutch District Court in The Hague
 
 ## Uitspraak
 
