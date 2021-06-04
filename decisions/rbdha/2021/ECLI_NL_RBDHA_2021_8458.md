@@ -286,4 +286,4 @@ Tegen deze uitspraak kunnen partijen binnen zes weken na verzending hoger beroep
 
 2500 EH Den Haag.
 
-vgl. Hof Amsterdam, 30 september 2004, ECLI:NL:GHAMS:2004:AT1562 (https://www.navigator.nl/document/inod99a31bb4cccbe120a115f84bbe00ef7e?anchor=id-7833331de32f6f6cb48e48329dcd8207).
+vgl. Hof Amsterdam, 30 september 2004, ECLI:NL:GHAMS:2004:AT1562 (https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2004:AT1562).
