@@ -10,13 +10,14 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:9933"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2024:2963"]]
 ---
 
 # ECLI:NL:RBDHA:2021:9933 Rechtbank Den Haag , 29-06-2021 / 09/748012-19 and 09/748012-19-P (joined at the hearing)
 
 ## Inhoudsindicatie
 
-.
+Judgement of the national Dutch District Court in The Hague
 
 ## Uitspraak
 
