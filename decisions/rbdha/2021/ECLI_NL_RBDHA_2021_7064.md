@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:7064"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0135", "PJ 2021/113"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0135", "PJ 2021/113", "PR-Updates.nl 2021-0135"]
 ---
 
 # ECLI:NL:RBDHA:2021:7064 Rechtbank Den Haag , 30-06-2021 / C/09/578129 / HA ZA 19-829
