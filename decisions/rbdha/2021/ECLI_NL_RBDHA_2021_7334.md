@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:7334"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4126, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2021:7334 Rechtbank Den Haag , 16-07-2021 / AWB - 20 _ 1654 en SGR 20/1655
