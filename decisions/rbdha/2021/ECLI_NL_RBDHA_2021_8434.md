@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:8434"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0161"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0161", "PR-Updates.nl 2021-0161"]
 ---
 
 # ECLI:NL:RBDHA:2021:8434 Rechtbank Den Haag , 03-08-2021 / 20_3998
