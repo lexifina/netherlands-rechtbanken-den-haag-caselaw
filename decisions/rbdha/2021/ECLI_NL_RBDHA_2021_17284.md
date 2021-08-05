@@ -98,7 +98,7 @@ De man en de vrouw zijn de ouders van:
 [minderjarige 2]
 , geboren in [geboorteplaats 2] op [geboortedatum 2] 2020 (hierna: [minderjarige 2] ).
 
-Beide kinderen wonen bij de vrouw. De vrouw heeft daarnaast een minderjarige zoon uit een vorige relatie, Diovaldey. Diovaldey is 15 jaar en woont ook bij de vrouw.
+Beide kinderen wonen bij de vrouw. De vrouw heeft daarnaast een minderjarige zoon uit een vorige relatie, [minderjarige 5] . [minderjarige 5] is 15 jaar en woont ook bij de vrouw.
 
 2.2.
 
