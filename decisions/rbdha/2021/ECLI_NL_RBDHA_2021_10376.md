@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:10376"
-published_in: ["Rechtspraak.nl", "PJ 2021/134 met annotatie van E. Lutjens", "PR-Updates.nl PR-2021-0197", "OR-Updates.nl 2021-0366", "JOR 2022/281 met annotatie van Mr. H. Koster", "JONDR 2023/41"]
+published_in: ["Rechtspraak.nl", "PJ 2021/134 met annotatie van E. Lutjens", "PR-Updates.nl PR-2021-0197", "OR-Updates.nl 2021-0366", "JOR 2022/281 met annotatie van Mr. H. Koster", "JONDR 2023/41", "PR-Updates.nl 2021-0197"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2024:489, Bekrachtiging/bevestiging"]]
 ---
 
