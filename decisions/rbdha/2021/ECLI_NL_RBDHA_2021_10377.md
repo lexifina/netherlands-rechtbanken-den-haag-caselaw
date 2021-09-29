@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:10377"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0198", "OR-Updates.nl 2021-0371"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0198", "OR-Updates.nl 2021-0371", "PR-Updates.nl 2021-0198"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2024:490, Bekrachtiging/bevestiging"]]
 ---
 
