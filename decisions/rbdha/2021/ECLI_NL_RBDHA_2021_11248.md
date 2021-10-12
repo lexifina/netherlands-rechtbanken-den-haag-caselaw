@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:11248"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0202"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0202", "PR-Updates.nl 2021-0202"]
 ---
 
 # ECLI:NL:RBDHA:2021:11248 Rechtbank Den Haag , 12-10-2021 / C/09/598970 / FA RK 20-6194
