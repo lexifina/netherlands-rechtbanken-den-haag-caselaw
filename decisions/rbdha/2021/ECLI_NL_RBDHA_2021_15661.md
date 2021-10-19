@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:15661"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0198", "PR-Updates.nl PR-2022-0059", "PJ 2022/32", "VAAN-AR-Updates.nl 2022-0198"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0198", "PR-Updates.nl PR-2022-0059", "PJ 2022/32", "VAAN-AR-Updates.nl 2022-0198", "PR-Updates.nl 2022-0059"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2023:585"]]
 ---
 
