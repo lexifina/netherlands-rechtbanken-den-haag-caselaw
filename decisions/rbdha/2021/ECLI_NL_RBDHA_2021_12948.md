@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:12948"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0018", "PJ 2022/5"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0018", "PJ 2022/5", "PR-Updates.nl 2022-0018"]
 ---
 
 # ECLI:NL:RBDHA:2021:12948 Rechtbank Den Haag , 16-11-2021 / 9099777 RL EXPL 21-4870
