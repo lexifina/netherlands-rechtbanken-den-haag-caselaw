@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:13161"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0014"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0014", "PR-Updates.nl 2022-0014"]
 ---
 
 # ECLI:NL:RBDHA:2021:13161 Rechtbank Den Haag , 17-11-2021 / C/09/587835 / HA ZA 20-129
