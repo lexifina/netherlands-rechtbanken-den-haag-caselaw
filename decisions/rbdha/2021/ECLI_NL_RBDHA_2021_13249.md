@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:13249"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0025"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0025", "PR-Updates.nl 2022-0025"]
 ---
 
 # ECLI:NL:RBDHA:2021:13249 Rechtbank Den Haag , 17-11-2021 / C/09/597620 / HA ZA 20-800
