@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:14721"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0036"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0036", "PR-Updates.nl 2022-0036"]
 ---
 
 # ECLI:NL:RBDHA:2021:14721 Rechtbank Den Haag , 01-12-2021 / 21/915
