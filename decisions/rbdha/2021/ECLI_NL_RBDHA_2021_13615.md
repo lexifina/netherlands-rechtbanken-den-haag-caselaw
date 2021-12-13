@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:13615"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0007"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0007", "PR-Updates.nl 2022-0007"]
 ---
 
 # ECLI:NL:RBDHA:2021:13615 Rechtbank Den Haag , 13-12-2021 / AWB - 20 _ 8059
