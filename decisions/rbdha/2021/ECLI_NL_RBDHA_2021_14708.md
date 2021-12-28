@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:14708"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0041"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0041", "PR-Updates.nl 2022-0041"]
 ---
 
 # ECLI:NL:RBDHA:2021:14708 Rechtbank Den Haag , 28-12-2021 / 21/1199
