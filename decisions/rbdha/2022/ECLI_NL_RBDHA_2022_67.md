@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:67"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0045", "Jurisprudentie HSE 2022/154"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0045", "Jurisprudentie HSE 2022/154", "PR-Updates.nl 2022-0045"]
 ---
 
 # ECLI:NL:RBDHA:2022:67 Rechtbank Den Haag , 11-01-2022 / AWB - 21 _ 4150
