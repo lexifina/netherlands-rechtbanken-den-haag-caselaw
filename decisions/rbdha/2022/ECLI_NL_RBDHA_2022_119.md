@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:119"
-published_in: ["Rechtspraak.nl", "PJ 2022/20", "PR-Updates.nl PR-2022-0058"]
+published_in: ["Rechtspraak.nl", "PJ 2022/20", "PR-Updates.nl PR-2022-0058", "PR-Updates.nl 2022-0058"]
 ---
 
 # ECLI:NL:RBDHA:2022:119 Rechtbank Den Haag , 11-01-2022 / 9265047 RL EXPL 21-9655
