@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:2451"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2214", "NLF 2022/1967 met annotatie van Joep Verbaarschot", "V-N 2022/53.3 met annotatie van Redactie", "Belastingadvies 2023/6.2", "Viditax (FutD) 2022091407", "FutD 2022-2587"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2214", "NLF 2022/1967 met annotatie van Joep Verbaarschot", "V-N 2022/53.3", "Belastingadvies 2023/6.2", "Viditax (FutD) 2022091407", "FutD 2022-2587"]
 ---
 
 # ECLI:NL:RBDHA:2022:2451 Rechtbank Den Haag , 10-03-2022 / AWB - 20 _ 8160
