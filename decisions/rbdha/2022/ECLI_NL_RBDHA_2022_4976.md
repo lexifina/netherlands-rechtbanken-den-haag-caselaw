@@ -16,6 +16,8 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 The District Court of The Hague sentences the suspect to 12 years imprisonment for war crimes. The suspect committed serious violations of international humanitarian law; arbitrairy detention, cruel and inhuman treatment and outrage upon personal dignity of at least 18 persons in the period from 1983 to 1987 in the Pul-e-Charkhi prison in Afghanistan.
 
 ## Uitspraak
