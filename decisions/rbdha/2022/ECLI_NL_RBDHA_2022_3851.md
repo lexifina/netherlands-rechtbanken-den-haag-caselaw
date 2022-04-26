@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:3851"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0462", "PJ 2022/44", "PR-Updates.nl PR-2022-0087", "VAAN-AR-Updates.nl 2022-0462"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0462", "PJ 2022/44", "PR-Updates.nl PR-2022-0087", "VAAN-AR-Updates.nl 2022-0462", "PR-Updates.nl 2022-0087"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2023:2301, Bekrachtiging/bevestiging"]]
 ---
 
