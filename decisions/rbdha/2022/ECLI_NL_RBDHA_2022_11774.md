@@ -1,0 +1,61 @@
+---
+ecli: "ECLI:NL:RBDHA:2022:11774"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL22.5572"
+decided: "2022-04-28"
+published: "2022-11-10"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:11774"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2022:11774 Rechtbank Den Haag , 28-04-2022 / NL22.5572
+
+## Inhoudsindicatie
+
+Dublin, Duitsland, plakvovo.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Amersfoort Bestuursrecht zaaknummer: NL22.5572
+
+uitspraak van de voorzieningenrechter in de zaak tussen
+
+[verzoeker] , verzoeker V-nummer: [V-nummer]
+
+(gemachtigde: mr. L. Sinoo), en
+
+de Staatssecretaris van Justitie en Veiligheid, verweerder.
+
+Procesverloop
+
+Bij besluit van 21 maart 2022 (het bestreden besluit) heeft verweerder de aanvraag van verzoeker tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd niet in behandeling genomen op de grond dat Duitsland verantwoordelijk is voor de behandeling daarvan.
+
+Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Hij heeft verder de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.
+
+De voorzieningenrechter heeft het verzoek, tezamen met de zaak NL22.5571, op 26 april 2022 op zitting behandeld. Partijen zijn, met bericht van verhindering, niet verschenen.
+
+Overwegingen
+
+Bij uitspraak van vandaag, zaaknummer NL22.5571, heeft de rechtbank uitspraak gedaan op het beroep. Een voorlopige voorziening is daarom niet meer nodig. De voorzieningenrechter wijst het verzoek om die reden af.
+
+Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.
+
+Deze uitspraak is gedaan door mr. M.C. Verra, voorzieningenrechter, in aanwezigheid van mr. E. Mulder, griffier.
+
+De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:
+
+28 april 2022
+
+Documentcode: [documentcode]
+
+Tegen deze uitspraak staat geen hoger beroep of verzet open.
