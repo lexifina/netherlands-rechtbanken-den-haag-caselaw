@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:5351"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0141"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0141", "PR-Updates.nl 2022-0141"]
 ---
 
 # ECLI:NL:RBDHA:2022:5351 Rechtbank Den Haag , 04-05-2022 / C/09/624629 / HA ZA 22-131
