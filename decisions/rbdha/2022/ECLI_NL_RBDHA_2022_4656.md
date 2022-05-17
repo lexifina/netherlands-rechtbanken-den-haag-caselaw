@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:4656"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0688", "PJ 2022/88", "PR-Updates.nl PR-2022-0135", "VAAN-AR-Updates.nl 2022-0688"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0688", "PJ 2022/88", "PR-Updates.nl PR-2022-0135", "VAAN-AR-Updates.nl 2022-0688", "PR-Updates.nl 2022-0135"]
 ---
 
 # ECLI:NL:RBDHA:2022:4656 Rechtbank Den Haag , 17-05-2022 / 9703841 \ RP VERZ 22-50078
