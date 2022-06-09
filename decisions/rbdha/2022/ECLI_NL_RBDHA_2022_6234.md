@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:6234"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1045, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2022:6234 Rechtbank Den Haag , 09-06-2022 / SGR 19/5441 en SGR 19/5477
