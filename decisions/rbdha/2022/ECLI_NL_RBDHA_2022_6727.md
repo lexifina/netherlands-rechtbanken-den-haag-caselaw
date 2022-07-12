@@ -96,7 +96,7 @@ Op maandag 5 juli 2021 te 11:56 uur belt (vermoedelijk [verdachte] ) naar 112 en
 
 2. Het proces-verbaal aanhouding verdachte, opgemaakt op 5 juli 2021, voor zover inhoudende (p. 60 en 61):
 
-Op 5 juli 2021 omstreeks 12.02u hield ik verbalisant op de locatie Regentesselaan 357 in Den Haag de verdachte aan. Ik zag dat het slachtoffer op haar rechterzij lag. Ik zag dat haar armen helemaal blauw waren van de blauwe plekken. Ik zag dat haar ogen helemaal zwart waren van de blauwe plekken. Ik zag wel dat zij ademde maar er was totaal geen reactie van haar. Ik voelde dat het slachtoffer vreselijk warm was en koorts had. Ik rook een heftige urine en braakselgeur. Ik ben hierop naar de melder gelopen en heb hem de cautie medegedeeld. Ik heb hem medegedeeld dat ik hem gezien de feiten en omstandigheden aan ging merken als verdachte van mishandeling en poging doodslag op zijn vriendin. Hierop verdachte op maandag 5 juli 2021 te 12:02 uur aangehouden.
+Op 5 juli 2021 omstreeks 12.02u hield ik verbalisant op de locatie [adres] in Den Haag de verdachte aan. Ik zag dat het slachtoffer op haar rechterzij lag. Ik zag dat haar armen helemaal blauw waren van de blauwe plekken. Ik zag dat haar ogen helemaal zwart waren van de blauwe plekken. Ik zag wel dat zij ademde maar er was totaal geen reactie van haar. Ik voelde dat het slachtoffer vreselijk warm was en koorts had. Ik rook een heftige urine en braakselgeur. Ik ben hierop naar de melder gelopen en heb hem de cautie medegedeeld. Ik heb hem medegedeeld dat ik hem gezien de feiten en omstandigheden aan ging merken als verdachte van mishandeling en poging doodslag op zijn vriendin. Hierop verdachte op maandag 5 juli 2021 te 12:02 uur aangehouden.
 
 Ik vroeg de verdachte wat er was gebeurd. Ik hoorde de verdachte zeggen: "wij hebben heel erg ruzie gehad en ik heb haar heel erg geslagen."
 
@@ -104,7 +104,7 @@ Ik hoorde de verdachte zeggen: "Ik heb het gedaan, schiet mij maar af."
 
 3. Het proces-verbaal van bevindingen, opgemaakt op 5 juli 2021, voor zover inhoudende (p. 20):
 
-Wij verbalisanten waren betrokken bij het incident aan de Regentesselaan 357 te ’s-Gravenhage op 5 juli 2021. Ik sprak de trauma arts die bij het incident betrokken is geweest. Ik hoorde dat de arts zei dat het slachtoffer buiten kennis was en dat zij ernstig was mishandeld. Ik hoorde dat de arts zei dat dit een geval was van systematische mishandeling. Ik hoorde dat de arts zei dat dit mishandeling van het hoogste niveau was en dat de mishandelingen al langdurig plaats zouden vinden.
+Wij verbalisanten waren betrokken bij het incident aan de [adres] te ’s-Gravenhage op 5 juli 2021. Ik sprak de trauma arts die bij het incident betrokken is geweest. Ik hoorde dat de arts zei dat het slachtoffer buiten kennis was en dat zij ernstig was mishandeld. Ik hoorde dat de arts zei dat dit een geval was van systematische mishandeling. Ik hoorde dat de arts zei dat dit mishandeling van het hoogste niveau was en dat de mishandelingen al langdurig plaats zouden vinden.
 
 4. Het proces-verbaal van het tweede verhoor van [verdachte] , opgemaakt op 5 juli 2021, voor zover inhoudende (p. 84, 85 en 87):
 
@@ -160,7 +160,7 @@ U vraagt mij of ik [benadeelde partij 3] op 4 juli 2021 heb geschopt. Ja.
 
 6. Het proces-verbaal van binnentreden in woning, opgemaakt op 27 juli 2022, voor zover inhoudende (p. 135):
 
-Op 27 juli 2021 werd in de woning aan de Regentesselaan 357 in Den Haag inbeslaggenomen:
+Op 27 juli 2021 werd in de woning aan de [adres] in Den Haag inbeslaggenomen:
 
 1 metalen pijp met bloedsporen (wit) (vanaf salontafel woonkamer).
 
@@ -244,7 +244,7 @@ Onlangs ongeveer twee weken geleden was ik met [benadeelde partij 3] aan het app
 
 Het proces-verbaal van bevindingen, opgemaakt op 7 juli 2021, voor zover inhoudende (p. 96):
 
-Op zondag 4 juli 2021, omstreeks 18.00 uur, ben ik verbalisant samen met een collega aan de bel gegaan Regentesselaan 357 in Den Haag, dit naar aanleiding van meldingen van overlast en verward gedrag van [verdachte] . Ik vroeg [verdachte] of mevrouw [benadeelde partij 3] ook thuis was. Hierop hoorde ik hem zeggen dat zij thuis is maar dat zij afgelopen nacht ziek is geworden, koorts heeft en dat hij haar verzorgt. Wat op viel is dat [verdachte] tijdens ons gesprek tot minimaal drie keer toe het gesprek onderbrak, de trap op liep naar de 1e etage, naar de kamer van [benadeelde partij 3] en die van hem. Hij ging een korte tijd de kamer binnen, kwam weer naar buiten en deed de
+Op zondag 4 juli 2021, omstreeks 18.00 uur, ben ik verbalisant samen met een collega aan de bel gegaan [adres] in Den Haag, dit naar aanleiding van meldingen van overlast en verward gedrag van [verdachte] . Ik vroeg [verdachte] of mevrouw [benadeelde partij 3] ook thuis was. Hierop hoorde ik hem zeggen dat zij thuis is maar dat zij afgelopen nacht ziek is geworden, koorts heeft en dat hij haar verzorgt. Wat op viel is dat [verdachte] tijdens ons gesprek tot minimaal drie keer toe het gesprek onderbrak, de trap op liep naar de 1e etage, naar de kamer van [benadeelde partij 3] en die van hem. Hij ging een korte tijd de kamer binnen, kwam weer naar buiten en deed de
 
 kamerdeur vervolgens op slot.
 
