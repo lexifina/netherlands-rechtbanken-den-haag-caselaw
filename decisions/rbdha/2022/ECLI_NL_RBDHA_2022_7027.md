@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:7027"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0152", "PJ 2022/128"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0152", "PJ 2022/128", "PR-Updates.nl 2022-0152"]
 ---
 
 # ECLI:NL:RBDHA:2022:7027 Rechtbank Den Haag , 12-07-2022 / 9522699 RL EXPL 21-18451
