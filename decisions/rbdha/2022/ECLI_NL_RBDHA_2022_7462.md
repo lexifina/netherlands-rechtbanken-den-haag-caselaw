@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:7462"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2903, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2022:7462 Rechtbank Den Haag , 20-07-2022 / C/09/621323 / HA ZA 21-1041
