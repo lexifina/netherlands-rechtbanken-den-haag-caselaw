@@ -10,6 +10,7 @@ procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:15884"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0507", "VAAN-AR-Updates.nl 2023-0507"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2452, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2024:2955"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2024:2956"]]
 ---
 
 # ECLI:NL:RBDHA:2022:15884 Rechtbank Den Haag , 22-09-2022 / 9907035 RP VERZ 22-50242
