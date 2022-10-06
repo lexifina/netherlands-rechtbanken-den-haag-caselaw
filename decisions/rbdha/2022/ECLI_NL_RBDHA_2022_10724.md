@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:10724"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0195"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0195", "PR-Updates.nl 2022-0195"]
 cites_law: ["netherlands/national/acts/faillissementswet/art-287a.md"]
 ---
 
