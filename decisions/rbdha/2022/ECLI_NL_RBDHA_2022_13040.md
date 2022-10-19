@@ -107,7 +107,7 @@ Hierna is het Boek uit de handel gehaald.
 
 2.7.
 
-In 2003 is het boek ‘[titel4]’, geschreven door [auteur3], uitgegeven (hierna: [titel4]). In [titel4] wordt de schrijfstijl van [auteur1] onderzocht en wordt [auteur2] aangewezen als mogelijke schrijver van het Boek.
+In 2003 is het boek ‘[titel4]’, geschreven door [auteur3], uitgegeven (hierna: [titel4]). In [titel4][titel4] wordt de schrijfstijl van [auteur1] onderzocht en wordt [auteur2] aangewezen als mogelijke schrijver van het Boek.
 
 2.8.
 
@@ -214,7 +214,7 @@ van Richtlijn 2001/29/EG), wordt het citeren uit een werk in een aankondiging, b
 
 4.6.
 
-De KB stelt dat het opnemen van het Boek als citaat, vereist was om [titel4] in de juiste context te plaatsen en om discussie op te wekken over het werk van [eiser]. De rechtbank volgt haar daarin niet. De KB gaat er aan voorbij dat in [titel4] op meerdere pagina’s wordt geciteerd uit het Boek. In feite heeft de auteur, [auteur3], zelf al een afweging gemaakt welke citaten uit het Boek relevant waren ter illustratie of om een intellectuele confrontatie teweeg te brengen. De KB heeft niet toegelicht waarom de citaten in [titel4] onvoldoende waren om de context te schetsen en de discussie op te wekken en dus waarom het opnemen van het hele Boek als citaat noodzakelijk was. Bovendien is, zoals [eiser] terecht betoogt, geen sprake van een eigen beschouwing van de KB. De KB is immers niet de auteur van [titel4]. Aldus heeft de KB niet aangetoond dat het opnemen van het hele Boek als citaat noodzakelijk was ter illustratie van een uitlating of ter verdediging van een opvatting, dan wel om een intellectuele confrontatie teweeg te brengen. Dit heeft als gevolg dat niet is voldaan aan de vereisten die worden gesteld aan citeren, zodat de KB geen beroep toekomt op het citaatrecht.
+De KB stelt dat het opnemen van het Boek als citaat, vereist was om [titel4][titel4] in de juiste context te plaatsen en om discussie op te wekken over het werk van [eiser]. De rechtbank volgt haar daarin niet. De KB gaat er aan voorbij dat in [titel4] op meerdere pagina’s wordt geciteerd uit het Boek. In feite heeft de auteur, [auteur3], zelf al een afweging gemaakt welke citaten uit het Boek relevant waren ter illustratie of om een intellectuele confrontatie teweeg te brengen. De KB heeft niet toegelicht waarom de citaten in [titel4] onvoldoende waren om de context te schetsen en de discussie op te wekken en dus waarom het opnemen van het hele Boek als citaat noodzakelijk was. Bovendien is, zoals [eiser] terecht betoogt, geen sprake van een eigen beschouwing van de KB. De KB is immers niet de auteur van [titel4][titel4]. Aldus heeft de KB niet aangetoond dat het opnemen van het hele Boek als citaat noodzakelijk was ter illustratie van een uitlating of ter verdediging van een opvatting, dan wel om een intellectuele confrontatie teweeg te brengen. Dit heeft als gevolg dat niet is voldaan aan de vereisten die worden gesteld aan citeren, zodat de KB geen beroep toekomt op het citaatrecht.
 
 Vrijheid van meningsuiting
 
