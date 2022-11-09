@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:11718"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0206"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0206", "PR-Updates.nl 2022-0206"]
 ---
 
 # ECLI:NL:RBDHA:2022:11718 Rechtbank Den Haag , 09-11-2022 / C/09/610411 / HA ZA 21-356
