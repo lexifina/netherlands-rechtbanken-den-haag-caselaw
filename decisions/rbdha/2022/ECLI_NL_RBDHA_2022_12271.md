@@ -16,6 +16,8 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 Extraditionrequest of the authorities of Rwanda for extradition of a wanted person for the purpose of prosecution for the involvement in the genocide in Rwanda. The District Court of The Hague declares the extradition inadmissable due to the risk of a flagrant denial of justice.
 
 ## Uitspraak
