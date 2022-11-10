@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:11762"
 published_in: ["Rechtspraak.nl", "JOM 2022/493", "Omgevingsvergunning in de praktijk 2022/8770"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1032, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2022:11762 Rechtbank Den Haag , 10-11-2022 / SGR 20/6109
