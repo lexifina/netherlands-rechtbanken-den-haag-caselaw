@@ -1,0 +1,62 @@
+---
+ecli: "ECLI:NL:RBDHA:2022:15362"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL22.20258"
+decided: "2022-11-21"
+published: "2023-02-16"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:15362"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2022:15362 Rechtbank Den Haag , 21-11-2022 / NL22.20258
+
+## Inhoudsindicatie
+
+Asiel. Voorlopige voorziening afgewezen want er is beslist op beroep.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Utrecht Bestuursrecht zaaknummer: NL22.20258
+
+uitspraak van de voorzieningenrechter in de zaak tussen
+
+[verzoeker]
+, verzoeker V-nummer: [V-nummer] (gemachtigde: mr. A.H. Hekman),
+
+en
+
+de Staatssecretaris van Justitie en Veiligheid, verweerder (gemachtigde: mr. M.F. van der Lubbe).
+
+Procesverloop
+
+Bij besluit van 7 oktober 2022 (het bestreden besluit) heeft verweerder de aanvraag van verzoeker tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in de algemene procedure afgewezen als kennelijk ongegrond.
+
+Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Hij heeft verder de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.
+
+De voorzieningenrechter heeft het verzoek, tezamen met de zaak NL22.20257, op
+
+15 november 2022 op zitting behandeld. Verzoeker is verschenen, bijgestaan door zijn gemachtigde. Als tolk is verschenen F. Abbaszadeh Charandabi. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+Bij uitspraak van vandaag, zaaknummer NL22.20257, heeft de rechtbank uitspraak gedaan op het beroep. Een voorlopige voorziening is daarom niet meer nodig. De voorzieningenrechter wijst het verzoek om die reden af. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.
+
+Deze uitspraak is gedaan door mr. J.J. Catsburg, voorzieningenrechter, in aanwezigheid van mr. M.L. Bressers, griffier.
+
+De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:
+
+21 november 2022
+
+Documentcode: [documentcode]
+
+Tegen deze uitspraak staat geen hoger beroep of verzet open.
