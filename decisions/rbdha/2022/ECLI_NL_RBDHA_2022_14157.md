@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2022:14157"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/84", "PR-Updates.nl PR-2023-0084", "Sdu Nieuws Belastingzaken 2023/29", "Viditax (FutD) 2023011104", "FutD 2023-0195"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/84", "PR-Updates.nl PR-2023-0084", "Sdu Nieuws Belastingzaken 2023/29", "Viditax (FutD) 2023011104", "FutD 2023-0195", "PR-Updates.nl 2023-0084"]
 ---
 
 # ECLI:NL:RBDHA:2022:14157 Rechtbank Den Haag , 28-12-2022 / C/09/618556 / HA ZA 21-870
