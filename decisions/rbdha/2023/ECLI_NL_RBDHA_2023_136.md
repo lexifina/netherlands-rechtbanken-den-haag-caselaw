@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:136"
 published_in: ["Rechtspraak.nl", "JV 2023/33"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2023:4125, Overig"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2023:4125, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1749, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2023:136 Rechtbank Den Haag , 06-01-2023 / NL22.21969
