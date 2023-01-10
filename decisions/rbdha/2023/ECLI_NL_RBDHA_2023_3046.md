@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:3046"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0219", "Sdu Nieuws Arbeidsrecht 2023/122", "PJ 2023/35", "PR-Updates.nl PR-2023-0075", "VAAN-AR-Updates.nl 2023-0219"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0219", "Sdu Nieuws Arbeidsrecht 2023/122", "PJ 2023/35", "PR-Updates.nl PR-2023-0075", "VAAN-AR-Updates.nl 2023-0219", "PR-Updates.nl 2023-0075"]
 ---
 
 # ECLI:NL:RBDHA:2023:3046 Rechtbank Den Haag , 10-01-2023 / 9768271 RL EXPL 22-5019
