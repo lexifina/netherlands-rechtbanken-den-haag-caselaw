@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:203"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0019"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0019", "PR-Updates.nl 2023-0019"]
 ---
 
 # ECLI:NL:RBDHA:2023:203 Rechtbank Den Haag , 16-01-2023 / AWB - 22 _ 3603
