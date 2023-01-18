@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:3109"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0070"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0070", "PR-Updates.nl 2023-0070"]
 ---
 
 # ECLI:NL:RBDHA:2023:3109 Rechtbank Den Haag , 18-01-2023 / 22/1849
