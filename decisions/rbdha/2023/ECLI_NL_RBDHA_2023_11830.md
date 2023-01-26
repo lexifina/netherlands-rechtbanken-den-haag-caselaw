@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBDHA:2023:11830"
 court: "Rechtbank Den Haag"
 court_code: "RBDHA"
 docket: "SGR 21/7278 en 21/7280"
-decided: "2023-01-23"
+decided: "2023-01-26"
 published: "2023-08-08"
 type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:11830"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5728, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
-# ECLI:NL:RBDHA:2023:11830 Rechtbank Den Haag , 23-01-2023 / SGR 21/7278 en 21/7280
+# ECLI:NL:RBDHA:2023:11830 Rechtbank Den Haag , 26-01-2023 / SGR 21/7278 en 21/7280
 
 ## Inhoudsindicatie
 
