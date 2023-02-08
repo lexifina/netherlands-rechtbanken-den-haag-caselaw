@@ -1,0 +1,97 @@
+---
+ecli: "ECLI:NL:RBDHA:2023:1610"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL22.19598"
+decided: "2023-02-08"
+published: "2023-02-14"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:1610"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2023:1610 Rechtbank Den Haag , 08-02-2023 / NL22.19598
+
+## Inhoudsindicatie
+
+Beroep niet-tijdig
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Middelburg
+
+Bestuursrecht
+
+zaaknummer: NL22.19598
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam], eiseres
+
+V-nummer: [nummer]
+
+(gemachtigde: mr. R. Hijma),
+
+en
+
+de staatssecretaris van Justitie en Veiligheid, verweerder.
+
+Procesverloop
+
+Eiseres heeft beroep ingesteld tegen het niet-tijdig beslissen op haar asielaanvraag van 1 maart 2022.
+
+Verweerder is niet ingegaan op het verzoek om een verweerschrift in te dienen.
+
+De rechtbank doet op grond van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb) uitspraak zonder zitting.
+
+Overwegingen
+
+1. Op grond van artikel 6:2, aanhef en onder b, van de Awb wordt voor de toepassing van wettelijke voorschriften over bezwaar en beroep het niet tijdig nemen van een besluit met een besluit gelijkgesteld. In artikel 6:12, tweede lid, van de Awb is bepaald dat het beroepschrift kan worden ingediend zodra het bestuursorgaan in gebreke is om op tijd een besluit te nemen en twee weken zijn verstreken nadat een schriftelijke ingebrekestelling door het bestuursorgaan is ontvangen.
+
+2. Eiseres heeft op 1 maart 2022 een asielaanvraag ingediend. Op grond van artikel 42, eerste lid, van de Vreemdelingenwet 2000 bedraagt de beslistermijn zes maanden. De rechtbank stelt vast dat verweerder geen gebruik heeft gemaakt van de mogelijkheden in het vierde en het vijfde lid om deze termijn te verlengen. Dit betekent dat verweerder uiterlijk op 1 september 2022 een beslissing had moeten nemen.
+
+3. De rechtbank stelt vast dat de wettelijke beslistermijn is verstreken zonder dat er een beslissing op de asielaanvraag is genomen. Eiseres heeft verweerder op 14 september 2022 rechtsgeldig in gebreke gesteld. Hierna zijn meer dan twee weken verstreken voordat eiseres beroep heeft ingesteld. Het beroep is daarom kennelijk gegrond.
+
+4. Eiseres verzoekt de rechtbank verweerder op te dragen binnen twee weken alsnog een besluit te nemen, verweerder een dwangsom op te leggen voor elke dag dat hij in gebreke blijft deze uitspraak na te leven en verweerder te veroordelen in de door haar gemaakte proceskosten.
+
+5. Op grond van artikel 8:72, vierde lid, van de Awb, kan de bestuursrechter het bestuursorgaan opdragen een nieuw besluit te nemen of een andere handeling te verrichten met inachtneming van zijn aanwijzingen. Daarbij kan hij het bestuursorgaan een termijn stellen voor het nemen van het nieuwe besluit of het verrichten van de andere handeling.
+
+6. Op grond van de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 8 juli 2020, houdt de rechter er in asielzaken rekening mee dat verweerder aanvragen binnen een redelijke termijn moet hebben behandeld. Bij de bepaling van een nadere beslistermijn is van belang dat de zorgvuldigheid van de besluitvorming zwaar weegt. De rechter stelt dus geen nadere beslistermijn waarvan op voorhand vaststaat dat het bestuursorgaan niet zorgvuldig te werk kan gaan. Volgens de Afdeling is een termijn van acht weken voor het houden van een eerste gehoor en een termijn van acht weken hierna voor het bekendmaken van een besluit op de aanvraag (het 8+8-weken-model) passend.
+
+7. De rechtbank stelt vast dat eiseres op 7 en 9 september 2022 nader is gehoord. Niet is gebleken dat eiseres nader moet worden gehoord. De rechtbank zal daarom bepalen dat verweerder thans binnen acht weken na de dag waarop de uitspraak wordt verzonden een besluit aan eiseres bekendmaakt.
+
+8. Uit de uitspraak van de Afdeling van 30 november 2022, volgt dat artikel 1 van de Tijdelijke wet opschorting dwangsommen IND, zoals die luidt sinds 11 juli 2021, onverbindend is voor zover daarin is bepaald dat de artikelen 8:55d, tweede lid, en 8:72, zesde lid, van de Awb niet van toepassing zijn op besluiten op asielaanvragen. Dit betekent dat de bestuursrechter ook in asielprocedures, indien het beroep tegen het niet tijdig nemen van een besluit gegrond is en nog geen besluit is bekendgemaakt, bepaalt dat verweerder binnen de door hem gestelde termijn alsnog een besluit neemt en aan zijn uitspraak een nadere dwangsom verbindt voor iedere dag dat verweerder in gebreke blijft de uitspraak na te leven.
+
+9. De rechtbank zal gelet hierop bepalen dat verweerder een dwangsom verbeurt voor elke dag dat hij in gebreke blijft deze uitspraak na te leven ter hoogte van € 100 per dag met een maximum van € 7.500.
+
+10. De rechtbank ziet aanleiding om verweerder te veroordelen in de door eiseres gemaakte proceskosten. Deze kosten worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 418,50 bestaande uit een punt voor het indienen van het beroepschrift met een waarde per punt van € 837,- en vermenigvuldigd met wegingsfactor 0,5 (licht). De rechtbank is van oordeel dat de wegingsfactor ‘licht’ van toepassing is aangezien het beroep alleen ziet op het niet tijdig nemen van een besluit.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het met een besluit gelijk te stellen niet tijdig nemen van een besluit;
+
+draagt verweerder op om binnen acht weken na de dag van verzending van deze uitspraak alsnog een besluit bekend te maken op de asielaanvraag van eiseres;
+
+bepaalt dat verweerder aan eiseres een dwangsom van € 100,- (honderd euro) verbeurt voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 7.500,- (vijfenzeventighonderd euro);
+
+veroordeelt verweerder in de door eiseres gemaakte proceskosten ter hoogte van € 418,50 (vierhonderdachttien euro en vijftig cent).
+
+Deze uitspraak is gedaan door mr. E.F. Bethlehem, rechter, in aanwezigheid van mr. N.F. Kreeftmeijer, griffier, en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+De uitspraak is bekendgemaakt op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen 6 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven. Als u graag een zitting wilt waarin u uw verzetschrift kunt toelichten, kunt u dit in uw verzetschrift vermelden.
+
+ECLI:NL:RVS:2020:1560.
+
+ECLI:NL:RVS:2022:3353.
