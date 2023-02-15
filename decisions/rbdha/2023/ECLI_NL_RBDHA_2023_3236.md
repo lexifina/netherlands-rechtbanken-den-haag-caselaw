@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:3236"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5350, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2023:3236 Rechtbank Den Haag , 15-02-2023 / SGR 22/3643
