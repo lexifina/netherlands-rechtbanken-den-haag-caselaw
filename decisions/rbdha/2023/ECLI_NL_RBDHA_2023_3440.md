@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:3440"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBDHA:2022:15703"]]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBDHA:2022:15703"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6185, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2023:3440 Rechtbank Den Haag , 17-02-2023 / AWB - 21 _ 5545
