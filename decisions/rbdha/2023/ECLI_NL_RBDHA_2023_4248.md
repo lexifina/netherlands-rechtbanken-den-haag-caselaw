@@ -1,0 +1,91 @@
+---
+ecli: "ECLI:NL:RBDHA:2023:4248"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL23.7042"
+decided: "2023-03-29"
+published: "2023-03-29"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:4248"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2023:4248 Rechtbank Den Haag , 29-03-2023 / NL23.7042
+
+## Inhoudsindicatie
+
+Dublin, 8:54 Awb, Spanje, interstatelijk vertrouwensbeginsel, ECLI:NL:RVS:2023:364, ECLI:NL:RVS:2022:1864, artikel 17 Dublinverordening, ongegrond
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Groningen
+
+Bestuursrecht
+
+zaaknummer: NL23.7042
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam], eiser,
+
+geboren op [geboortedatum],
+
+van Algerijnse nationaliteit,
+
+V-nummer: [nummer]
+
+(gemachtigde: mr. D. de Vries),
+
+en
+
+de staatssecretaris van Justitie en Veiligheid, verweerder.
+
+Procesverloop
+
+Bij besluit van 8 maart 2023 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd niet in behandeling genomen op de grond dat Spanje verantwoordelijk is voor de behandeling daarvan.
+
+De gemachtigde van eiser heeft tegen het bestreden besluit op 8 maart 2023 beroep ingesteld en op 10 maart 2023 gronden van beroep ingediend. Daarnaast heeft de gemachtigde van eiser op 8 maart 2023 een verzoek ingediend tot het treffen van een voorlopige voorziening. Dit verzoek staat geregistreerd onder zaaknummer NL23.7043. Hierop zal bij afzonderlijke uitspraak worden beslist.
+
+Overwegingen
+
+1. De rechtbank doet op grond van artikel 8:54 van de Algemene wet bestuursrecht (Awb) uitspraak zonder zitting.
+
+2. Verweerder heeft het bestreden besluit gebaseerd op artikel 30, eerste lid, van de Vreemdelingenwet 2000 (Vw 2000); daarin is bepaald dat een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd niet in behandeling wordt genomen indien op grond van de Dublinverordening is vastgesteld dat een andere lidstaat verantwoordelijk is voor de behandeling van de aanvraag. In dit geval heeft Nederland op 16 januari 2023 bij Spanje een verzoek om overname gedaan. Spanje heeft dit verzoek aanvaard op 25 januari 2023.
+
+3. Eiser kan zich niet verenigen met het bestreden besluit en voert daartoe, onder herhaling en inlassing van de zienswijze, het volgende aan. Eiser stelt dat ten aanzien van Spanje niet kan worden uitgegaan van het interstatelijk vertrouwensbeginsel. Eiser stelt dat onvoldoende opvangplekken beschikbaar zijn in Spanje en verwijst naar de analyse van Refugees International van 27 juli 2020, het AIDA-rapport van april 2020 (pagina’s 34 en 35) en het rapport van CEAR van 12 maart 2020. Ter illustratie van het overvolle asielsysteem in Spanje wijst eiser daarnaast op een artikel van de NOS van 9 augustus 2020. Het ligt volgens eiser op de weg van verweerder om zelfstandig te beoordelen of er mogelijk sprake is van (indirect) refoulement. Eiser is van mening dat verweerder de asielaanvraag op grond van artikel 17 van de Dublinverordening aan zich moet trekken.
+
+4. De rechtbank overweegt als volgt.
+
+4.1.
+
+Uitgangspunt is dat verweerder ten aanzien van Spanje in het algemeen mag uitgaan van het interstatelijk vertrouwensbeginsel. Van dit uitgangspunt wordt slechts afgeweken indien eiser aannemelijk maakt dat het asiel- en opvangsysteem in Spanje dusdanige tekortkomingen vertoont dat hij bij overdracht een reëel risico loopt op een behandeling die in strijd is met artikel 3 van het Verdrag voor de rechten van de mens en de fundamentele vrijheden (EVRM) of artikel 4 van het EU-Handvest.
+
+4.2.
+
+Eiser heeft dit met hetgeen hij in beroep naar voren heeft gebracht niet aannemelijk gemaakt. De Afdeling bestuursrechtspraak van de Raad van State (ABRvS) heeft op 8 juli 2021 een oordeel gegeven over de opvangvoorzieningen voor Dublinclaimanten in Spanje (ECLI:NL:RVS:2021:1481). Vervolgens is in de uitspraak van 27 januari 2023 geoordeeld dat het AIDA-rapport uit 2021 geen wezenlijk ander beeld schetst van de situatie in Spanje voor Dublinclaimanten dan uit de landeninformatie volgt die bij de uitspraak van 8 juli 2021 is betrokken (ECLI:NL:RVS:2023:364). De verwijzing naar informatie uit 2020 geeft geen grond anders te oordelen. De bewijslast om een reëel risico op indirect refoulement aannemelijk te maken, ligt daarnaast bij de vreemdeling (vgl. de uitspraak van de Afdeling van 6 juli 2022, ECLI:NL:RVS:2022:1864) en niet bij verweerder.
+
+4.3.
+
+De rechtbank is verder van oordeel dat verweerder in wat eiser naar voren heeft gebracht, ook in samenhang bezien, in redelijkheid geen bijzondere individuele omstandigheden aanwezig heeft hoeven achten die maken dat eisers overdracht van een onevenredige hardheid getuigt. Gelet op het voorgaande bestaat er geen aanleiding voor het oordeel dat verweerder de behandeling van de aanvraag van eiser op grond van artikel 17, eerste lid, van de Dublinverordening, aan zich had moeten trekken.
+
+5. Het beroep is kennelijk ongegrond.
+
+6. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. A.W. Wassink, rechter, in aanwezigheid van I. Wolthuis, griffier, en openbaar gemaakt door middel van geanonimiseerde publicatie op rechtspraak.nl.
+
+De uitspraak is bekendgemaakt op:
+
+Rechtsmiddel
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen 6 weken na de dag waarop deze uitspraak is bekendgemaakt. U ziet deze datum hierboven. Als u graag een zitting wilt waarin u uw verzetschrift kunt toelichten, kunt u dit in uw verzetschrift vermelden.
