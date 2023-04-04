@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:6405"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0096"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0096", "PR-Updates.nl 2023-0096"]
 ---
 
 # ECLI:NL:RBDHA:2023:6405 Rechtbank Den Haag , 04-04-2023 / SGR 22/4684
