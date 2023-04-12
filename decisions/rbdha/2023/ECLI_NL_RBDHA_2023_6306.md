@@ -33,7 +33,7 @@ Vonnis van 12 april 2023
 in de zaak van
 
 [eiseres]
-te [plaats 1],
+te [plaats 1] ,
 
 eiseres,
 
@@ -54,15 +54,15 @@ Waar gaat deze zaak over?
 
 1.1.
 
-[eiseres] is in 1975 geboren in Haïti en eind oktober 1986 samen met haar achternichtje [naam 1] geadopteerd door een Nederlands echtpaar, bij wie zij al sinds eind 1984 woonden. In de Haïtiaanse stukken die hebben geleid tot de toelating van [eiseres] in Nederland en haar adoptie staat dat [eiseres] zes jaar was toen zij in Nederland arriveerde en dat [naam 1] haar zusje is. Dat klopt niet: [eiseres] was op dat moment negen jaar oud en [naam 1] is haar achternicht. [eiseres] stelt dat de Nederlandse overheid vanaf het moment waarop zij in Nederland aankwam op vele vlakken en op vele momenten in haar verdere leven onrechtmatig tekort is geschoten, onder meer doordat de Haïtiaanse gegevens destijds niet kritisch tegen het licht zijn gehouden en niet zijn gecorrigeerd.
+[eiseres] is in 1975 geboren in [geboorteland] en eind oktober 1986 samen met haar achternichtje [naam 1] geadopteerd door een Nederlands echtpaar, bij wie zij al sinds eind 1984 woonden. In de Haïtiaanse stukken die hebben geleid tot de toelating van [eiseres] in Nederland en haar adoptie staat dat [eiseres] zes jaar was toen zij in Nederland arriveerde en dat [naam 1] haar zusje is. Dat klopt niet: [eiseres] was op dat moment negen jaar oud en [naam 1] is haar achternicht. [eiseres] stelt dat de Nederlandse overheid vanaf het moment waarop zij in Nederland aankwam op vele vlakken en op vele momenten in haar verdere leven onrechtmatig tekort is geschoten, onder meer doordat de Haïtiaanse gegevens destijds niet kritisch tegen het licht zijn gehouden en niet zijn gecorrigeerd.
 
 1.2.
 
-Als belangrijke reden voor het starten van deze procedure heeft [eiseres] te kennen gegeven dat zij erkenning zoekt voor het leed dat de adoptie en de tekortschietende overheidsbemoeienis in haar latere leven haar heeft berokkend. De rechtbank hecht eraan tot uitdrukking te brengen dat het leed van [eiseres], die als kind op een te hoge leeftijd is geadopteerd en kampt met de gevolgen daarvan, haar aan het hart gaat. Gelet op het tragische levensloop van [eiseres] (zoals die deels blijkt uit de hieronder onder 3 opgenomen feiten) en haar toelichting tijdens de mondelinge behandeling, is haar leed invoelbaar geworden. Dit leed staat (hoewel partijen het niet eens zijn over alle omstandigheden die [eiseres] heeft geschetst) als zodanig ook niet ter discussie.
+Als belangrijke reden voor het starten van deze procedure heeft [eiseres] te kennen gegeven dat zij erkenning zoekt voor het leed dat de adoptie en de tekortschietende overheidsbemoeienis in haar latere leven haar heeft berokkend. De rechtbank hecht eraan tot uitdrukking te brengen dat het leed van [eiseres] , die als kind op een te hoge leeftijd is geadopteerd en kampt met de gevolgen daarvan, haar aan het hart gaat. Gelet op het tragische levensloop van [eiseres] (zoals die deels blijkt uit de hieronder onder 3 opgenomen feiten) en haar toelichting tijdens de mondelinge behandeling, is haar leed invoelbaar geworden. Dit leed staat (hoewel partijen het niet eens zijn over alle omstandigheden die [eiseres] heeft geschetst) als zodanig ook niet ter discussie.
 
 1.3.
 
-In deze zaak moet de rechtbank beoordelen of de Staat onrechtmatig heeft gehandeld of nalatig is geweest ten opzichte van [eiseres]. De rechtbank kan nog niet tot een eindbeslissing komen. De rechtbank heeft meer informatie nodig van partijen over het hiervoor genoemde belangrijke verwijt van [eiseres] dat de gegevens uit Haïti ten tijde van de adoptie niet voldoende kritisch tegen het licht zijn gehouden, voordat zij kan beoordelen of dit verwijt terecht is. Over de overige verwijten van [eiseres] (bijvoorbeeld dat de Staat fouten heeft gemaakt bij de screening van en toezicht op haar adoptiegezin en is tekortgeschoten in de periode nadat [eiseres] bij het adoptiegezin was weggelopen) komt de rechtbank tot het oordeel dat deze verwijten niet met voldoende feiten zijn onderbouwd. Die verwijten kunnen dus niet leiden tot het oordeel dat de Staat onrechtmatig heeft gehandeld of nagelaten.
+In deze zaak moet de rechtbank beoordelen of de Staat onrechtmatig heeft gehandeld of nalatig is geweest ten opzichte van [eiseres] . De rechtbank kan nog niet tot een eindbeslissing komen. De rechtbank heeft meer informatie nodig van partijen over het hiervoor genoemde belangrijke verwijt van [eiseres] dat de gegevens uit Haïti ten tijde van de adoptie niet voldoende kritisch tegen het licht zijn gehouden, voordat zij kan beoordelen of dit verwijt terecht is. Over de overige verwijten van [eiseres] (bijvoorbeeld dat de Staat fouten heeft gemaakt bij de screening van en toezicht op haar adoptiegezin en is tekortgeschoten in de periode nadat [eiseres] bij het adoptiegezin was weggelopen) komt de rechtbank tot het oordeel dat deze verwijten niet met voldoende feiten zijn onderbouwd. Die verwijten kunnen dus niet leiden tot het oordeel dat de Staat onrechtmatig heeft gehandeld of nagelaten.
 
 2
 De procedure
@@ -96,7 +96,7 @@ De adoptie van [eiseres]
 
 3.1.
 
-is op [geboortedag] 1975 geboren te [plaats 2] op Haïti. In november 1984 kwam [eiseres] samen met haar achternichtje [naam 1] aan op Brussel International Airport. Zij zijn daar opgehaald door hun (toekomstige) Nederlandse adoptieouders, de heer en mevrouw [naam 2] (hierna: het echtpaar [naam 2]). De adoptie van [eiseres] en [naam 1] door het echtpaar [naam 2] is op 29 oktober 1986 uitgesproken door de arrondissementsrechtbank te Zutphen.
+is op [geboortedag] 1975 geboren te [plaats 2] op Haïti. In november 1984 kwam [eiseres] samen met haar achternichtje [naam 1] aan op Brussel International Airport. Zij zijn daar opgehaald door hun (toekomstige) Nederlandse adoptieouders, de heer en mevrouw [naam 2] (hierna: het echtpaar [naam 2] ). De adoptie van [eiseres] en [naam 1] door het echtpaar [naam 2] is op 29 oktober 1986 uitgesproken door de arrondissementsrechtbank te Zutphen.
 
 3.2.
 
@@ -104,7 +104,7 @@ Het echtpaar [naam 2] had daaraan voorafgaand bij brieven van 20 mei 1980 en 1 n
 
 3.3.
 
-Op 21 januari 1981 heeft de staatssecretaris van Justitie aan het echtpaar [naam 2] beginseltoestemming verleend voor de verzochte opneming van een derde buitenlands pleegkind. Deze toestemming was gegrond op een positief advies van de Raad voor de Kinderbescherming te Zutphen (hierna: Raad Zutphen) van 12 januari 1981. Daarin werd verwezen naar een rapport betreffende een op 12 december 1980 afgesloten onderzoek naar (het gezin van) het echtpaar [naam 2]. In dit rapport is, voor zover van belang, het volgende opgenomen:
+Op 21 januari 1981 heeft de staatssecretaris van Justitie aan het echtpaar [naam 2] beginseltoestemming verleend voor de verzochte opneming van een derde buitenlands pleegkind. Deze toestemming was gegrond op een positief advies van de Raad voor de Kinderbescherming te Zutphen (hierna: Raad Zutphen) van 12 januari 1981. Daarin werd verwezen naar een rapport betreffende een op 12 december 1980 afgesloten onderzoek naar (het gezin van) het echtpaar [naam 2] . In dit rapport is, voor zover van belang, het volgende opgenomen:
 
 “In april 1974 werd het gezinsonderzoek afgesloten. De pleegouders kwamen naar voren als bewust levende, integere en plezierig optredende mensen. Beiden hadden een goede jeugd […] Pleegvader was werkzaam als computerprogrammeur bij de belastingen. Pleegmoeder volgde de opleiding tot huishoudkundige, ze werkte tot aan haar huwelijk. De drie kinderen hebben nu alle aandacht en verzorging van pleegmoeder. In zijn vrije tijd is pleegvader ook veel met de kinderen bezig. De pleegouders kamperen regelmatig met de kinderen, ze trekken de natuur in. De kinderen treden op een plezierige, spontane wijze op. [Beide pleegouders] wilden wel een groot gezin, maar vonden het niet verantwoord nog meer eigen kinderen te krijgen.
 
@@ -122,23 +122,23 @@ Op 9 oktober 1984 heeft de staatssecretaris opnieuw beginseltoestemming verleend
 
 3.5.
 
-Op 26 oktober 1984 informeerde de staatssecretaris het hoofd van de plaatselijke politie in Twello met afschrift aan de Raad Zutphen, dat voor [eiseres] en [naam 1] door de Nederlandse vertegenwoordiging in het buitenland een machtiging tot voorlopig verblijf (mvv) was verstrekt. Zoals gezegd kwamen [eiseres] en [naam 1] in november 1984 aan in Nederland. Sindsdien verbleven zij bij het echtpaar [naam 2].
+Op 26 oktober 1984 informeerde de staatssecretaris het hoofd van de plaatselijke politie in Twello met afschrift aan de Raad Zutphen, dat voor [eiseres] en [naam 1] door de Nederlandse vertegenwoordiging in het buitenland een machtiging tot voorlopig verblijf (mvv) was verstrekt. Zoals gezegd kwamen [eiseres] en [naam 1] in november 1984 aan in Nederland. Sindsdien verbleven zij bij het echtpaar [naam 2] .
 
 3.6.
 
-Uit dossieraantekeningen van de Raad Zutphen blijkt dat de Raad Zutphen op 4 december 1984 en 15 februari 1985 een gesprek heeft gevoerd met mevrouw [naam 2] over [eiseres] en [naam 1]. Uit de aantekeningen blijkt dat de beide kinderen zich volgens het echtpaar [naam 2] goed ontwikkelden.
+Uit dossieraantekeningen van de Raad Zutphen blijkt dat de Raad Zutphen op 4 december 1984 en 15 februari 1985 een gesprek heeft gevoerd met mevrouw [naam 2] over [eiseres] en [naam 1] . Uit de aantekeningen blijkt dat de beide kinderen zich volgens het echtpaar [naam 2] goed ontwikkelden.
 
 3.7.
 
 Op 24 maart 1986 heeft het echtpaar [naam 2] bij de arrondissementsrechtbank te Zutphen een verzoek ingediend tot (samengevat) de adoptie van [eiseres] en [naam 1] (hierna: het adoptieverzoek). Bij het verzoekschrift zijn onder meer de volgende bijlagen gevoegd:
 
-gelegaliseerde geboorteakten van [eiseres] (“le [geboortedag] 1978”) en [naam 1], waarop in beide gevallen [naam 3] als moeder wordt aangeduid;
+gelegaliseerde geboorteakten van [eiseres] (“le [geboortedag] 1978”) en [naam 1] , waarop in beide gevallen [naam 3] als moeder wordt aangeduid;
 
-kopieën van de Haïtiaanse paspoorten van [eiseres] en [naam 1];
+kopieën van de Haïtiaanse paspoorten van [eiseres] en [naam 1] ;
 
-in tweevoud een proces-verbaal van een op 9 augustus 1984 gehouden zitting van de Juge de Paix van [plaats 2], Section Sud, waarin onder meer is opgenomen:
+in tweevoud een proces-verbaal van een op 9 augustus 1984 gehouden zitting van de Juge de Paix van [plaats 2] , Section Sud, waarin onder meer is opgenomen:
 
-“La dame [naam 3], mère de la mineure [naam 1] présente en notre Tribunal, déclare consentir sans réserve à ce que sa fille soit adoptee par les époux [adoptievader], Madame née [adoptiemoeder], de nationalité hollandaise et accepte en outre qu’elle soit légitimée par les sus dits époux.”
+“La dame [naam 3] , mère de la mineure [naam 1] présente en notre Tribunal, déclare consentir sans réserve à ce que sa fille soit adoptee par les époux [adoptievader] , Madame née [adoptiemoeder] , de nationalité hollandaise et accepte en outre qu’elle soit légitimée par les sus dits époux.”
 
 Haïtiaanse adoptie-beschikkingen van het Tribunal Civil du Ressort du [plaats 2] van 11 augustus 1984, waarin de adoptie van [eiseres] en [naam 1] door het echtpaar [naam 2] is uitgesproken.
 
@@ -176,7 +176,7 @@ De pleegouders zijn in hun verwachtingen reëel en accepteren de mogelijkheden e
 
 3.9.
 
-Bij beschikking van 29 oktober 1986 heeft de arrondissementsrechtbank te Zutphen, onder verwijzing naar het rapport van de Raad Zutphen, de adoptie van [eiseres] en [naam 1] uitgesproken. Daarbij zijn de namen van [eiseres] gewijzigd in [naam 4]. In de beschikking is onder meer opgenomen:
+Bij beschikking van 29 oktober 1986 heeft de arrondissementsrechtbank te Zutphen, onder verwijzing naar het rapport van de Raad Zutphen, de adoptie van [eiseres] en [naam 1] uitgesproken. Daarbij zijn de namen van [eiseres] gewijzigd in [naam 4] . In de beschikking is onder meer opgenomen:
 
 “uit een afschrift van het “registre des proces-verbaux d’adoption” ter griffie van het Tribunal de Paix van Le [plaats 2] van 9 augustus 1984 blijkt dat de moeder van de minderjarigen heeft ingestemd met de adoptie door verzoekers”.
 
@@ -188,7 +188,7 @@ De periode na de adoptie
 
 3.11.
 
-[eiseres] is in december 1990 weggelopen van huis. Omdat de verstandhouding tussen [eiseres] en het echtpaar [naam 2] was verstoord, verliepen de contacten tussen hen vanaf dat moment via het RIAGG. Aangezien de instanties die zich over [eiseres] hadden ontfermd geen beslissingen over en voor haar konden nemen, heeft het RIAGG het echtpaar [naam 2] in overweging gegeven afstand te doen van de ouderlijke macht over [eiseres]. Daartoe heeft het echtpaar [naam 2] (en hun overige (adoptie)kinderen) bij brief van 22 maart 1993 verzocht.
+[eiseres] is in december 1990 weggelopen van huis. Omdat de verstandhouding tussen [eiseres] en het echtpaar [naam 2] was verstoord, verliepen de contacten tussen hen vanaf dat moment via het RIAGG. Aangezien de instanties die zich over [eiseres] hadden ontfermd geen beslissingen over en voor haar konden nemen, heeft het RIAGG het echtpaar [naam 2] in overweging gegeven afstand te doen van de ouderlijke macht over [eiseres] . Daartoe heeft het echtpaar [naam 2] (en hun overige (adoptie)kinderen) bij brief van 22 maart 1993 verzocht.
 
 3.12.
 
@@ -208,9 +208,9 @@ Door de Riagg, die inmiddels ingeschakeld was door de ouders in oktober 1990 wer
 
 […]
 
-[eiseres] geeft te kennen dat zij tegen haar zin in als adoptief-kind geplaatst is bij de familie [naam 2]. Volgens [eiseres] had zij in Haïti een goede band met haar vader die de naam [naam 5] draagt en is zij met haar nichtje (in plaats van haar zusje, zoals beweerd wordt) [naam 1] als het ware ontvoerd in 1984.
+[eiseres] geeft te kennen dat zij tegen haar zin in als adoptief-kind geplaatst is bij de familie [naam 2] . Volgens [eiseres] had zij in Haïti een goede band met haar vader die de naam [naam 5] draagt en is zij met haar nichtje (in plaats van haar zusje, zoals beweerd wordt) [naam 1] als het ware ontvoerd in 1984.
 
-[eiseres] heeft niet kunnen wennen bij de familie [naam 2]. Ze noemt met name vader en [twee van haar broers] als degenen tegen wie zij wrok voelt. Ze heeft zich gekleineerd gevoeld door hen, ze voelde zich niet begrepen en werd gepest met haar uiterlijk. [eiseres] noemt hiervan verschillende voorbeelden. Ze benadrukt dat ze beslist geen gemakkelijk kind was, maar dat ze daarvoor haar redenen had en die ook wilde vertellen. Ze zegt dat er echter niet naar haar geluisterd werd, voelde zich niet serieus genomen en dat terwijl ze ook nog problemen had met leren en met haar achtergrond in Haïti.
+[eiseres] heeft niet kunnen wennen bij de familie [naam 2] . Ze noemt met name vader en [twee van haar broers] als degenen tegen wie zij wrok voelt. Ze heeft zich gekleineerd gevoeld door hen, ze voelde zich niet begrepen en werd gepest met haar uiterlijk. [eiseres] noemt hiervan verschillende voorbeelden. Ze benadrukt dat ze beslist geen gemakkelijk kind was, maar dat ze daarvoor haar redenen had en die ook wilde vertellen. Ze zegt dat er echter niet naar haar geluisterd werd, voelde zich niet serieus genomen en dat terwijl ze ook nog problemen had met leren en met haar achtergrond in Haïti.
 
 […] Zij heeft afstand genomen en wenst deze te houden. Ze wil absoluut geen kontakt meer op dit ogenblik, er zou teveel gebeurd zijn. [eiseres] wenst daarover niet te veel te spreken, ze noemt dat ze later een boek wil schrijven over haar verleden en dan misschien nog eens kontakt zal zoeken. In dat kader noemt [eiseres] ook haar grote wens om haar naam te veranderen. Ze aksepteert echter meteen dat dat dit momenteel niet mogelijk is en dat nu eerst de voogdij geregeld moet worden. Ook heeft ze teveel problemen met haar leeftijd (zie verslag J.P. Heye-Stichting).
 
@@ -220,7 +220,7 @@ Van de toekomstige voogdes heeft ze positieve verwachtingen. Ze hoopt te zijner 
 
 Visie ouders ten aanzien van de problematiek:
 
-[eiseres] kwam op ± 6-jarige leeftijd met haar zusje [naam 1] uit Haïti bij de familie [naam 2]. Bij medisch onderzoek bleek zij enkele jaren ouder te zijn […]
+[eiseres] kwam op ± 6-jarige leeftijd met haar zusje [naam 1] uit Haïti bij de familie [naam 2] . Bij medisch onderzoek bleek zij enkele jaren ouder te zijn […]
 
 Konklusie
 
@@ -232,7 +232,7 @@ Zowel de ouders als [eiseres] staan achter de ontheffing. Een voogdijvereniging 
 
 3.13.
 
-Het rapport van de Raad Zutphen van december 1993 was, naast gesprekken met alle betrokkenen, gebaseerd op een overzichtsrapport van het RIAGG van 27 juli 1993 betreffende de mogelijke overdracht van de ouderlijke macht over [eiseres] en het behandelingsplan van de J.P. Heije Stichting van 1 november 1993.
+Het rapport van de Raad Zutphen van december 1993 was, naast gesprekken met alle betrokkenen, gebaseerd op een overzichtsrapport van het RIAGG van 27 juli 1993 betreffende de mogelijke overdracht van de ouderlijke macht over [eiseres] en het behandelingsplan van de [zorginstelling] van 1 november 1993.
 
 3.14.
 
@@ -240,7 +240,7 @@ In het overzichtsrapport van het RIAGG van 27 juli 1993 is, voor zover van belan
 
 “Kerstmis 1990 is [eiseres] thuis weggelopen na een aanvaring met vader […]
 
-[eiseres], officieel 14 jaar, is duidelijk veel ouder. Tijdens haar verblijf in Jonkerbosch is ze medisch en psychologisch onderzocht, waarbij bleek, dat haar echte leeftijd ongeveer drie jaar hoger is […] In het tehuis wordt ze behandeld als een bijna 18 jarige qua voorrechten en zakgeld […]
+[eiseres] , officieel 14 jaar, is duidelijk veel ouder. Tijdens haar verblijf in Jonkerbosch is ze medisch en psychologisch onderzocht, waarbij bleek, dat haar echte leeftijd ongeveer drie jaar hoger is […] In het tehuis wordt ze behandeld als een bijna 18 jarige qua voorrechten en zakgeld […]
 
 In het Crisis Centrum in Zwolle heeft ze een heel moeilijke tijd gehad. Ze was erg claimend, ook daar heel nadrukkelijk aanwezig, egocentrisch ingesteld, prikkelbaar en ze had angstaanvallen. Dit alles heeft bij de toch al wat onrustige bevolking van een crisiscentrum tot heftige incidenten geleid.
 
@@ -248,19 +248,19 @@ In het Crisis Centrum in Zwolle heeft ze een heel moeilijke tijd gehad. Ze was e
 
 Ontheffing.
 
-Het initiatief is genomen door Jonkerbosch, waar de staf van mening was, dat er iemand moest komen, die ook juridisch gezag had over [eiseres]. Misschien kon toch een procedure worden gestart om haar geboortedatum te wijzigen; er moet ook e.e.a. worden geregeld rond uitkeringen, verdere opvang. Verstandelijk zagen ouders meteen in, dat dit wenselijk was […] Ze schreven dan ook hun verzoek tot ontheffing aan de Raad. Gevoelsmatig bleef het moeilijk liggen.
+Het initiatief is genomen door Jonkerbosch, waar de staf van mening was, dat er iemand moest komen, die ook juridisch gezag had over [eiseres] . Misschien kon toch een procedure worden gestart om haar geboortedatum te wijzigen; er moet ook e.e.a. worden geregeld rond uitkeringen, verdere opvang. Verstandelijk zagen ouders meteen in, dat dit wenselijk was […] Ze schreven dan ook hun verzoek tot ontheffing aan de Raad. Gevoelsmatig bleef het moeilijk liggen.
 
-[eiseres] vond het een prima voorstel. Ofschoon ze waardering heeft voor de zorg van ouders voor hun adoptiefkinderen, wil ze zelf geen “[naam 2]” meer zijn en door de ontheffing voelt ze zich meer los van ouders.
+[eiseres] vond het een prima voorstel. Ofschoon ze waardering heeft voor de zorg van ouders voor hun adoptiefkinderen, wil ze zelf geen “ [naam 2] ” meer zijn en door de ontheffing voelt ze zich meer los van ouders.
 
 […]
 
 Conclusie.
 
-[eiseres], bijna vijftien jaar, maar in feite waarschijnlijk bijna 18 jaar is als adoptief kind vermoedelijk te laat naar Nederland gekomen om zich nog echt te hechten in het adoptief gezin.”
+[eiseres] , bijna vijftien jaar, maar in feite waarschijnlijk bijna 18 jaar is als adoptief kind vermoedelijk te laat naar Nederland gekomen om zich nog echt te hechten in het adoptief gezin.”
 
 3.15.
 
-Het behandelingsplan van de J.P. Heije Stichting van 1 november 1993 bevat, voor zover van belang, het volgende:
+Het behandelingsplan van de [zorginstelling] van 1 november 1993 bevat, voor zover van belang, het volgende:
 
 “Dachten we […] een goede weg in te slaan door haar te plaatsen op de interne school, na ongeveer een maand geeft [eiseres] in gesprekken aan dat ze depressief wordt van school, dat ze erg moe is, vaak slap en duizelig, en regelmatig misselijk wordt van de ‘gore’ verhalen van klasgenoten, van het schelden en vloeken in de klas; ze zitten aan haar lichaam, aan haar spullen, en houden niet op als ze het vraagt; bij doorvragen erkent ze dat ze zelf ook aanleiding geeft […]
 
@@ -278,11 +278,11 @@ De geestelijke en lichamelijke beschadigingen door pleegvader en pleegbroers noe
 
 In het behandelingsplan van 21 juni 1993 (dat wordt genoemd in het behandelingsplan van 1 november 1993) is, voor zover van belang, het volgende opgenomen:
 
-“Met het adoptiefgezin wil [[eiseres]] door de dingen die gebeurd zijn geen kontakt meer. Ze wil geen aangifte doen van de ‘onheuse bejegening’ op sexueel gebied door haar ‘broers’; ze wil het alleen verwerken.”
+“Met het adoptiefgezin wil [ [eiseres] ] door de dingen die gebeurd zijn geen kontakt meer. Ze wil geen aangifte doen van de ‘onheuse bejegening’ op sexueel gebied door haar ‘broers’; ze wil het alleen verwerken.”
 
 3.17.
 
-Nadat de Raad Zutphen daarom bij verzoekschrift van 25 januari 1994 had verzocht, heeft de arrondissementsrechtbank te Zutphen bij beschikking van 23 maart 1994 het echtpaar [naam 2] ontheven van de ouderlijke macht over [eiseres]. De rechtbank heeft daarbij Stichting Jeugd en Gezin te Arnhem (hierna: SJG) als voogdes over [eiseres] benoemd en een ambtenaar van de Raad Zutphen als toeziend voogd.
+Nadat de Raad Zutphen daarom bij verzoekschrift van 25 januari 1994 had verzocht, heeft de arrondissementsrechtbank te Zutphen bij beschikking van 23 maart 1994 het echtpaar [naam 2] ontheven van de ouderlijke macht over [eiseres] . De rechtbank heeft daarbij Stichting Jeugd en Gezin te Arnhem (hierna: SJG) als voogdes over [eiseres] benoemd en een ambtenaar van de Raad Zutphen als toeziend voogd.
 
 3.18.
 
@@ -296,7 +296,7 @@ Op verzoek van [eiseres] heeft de arrondissementsrechtbank te Amsterdam bij besc
 
 3.20.
 
-De arrondissementsrechtbank ’s-Gravenhage heeft op verzoek van [eiseres] bij beschikking van 17 september 2001 de voornamen van [eiseres] gewijzigd in “[naam 6]”. In diezelfde beschikking zijn de geboortegegevens van [eiseres] vastgesteld, die inhielden dat [eiseres] op [geboortedag] 1978 was geboren in Le [plaats 2], Haïti.
+De arrondissementsrechtbank ’s-Gravenhage heeft op verzoek van [eiseres] bij beschikking van 17 september 2001 de voornamen van [eiseres] gewijzigd in “ [naam 6] ”. In diezelfde beschikking zijn de geboortegegevens van [eiseres] vastgesteld, die inhielden dat [eiseres] op [geboortedag] 1978 was geboren in Le [plaats 2] , Haïti.
 
 3.21.
 
@@ -308,17 +308,17 @@ Door de herroeping van de adoptie had [eiseres] haar Nederlandse nationaliteit v
 
 3.23.
 
-[naam 1] is op [dd overlijden] 2014 overleden. [naam 1] had op dat moment een minderjarige dochter, [naam 7]. Na het overlijden van [naam 1] werd niet voorzien in het gezag over [naam 7]. Op advies van de Raad voor de Kinderbescherming heeft de Rechtbank Overijssel op 14 augustus 2014 (naar de rechtbank begrijpt) de voormalige adoptiezus van [eiseres] en haar man belast met de voogdij over [naam 7].
+[naam 1] is op [dd overlijden] 2014 overleden. [naam 1] had op dat moment een minderjarige dochter, [naam 7] . Na het overlijden van [naam 1] werd niet voorzien in het gezag over [naam 7] . Op advies van de Raad voor de Kinderbescherming heeft de Rechtbank Overijssel op 14 augustus 2014 (naar de rechtbank begrijpt) de voormalige adoptiezus van [eiseres] en haar man belast met de voogdij over [naam 7] .
 
 3.24.
 
 Bij brief van 15 augustus 2014 heeft Bureau Jeugdzorg Gelderland [eiseres] als volgt bericht:
 
-“Op 11-08-2014 nam u contact op met Bureau Jeugdzorg over [naam 7], dochter van uw overleden nicht (u noemt haar zus). U en uw nicht zijn als kind geadopteerd door gezin [naam 2]. Door uw herinneringen van seksueel misbruik en geweld binnen gezin [naam 2], uitte u zorg over verblijf van [naam 7] in dit gezin nu haar moeder overleden is. Daarnaast zou u graag voor [naam 7] willen zorgen en de ouderlijke macht willen over haar.
+“Op 11-08-2014 nam u contact op met Bureau Jeugdzorg over [naam 7] , dochter van uw overleden nicht (u noemt haar zus). U en uw nicht zijn als kind geadopteerd door gezin [naam 2] . Door uw herinneringen van seksueel misbruik en geweld binnen gezin [naam 2] , uitte u zorg over verblijf van [naam 7] in dit gezin nu haar moeder overleden is. Daarnaast zou u graag voor [naam 7] willen zorgen en de ouderlijke macht willen over haar.
 
-Bureau Jeugdzorg heeft naar aanleiding van twijfel over de veiligheid van [naam 7], contact opgenomen met de Raad voor de Kinderbescherming in Zwolle. Deze liet weten dat [naam 7] is opgenomen in het gezin van mevrouw [naam 8] (tante van [naam 7]), aan wie ook de voogdij is toegekend. Bureau Jeugdzorg heeft uw zorgen gedeeld met de Raad voor de Kinderbescherming. Deze heeft uw zorgen besproken met mevrouw [naam 8]. Na intern overleg liet de Raad voor de Kinderbescherming weten dat zij geen reden zien om op dit moment te twijfelen aan de veiligheid van [naam 7].
+Bureau Jeugdzorg heeft naar aanleiding van twijfel over de veiligheid van [naam 7] , contact opgenomen met de Raad voor de Kinderbescherming in Zwolle. Deze liet weten dat [naam 7] is opgenomen in het gezin van mevrouw [naam 8] (tante van [naam 7] ), aan wie ook de voogdij is toegekend. Bureau Jeugdzorg heeft uw zorgen gedeeld met de Raad voor de Kinderbescherming. Deze heeft uw zorgen besproken met mevrouw [naam 8] . Na intern overleg liet de Raad voor de Kinderbescherming weten dat zij geen reden zien om op dit moment te twijfelen aan de veiligheid van [naam 7] .
 
-Bureau Jeugdzorg sluit zich aan bij het standpunt van de Raad voor de Kinderbescherming wat betreft de veiligheid van [naam 7]. Bureau Jeugdzorg heeft de door u weergegeven zorgen gedeeld met mevrouw [naam 8] omdat zij verantwoordelijk is voor de veiligheid van [naam 7]. U bent verwezen naar uw advocaat, wanneer u hier verandering in wil.
+Bureau Jeugdzorg sluit zich aan bij het standpunt van de Raad voor de Kinderbescherming wat betreft de veiligheid van [naam 7] . Bureau Jeugdzorg heeft de door u weergegeven zorgen gedeeld met mevrouw [naam 8] omdat zij verantwoordelijk is voor de veiligheid van [naam 7] . U bent verwezen naar uw advocaat, wanneer u hier verandering in wil.
 
 Uw zorgmelding in de vorm van uw verzoek tot de ouderlijke macht over [naam 7] (gericht aan de Raad voor de Kinderbescherming) wordt opgenomen in het dossier van [naam 7] bij Bureau Jeugdzorg Zwolle, als ook deze brief. Het dossier van [naam 7] wordt hiermee afgesloten.”
 
@@ -345,7 +345,7 @@ Bij het adoptiegezin van [eiseres] was vervolgens van alles mis: zowel [eiseres]
 
 4.2.3.
 
-De Raad voor de Kinderbescherming heeft vervolgens nagelaten ervoor te zorgen dat [eiseres] en [naam 1] in hetzelfde internaat terecht kwamen. Tijdens haar verblijf in het internaat van de J.P. Heije Stichting heeft [eiseres] verbaal en fysiek geweld ondervonden. Doordat van de onjuiste geboortedatum werd uitgegaan, heeft [eiseres] niet tot haar 18e, maar tot haar 21e in een internaat moeten verblijven. Wrang is dat zij een erfenis van ongeveer honderduizend gulden van haar (adoptie)grootouders tijdens deze verlengde internaatsperiode aan de Staat heeft moeten afstaan.
+De Raad voor de Kinderbescherming heeft vervolgens nagelaten ervoor te zorgen dat [eiseres] en [naam 1] in hetzelfde internaat terecht kwamen. Tijdens haar verblijf in het internaat van de [zorginstelling] heeft [eiseres] verbaal en fysiek geweld ondervonden. Doordat van de onjuiste geboortedatum werd uitgegaan, heeft [eiseres] niet tot haar 18e, maar tot haar 21e in een internaat moeten verblijven. Wrang is dat zij een erfenis van ongeveer honderduizend gulden van haar (adoptie)grootouders tijdens deze verlengde internaatsperiode aan de Staat heeft moeten afstaan.
 
 4.2.4.
 
@@ -353,7 +353,7 @@ Ten gevolge van de herroeping van de adoptie is [eiseres] haar Nederlanderschap 
 
 4.2.5.
 
-[naam 1] – het enige familielid van [eiseres] in Nederland – is op [dd overlijden] 2014 overleden. Als [eiseres] vervolgens in contact wenst te komen met de enige dochter van [naam 1] wordt haar dat recht ontzegd omdat zij (vanwege de ongedaanmaking van de adoptie) geen familie zou zijn. De Raad voor Kinderbescherming heeft het wat dit betreft niet opgenomen voor [eiseres].
+[naam 1] – het enige familielid van [eiseres] in Nederland – is op [dd overlijden] 2014 overleden. Als [eiseres] vervolgens in contact wenst te komen met de enige dochter van [naam 1] wordt haar dat recht ontzegd omdat zij (vanwege de ongedaanmaking van de adoptie) geen familie zou zijn. De Raad voor Kinderbescherming heeft het wat dit betreft niet opgenomen voor [eiseres] .
 
 4.3.
 
@@ -378,7 +378,7 @@ Overweging vooraf
 
 5.2.
 
-Onder verwijzing naar het rapport van de COIA, stelt [eiseres] zich op het standpunt dat ook rondom haar adoptie van alles is misgegaan en dat de Staat heeft nagelaten te handelen. Hoewel de COIA de situatie in Haïti niet actief heeft onderzocht, wijst [eiseres] er terecht op dat uit het rapport van de COIA blijkt dat er in de periode waarin [eiseres] werd geadopteerd veel misstanden plaatsvonden, ook in andere landen dan de in 5.1 genoemde  van waaruit kinderen naar Nederland werden geadopteerd. Dat neemt niet weg dat de rechtbank moet oordelen over het individuele geval van [eiseres]. Daarbij ligt het op de weg van [eiseres] om feiten te stellen die tot de conclusie kunnen leiden dat de Staat jegens haar onrechtmatig heeft gehandeld (of heeft nagelaten) en om die feiten zo nodig ook te bewijzen. De rechtbank zal de verwijten die [eiseres] de Staat maakt hierna afzonderlijk beoordelen.
+Onder verwijzing naar het rapport van de COIA, stelt [eiseres] zich op het standpunt dat ook rondom haar adoptie van alles is misgegaan en dat de Staat heeft nagelaten te handelen. Hoewel de COIA de situatie in Haïti niet actief heeft onderzocht, wijst [eiseres] er terecht op dat uit het rapport van de COIA blijkt dat er in de periode waarin [eiseres] werd geadopteerd veel misstanden plaatsvonden, ook in andere landen dan de in 5.1 genoemde  van waaruit kinderen naar Nederland werden geadopteerd. Dat neemt niet weg dat de rechtbank moet oordelen over het individuele geval van [eiseres] . Daarbij ligt het op de weg van [eiseres] om feiten te stellen die tot de conclusie kunnen leiden dat de Staat jegens haar onrechtmatig heeft gehandeld (of heeft nagelaten) en om die feiten zo nodig ook te bewijzen. De rechtbank zal de verwijten die [eiseres] de Staat maakt hierna afzonderlijk beoordelen.
 
 Verwijten over de (totstandkoming van) de adoptie
 
@@ -394,7 +394,7 @@ Wet- en regelgeving die gold tijdens de adoptie van [eiseres]
 
 5.5.
 
-Om te kunnen beoordelen of de Staat in verband met de adoptie van [eiseres] een wettelijke plicht heeft veronachtzaamd, zal de rechtbank eerst vaststellen welke voorschriften golden ten tijde van de adoptie van [eiseres].
+Om te kunnen beoordelen of de Staat in verband met de adoptie van [eiseres] een wettelijke plicht heeft veronachtzaamd, zal de rechtbank eerst vaststellen welke voorschriften golden ten tijde van de adoptie van [eiseres] .
 
 5.6.
 
@@ -434,7 +434,7 @@ Onvoldoende screening?
 
 5.13.
 
-[eiseres] heeft in deze procedure ook geen omstandigheden naar voren gebracht waaruit volgt dat de Raad in de periode tot medio 1986 op de hoogte was of had moeten zijn van signalen dat in het adoptiegezin (zoals [eiseres] betoogt) sprake was van geweld op grond waarvan redelijkerwijs tot nader onderzoek of tot een negatieve advisering had moeten worden overgegaan. Uit de stellingen valt namelijk op te maken dat de Raad Zutphen pas in 1993, en dus een kleine drie jaar nadat [eiseres] het adoptiegezin feitelijk had verlaten, kennis ervan kreeg dat [eiseres] te kennen gaf dat zij in het gezin geestelijk en lichamelijk beschadigd zou zijn (vgl. 3.13 en 3.16). Nu de screening volgens de (wettelijke) regels is verlopen en er geen omstandigheden waren die de Raad ten onrechte veronachtzaamd heeft, kan niet worden aangenomen dat de Staat een wettelijke plicht of een maatschappelijke zorgvuldigheidsnorm heeft geschonden bij de screening van het echtpaar [naam 2]. Ook voor het oordeel dat de Staat in dit kader inbreuk op rechten van [eiseres] heeft gemaakt bestaan onvoldoende aanknopingspunten, waarbij de rechtbank zich bewust is van de fundamentele aard van deze, door artikelen 3 en 8 van het Europees Verdrag voor de Rechten van de Mens (EVRM) beschermde rechten.
+[eiseres] heeft in deze procedure ook geen omstandigheden naar voren gebracht waaruit volgt dat de Raad in de periode tot medio 1986 op de hoogte was of had moeten zijn van signalen dat in het adoptiegezin (zoals [eiseres] betoogt) sprake was van geweld op grond waarvan redelijkerwijs tot nader onderzoek of tot een negatieve advisering had moeten worden overgegaan. Uit de stellingen valt namelijk op te maken dat de Raad Zutphen pas in 1993, en dus een kleine drie jaar nadat [eiseres] het adoptiegezin feitelijk had verlaten, kennis ervan kreeg dat [eiseres] te kennen gaf dat zij in het gezin geestelijk en lichamelijk beschadigd zou zijn (vgl. 3.13 en 3.16). Nu de screening volgens de (wettelijke) regels is verlopen en er geen omstandigheden waren die de Raad ten onrechte veronachtzaamd heeft, kan niet worden aangenomen dat de Staat een wettelijke plicht of een maatschappelijke zorgvuldigheidsnorm heeft geschonden bij de screening van het echtpaar [naam 2] . Ook voor het oordeel dat de Staat in dit kader inbreuk op rechten van [eiseres] heeft gemaakt bestaan onvoldoende aanknopingspunten, waarbij de rechtbank zich bewust is van de fundamentele aard van deze, door artikelen 3 en 8 van het Europees Verdrag voor de Rechten van de Mens (EVRM) beschermde rechten.
 
 5.14.
 
@@ -442,7 +442,7 @@ Het valt buiten het bestek van deze zaak te beoordelen of het door [eiseres] ges
 
 5.15.
 
-Nadat de Raad Zutphen pas in 1993 in kennis was gesteld van de problematische relatie tussen [eiseres] en het echtpaar [naam 2], heeft de Raad onderzoek gedaan en geconcludeerd dat ontheffing van het echtpaar [naam 2] van de ouderlijke macht over [eiseres] aangewezen was. Die ontheffing heeft vervolgens ook – overigens op verzoek van alle betrokkenen – plaatsgevonden. De rechtbank kan uit deze omstandigheden geen onrechtmatig handelen van de Staat, of meer in het bijzonder de Raad Zutphen, afleiden.
+Nadat de Raad Zutphen pas in 1993 in kennis was gesteld van de problematische relatie tussen [eiseres] en het echtpaar [naam 2] , heeft de Raad onderzoek gedaan en geconcludeerd dat ontheffing van het echtpaar [naam 2] van de ouderlijke macht over [eiseres] aangewezen was. Die ontheffing heeft vervolgens ook – overigens op verzoek van alle betrokkenen – plaatsgevonden. De rechtbank kan uit deze omstandigheden geen onrechtmatig handelen van de Staat, of meer in het bijzonder de Raad Zutphen, afleiden.
 
 Nalaten gegevens te controleren
 
@@ -460,17 +460,17 @@ In lijn met wat de rechtbank hiervoor overwoog en met eerdere uitspraken in zake
 
 5.19.
 
-Van feiten of omstandigheden van algemene aard die de Staat moesten doen twijfelen aan de informatie over [eiseres], is de rechtbank niet gebleken. Zo kan niet worden vastgesteld dat de Staat ten tijde van de adoptie van [eiseres] aanwijzingen had dat zich misstanden voordeden bij adopties vanuit Haïti. Uit het rapport van de COIA waarnaar [eiseres] in algemene zin verwijst, kan dat ook niet (althans niet voor de periode waarin [eiseres] werd geadopteerd) worden opgemaakt. De stelling van [eiseres] dat de Staat ervan op de hoogte was (of had moeten zijn) dat het Belgische adoptiebemiddelingsbureau dat betrokken was bij de adoptie van [eiseres] en [naam 1] onbetrouwbaar was, heeft – ondanks dat de rechtbank [eiseres] op de mondelinge behandeling heeft verzocht deze stelling nader toe te lichten – geen feitelijke invulling gekregen.
+Van feiten of omstandigheden van algemene aard die de Staat moesten doen twijfelen aan de informatie over [eiseres] , is de rechtbank niet gebleken. Zo kan niet worden vastgesteld dat de Staat ten tijde van de adoptie van [eiseres] aanwijzingen had dat zich misstanden voordeden bij adopties vanuit Haïti. Uit het rapport van de COIA waarnaar [eiseres] in algemene zin verwijst, kan dat ook niet (althans niet voor de periode waarin [eiseres] werd geadopteerd) worden opgemaakt. De stelling van [eiseres] dat de Staat ervan op de hoogte was (of had moeten zijn) dat het Belgische adoptiebemiddelingsbureau dat betrokken was bij de adoptie van [eiseres] en [naam 1] onbetrouwbaar was, heeft – ondanks dat de rechtbank [eiseres] op de mondelinge behandeling heeft verzocht deze stelling nader toe te lichten – geen feitelijke invulling gekregen.
 
 5.20.
 
-Uit de stellingen van [eiseres] en de stukken betreffende haar adoptie volgen echter wel bijzondere omstandigheden die mogelijk ten onrechte niet hebben geleid tot kritisch nader onderzoek naar de (afstammings)gegevens van [eiseres]. De rechtbank doelt op een tweetal zaken die in de bijlagen bij het adoptieverzoek opvallen.
+Uit de stellingen van [eiseres] en de stukken betreffende haar adoptie volgen echter wel bijzondere omstandigheden die mogelijk ten onrechte niet hebben geleid tot kritisch nader onderzoek naar de (afstammings)gegevens van [eiseres] . De rechtbank doelt op een tweetal zaken die in de bijlagen bij het adoptieverzoek opvallen.
 
 5.21.
 
 In de eerste plaats bevindt zich tussen die stukken, anders dan in de adoptiebeschikking (vgl. 3.9) is opgenomen, geen proces-verbaal of ander schriftelijk stuk waaruit de toestemming van [naam 3] – die de moeder van [eiseres] en [naam 1] zou zijn – voor de adoptie van [eiseres] blijkt. Bij het verzoekschrift is slechts in tweevoud een zelfde proces-verbaal gevoegd, waarin enkel is opgenomen dat [naam 3] toestemming geeft voor de adoptie van [naam 1] (vgl. 3.7). Een instemmingsverklaring voor de adoptie van [eiseres] ontbreekt (in ieder geval in de stukken die aan de rechtbank in deze procedure ter beschikking zijn gesteld).
 
-In de tweede plaats laat het feit dat [naam 3] volgens het Haïtiaanse proces-verbaal op 9 augustus 1984 – kort voor de komst van [eiseres] en [naam 1] naar Nederland –  toestemming heeft gegeven voor de adoptie van [naam 1] (vgl. 3.7) (en naar de arrondissementsrechtbank Zutphen klaarblijkelijk heeft aangenomen ook van [eiseres]), zich slecht rijmen met een specifieke passage uit het adviesrapport van de Raad Zutphen naar aanleiding van het verzoek tot adoptie (vgl. 3.8). De rechtbank doelt op de passage die luidt: “Bij ziekenhuisopname van pleegmoeder raakte vooral [eiseres] erg nerveus omdat [eiseres] wist dat haar natuurlijke moeder in een ziekenhuis was overleden. Na de terugkeer van pleegmoeder was alles weer goed”. Er is (vooralsnog) geen aanleiding te veronderstellen dat [eiseres] na haar aankomst in Nederland contact heeft onderhouden met haar biologische moeder of dat zij op de hoogte is gebracht van het feit dat haar moeder na haar komst naar Nederland in een ziekenhuis was overleden. De mogelijkheid bestaat dus dat [eiseres] heeft meegemaakt dat haar biologische moeder vóór haar vertrek naar Nederland was overleden. Dit zou kunnen betekenen dat de toestemming van “[naam 3]” met de adoptie niet werkelijk afkomstig was van de moeder van [eiseres].
+In de tweede plaats laat het feit dat [naam 3] volgens het Haïtiaanse proces-verbaal op 9 augustus 1984 – kort voor de komst van [eiseres] en [naam 1] naar Nederland –  toestemming heeft gegeven voor de adoptie van [naam 1] (vgl. 3.7) (en naar de arrondissementsrechtbank Zutphen klaarblijkelijk heeft aangenomen ook van [eiseres] ), zich slecht rijmen met een specifieke passage uit het adviesrapport van de Raad Zutphen naar aanleiding van het verzoek tot adoptie (vgl. 3.8). De rechtbank doelt op de passage die luidt: “Bij ziekenhuisopname van pleegmoeder raakte vooral [eiseres] erg nerveus omdat [eiseres] wist dat haar natuurlijke moeder in een ziekenhuis was overleden. Na de terugkeer van pleegmoeder was alles weer goed”. Er is (vooralsnog) geen aanleiding te veronderstellen dat [eiseres] na haar aankomst in Nederland contact heeft onderhouden met haar biologische moeder of dat zij op de hoogte is gebracht van het feit dat haar moeder na haar komst naar Nederland in een ziekenhuis was overleden. De mogelijkheid bestaat dus dat [eiseres] heeft meegemaakt dat haar biologische moeder vóór haar vertrek naar Nederland was overleden. Dit zou kunnen betekenen dat de toestemming van “ [naam 3] ” met de adoptie niet werkelijk afkomstig was van de moeder van [eiseres] .
 
 5.22.
 
@@ -492,13 +492,13 @@ Beoordeling van de overige verwijten: verjaringsberoep
 
 5.26.
 
-Ten aanzien van de overige verwijten heeft de Staat zich op verjaring van de vorderingen beroepen. De rechtbank zal echter de verjaringskwestie niet beoordelen. Redengevend daarvoor is niet alleen dat, zoals hierna zal blijken, de verwijten vanwege onvoldoende feitelijke grondslag niet tot een onrechtmatigheidsoordeel kunnen leiden, maar ook dat het onderscheid dat de Staat maakt tussen verwijten die de adoptie betreffen en de verwijten die niet over de adoptie gaan, in enkele gevallen moeilijk toepasbaar is. De rechtbank heeft in dit verband bijvoorbeeld op het oog het verwijt dat [eiseres] vanwege haar onjuiste leeftijd drie jaar langer in internaten heeft moeten verblijven. De Staat schaart dat verwijt onder “verwijten ten aanzien van haar jeugd” (en niet ten aanzien van de adoptie), maar niet valt te ontkennen dat dit verwijt nauw samenhangt met het verwijt dat tijdens de adoptie van [eiseres] onvoldoende kritisch is gekeken naar de (afstammings)gegevens van [eiseres], waaronder haar leeftijd. De rechtbank zal overigens het verwijt dat [eiseres] drie jaar langer in een internaat heeft gezeten niet beschouwen als een zelfstandig verwijt, maar als een (mogelijk schadetoebrengend) gevolg van de eventuele onrechtmatigheid doordat de uit Haïti afkomstige gegevens onvoldoende kritisch zijn beoordeeld.
+Ten aanzien van de overige verwijten heeft de Staat zich op verjaring van de vorderingen beroepen. De rechtbank zal echter de verjaringskwestie niet beoordelen. Redengevend daarvoor is niet alleen dat, zoals hierna zal blijken, de verwijten vanwege onvoldoende feitelijke grondslag niet tot een onrechtmatigheidsoordeel kunnen leiden, maar ook dat het onderscheid dat de Staat maakt tussen verwijten die de adoptie betreffen en de verwijten die niet over de adoptie gaan, in enkele gevallen moeilijk toepasbaar is. De rechtbank heeft in dit verband bijvoorbeeld op het oog het verwijt dat [eiseres] vanwege haar onjuiste leeftijd drie jaar langer in internaten heeft moeten verblijven. De Staat schaart dat verwijt onder “verwijten ten aanzien van haar jeugd” (en niet ten aanzien van de adoptie), maar niet valt te ontkennen dat dit verwijt nauw samenhangt met het verwijt dat tijdens de adoptie van [eiseres] onvoldoende kritisch is gekeken naar de (afstammings)gegevens van [eiseres] , waaronder haar leeftijd. De rechtbank zal overigens het verwijt dat [eiseres] drie jaar langer in een internaat heeft gezeten niet beschouwen als een zelfstandig verwijt, maar als een (mogelijk schadetoebrengend) gevolg van de eventuele onrechtmatigheid doordat de uit Haïti afkomstige gegevens onvoldoende kritisch zijn beoordeeld.
 
 Verbaal en fysiek geweld in het internaat
 
 5.27.
 
-[eiseres] verwijt de Raad Zutphen dat hij niet heeft ingegrepen tijdens haar verblijf in het internaat alwaar zij verbaal en fysiek geweld heeft ondervonden (vgl. 4.2.3). De Staat wijst er echter terecht op dat – als er al sprake was van geweld – niet kan worden vastgesteld dat de Raad op de hoogte was of had moeten zijn van zodanig geweld dat (drastische) maatregelen aangewezen waren. Uit de rapporten die destijds bij de Raad Zutphen bekend waren, kan zodanig geweld niet afgeleid of vermoed worden. In het rapport van de Raad Zutphen van december 1993 (vgl. 3.12) is opgenomen dat [eiseres] te kennen heeft gegeven dat zij het goed naar haar zin had in het internaat. In het overzichtsrapport van Riagg van 27 juli 1993 (vgl. 3.14), dat ook bij de Raad Zutphen bekend was, wordt alleen melding gemaakt van de moeilijke tijd die [eiseres] had gehad in het Crisis Centrum Zwolle. In het behandelplan van de J.P. Heije Stichting van november 1993 (vgl. 3.15), waarmee de Raad Zutphen destijds eveneens bekend was, is sprake van nare interacties met klasgenoten op de interne school. Uit de stellingen van [eiseres] valt niet af te leiden Raad Zutphen beschikte over meer of andere signalen over het verbaal en fysiek geweld dat [eiseres] stelt te hebben ondervonden. Met de Staat is de rechtbank van oordeel dat de aan de Raad Zupthen bekende signalen niet van dien aard waren dat interventie of nader onderzoek geboden waren. Daarbij weegt mee dat de signalen hun oorsprong vonden in gesprekken van medewerkers van het Riagg en de J.P. Heijestichting waarin kennelijk één op één met [eiseres] werd gesproken, waardoor er geen gesprekpartners aanwezig waren van wie de aanwezigheid [eiseres] zou kunnen remmen in het vertellen over gewelddadige ervaringen (zoals vermoedelijke plegers daarvan).
+[eiseres] verwijt de Raad Zutphen dat hij niet heeft ingegrepen tijdens haar verblijf in het internaat alwaar zij verbaal en fysiek geweld heeft ondervonden (vgl. 4.2.3). De Staat wijst er echter terecht op dat – als er al sprake was van geweld – niet kan worden vastgesteld dat de Raad op de hoogte was of had moeten zijn van zodanig geweld dat (drastische) maatregelen aangewezen waren. Uit de rapporten die destijds bij de Raad Zutphen bekend waren, kan zodanig geweld niet afgeleid of vermoed worden. In het rapport van de Raad Zutphen van december 1993 (vgl. 3.12) is opgenomen dat [eiseres] te kennen heeft gegeven dat zij het goed naar haar zin had in het internaat. In het overzichtsrapport van Riagg van 27 juli 1993 (vgl. 3.14), dat ook bij de Raad Zutphen bekend was, wordt alleen melding gemaakt van de moeilijke tijd die [eiseres] had gehad in het Crisis Centrum Zwolle. In het behandelplan van de [zorginstelling] van november 1993 (vgl. 3.15), waarmee de Raad Zutphen destijds eveneens bekend was, is sprake van nare interacties met klasgenoten op de interne school. Uit de stellingen van [eiseres] valt niet af te leiden Raad Zutphen beschikte over meer of andere signalen over het verbaal en fysiek geweld dat [eiseres] stelt te hebben ondervonden. Met de Staat is de rechtbank van oordeel dat de aan de Raad Zupthen bekende signalen niet van dien aard waren dat interventie of nader onderzoek geboden waren. Daarbij weegt mee dat de signalen hun oorsprong vonden in gesprekken van medewerkers van het Riagg en de [zorginstelling] waarin kennelijk één op één met [eiseres] werd gesproken, waardoor er geen gesprekpartners aanwezig waren van wie de aanwezigheid [eiseres] zou kunnen remmen in het vertellen over gewelddadige ervaringen (zoals vermoedelijke plegers daarvan).
 
 De rechtbank kan dus niet tot het oordeel komen dat de Raad Zupthen nalatig is geweest in zijn taakuitoefening.
 
@@ -512,19 +512,19 @@ Scheiding van [eiseres] en [naam 1]
 
 5.29.
 
-[eiseres] verwijt de Staat ook dat hij er niet voor heeft gezorgd dat [naam 1] (op het moment waarop zij het adoptiegezin verliet) in hetzelfde internaat werd geplaatst als [eiseres] (vgl. 4.2.3). Voor dit verwijt geldt hetzelfde als voor het vorige verwijt, namelijk dat het onvoldoende handen en voeten heeft gekregen. Met de Staat is de rechtbank van oordeel dat het moeilijk valt te plaatsen in de vaststaande feiten, met name de omstandigheid dat [eiseres] ten overstaan van een medewerker van de J.P. Heijestichting in 1993 te kennen heeft gegeven dat zij geen contact wenst met haar adoptiegezin en het alleen wil verwerken (vgl. 3.16). Nu gesteld noch gebleken is dat [eiseres] in ander verband te kennen heeft gegeven (wel) met haar achternichtje [naam 1] in hetzelfde internaat te willen verblijven, kan deze stelling alleen daarom al niet tot een onrechtmatigheidsoordeel leiden.
+[eiseres] verwijt de Staat ook dat hij er niet voor heeft gezorgd dat [naam 1] (op het moment waarop zij het adoptiegezin verliet) in hetzelfde internaat werd geplaatst als [eiseres] (vgl. 4.2.3). Voor dit verwijt geldt hetzelfde als voor het vorige verwijt, namelijk dat het onvoldoende handen en voeten heeft gekregen. Met de Staat is de rechtbank van oordeel dat het moeilijk valt te plaatsen in de vaststaande feiten, met name de omstandigheid dat [eiseres] ten overstaan van een medewerker van de [zorginstelling] in 1993 te kennen heeft gegeven dat zij geen contact wenst met haar adoptiegezin en het alleen wil verwerken (vgl. 3.16). Nu gesteld noch gebleken is dat [eiseres] in ander verband te kennen heeft gegeven (wel) met haar achternichtje [naam 1] in hetzelfde internaat te willen verblijven, kan deze stelling alleen daarom al niet tot een onrechtmatigheidsoordeel leiden.
 
 Het verlies van het Nederlanderschap
 
 5.30.
 
-Met de Staat is de rechtbank van oordeel dat het verwijt van [eiseres] dat zij een procedure heeft moeten voeren om niet statenloos te worden zonder nadere toelichting, die ontbreekt, niet valt te plaatsen. Een gevolg van de herroeping van de adoptie is geweest dat [eiseres] haar Nederlandse nationaiteit (die zij ontleende aan de adoptie door het Nederlandse echtpaar [naam 2]) verloor. Echter, het destijds geldende artikel 14, tweede lid, van de Rijkswet op het Nederlanderschap bepaalde dat geen verlies van het Nederlanderschap plaatshad als staatloosheid daarvan het gevolg zou zijn. Ervan uitgaande dat de wet destijds juist is toegepast ([eiseres] heeft niet gesteld dat dit niet het geval is geweest), betekent dit dat [eiseres] ten tijde van de herroeping van de adoptie nog beschikte over een andere nationaliteit, hoogstwaarschijnlijk de Haïtiaanse. Het moet dan ook ervoor worden gehouden dat de procedure die [eiseres] omstreeks januari 2000 heeft gevoerd (vgl. 3.22) gericht was op het terug krijgen van het Nederlanderschap en niet (ook) op het voorkomen van staatloosheid.
+Met de Staat is de rechtbank van oordeel dat het verwijt van [eiseres] dat zij een procedure heeft moeten voeren om niet statenloos te worden zonder nadere toelichting, die ontbreekt, niet valt te plaatsen. Een gevolg van de herroeping van de adoptie is geweest dat [eiseres] haar Nederlandse nationaiteit (die zij ontleende aan de adoptie door het Nederlandse echtpaar [naam 2] ) verloor. Echter, het destijds geldende artikel 14, tweede lid, van de Rijkswet op het Nederlanderschap bepaalde dat geen verlies van het Nederlanderschap plaatshad als staatloosheid daarvan het gevolg zou zijn. Ervan uitgaande dat de wet destijds juist is toegepast ( [eiseres] heeft niet gesteld dat dit niet het geval is geweest), betekent dit dat [eiseres] ten tijde van de herroeping van de adoptie nog beschikte over een andere nationaliteit, hoogstwaarschijnlijk de Haïtiaanse. Het moet dan ook ervoor worden gehouden dat de procedure die [eiseres] omstreeks januari 2000 heeft gevoerd (vgl. 3.22) gericht was op het terug krijgen van het Nederlanderschap en niet (ook) op het voorkomen van staatloosheid.
 
 Geen contact met en voogdij over de dochter van [naam 1]
 
 5.31.
 
-Tot slot betoogt [eiseres] dat de Staat haar niet in de gelegenheid heeft gesteld contact te hebben met de dochter van [naam 1] en dat [eiseres] de voogdij over [naam 7] is ontzegd,  omdat [eiseres] geen familie van [naam 7] meer zou zijn door de herroeping van de adoptie. Dat kan uit de beschikbare informatie niet worden afgeleid. Daarbij komt dat [eiseres] vanwege haar biologische (familie)band met [naam 7] niet per defenitie eerder in aanmerking kwam om de voogdij over [naam 7] uit te oefenen, dan de overige (juridische) familieleden van [naam 7]. Het heeft er alle schijn van dat het feit dat de familie Groeneveld-[naam 2] is belast met de voogdij over [naam 7], naast de familieband, is ingegeven door de feitelijke situatie waarin [eiseres] kennelijk, om welke reden dan ook, op enige afstand was komen te staan van ([naam 1] en) [naam 7]. De rechtbank maakt dat op uit het verwijt van [eiseres] dat zij niet op de hoogte is gesteld van het overlijden van [naam 1]. Ook leidt de rechtbank uit de beschikking van de rechtbank Overijssel af dat [naam 7] in ieder geval op 14 augustus 2014 al enige tijd verbleef in het gezin van de familie Groeneveld-[naam 2]. Onder deze omstandigheden kon van Bureau Jeugdzorg niet meer worden verwacht dan dat zij de zorgen van [eiseres] overbracht aan de Raad voor de Kinderbescherming (die die zorgen niet deelde). Ook dit verwijt kan niet tot een onrechtmatigheidsoordeel leiden.
+Tot slot betoogt [eiseres] dat de Staat haar niet in de gelegenheid heeft gesteld contact te hebben met de dochter van [naam 1] en dat [eiseres] de voogdij over [naam 7] is ontzegd,  omdat [eiseres] geen familie van [naam 7] meer zou zijn door de herroeping van de adoptie. Dat kan uit de beschikbare informatie niet worden afgeleid. Daarbij komt dat [eiseres] vanwege haar biologische (familie)band met [naam 7] niet per defenitie eerder in aanmerking kwam om de voogdij over [naam 7] uit te oefenen, dan de overige (juridische) familieleden van [naam 7] . Het heeft er alle schijn van dat het feit dat de familie [naam 8] is belast met de voogdij over [naam 7] , naast de familieband, is ingegeven door de feitelijke situatie waarin [eiseres] kennelijk, om welke reden dan ook, op enige afstand was komen te staan van ( [naam 1] en) [naam 7] . De rechtbank maakt dat op uit het verwijt van [eiseres] dat zij niet op de hoogte is gesteld van het overlijden van [naam 1] . Ook leidt de rechtbank uit de beschikking van de rechtbank Overijssel af dat [naam 7] in ieder geval op 14 augustus 2014 al enige tijd verbleef in het gezin van de familie [naam 8] . Onder deze omstandigheden kon van Bureau Jeugdzorg niet meer worden verwacht dan dat zij de zorgen van [eiseres] overbracht aan de Raad voor de Kinderbescherming (die die zorgen niet deelde). Ook dit verwijt kan niet tot een onrechtmatigheidsoordeel leiden.
 
 Vervolg van de procedure
 
