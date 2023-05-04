@@ -6,10 +6,11 @@ docket: "NL22.5824 en NL22.12063"
 decided: "2023-05-04"
 published: "2023-08-03"
 type: "uitspraak"
-procedure: "Eerste aanleg - enkelvoudig"
+procedure: "Tussenuitspraak"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:11654"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3586, Overig"]]
 ---
 
 # ECLI:NL:RBDHA:2023:11654 Rechtbank Den Haag , 04-05-2023 / NL22.5824 en NL22.12063
