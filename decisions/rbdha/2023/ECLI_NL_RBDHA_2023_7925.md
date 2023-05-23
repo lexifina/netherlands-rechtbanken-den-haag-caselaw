@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:7925"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0724", "PR-Updates.nl PR-2023-0133", "VAAN-AR-Updates.nl 2023-0724"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0724", "PR-Updates.nl PR-2023-0133", "VAAN-AR-Updates.nl 2023-0724", "PR-Updates.nl 2023-0133"]
 ---
 
 # ECLI:NL:RBDHA:2023:7925 Rechtbank Den Haag , 23-05-2023 / 10363038 RP VERZ 23-50107
