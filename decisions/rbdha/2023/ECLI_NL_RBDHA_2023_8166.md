@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:8166"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:3465"]]
 ---
 
 # ECLI:NL:RBDHA:2023:8166 Rechtbank Den Haag , 06-06-2023 / NL21.11193
