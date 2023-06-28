@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:9268"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0120", "PJ 2023/93 met annotatie van E. Lutjens", "O&A 2023/53"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0120", "PJ 2023/93 met annotatie van E. Lutjens", "O&A 2023/53", "PR-Updates.nl 2023-0120"]
 ---
 
 # ECLI:NL:RBDHA:2023:9268 Rechtbank Den Haag , 28-06-2023 / C/09/647067 / KG ZA 23-363
