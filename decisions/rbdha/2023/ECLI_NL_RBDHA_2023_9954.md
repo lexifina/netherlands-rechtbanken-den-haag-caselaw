@@ -1,0 +1,76 @@
+---
+ecli: "ECLI:NL:RBDHA:2023:9954"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL23.1710"
+decided: "2023-07-10"
+published: "2023-07-10"
+type: "uitspraak"
+procedure: "Proceskostenveroordeling"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:9954"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2023:9954 Rechtbank Den Haag , 10-07-2023 / NL23.1710
+
+## Inhoudsindicatie
+
+inwilligend besluit, beroep ingetrokken en verzoek pkv
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Bestuursrecht
+
+zaaknummer: NL23.1710
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam] , verzoeker,
+
+geboren op [geboortedatum] ,
+
+van Afghaanse nationaliteit,
+
+V-nummer: [v-nummer]
+
+(gemachtigde: mr. L.M. Ligtvoet-van Tuijn),
+
+en
+
+de Staatssecretaris van Justitie en Veiligheid, verweerder
+(gemachtigde: D. Vos).
+
+Procesverloop
+
+Verzoeker heeft op 19 januari 2023 beroep ingesteld tegen het niet-tijdig beslissen op zijn asielaanvraag van 17 februari 2022.
+
+Verweerder heeft op 9 mei 2023 een inwilligend besluit genomen op de aanvraag.
+
+Verzoeker heeft op 16 mei 2023 het beroep ingetrokken en daarbij verzocht om verweerder te veroordelen tot vergoeding van de proceskosten. Verweerder heeft hier bij brief van 6 juni 2023 op gereageerd.
+
+Overwegingen
+
+1. De rechtbank doet op grond van artikel 8:54 van de Algemene wet bestuursrecht (Awb) zonder zitting uitspraak op het beroep en het verzoek om proceskostenveroordeling.
+
+2. De veroordeling van een partij in de proceskosten is geregeld in de artikelen 8:75 en 8:75a van de Awb en nader uitgewerkt in het Besluit proceskosten bestuursrecht (Bpb). Als een beroep wordt ingetrokken, omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoet gekomen, kan de rechtbank op verzoek van de indiener dat bestuursorgaan bij afzonderlijke uitspraak veroordelen in de proceskosten. Dit is geregeld in artikel 8:75a van de Awb.
+
+3. Verzoeker heeft de aanvraag ingediend op 17 februari 2022. De wettelijke beslistermijn van zes maanden zou in het geval van verzoeker op 17 augustus 2022 verstrijken. Bij brief van 17 februari 2022 heeft verweerder verzoeker echter op de hoogte gesteld van een verlenging van de beslistermijn, in verband met het besluit- en vertrekmoratorium Afghanistan. Met het instellen van dit besluitmoratorium werd op grond van artikel 43 van de Vreemdelingenwet 2000 (Vw) de wettelijke beslistermijn van lopende asielaanvragen en van asielaanvragen die tijdens het moratorium worden ingediend, verlengd met een periode van een jaar. In het geval van verzoeker zou de beslistermijn dus na deze verlenging in beginsel verstrijken op 17 augustus 2023. Voorts is, in verband met inwerkingtreding van het WBV 2022/22, de beslistermijn verder verlengd tot de maximale termijn van 21 maanden, namelijk tot 17 november 2023. De ingebrekestelling van 19 december 2022 is daarmee prematuur ingediend. Het beroep zou niet-ontvankelijk zijn verklaard, als verzoeker het beroep niet had ingetrokken.
+
+4. Nu er geen sprake is van een ontvankelijk beroep, is naar het oordeel van de rechtbank geen sprake van geheel of gedeeltelijk tegemoetkomen aan verzoeker in de zin van artikel 8:75a van de Awb. De rechtbank wijst het verzoek af als kennelijk ongegrond.
+
+5.  Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank wijst het verzoek om proceskostenvergoeding af.
+
+Deze uitspraak is gedaan door mr. M. Munsterman, rechter, in aanwezigheid van N.G. Fuller, griffier en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+Een afschrift van deze uitspraak is aan partijen verzonden op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen 6 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven. Als u graag een zitting wilt waarin u uw verzetschrift kunt toelichten, kunt u dit in uw verzetschrift vermelden.
