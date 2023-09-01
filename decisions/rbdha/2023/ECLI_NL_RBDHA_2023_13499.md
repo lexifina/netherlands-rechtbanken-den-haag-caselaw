@@ -1,0 +1,75 @@
+---
+ecli: "ECLI:NL:RBDHA:2023:13499"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL23.19833"
+decided: "2023-09-01"
+published: "2023-09-07"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:13499"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2023:13499 Rechtbank Den Haag , 01-09-2023 / NL23.19833
+
+## Inhoudsindicatie
+
+vovo, ordemaatregel
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Middelburg
+
+Bestuursrecht
+
+zaaknummer: NL23.19833
+
+uitspraak van de voorzieningenrechter in de zaak tussen
+
+[Naam], verzoeker
+
+V-nummer: [Nummer]
+
+(gemachtigde: mr. R.H.T. van Boxmeer),
+
+en
+
+de staatssecretaris van Justitie en Veiligheid, verweerder.
+
+Procesverloop
+
+Bij het besluit van 3 juli 2023 (het bestreden besluit) heeft verweerder verzoeker meegedeeld dat zijn recht op tijdelijke bescherming op grond van de Richtlijn 2001/55/EG en het daarop gebaseerde Uitvoeringsbesluit (EU) 2022/382 eindigt op 4 september 2023.
+
+Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Hij heeft verder de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.
+
+De voorzieningenrechter doet met toepassing van artikel 8:83, derde lid, van de Algemene wet bestuursrecht (Awb) uitspraak buiten zitting.
+
+Overwegingen
+
+1. Op grond van artikel 8:81, eerste lid, van de Awb kan de voorzieningenrechter van de bestuursrechter die bevoegd is of kan worden in de hoofdzaak op verzoek een voorlopige voorziening treffen indien onverwijlde spoed dat gelet op de betrokken belangen vereist.
+
+2. Bij het bestreden besluit heeft verweerder bepaald dat het recht van verzoeker op tijdelijke bescherming eindigt op 4 september 2023. Dit betekent dat verzoeker vanaf 4 september 2023 geen aanspraak meer kan maken op de rechten die verbonden zijn aan de status tijdelijk beschermde. De voorzieningenrechter stelt vast dat het beroep van verzoeker niet kan worden afgehandeld voordat het recht van verzoeker op tijdelijke bescherming eindigt. De vereiste onverwijlde spoed is daarmee gegeven.
+
+3. Naar het oordeel van de voorzieningenrechter weegt het belang van verzoeker om de gemeentelijke opvangvoorzieningen te laten voortduren en het recht om te mogen werken te behouden zwaarder dan het belang van verweerder om die voorzieningen per 4 september 2023 te beëindigen voordat op het beroep is beslist. Niet valt namelijk uit te sluiten dat het beroep zal slagen. De voorzieningenrechter zal dan ook bij wijze van ordemaatregel het verzoek om een voorlopige voorziening als kennelijk gegrond toewijzen op de hierna te melden wijze.
+
+4. De voorzieningenrechter ziet in de toewijzing van het verzoek aanleiding om verweerder te veroordelen in de door verzoeker gemaakte proceskosten. Deze worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 837,- bestaande uit een punt voor het indienen van het verzoekschrift met een waarde per punt van € 837,- en vermenigvuldigd met wegingsfactor 1 (gemiddeld).
+
+Beslissing
+
+De voorzieningenrechter:- schorst het bestreden besluit totdat uitspraak is gedaan op het beroep.
+
+- veroordeelt verweerder in de proceskosten van verzoeker tot een bedrag van € 837,00 (achthonderdzevenendertig euro).
+
+Deze uitspraak is gedaan door mr. S.E. van de Merbel, voorzieningenrechter, in aanwezigheid van mr. Ż.A. Meinert, griffier, en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.
+
+De uitspraak is bekendgemaakt op:
+
+Tegen deze uitspraak staat geen hoger beroep of verzet open.
+
+Richtlĳn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tĳdelĳke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen.
+
+Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG, en tot invoering van tijdelijke bescherming naar aanleiding daarvan.
