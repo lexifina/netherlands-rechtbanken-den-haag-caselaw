@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:13643"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2480, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2023:13643 Rechtbank Den Haag , 13-09-2023 / C/09/636624 / HA ZA 22-868
