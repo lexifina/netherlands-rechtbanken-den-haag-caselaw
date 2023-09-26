@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:15167"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1307", "Jurisprudentie HSE 2023/128", "PR-Updates.nl PR-2023-0207", "VAAN-AR-Updates.nl 2023-1307"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1307", "Jurisprudentie HSE 2023/128", "PR-Updates.nl PR-2023-0207", "VAAN-AR-Updates.nl 2023-1307", "PR-Updates.nl 2023-0207"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:228, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2023:15167 Rechtbank Den Haag , 26-09-2023 / 10571486 RP VERZ 23-50372
