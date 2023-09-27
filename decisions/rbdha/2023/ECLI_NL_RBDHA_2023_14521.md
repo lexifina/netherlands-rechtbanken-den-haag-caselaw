@@ -239,7 +239,7 @@ Nu de vordering gedeeltelijk wordt toegewezen, zal de verdachte worden veroordee
 De verdachte zal voor het onder 2 impliciet subsidiair bewezen verklaarde strafbare feit worden veroordeeld en hij is daarom tegenover de benadeelde partij aansprakelijk voor schade die door dit feit aan hem is toegebracht. De rechtbank zal aan de verdachte de verplichting opleggen om aan de Staat te betalen een bedrag van € 1.250,-, te vermeerderen met de wettelijke rente daarover vanaf 28 maart 2023 tot aan de dag dat dit bedrag is betaald, ten behoeve van [verbalisant 2] .
 
 8
-De in beslag genomen auto met kenteken R-912-HJ
+De in beslag genomen auto met kenteken [kenteken]
 
 8.1.
 
