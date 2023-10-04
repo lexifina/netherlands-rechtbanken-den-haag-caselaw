@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:21850"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0063"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0063", "PR-Updates.nl 2024-0063"]
 ---
 
 # ECLI:NL:RBDHA:2023:21850 Rechtbank Den Haag , 04-10-2023 / C/09/623614 / FA RK 22-130
