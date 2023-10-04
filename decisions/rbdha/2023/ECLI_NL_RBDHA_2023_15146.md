@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:15146"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0100", "JBPr 2024/55 met annotatie van prof. mr. P.E. Ernste"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0100", "JBPr 2024/55 met annotatie van prof. mr. P.E. Ernste", "BPR-Updates.nl 2023-0100"]
 ---
 
 # ECLI:NL:RBDHA:2023:15146 Rechtbank Den Haag , 04-10-2023 / C-09-652703-HA ZA 23-741
