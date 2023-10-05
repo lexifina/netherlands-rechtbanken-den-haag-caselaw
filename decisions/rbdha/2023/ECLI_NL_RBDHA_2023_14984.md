@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:14984"
-published_in: ["Rechtspraak.nl", "PJ 2023/126", "PR-Updates.nl PR-2024-0013"]
+published_in: ["Rechtspraak.nl", "PJ 2023/126", "PR-Updates.nl PR-2024-0013", "PR-Updates.nl 2024-0013"]
 ---
 
 # ECLI:NL:RBDHA:2023:14984 Rechtbank Den Haag , 05-10-2023 / SGR 22/6611
