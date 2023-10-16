@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:16226"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0202"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0202", "PR-Updates.nl 2023-0202"]
 ---
 
 # ECLI:NL:RBDHA:2023:16226 Rechtbank Den Haag , 16-10-2023 / 22/6778
