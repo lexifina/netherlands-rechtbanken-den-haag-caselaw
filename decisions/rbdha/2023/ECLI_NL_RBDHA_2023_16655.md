@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:16655"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBDHA:2023:8035"]]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBDHA:2023:8035"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:3828, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2023:16655 Rechtbank Den Haag , 23-10-2023 / SGR 21/4174
