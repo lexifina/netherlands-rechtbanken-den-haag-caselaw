@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:16452"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2481, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2023:16452 Rechtbank Den Haag , 01-11-2023 / C/09/637811 / HA ZA 22-934
