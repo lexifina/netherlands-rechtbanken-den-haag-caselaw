@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:20801"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2024/60", "PR-Updates.nl PR-2024-0042", "RAR 2024/66", "JAR 2024/1 met annotatie van mr. L. 't Mannetje"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2024/60", "PR-Updates.nl PR-2024-0042", "RAR 2024/66", "JAR 2024/1 met annotatie van mr. L. 't Mannetje", "PR-Updates.nl 2024-0042"]
 ---
 
 # ECLI:NL:RBDHA:2023:20801 Rechtbank Den Haag , 08-11-2023 / 10658496 RP VERZ 23-50502
