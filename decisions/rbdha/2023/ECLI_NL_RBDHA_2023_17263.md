@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:17263"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2023-0560", "Sdu Nieuws Ondernemingsrechtpraktijk 2023/404", "NJF 2024/6", "RAV 2024/7"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2903, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2023:17263 Rechtbank Den Haag , 15-11-2023 / C/09/621323 / HA ZA 21-1041 + C/09/624251 / HA ZA 22-93
