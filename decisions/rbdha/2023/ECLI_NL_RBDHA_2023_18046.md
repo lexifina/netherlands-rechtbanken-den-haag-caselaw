@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:18046"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:198, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2023:18046 Rechtbank Den Haag , 16-11-2023 / SGR 22/3182
