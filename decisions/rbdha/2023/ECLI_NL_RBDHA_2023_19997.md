@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:19997"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0060"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0060", "PR-Updates.nl 2024-0060"]
 ---
 
 # ECLI:NL:RBDHA:2023:19997 Rechtbank Den Haag , 20-12-2023 / AWB - 23 _ 1648
