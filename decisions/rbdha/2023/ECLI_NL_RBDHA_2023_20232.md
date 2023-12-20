@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Europees civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:20232"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:487"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2082, Overig"]]
 ---
 
 # ECLI:NL:RBDHA:2023:20232 Rechtbank Den Haag , 20-12-2023 / C/09/636623 / HA ZA 22-867
