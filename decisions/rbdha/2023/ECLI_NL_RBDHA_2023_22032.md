@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:22032"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0382", "OR-Updates.nl 2024-0062", "RO 2024/40", "JONDR 2024/391", "VAAN-AR-Updates.nl 2024-0382"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2304, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2023:22032 Rechtbank Den Haag , 20-12-2023 / 10485469 RL EXPL 23-7379
@@ -258,7 +259,7 @@ De commissie heeft het bezwaar van [bedrijfsnaam 2] ongegrond verklaard en heeft
 
 11. De Commissie kan niet anders concluderen dan dat de onderneming, ondanks vele toezeggingen, feitelijk structureel geweigerd heeft medewerking te verlenen aan het onderzoek van de SNCU en feitelijk geen bereidheid heeft getoond geconstateerde CAO-afwijkingen na te betalen of anderszins tot een oplossing te komen.
 
-12. Ten overvloede, en zonder daaraan conclusies te verbinden, merkt de Commissie nog op dat zij vraagtekens plaatst bij de bestuurderswisseling die plaatsvond bij de onderneming. De SNCU heeft bij brief van 21 juli 2020 de onderneming gesommeerd tot nabetalingen en heeft uiteindelijk na aanmaning en ingebrekestelling op 15 september 2020 aan de onderneming de schadevergoeding verschuldigd verklaard. De adviseur van de onderneming heeft per e-mail van 14 oktober 2020 aangegeven dat de onderneming wil meewerken aan het onderzoek. Vervolgens is op 21 oktober 2020 in het Handelsregister geregistreerd dat mevrouw A. Tufan op 8 juli 2020 – 15 weken eerder – uit functie is getreden als bestuurder van de onderneming en dat de heeft B. [gedaagde 1] per die datum bestuurder is geworden. Daarbij betrekt de Commissie het gegeven dat de adviseur van de onderneming in een email van 20 september 2021 schrijft dat hij nog geen contact heeft kunnen krijgen met “de heer Tufan”. Deze feiten en omstandigheden doen de vraag rijzen met welke intentie de bestuurderswissel op de geregistreerde datum is doorgegeven, hoeveel realiteitswaarde deze bestuurderswissel heeft en wie er uiteindelijk feitelijk leiding geeft bij de onderneming. (…)”
+12. Ten overvloede, en zonder daaraan conclusies te verbinden, merkt de Commissie nog op dat zij vraagtekens plaatst bij de bestuurderswisseling die plaatsvond bij de onderneming. De SNCU heeft bij brief van 21 juli 2020 de onderneming gesommeerd tot nabetalingen en heeft uiteindelijk na aanmaning en ingebrekestelling op 15 september 2020 aan de onderneming de schadevergoeding verschuldigd verklaard. De adviseur van de onderneming heeft per e-mail van 14 oktober 2020 aangegeven dat de onderneming wil meewerken aan het onderzoek. Vervolgens is op 21 oktober 2020 in het Handelsregister geregistreerd dat mevrouw [gedaagde 3] op 8 juli 2020 – 15 weken eerder – uit functie is getreden als bestuurder van de onderneming en dat de heeft [gedaagde 1] per die datum bestuurder is geworden. Daarbij betrekt de Commissie het gegeven dat de adviseur van de onderneming in een email van 20 september 2021 schrijft dat hij nog geen contact heeft kunnen krijgen met “de heer [gedaagde 2] ”. Deze feiten en omstandigheden doen de vraag rijzen met welke intentie de bestuurderswissel op de geregistreerde datum is doorgegeven, hoeveel realiteitswaarde deze bestuurderswissel heeft en wie er uiteindelijk feitelijk leiding geeft bij de onderneming. (…)”
 
 2.23.
 
@@ -465,7 +466,7 @@ SNCU stelt zich voorts op het standpunt dat [gedaagde 2] valt aan te merken als 
 
 “(…)
 
-Excuses. Ik heb vorige week nog contact met de heer Tufan gehad en hij verblijft op dit moment in Turkije, dus ik heb het niet met hem kunnen doornemen. Hij verblijft daar nog 4 weken. Is het mogelijk toch nog deze tijd te krijgen om te reageren?(…)”
+Excuses. Ik heb vorige week nog contact met de heer [gedaagde 2] gehad en hij verblijft op dit moment in Turkije, dus ik heb het niet met hem kunnen doornemen. Hij verblijft daar nog 4 weken. Is het mogelijk toch nog deze tijd te krijgen om te reageren?(…)”
 
 4.20.
 
