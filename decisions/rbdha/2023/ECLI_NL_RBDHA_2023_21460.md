@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:21460"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0040"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0040", "PR-Updates.nl 2024-0040"]
 ---
 
 # ECLI:NL:RBDHA:2023:21460 Rechtbank Den Haag , 21-12-2023 / C/09/639667 / FA RK 22-8525
