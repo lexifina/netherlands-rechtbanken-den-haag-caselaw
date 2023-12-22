@@ -1,0 +1,93 @@
+---
+ecli: "ECLI:NL:RBDHA:2023:20442"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL23.26689"
+decided: "2023-12-22"
+published: "2023-12-22"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2023:20442"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2024:424, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+---
+
+# ECLI:NL:RBDHA:2023:20442 Rechtbank Den Haag , 22-12-2023 / NL23.26689
+
+## Inhoudsindicatie
+
+beëindiging tijdeljke regeling, derdelanders, beroep ongegrond.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Groningen
+
+Bestuursrecht
+
+zaaknummer: NL23.26689
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam] , eiser,
+
+van Nigeriaanse nationaliteit,
+
+V-nummer: [nummer]
+
+(gemachtigde: mr. B. de Haan),
+
+en
+
+de Staatssecretaris van Justitie en Veiligheid, verweerder
+(gemachtigde: mr. L.O. Augustinus).
+
+Procesverloop
+
+1. In deze uitspraak beoordeelt de rechtbank het beroep van eiser tegen het besluit van verweerder van 29 augustus 2023 waarbij verweerder aan eiser heeft medegedeeld dat zijn recht op tijdelijke bescherming, als bedoeld in Richtlijn 2001/55/EG (de Richtlijn) en het daarop gebaseerde Uitvoeringsbesluit (EU) 2022/382 (het Uitvoeringsbesluit), eindigt op 4 september 2023.
+
+1.1.
+
+Op 3 juli 2023 heeft verweerder zijn voornemen kenbaar gemaakt om de tijdelijke bescherming van eiser op 4 september 2023 te beëindigen. Op 29 augustus 2023 is de asielaanvraag buiten behandeling gesteld. Verder is het bestreden besluit genomen, waartegen het beroep zich richt.
+
+1.2.
+
+Verweerder heeft geen verweerschrift ingediend.
+
+1.3.
+
+De rechtbank heeft het beroep op 24 november 2023 op zitting behandeld. Aan de zitting hebben deelgenomen: de gemachtigde van eiser en de gemachtigde van de staatssecretaris.
+
+Beoordeling door de rechtbank
+
+2. De rechtbank beoordeelt de beëindiging van de tijdelijke bescherming aan de hand van de beroepsgronden van eiser.
+
+3. Bij uitspraak van 30 oktober 2023 heeft deze rechtbank en zittingsplaats geoordeeld dat verweerder bevoegd is de tijdelijke bescherming voor de groep die is aangeduid als facultatieve groep te beëindigen. Er is geen aanleiding gezien prejudiciële vragen te stellen. Ook is in die uitspraak geoordeeld dat de beëindiging niet in strijd is met het rechtszekerheids- en vertrouwensbeginsel en dat verweerder kan volstaan met de voornemenprocedure en geen individueel gehoor hoeft af te nemen. Wat eiser daartegen in deze zaak heeft aangevoerd leidt niet tot een ander oordeel. Evenmin wordt aanleiding gezien om de uitkomst in een hoger beroepsprocedure af te wachten.
+
+4. De rechtbank stelt vast dat een deel van eisers beroepsgronden eveneens betrekking hebben op de bevoegdheid van verweerder en de onrechtmatigheid van het besluit wegens schending van de Richtlijn. De rechtbank ziet in hetgeen namens eiser naar voren is gebracht geen aanleiding om anders te oordelen dan in de bovengenoemde uitspraak van 30 oktober 2023 en maakt de dragende overwegingen in die uitspraak tot de hare. Eisers verwijzing naar het artikel en annotatie van dhr. Grütters alsmede de annotatie van dhr. Groenendijk maakt dat niet anders. Eiser heeft niet aannemelijk gemaakt dat verweerder aan hem een ondubbelzinnige toezegging heeft gedaan, zodat het beroep op het vertrouwensbeginsel om die reden faalt. De rechtbank volgt in onderhavige procedure dan ook de lijn die deze rechtbank en zittingsplaats in de uitspraak van 30 oktober 2023 heeft uitgezet en ziet ook thans geen aanleiding voor het stellen van prejudiciële vragen.
+
+5. Verder merkt de rechtbank op dat verweerder ter zitting heeft toegezegd dat de 28 dagen vertrektermijn wordt bevroren. Dit blijkt ook uit de op 2 september 2023 gedateerde brief van de staatssecretaris aan gemeenten waarin, onder andere, staat vermeld dat derdelanders uit Oekraïne opvang en verstrekkingen behouden en dat zodra er uitspraak door de Afdeling is gedaan de 28 dagen vertrektermijn opnieuw begint te lopen. Ook om die reden ziet de rechtbank geen aanleiding het beroep aan te houden of een voorlopige voorziening te treffen totdat de Afdeling uitspraak heeft gedaan.
+
+6. Het beroep van eiser op het gelijkheidsbeginsel slaagt evenmin. Naar het oordeel van de rechtbank heeft verweerder terecht gesteld dat sprake is van een in de regelgeving gerechtvaardigd juridisch onderscheid tussen de verschillende groepen van ontheemden. De facultatieve groep derdelanders beschikt over een tijdelijke Oekraïense verblijfsvergunning, terwijl de aangewezen doelgroep van de Richtlijn beschikt over de Oekraïense nationaliteit of een permanente verblijfvergunning of gezinslid is van een tijdelijk beschermde. De rechtbank is derhalve van oordeel dat geen sprake is van gelijke gevallen, zodat het door eiser gedane beroep op het gelijkheidsbeginsel al om die reden faalt.
+
+7. Hetgeen eiser overigens heeft aangevoerd leidt niet tot een ander oordeel.
+
+8. Het beroep is ongegrond.
+
+9. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. J. Boerlage - van den Bosch, rechter, in aanwezigheid van R. de Boer, griffier en openbaar gemaakt door middel van geanonimiseerde publicatie op rechtspraak.nl.
+
+De uitspraak is bekendgemaakt op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een beroepschrift. U moet dit beroepschrift indienen binnen 4 weken na de dag waarop deze uitspraak bekend is gemaakt. U ziet deze datum hierboven.
+
+ECLI:NL:RBDHA:2023:16291.
