@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:32"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0059"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0059", "PR-Updates.nl 2024-0059"]
 ---
 
 # ECLI:NL:RBDHA:2024:32 Rechtbank Den Haag , 04-01-2024 / AWB - 23 _ 4398
