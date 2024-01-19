@@ -1,0 +1,127 @@
+---
+ecli: "ECLI:NL:RBDHA:2024:1390"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL23.30798"
+decided: "2024-01-19"
+published: "2024-02-08"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:1390"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2024:1390 Rechtbank Den Haag , 19-01-2024 / NL23.30798
+
+## Inhoudsindicatie
+
+BNT mvv nareis, gegrond, nadere termijn, tijdsverloop sinds indienen verweerschrift.
+
+## Uitspraak
+
+uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Utrecht Bestuursrecht zaaknummer: NL23.30798
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[eiser] , eiser V-nummer: [V-nummer]
+
+(gemachtigde: mr. G.J. Dijkman), en
+
+de Staatssecretaris van Justitie en Veiligheid, verweerder (gemachtigde: mr. C. Ohrtman).
+
+Procesverloop
+
+Deze uitspraak gaat over het beroep dat eiser heeft ingediend, omdat verweerder volgens hem niet op tijd op zijn aanvraag voor een machtiging tot voorlopig verblijf ‘nareis asiel’ (hierna: de aanvraag).
+
+Verweerder heeft op 23 oktober 2023 een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 10 januari 2024. Partijen hebben zich laten vertegenwoordigen door hun respectieve gemachtigden.
+
+Overwegingen
+
+1. Tegen het niet tijdig nemen van een besluit kan beroep worden ingesteld.¹ Het beroepschrift kan worden ingediend zodra het bestuursorgaan in gebreke is om op tijd een besluit te nemen en twee weken zijn verstreken nadat een schriftelijke ingebrekestelling door het bestuursorgaan is ontvangen.²
+
+Is het beroep ontvankelijk en gegrond?
+2. Tussen partijen is niet in geschil dat de termijn waarbinnen verweerder had moeten beslissen op de aanvraag is overschreden. De rechtbank stelt verder vast dat eiser verweerder rechtsgeldig in gebreke heeft gesteld. Eiser heeft meer dan twee weken daarna beroep ingesteld tegen het niet tijdig beslissen op de aanvraag. Dit betekent dat het beroep terecht is ingediend. Het beroep is gegrond.
+
+1. Artikel 6:2, aanhef en onder b, van de Algemene wet bestuursrecht (Awb) in samenhang met artikel 7:1, eerste lid, aanhef en onder f, van de Awb.
+
+2 Artikel 6:12, tweede lid, van de Awb.
+
+Welke beslistermijn legt de rechtbank verweerder op?
+
+3. Omdat verweerder nog geen besluit heeft genomen, bepaalt de rechtbank dat verweerder dit alsnog moet doen. Het bestuursorgaan moet dit in principe doen binnen twee weken na het verzenden van de uitspraak.³ In bijzondere gevallen of als dat voor de naleving van wettelijke voorschriften nodig is kan de rechtbank een andere termijn opleggen.⁴
+
+4. In de uitspraak van 17 maart 2023 heeft deze rechtbank, zittingsplaats Arnhem, geoordeeld dat bij nareisaanvragen sprake is van zo'n bijzonder geval.⁵ De gemachtigde van eiser heeft ter zitting aangevoerd dat verweerder niet aannemelijk heeft gemaakt dat van zo’n bijzondere omstandigheid nu nog steeds sprake is. In het verweerschrift
+
+heeft verweerder dit weliswaar betoogd, maar daarbij heeft verweerder zich gebaseerd informatie betreft over de nareisaanvragen uit 2021 en 2022.
+
+5. De rechtbank overweegt het volgende. Het is op zich juist dat verweerder in het verweerschrift heeft verwezen naar informatie uit 2021 en 2022. Bij deze informatie betrekt de rechtbank evenwel de openbare informatie uit Kamerstukken⁶. Kort gezegd blijkt hieruit dat in 2023 sprake is geweest van een verdere toename van de nareisaanvragen. Op basis van het samenstel van al deze informatie, is de rechtbank van oordeel dat de bijzondere omstandigheid, als aangenomen in de genoemde uitspraak van 17 maart 2023, zich nog steeds voordoet. Zodoende zal de rechtbank ook in deze zaak in beginsel toepassing geven aan de uitgangspunten van die uitspraak.
+
+6. Verweerder vraagt om een nadere beslistermijn van zestien weken. Dit omdat hij een gehoor nodig is voor het vaststellen van de gezinsband. Een herstel verzuim is niet langer nodig.
+
+7. De rechtbank stelt vast dat verweerder inmiddels ongeveer drie maanden geleden een verweerschrift heeft uitgebracht. Sindsdien heeft verweerder op dit dossier geen actie ondernomen. In deze omstandigheden ziet de rechtbank aanleiding om kortere termijnen te hanteren dan de uitgangspunten van de uitspraak van 17 maart 2023.
+
+8. De rechtbank bepaalt als volgt. Wanneer verweerder geen nader onderzoek hoeft te doen, bedraagt de nadere beslistermijn vier weken na verzending van deze uitspraak. Als verweerder wel een nader onderzoek in de vorm van een gehoor nodig vindt, dan moet verweerder binnen twaalf weken na de dag van verzending van deze uitspraak een besluit op de aanvraag nemen.
+
+Legt de rechtbank verweerder een rechterlijke dwangsom op?
+9. De rechtbank bepaalt in deze zaak dat verweerder een dwangsom van € 100,- moet betalen voor elke dag waarmee de in de uitspraak bepaalde beslistermijn nu nog wordt overschreden door verweerder. Daarbij geldt wel een maximum van € 7.500,-.⁷
+
+3 Artikel 8:55d, eerste lid, van de Awb.
+
+4 Artikel 8:55d, derde lid, van de Awb.
+
+5 ECLI:NL:RBDHA:2023:3590.
+
+6 Kamerstukken II 2022/23 19 637, nr 3100 en Kamerstukken II 2023/24 19 637, nr. 3173.
+
+7 Artikel 8:55d, tweede lid, van de Awb,
+
+Conclusie en gevolgen
+
+10. Het beroep is gegrond. Dat betekent dat eiser gelijk krijgt en dat verweerder binnen één van de in deze uitspraak gestelde termijnen alsnog een besluit op de aanvraag bekend moet maken. Als verweerder dat niet doet, moet hij een dwangsom betalen.
+
+11. Omdat het beroep gegrond is, krijgt eiser ook een vergoeding voor de proceskosten die hij heeft gemaakt. Verweerder moet dit betalen. Volgens het Besluit proceskosten bestuursrecht (Bpb) is dit een vast bedrag, omdat eiser een professionele (juridische) hulpverlener heeft ingeschakeld die voor hem een beroepschrift heeft ingediend. Voor de vaststelling van de wegingsfactor sluit deze zittingsplaats (weer) aan bij hetgeen andere zittingsplaatsen van de rechtbank Den Haag doen. Zij hanteert een wegingsfactor van 0,5, zoals vermeld in onderdeel C1 bij het Bpb. Voor zover het een beroep tegen het niet tijdig beslissen in vreemdelingenzaken betreft, verwijst deze zittingsplaats niet langer naar de uitspraak van de rechtbank Midden-Nederland van 4 september 2023⁸. Toegekend wordt
+
+€ 875,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 875,- en een wegingsfactor 0,5). Verder zijn er geen kosten gemaakt die vergoed kunnen worden.
+
+12. Verweerder moet het door eiser betaalde griffierecht vergoeden.⁹
+
+8 ECLI:NL:RBMNE:2023:4482.
+
+9 Artikel 8:74, eerste lid, van de Awb.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het met een besluit gelijk te stellen niet tijdig nemen van een besluit;
+
+draagt verweerder op om binnen vier weken na de dag van verzending van deze uitspraak alsnog een besluit op de aanvraag te nemen, als verweerder geen nader onderzoek nodig vindt;
+
+als verweerder wel een nader onderzoek doet, dan draagt de rechtbank verweerder op om binnen twaalf weken na de dag van verzending van deze uitspraak een besluit op de aanvraag te nemen;
+
+bepaalt dat verweerder aan eiser een dwangsom van € 100,- moet betalen voor elke dag, waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 7.500,-;
+
+bepaalt dat verweerder het door eiser betaalde griffierecht van € 184,- vergoedt;
+
+veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 875,-.
+
+Deze uitspraak is gedaan door mr. R.J.A. Schaaf, rechter, in aanwezigheid van mr. A.C. Kampschuur, griffier.
+
+De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:
+
+19 januari 2024
+
+Documentcode: [documentcode]
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een beroepschrift. U moet dit beroepschrift indienen binnen 4 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven.
