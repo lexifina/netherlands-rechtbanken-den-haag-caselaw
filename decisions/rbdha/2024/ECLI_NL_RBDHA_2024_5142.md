@@ -10,11 +10,14 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:5142"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:1715, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:3116"]]
 ---
 
 # ECLI:NL:RBDHA:2024:5142 Rechtbank Den Haag , 22-01-2024 / 71/122211-22 vertaling
 
 ## Inhoudsindicatie
+
+Judgement of the national Dutch District Court in The Hague
 
 The suspect is sentenced to imprisonment for a term of 12 years for co-perpetration of the crime against humanity unlawful deprivation of liberty as well as the subsequent torture (both as an isolated crime as well as a crime against humanity); and for participation in a criminal organization Liwa al-Quds of which the object is to commit war crimes (looting and physical assault) and crimes against humanity (unlawful deprivation of liberty). The court has determined that the suspect was a leader within Liwa al-Quds, a militia that was a loyal ally to the Syrian regime. Officers of the infamous Syrian Airforce Intelligence Service (AIS) maintained close ties with Liwa al-Quds, that arrested (alleged) opponents for the AIS. Victim 1 was violently removed from his home by the suspect, together with others, and placed into a taxi. Subsequently he was held captive for 20 days and tortured (and crime against humanity torture) by the AIS. The deprivation of liberty as well as the torture fit a pattern that has been visible since the uprising in Syria in 2011: the widespread and systematic arrest and detention of civilians who were viewed as opponents of the regime. This constitutes a crime against humanity. The court reaches an acquittal of the torture, crime against humanity torture, and deprivation of liberty of victim 2, since in the opinion of the court it has not been established that the suspect was involved in this. The court rejects the defence that the accusation of participation in a criminal organization (as such) must be assessed by the international criminal standards. The claim for compensation of the injured party is inadmissible, as the Syrian law regarding the prescription and the causality has remained unclear.
 
