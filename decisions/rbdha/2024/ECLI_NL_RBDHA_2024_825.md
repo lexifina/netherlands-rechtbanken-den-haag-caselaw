@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:825"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/334", "V-N 2024/21.2.1"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2461, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:825 Rechtbank Den Haag , 23-01-2024 / AWB - 20 _ 418, AWB - 20_423, AWB - 20_426
