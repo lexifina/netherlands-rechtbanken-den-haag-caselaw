@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:1173"
-published_in: ["Rechtspraak.nl", "Notamail 2024/85", "V-N Vandaag 2024/852", "Sdu Nieuws Personen- en familierecht 2024/237", "JERF Actueel 2024/158", "ERF-Updates.nl 2024-0173", "VEAN-ERF-Updates.nl 2024-0173", "V-N 2024/31.29 met annotatie van Redactie", "JERF 2024/93"]
+published_in: ["Rechtspraak.nl", "Notamail 2024/85", "V-N Vandaag 2024/852", "Sdu Nieuws Personen- en familierecht 2024/237", "JERF Actueel 2024/158", "ERF-Updates.nl 2024-0173", "VEAN-ERF-Updates.nl 2024-0173", "V-N 2024/31.29", "JERF 2024/93"]
 ---
 
 # ECLI:NL:RBDHA:2024:1173 Rechtbank Den Haag , 31-01-2024 / C/09/641362 / HA ZA 23-68
