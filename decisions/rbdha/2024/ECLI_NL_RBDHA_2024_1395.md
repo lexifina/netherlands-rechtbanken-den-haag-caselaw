@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:1395"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0201", "PJ 2024/32", "PR-Updates.nl PR-2024-0057", "VAAN-AR-Updates.nl 2024-0201"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0201", "PJ 2024/32", "PR-Updates.nl PR-2024-0057", "VAAN-AR-Updates.nl 2024-0201", "PR-Updates.nl 2024-0057"]
 ---
 
 # ECLI:NL:RBDHA:2024:1395 Rechtbank Den Haag , 07-02-2024 / 10530412 RL EXPL 23-8722
