@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:1338"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0031"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0031", "BPR-Updates.nl 2024-0031"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2035, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:1338 Rechtbank Den Haag , 08-02-2024 / C/09/649127 / HA RK 23-237
