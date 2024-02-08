@@ -1,0 +1,187 @@
+---
+ecli: "ECLI:NL:RBDHA:2024:1639"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL23.36074"
+decided: "2024-02-08"
+published: "2024-02-14"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:1639"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2024:1639 Rechtbank Den Haag , 08-02-2024 / NL23.36074
+
+## Inhoudsindicatie
+
+BNT, niet tijdig beslissen, asiel, kruisjesformulier, nadere beslistermijn van tien weken, beroep gegrond.
+
+## Uitspraak
+
+uitspraak buiten zitting
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Middelburg Bestuursrecht
+
+zaaknummers: NL23.36074, NL23.36075 en NL23.36077
+
+uitspraak van de enkelvoudige kamer in de zaak tussen [naam eiseres], eiseres
+
+V-nummer: [nummer eiseres]
+
+[naam eiser 1], eiser I V-nummer: [nummer eiser 1]
+
+[naam eiser 2], eiser II V-nummer: [nummer eiser 2]
+
+samen: eisers (gemachtigde: mr. A. Heida),
+
+en
+
+de staatssecretaris van Justitie en Veiligheid, verweerder.
+
+Procesverloop
+
+Eisers hebben beroepen ingesteld.
+
+Verweerder heeft de gelegenheid van verweer gehad.
+
+Overwegingen
+
+Voor het wettelijk kader en de aan het beroep ten grondslag liggende overwegingen verwijst de rechtbank naar de aan deze uitspraak gehechte bijlage.
+
+Is de beslistermijn overschreden?
+
+( x) Ja
+
+( ) Nee
+
+Is er een correcte ingebrekestelling en is het beroep meer dan twee weken later ingesteld?
+
+( x) Ja
+
+( ) Nee
+
+Is het beroep gegrond?
+
+( ) Nee
+
+Het beroep is kennelijk niet-ontvankelijk omdat niet is voldaan aan de voorwaarden voor het instellen van beroep tegen het niet tijdig nemen van een besluit.
+
+( x) Ja
+
+Hebben eisers de rechtbank verzocht om de bestuurlijke dwangsom vast te stellen?
+
+( ) Verweerder heeft al een besluit genomen over de dwangsom. ( ) Ja
+
+( x) Nee, verweerder moet de dwangsom daarom nog vaststellen.
+
+Is er een bestuurlijke dwangsom verbeurd?
+
+( ) Ja, de rechtbank stelt de door verweerder verbeurde dwangsom vast op € 1.442.
+
+( x) Nee
+
+( ) De rechtbank heeft in een eerder beroep al beslist op de bestuurlijke dwangsom. Binnen welke termijn moet verweerder alsnog een besluit nemen?
+
+( ) Verweerder heeft geen bijzondere omstandigheden gesteld. De rechtbank stelt daarom een nadere termijn vast van veertien dagen vanaf de datum waarop de uitspraak naar partijen wordt verstuurd.
+
+( x) Er is sprake van bijzondere omstandigheden. Er zijn achterstanden in de behandeling van asielaanvragen. De rechtbank acht een nadere beslistermijn van maximaal tien weken na de datum van verzending van deze uitspraak redelijk. Hierbij wordt zowel recht gedaan aan het belang van verweerder om een zorgvuldige beslissing te nemen, als aan het belang van eiser om op korte termijn een beslissing te krijgen op de aanvraag. Ook wordt met het stellen van deze termijn rekening gehouden met de uiterste termijn van 21 maanden zoals genoemd in artikel 31, vijfde lid, van de Procedurerichtlijn.
+
+( ) Er is sprake van bijzondere omstandigheden, de rechtbank heeft verweerder echter eerder al een termijn gesteld zonder dat verweerder heeft beslist. De rechtbank stelt daarom een nadere termijn vast van veertien dagen vanaf de datum waarop de uitspraak naar partijen is verstuurd.
+
+( ) Er is sprake van bijzondere omstandigheden, met de door verweerder genoemde termijn wordt echter de uiterste termijn overschreden van 21 maanden zoals genoemd in artikel 31, vijfde lid, van de Procedurerichtlijn. De rechtbank ziet daarom aanleiding om verweerder op te dragen zo snel mogelijk op de asielaanvraag te beslissen, maar uiterlijk twee weken na verzending van deze uitspraak
+
+Is er aanleiding om een rechterlijke dwangsom op te leggen?
+
+( x) Ja
+
+( ) Nee
+
+Hoe hoog is de rechterlijke dwangsom als verweerder niet binnen deze termijn beslist?
+
+( x) € 100 per dag met een maximum van € 7.500. ( ) Een ander bedrag.
+
+Is er aanleiding om proceskosten vast te stellen?
+
+( x) Ja
+
+( ) Nee
+
+Hoe hoog zijn de te vergoeden proceskosten?
+
+Gezien de samenhang tussen de ingediende beroepen wordt op grond van artikel 3 van het Besluit proceskosten bestuursrecht de volgende proceskosten toegekend:
+
+( x) 1 punt voor het indienen van het beroepschrift ( ) 1 punt voor de nadere reactie(s)
+
+( ) 0,5 punt voor een nadere reactie
+
+met een waarde per punt van € 875 en een wegingsfactor 0,5.
+
+Beslissing
+
+De rechtbank:
+
+( ) verklaart het beroep niet-ontvankelijk.
+
+( x) verklaart de beroepen gegrond;
+
+( ) stelt de door verweerder verbeurde dwangsom vast op € 1.442;
+
+( x) draagt verweerder op binnen tien weken na de verzending van deze uitspraak een besluit bekend te maken met inachtneming van deze uitspraak;
+
+( ) draagt verweerder op uiterlijk op  een besluit bekend te maken met inachtneming van deze uitspraak;
+
+( x) bepaalt dat verweerder aan belanghebbende een dwangsom van (x) € 100 / ( ) € 200 verbeurt voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van (x) € 7.500;
+
+( x) veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 437,50.
+
+Deze uitspraak is gedaan door mr. A.C.J. van Dooijeweert, rechter, in aanwezigheid van mr. R. de Mul, griffier, en openbaar gemaakt door middel van een geanonimiseerde publicatie op www.rechtspraak.nl.
+
+De uitspraak is bekendgemaakt op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen 6 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven. Als u graag een zitting wilt waarin u uw verzetschrift kunt toelichten, kunt u dit in uw verzetschrift vermelden.
+
+Bijlage
+
+De rechtbank doet uitspraak zonder zitting.1
+
+Tegen het niet tijdig nemen van een besluit kan beroep worden ingesteld.2 Het beroepschrift kan worden ingediend als het bestuursorgaan niet tijdig een besluit heeft genomen en twee weken zijn verstreken nadat een schriftelijke ingebrekestelling door het bestuursorgaan is ontvangen.3
+
+Als niet is voldaan aan de wettelijke vereisten voor een beroep tegen niet tijdig beslissen, verklaart de rechtbank het beroep niet-ontvankelijk.
+
+Als een beschikking niet op tijd wordt genomen, is het bestuursorgaan een dwangsom verschuldigd voor elke dag (vanaf de vijftiende dag na ontvangst van de ingebrekestelling) dat het in gebreke is voor ten hoogste 42 dagen. Dit is de bestuurlijke dwangsom. De dwangsom bedraagt de eerste veertien dagen € 23,- per dag, de daaropvolgende veertien dagen € 35,- per dag en de overige dagen € 45,- per dag. Deze dwangsom kan slechts eenmaal worden vastgesteld. 4
+
+Specifiek voor het niet tijdig beslissen op asielaanvragen:
+
+Met de Tijdelijke wet dwangsom heeft verweerder de bestuurlijke dwangsom afgeschaft in asielzaken. Dit is niet in strijd met het Unierecht.5
+
+Als verweerder nog geen besluit heeft genomen, bepaalt de rechtbank dat verweerder dit alsnog moet doen. Verweerder moet dit in beginsel doen binnen twee weken na het verzenden van de uitspraak.6 Alleen in bijzondere gevallen kan de rechtbank een andere termijn bepalen.7
+
+De rechtbank bepaalt dat verweerder bij het overschrijden van de door de rechtbank vastgestelde termijn een dwangsom verschuldigd is voor elke dag waarmee de hiervoor genoemde termijn wordt overschreden.8 Dit is de rechterlijke dwangsom. Daarbij past de rechtbank het landelijke beleid toe.9
+
+Als eiser is bijgestaan door een rechtsbijstandverlener, stelt de rechtbank een vergoeding vast van zijn kosten voor de door een derde beroepsmatig verleende rechtsbijstand.10 De zaak is van licht gewicht als het alleen gaat over de vraag of de beslistermijn is overschreden en/of een dwangsom is verbeurd.
+
+1. Op grond van artikel 8:54 van de Algemene wet bestuursrecht (Awb).
+
+2 Op grond van artikel 6:2, aanhef en onder b, in samenhang met artikel 7:1, eerste lid, aanhef en onder f, van de Awb.
+
+3 Artikel 6:12, tweede lid, van de Awb.
+
+4 Artikel 4:17 van Awb.
+
+5 Afdeling bestuursrechtspraak van de Raad van State 30 november 2022, ECLI:NL:RVS:2022:3352.
+
+6 Artikel 8:55d, eerste lid, van de Awb.
+
+7 Artikel 8:55d, eerste en derde lid, van de Awb.
+
+8 Op grond van artikel 8:55d, tweede lid, van de Awb.
+
+9 Gepubliceerd op www.rechtspraak.nl.
+
+10 Op grond van het Besluit proceskosten bestuursrecht.
