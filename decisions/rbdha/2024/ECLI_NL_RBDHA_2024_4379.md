@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:4379"
 published_in: ["Rechtspraak.nl", "JV 2024/261 met annotatie van mr. dr. V.M. Bex-Reimert, mr. F. Schüller"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4673, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBDHA:2024:4379 Rechtbank Den Haag , 09-02-2024 / NL22.186 + 22.187
