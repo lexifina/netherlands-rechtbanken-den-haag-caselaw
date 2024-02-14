@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:1719"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0055", "PJ 2024/47"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0055", "PJ 2024/47", "PR-Updates.nl 2024-0055"]
 ---
 
 # ECLI:NL:RBDHA:2024:1719 Rechtbank Den Haag , 14-02-2024 / 23_807
