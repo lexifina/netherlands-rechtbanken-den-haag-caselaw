@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:2156"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/474", "NLF 2024/0565", "V-N 2024/23.4 met annotatie van Redactie", "Viditax (FutD) 2024022907", "FutD 2024-0559"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/474", "NLF 2024/0565", "V-N 2024/23.4", "Viditax (FutD) 2024022907", "FutD 2024-0559"]
 ---
 
 # ECLI:NL:RBDHA:2024:2156 Rechtbank Den Haag , 15-02-2024 / AWB - 23 _ 3572
