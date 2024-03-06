@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:3897"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0431", "VAAN-AR-Updates.nl 2024-0431"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1845, Overig"]]
 ---
 
 # ECLI:NL:RBDHA:2024:3897 Rechtbank Den Haag , 06-03-2024 / 10732087 RL EXPL 23-16271
