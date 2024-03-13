@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:3690"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5063, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:3690 Rechtbank Den Haag , 13-03-2024 / SGR 19/6047, SGR 19/8026, SGR 19/8027 en SGR 19/8028
