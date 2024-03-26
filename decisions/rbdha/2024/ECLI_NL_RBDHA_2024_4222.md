@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:4222"
 published_in: ["Rechtspraak.nl", "JV 2024/94"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5057, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:4222 Rechtbank Den Haag , 26-03-2024 / NL23.3822
