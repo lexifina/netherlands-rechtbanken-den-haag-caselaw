@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:4980"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/442", "V-N Vandaag 2024/881", "NDFR Nieuws 2024/753", "NLF 2024/0992", "NTFR 2024/833 met annotatie van mr. E.J.M. Bohnen", "Belastingadvies 2024/10.8", "V-N 2024/30.29 met annotatie van Redactie", "Viditax (FutD) 2024041702", "FutD 2024-0942"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/442", "V-N Vandaag 2024/881", "NDFR Nieuws 2024/753", "NLF 2024/0992", "NTFR 2024/833 met annotatie van mr. E.J.M. Bohnen", "Belastingadvies 2024/10.8", "V-N 2024/30.29", "Viditax (FutD) 2024041702", "FutD 2024-0942"]
 ---
 
 # ECLI:NL:RBDHA:2024:4980 Rechtbank Den Haag , 03-04-2024 / 23_3048 en 23_3049
