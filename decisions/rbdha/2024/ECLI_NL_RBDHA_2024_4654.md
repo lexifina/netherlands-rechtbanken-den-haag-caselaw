@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:4654"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0103"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0103", "PR-Updates.nl 2024-0103"]
 ---
 
 # ECLI:NL:RBDHA:2024:4654 Rechtbank Den Haag , 04-04-2024 / 23/3482
