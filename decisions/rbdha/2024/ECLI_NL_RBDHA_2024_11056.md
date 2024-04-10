@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:11056"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1560", "NLF 2024/1715", "NDFR Nieuws 2024/1322", "V-N 2024/36.2.1", "NTFR 2024/1338 met annotatie van mr. drs. E.J.H. Vermeulen", "Viditax (FutD) 2024071804", "FutD 2024-1620"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:350, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:11056 Rechtbank Den Haag , 10-04-2024 / AWB - 23 _ 58
