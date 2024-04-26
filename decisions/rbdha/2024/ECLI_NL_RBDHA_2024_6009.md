@@ -10,11 +10,14 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:6009"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2245"]]
 ---
 
 # ECLI:NL:RBDHA:2024:6009 Rechtbank Den Haag , 26-04-2024 / 71/098061-22
 
 ## Inhoudsindicatie
+
+See ECLI:NL:RBDHA:2024:24040 for an English translation of this judgment.
 
 “Vrijspraak van het oorlogsmisdrijf plundering. Niet vast te stellen is dat de verdachte woningen in Syrië heeft geplunderd. Veroordeling voor deelname aan de terroristische organisatie IS, het voorbereiden van misdrijven met een terroristisch oogmerk, en bedreiging van twee journalisten met een terroristisch misdrijf.
 
