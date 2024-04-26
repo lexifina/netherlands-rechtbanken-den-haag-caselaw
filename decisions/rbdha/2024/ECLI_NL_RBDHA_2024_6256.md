@@ -16,6 +16,8 @@ published_in: ["Rechtspraak.nl", "NJFS 2024/252"]
 
 ## Inhoudsindicatie
 
+See ECLI:NL:RBDHA:2024:24038 for the English translation of this judgment.
+
 Art. 6 Wim; artt. 96, 140a, 255 Sr; 6 Wim; art. 126v Sv. Vrijspraak van het oorlogsmisdrijf plundering. Veroordeling van Nederlandse uitreizigster voor deelname aan IS, bevorderen van misdrijven met een terroristisch oogmerk, en het in hulpeloze toestand brengen van twee kinderen door hen mee te nemen naar oorlogsgebied en daar te blijven. Verwerping onrechtmatigheidsverweer 126v-overeenkomst.
 
 Verdachte is in 2014 samen met haar man en twee kinderen (4 en 5 jaar) uitgereisd naar Syrië en heeft daar tot 2022 verbleven. Haar man heeft zich bij IS aangesloten, en voor de zedenpolitie (Hisba) gewerkt. Met hem voerde verdachte een gemeenschappelijk huishouden en profiteerde zij financieel en materieel van IS. Ook heeft verdachte zich vereenzelvigd met IS-gedachtengoed en beschikte zij over een vuurwapen.
