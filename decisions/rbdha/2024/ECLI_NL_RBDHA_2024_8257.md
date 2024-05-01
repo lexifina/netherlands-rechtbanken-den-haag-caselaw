@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:8257"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:460, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:8257 Rechtbank Den Haag , 01-05-2024 / 22/6823, 22/1817, 22/6680, 22/1819, 22/6819, 22/6774, 22/1792 en 22/7294
