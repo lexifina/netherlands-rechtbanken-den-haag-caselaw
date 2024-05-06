@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBDHA:2024:7256"
 court: "Rechtbank Den Haag"
 court_code: "RBDHA"
 docket: "AWB 23/8017"
-decided: "2024-05-08"
+decided: "2024-05-06"
 published: "2024-05-14"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:7256"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5603, Meerdere afhandelingswijzen"]]
 ---
 
-# ECLI:NL:RBDHA:2024:7256 Rechtbank Den Haag , 08-05-2024 / AWB 23/8017
+# ECLI:NL:RBDHA:2024:7256 Rechtbank Den Haag , 06-05-2024 / AWB 23/8017
 
 ## Inhoudsindicatie
 
