@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:6958"
 published_in: ["Rechtspraak.nl", "O&A 2024/50"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2969, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:6958 Rechtbank Den Haag , 08-05-2024 / C/09/650593 / HA ZA 23-615
