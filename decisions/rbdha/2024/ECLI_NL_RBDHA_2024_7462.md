@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:7462"
 published_in: ["Rechtspraak.nl", "JBO 2024/26 met annotatie van Redactie", "JA 2024/109", "RAV 2024/65"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2744, Bekrachtiging/bevestiging"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2750, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:7462 Rechtbank Den Haag , 15-05-2024 / C/09/616443 / HA ZA 21-726
