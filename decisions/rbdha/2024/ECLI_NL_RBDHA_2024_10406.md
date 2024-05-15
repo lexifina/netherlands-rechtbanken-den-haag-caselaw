@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:10406"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Ontnemingsprocedure: ECLI:NL:RBDHA:2024:13720"]]
+relations: [["Formele relatie", "Ontnemingsprocedure: ECLI:NL:RBDHA:2024:13720"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2698, Overig"]]
 ---
 
 # ECLI:NL:RBDHA:2024:10406 Rechtbank Den Haag , 15-05-2024 / SGR 22/3247 en 22/3371
