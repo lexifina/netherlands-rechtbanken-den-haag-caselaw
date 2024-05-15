@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:7823"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1564"]]
 ---
 
 # ECLI:NL:RBDHA:2024:7823 Rechtbank Den Haag , 15-05-2024 / C/09/643952 HAZA 23-214
