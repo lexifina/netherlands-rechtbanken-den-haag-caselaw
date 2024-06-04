@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:8525"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0136"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0136", "PR-Updates.nl 2024-0136"]
 ---
 
 # ECLI:NL:RBDHA:2024:8525 Rechtbank Den Haag , 04-06-2024 / 23/6051
