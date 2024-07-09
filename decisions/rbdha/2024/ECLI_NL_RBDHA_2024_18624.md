@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:18624"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024112601", "V-N Vandaag 2024/2347", "Sdu Nieuws Belastingzaken 2024/1383", "FutD 2024-2495", "NLF 2024/2702", "NDFR Nieuws 2024/1990", "V-N 2025/2.2.5", "NTFR 2025/108 met annotatie van Mr. E.H.A.M. Thijssen"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2836, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:18624 Rechtbank Den Haag , 09-07-2024 / AWB - 23 _ 2304
