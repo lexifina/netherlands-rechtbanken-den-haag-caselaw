@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:12495"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1856", "NLF 2024/2120 met annotatie van Frans Wiggers", "V-N 2024/44.21 met annotatie van Redactie", "Viditax (FutD) 2024091904", "FutD 2024-2020"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1856", "NLF 2024/2120 met annotatie van Frans Wiggers", "V-N 2024/44.21", "Viditax (FutD) 2024091904", "FutD 2024-2020"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6430, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:12495 Rechtbank Den Haag , 16-07-2024 / 23/6728
