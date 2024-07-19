@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:11229"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2321"]]
 ---
 
 # ECLI:NL:RBDHA:2024:11229 Rechtbank Den Haag , 19-07-2024 / 09/054699-24
