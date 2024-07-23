@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:13255"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1729", "PJ 2024/108 met annotatie van L.A.J. Kuijpers", "PR-Updates.nl PR-2024-0178"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1729", "PJ 2024/108 met annotatie van L.A.J. Kuijpers", "PR-Updates.nl PR-2024-0178", "PR-Updates.nl 2024-0178"]
 ---
 
 # ECLI:NL:RBDHA:2024:13255 Rechtbank Den Haag , 23-07-2024 / 10641809 RL EXPL  23-12661
