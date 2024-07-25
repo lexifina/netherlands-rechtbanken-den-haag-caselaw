@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:12644"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/1083", "V-N Vandaag 2024/1936", "NDFR Nieuws 2024/1590", "NLF 2024/2179", "V-N 2024/44.2.1", "NTFR 2024/1682 met annotatie van mr. drs. G. Benning", "Belastingadvies 2024/22.4", "Viditax (FutD) 2024092502", "FutD 2024-2058"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:3115, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:12644 Rechtbank Den Haag , 25-07-2024 / 23_5077
