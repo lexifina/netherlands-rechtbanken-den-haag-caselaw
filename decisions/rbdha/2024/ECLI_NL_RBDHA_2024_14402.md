@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:14402"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5593, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:14402 Rechtbank Den Haag , 13-08-2024 / SGR 24/891
