@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:13296"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:516, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:13296 Rechtbank Den Haag , 20-08-2024 / NL24.27381
