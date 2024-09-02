@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:17340"
 published_in: ["Rechtspraak.nl", "NJF 2025/20"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:567"]]
 ---
 
 # ECLI:NL:RBDHA:2024:17340 Rechtbank Den Haag , 02-09-2024 / C/09/670945 / KG ZA 24-746
