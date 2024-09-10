@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:22010"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012109", "V-N Vandaag 2025/86", "FutD 2025-0162", "NDFR Nieuws 2025/148", "NLF 2025/0234", "NTFR 2025/300 met annotatie van Mr. K.M.G. Demandt", "V-N 2025/13.2.1"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:715, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:22010 Rechtbank Den Haag , 10-09-2024 / SGR 23/5061 t/m SGR 23/5067
