@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:15406"
 published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2024-1288", "AR-Updates.nl 2024-1288"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2411"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2347, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:15406 Rechtbank Den Haag , 10-10-2024 / 11208956 \ RP VERZ  24-50414 en 11275829 \ RP VERZ 24-50473
