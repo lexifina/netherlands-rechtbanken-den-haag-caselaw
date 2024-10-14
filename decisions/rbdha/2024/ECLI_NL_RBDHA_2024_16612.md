@@ -1,0 +1,77 @@
+---
+ecli: "ECLI:NL:RBDHA:2024:16612"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL24.31315"
+decided: "2024-10-14"
+published: "2024-10-14"
+type: "uitspraak"
+procedure: "Vereenvoudigde behandeling"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:16612"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2024:16612 Rechtbank Den Haag , 14-10-2024 / NL24.31315
+
+## Inhoudsindicatie
+
+Beroep niet tijdig, Asiel
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Groningen
+
+Bestuursrecht
+
+zaaknummer: NL24.31315
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam], eiseres,
+
+V-nummer: [nummer],
+
+(gemachtigde: mr. I.M. Zuidhoek),
+
+en
+
+de minister van Asiel en Migratie, voorheen de staatssecretaris van Justitie en Veiligheid, de minister.
+
+Procesverloop
+
+Eiseres heeft op 2 mei 2023 een aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd ingediend.
+
+Bij brief van 22 juli 2024 heeft eiseres de minister in gebreke gesteld wegens het niet tijdig beslissen op haar asielaanvraag. Eiseres heeft vervolgens op 9 augustus 2024 beroep ingesteld tegen het niet tijdig nemen van een besluit.
+
+De minister heeft geen verweerschrift ingediend.
+
+Overwegingen
+
+1. De rechtbank doet op grond van artikel 8:54 Algemene wet bestuursrecht (Awb) uitspraak zonder zitting.
+
+2. In artikel 6:2, aanhef en onder b, van de Awb is bepaald dat, voor de toepassing van wettelijke voorschriften over bezwaar en beroep, het niet tijdig nemen van een besluit met een besluit wordt gelijkgesteld.
+
+3. In artikel 6:12, tweede lid, van de Awb, voor zover hier van belang, is bepaald dat een beroepschrift gericht tegen het niet tijdig nemen van een besluit kan worden ingediend zodra het bestuursorgaan in gebreke is om op tijd een besluit te nemen en twee weken zijn verstreken nadat een schriftelijke ingebrekestelling door het bestuursorgaan is ontvangen.
+
+4. Op grond van artikel 42, eerste lid, van de Vreemdelingenwet 2000 (Vw) moet de minister binnen zes maanden na ontvangst van de aanvraag beslissen.
+
+5. Op grond van artikel 42, vierde lid, aanhef en onder b, van de Vw kan de termijn, als bedoeld in het eerste lid, met ten hoogste negen maanden worden verlengd, indien een groot aantal vreemdelingen tegelijk een aanvraag indient waardoor het in de praktijk zeer moeilijk is de procedure binnen de termijn van zes maanden af te ronden.
+
+6. Eiseres heeft de aanvraag ingediend op 2 mei 2023. De wettelijke beslistermijn van zes maanden zou in het geval van eiseres op 2 november 2023 eindigen. De minister heeft echter, met inwerkingtreding van het WBV 2023/3, de beslistermijn van asielaanvragen die zijn ingediend tussen 1 januari 2023 en 1 januari 2024 met negen maanden verlengd. Deze rechtbank en zittingsplaats heeft in de uitspraak van haar meervoudige kamer van 11 april 2024 (ECLI:NL:RBDHA: 2024:5087) geoordeeld dat de minister voldoende aannemelijk heeft gemaakt dat op het moment van de inwerkingtreding van het WBV 2023/3 sprake was van een situatie, zoals bedoeld in artikel 42, vierde lid, aanhef en onder b, van de Vw. De rechtbank ziet geen aanleiding om in deze zaak van dat oordeel af te wijken. De verlenging van de beslistermijn is daarom rechtsgeldig. De rechtbank stelt vast dat de beslistermijn eindigde op 2 augustus 2024. Dat betekent dat de ingebrekestelling van 22 juli 2024 prematuur is ingediend, hetgeen leidt tot een niet-ontvankelijk beroep. Het beroep voldoet namelijk niet aan de vereisten voor het indienen van een beroep tegen het niet tijdig beslissen, als bedoeld in artikel 6:12, tweede lid, van de Awb.
+
+7. Het beroep is, gelet op het voorgaande, kennelijk niet-ontvankelijk.
+
+8. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep niet-ontvankelijk. Deze uitspraak is gedaan door mr. A.G.D. Overmars, rechter, in aanwezigheid van T.H. Bos griffier en openbaar gemaakt door middel van geanonimiseerde publicatie op rechtspraak.nl.
+
+De uitspraak is bekendgemaakt op:
+
+Informatie over verzet
+
+Als partijen het niet eens zijn met deze uitspraak, kunnen zij een verzetschrift sturen naar de rechtbank waarin zij uitleggen waarom zij het niet eens zijn met deze uitspraak. Het verzetschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Als partijen graag een zitting willen om het verzetschrift toe te lichten, moeten zij dit in het verzetschrift vermelden.
