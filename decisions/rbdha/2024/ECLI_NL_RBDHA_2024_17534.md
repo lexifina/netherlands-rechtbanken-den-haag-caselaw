@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:17534"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025010701", "FutD 2025-0081"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1587, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:17534 Rechtbank Den Haag , 24-10-2024 / 23_7716
