@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:17338"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2882, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:17338 Rechtbank Den Haag , 30-10-2024 / C/09/666440 / HA ZA 24-436
