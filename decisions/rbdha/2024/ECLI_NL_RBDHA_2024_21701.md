@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:21701"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2626", "Viditax (FutD) 2025010215", "FutD 2025-0010", "NLF 2025/0041", "V-N 2025/7.2.3"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2293, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:21701 Rechtbank Den Haag , 08-11-2024 / AWB - 24 _ 752
