@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:21715"
 published_in: ["Rechtspraak.nl", "Belastingblad 2025/131 met annotatie van A.W. Schep"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2402, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:21715 Rechtbank Den Haag , 13-11-2024 / AWB - 23 _ 2086
