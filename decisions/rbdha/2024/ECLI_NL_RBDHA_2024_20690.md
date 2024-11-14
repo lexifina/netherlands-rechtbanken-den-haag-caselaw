@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:20690"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2678, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2024:20690 Rechtbank Den Haag , 14-11-2024 / 11025231 EL 24-1
