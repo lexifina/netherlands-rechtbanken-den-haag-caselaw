@@ -10,6 +10,7 @@ procedure: "Vereenvoudigde behandeling"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:19445"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:893, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBDHA:2024:19445 Rechtbank Den Haag , 25-11-2024 / NL24.32410
