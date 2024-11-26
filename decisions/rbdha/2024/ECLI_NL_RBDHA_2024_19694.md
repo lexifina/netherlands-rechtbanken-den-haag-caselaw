@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:19694"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024120303", "Sdu Nieuws Belastingzaken 2024/1419", "V-N Vandaag 2024/2444", "FutD 2024-2564", "Module Privacy & AVG 2025/4428", "V-N 2025/8.30 met annotatie van Redactie", "Prg. 2025/27", "JBP 2025/18"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024120303", "Sdu Nieuws Belastingzaken 2024/1419", "V-N Vandaag 2024/2444", "FutD 2024-2564", "Module Privacy & AVG 2025/4428", "V-N 2025/8.30", "Prg. 2025/27", "JBP 2025/18"]
 ---
 
 # ECLI:NL:RBDHA:2024:19694 Rechtbank Den Haag , 26-11-2024 / C/09/674884 / KG ZA 24-1019
