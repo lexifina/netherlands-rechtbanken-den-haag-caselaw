@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:22320"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025010707", "Sdu Nieuws Belastingzaken 2025/18", "FutD 2025-0070", "V-N Vandaag 2025/39", "NLF 2025/0110", "NDFR Nieuws 2025/116", "NTFR 2025/442 met annotatie van S.J. Leening MSc, mr. B. Hulshof", "V-N 2025/12.2.1"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025010707", "Sdu Nieuws Belastingzaken 2025/18", "FutD 2025-0070", "V-N Vandaag 2025/39", "NLF 2025/0110", "NDFR Nieuws 2025/116", "NTFR 2025/442 met annotatie van mr. B. Hulshof, S.J. Leening MSc", "V-N 2025/12.2.1"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:888, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:22320 Rechtbank Den Haag , 10-12-2024 / 22/8176  en 22/8177
