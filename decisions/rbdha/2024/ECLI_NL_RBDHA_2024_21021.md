@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:21021"
-published_in: ["Rechtspraak.nl", "PJ 2025/6 met annotatie van J. Kaldenberg", "PR-Updates.nl PR-2025-0006"]
+published_in: ["Rechtspraak.nl", "PJ 2025/6 met annotatie van J. Kaldenberg", "PR-Updates.nl PR-2025-0006", "RF 2025/43", "PR-Updates.nl 2025-0006"]
 ---
 
 # ECLI:NL:RBDHA:2024:21021 Rechtbank Den Haag , 11-12-2024 / 10951278 RL EXPL 24-4242
