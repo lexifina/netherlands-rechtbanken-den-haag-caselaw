@@ -17,6 +17,8 @@ relations: [["Formele relatie", "Oorspronkelijke uitspraak: ECLI:NL:RBDHA:2024:2
 
 ## Inhoudsindicatie
 
+Judgement of the national Dutch District Court in The Hague
+
 This is an English translation of ECLI:NL:RBDHA:2024:20594, De Nederlandse tekst van deze uitspraak is leidend.
 
 Investigation 26 Banning. Conviction of Dutch person who left her country to join IS in Syria, for enslavement as a crime against humanity against a Yazidi woman, participation in IS, promoting crimes with a terrorist objective, and putting and leaving her son in a helpless condition by taking him to a war zone and staying there. Sentenced to a term of imprisonment of 10 years. Diminished responsibility and residence in Kurdish detention camps are reason for reduction of punishment.
