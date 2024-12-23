@@ -2,17 +2,17 @@
 ecli: "ECLI:NL:RBDHA:2024:21814"
 court: "Rechtbank Den Haag"
 court_code: "RBDHA"
-docket: "AWB 24/20715 en 99 andere zaaknummers"
+docket: "AWB 24/20715 e.a."
 decided: "2024-12-23"
 published: "2024-12-23"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:21814"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Gst. 2025/84 met annotatie van R.G. Becker", "AB 2026/93 met annotatie van S. Bisscheroux"]
 ---
 
-# ECLI:NL:RBDHA:2024:21814 Rechtbank Den Haag , 23-12-2024 / AWB 24/20715 en 99 andere zaaknummers
+# ECLI:NL:RBDHA:2024:21814 Rechtbank Den Haag , 23-12-2024 / AWB 24/20715 e.a.
 
 ## Inhoudsindicatie
 
