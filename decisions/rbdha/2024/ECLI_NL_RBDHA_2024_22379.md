@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:22379"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032502", "V-N Vandaag 2025/590", "FutD 2025-0673", "NDFR Nieuws 2025/629", "V-N 2025/16.2.2", "NTFR 2025/693 met annotatie van mr. J. Zandee-Dingemanse", "VFP 2025/67"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:58, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:22379 Rechtbank Den Haag , 23-12-2024 / 23_3377 en 23_3380
