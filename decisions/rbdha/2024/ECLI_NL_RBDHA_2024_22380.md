@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:22380"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032409", "V-N Vandaag 2025/599", "FutD 2025-0676", "NLF 2025/0756", "V-N 2025/16.29.8", "NDFR Nieuws 2025/638", "NTFR 2025/729 met annotatie van mr. O. Eroglu"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032409", "V-N Vandaag 2025/599", "FutD 2025-0676", "NLF 2025/0756", "V-N 2025/16.29.8", "NDFR Nieuws 2025/638", "NTFR 2025/729 met annotatie van mr. O. Eroglu", "Belastingadvies 2025/11-12.1"]
 ---
 
 # ECLI:NL:RBDHA:2024:22380 Rechtbank Den Haag , 23-12-2024 / 23_2536 23_2537 en 23_6208
