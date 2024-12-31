@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2024:22464"
 published_in: ["Rechtspraak.nl", "Belastingblad 2025/142 met annotatie van J.C. Scherff"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:226, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2024:22464 Rechtbank Den Haag , 31-12-2024 / AWB - 24 _ 3403
