@@ -10,6 +10,7 @@ procedure: "Vereenvoudigde behandeling"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:589"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:555, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBDHA:2025:589 Rechtbank Den Haag , 20-01-2025 / NL24.51287
