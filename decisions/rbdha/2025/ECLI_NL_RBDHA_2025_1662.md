@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:1662"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/325", "V-N 2025/12.14 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/325", "V-N 2025/12.14"]
 ---
 
 # ECLI:NL:RBDHA:2025:1662 Rechtbank Den Haag , 22-01-2025 / 11413515 MB VERZ 24-7495
