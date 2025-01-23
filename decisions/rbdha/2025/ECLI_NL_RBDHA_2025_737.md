@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBDHA:2025:737"
 court: "Rechtbank Den Haag"
 court_code: "RBDHA"
 docket: "NL23.39676 en NL23.39677"
-decided: "2025-01-02"
+decided: "2025-01-23"
 published: "2025-01-23"
 type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:737"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1492"]]
 ---
 
-# ECLI:NL:RBDHA:2025:737 Rechtbank Den Haag , 02-01-2025 / NL23.39676 en NL23.39677
+# ECLI:NL:RBDHA:2025:737 Rechtbank Den Haag , 23-01-2025 / NL23.39676 en NL23.39677
 
 ## Inhoudsindicatie
 
