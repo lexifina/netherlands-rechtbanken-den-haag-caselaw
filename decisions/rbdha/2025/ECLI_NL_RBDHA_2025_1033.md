@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:1033"
-published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2025-0015", "RBP 2025/35"]
+published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2025-0015", "RBP 2025/35", "JBPr 2025/42 met annotatie van mr. W.I. Wisman"]
 ---
 
 # ECLI:NL:RBDHA:2025:1033 Rechtbank Den Haag , 29-01-2025 / C/09/670615 / KG RK 24-1130
