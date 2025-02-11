@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:5428"
-published_in: ["Rechtspraak.nl", "Notamail 2025/76", "V-N Vandaag 2025/730", "Sdu Nieuws Personen- en familierecht 2025/221", "V-N 2025/24.19 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/76", "V-N Vandaag 2025/730", "Sdu Nieuws Personen- en familierecht 2025/221", "V-N 2025/24.19 met annotatie van Redactie", "PR-Updates.nl 2025-0083"]
 ---
 
 # ECLI:NL:RBDHA:2025:5428 Rechtbank Den Haag , 11-02-2025 / C/09/605903 / FA RK 21-193
