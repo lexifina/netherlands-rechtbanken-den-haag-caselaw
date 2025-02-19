@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:3462"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5676, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:3462 Rechtbank Den Haag , 19-02-2025 / SGR 24/5581, 24/5583, 24/7232, 24/7237, 24/7243, 24/7247, 24/7248, 24/7275, 24/7286, 24/7288, 24/7294, 24/7296 en 24/7303
