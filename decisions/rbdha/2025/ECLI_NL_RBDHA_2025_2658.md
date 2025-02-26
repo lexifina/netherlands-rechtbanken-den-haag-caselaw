@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:2658"
-published_in: ["Rechtspraak.nl", "Notamail 2025/48", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/75"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/48", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/75", "OR-Updates.nl 2025-0104", "RN 2025/41", "JONDR 2025/513"]
 ---
 
 # ECLI:NL:RBDHA:2025:2658 Rechtbank Den Haag , 26-02-2025 / C/09/667626 / HA ZA 24-490
