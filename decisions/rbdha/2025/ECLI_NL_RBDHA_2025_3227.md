@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:3227"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2025-0066"]
 ---
 
 # ECLI:NL:RBDHA:2025:3227 Rechtbank Den Haag , 26-02-2025 / C/09/665374 / HA ZA 24-366
