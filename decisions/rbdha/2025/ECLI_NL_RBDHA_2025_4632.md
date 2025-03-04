@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:4632"
 published_in: ["Rechtspraak.nl", "NLF 2025/0792"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2233, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:4632 Rechtbank Den Haag , 04-03-2025 / AWB - 23 _ 5221
