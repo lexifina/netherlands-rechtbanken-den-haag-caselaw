@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:4635"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032610", "V-N Vandaag 2025/610", "FutD 2025-0668", "NLF 2025/0722", "NDFR Nieuws 2025/624", "Belastingadvies 2025/9.8", "V-N 2025/19.2.2"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032610", "V-N Vandaag 2025/610", "FutD 2025-0668", "NLF 2025/0722", "NDFR Nieuws 2025/624", "Belastingadvies 2025/9.8", "V-N 2025/19.2.2", "NTFR 2025/940 met annotatie van mr. C.C. van den Berg"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2775, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:4635 Rechtbank Den Haag , 04-03-2025 / AWB - 23 _ 8135
