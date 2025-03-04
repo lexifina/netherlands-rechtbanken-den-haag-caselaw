@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:4633"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032607", "V-N Vandaag 2025/638", "NDFR Nieuws 2025/580", "FutD 2025-0736", "NLF 2025/0793", "V-N 2025/22.2.6"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2231, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:4633 Rechtbank Den Haag , 04-03-2025 / AWB - 23 _ 6456
