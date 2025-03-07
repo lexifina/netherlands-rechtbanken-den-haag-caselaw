@@ -273,7 +273,7 @@ Wij hebben op 22 november 2023 geobserveerd.
 
 4. Het proces-verbaal van bevindingen, opgemaakt op 22 november 2023, voor zover inhoudende (p. 619):
 
-Op, woensdag 22 november 2023, was ik belast met het doorzoeken van een bestelbus. De bestelbus was voorzien van kenteken: VB056J.
+Op, woensdag 22 november 2023, was ik belast met het doorzoeken van een bestelbus. De bestelbus was voorzien van kenteken: [kenteken 2].
 
 Onder de zonneklep aan de bestuurderszijde trof ik drie witte envelopjes met de letter P aan.
 
