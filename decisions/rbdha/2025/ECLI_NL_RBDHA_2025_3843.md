@@ -10,6 +10,7 @@ procedure: "Tussenuitspraak"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:3843"
 published_in: ["Rechtspraak.nl", "JV 2025/105"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBDHA:2026:10757"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:257"]]
 ---
 
 # ECLI:NL:RBDHA:2025:3843 Rechtbank Den Haag , 12-03-2025 / NL24.24991 verwijzing
