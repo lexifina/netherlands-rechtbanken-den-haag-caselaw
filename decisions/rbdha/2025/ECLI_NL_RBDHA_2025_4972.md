@@ -10,6 +10,7 @@ procedure: "Op tegenspraak"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:4972"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1963"]]
 ---
 
 # ECLI:NL:RBDHA:2025:4972 Rechtbank Den Haag , 26-03-2025 / 09/150070-23
