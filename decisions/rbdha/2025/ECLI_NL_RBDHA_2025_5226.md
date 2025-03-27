@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:5226"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2025/139"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1869, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:5226 Rechtbank Den Haag , 27-03-2025 / SGR 24/10060
