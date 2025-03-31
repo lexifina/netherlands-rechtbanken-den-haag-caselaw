@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:10375"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:476, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:10375 Rechtbank Den Haag , 31-03-2025 / 24-7298
