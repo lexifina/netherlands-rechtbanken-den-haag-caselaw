@@ -1,0 +1,119 @@
+---
+ecli: "ECLI:NL:RBDHA:2025:5384"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL24.17225"
+decided: "2025-04-01"
+published: "2025-04-01"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:5384"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2025:5384 Rechtbank Den Haag , 01-04-2025 / NL24.17225
+
+## Inhoudsindicatie
+
+Ingangsdatum verblijfsvergunning asiel. Datum uiten asielwens. Beroep gegrond.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Groningen
+
+Bestuursrecht
+
+zaaknummer: NL24.17225
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam], V-nummer: [nummer], eiser
+
+(gemachtigde: mr. A. Khalaf),
+
+en
+
+de Minister van Asiel en Migratie (voorheen: de staatssecretaris van Veiligheid en Justitie), de minister
+
+(gemachtigde: A.N. Sap).
+
+Inleiding
+
+1. In deze uitspraak beoordeelt de rechtbank het beroep van eiser tegen het besluit van 27 maart 2024, waarbij de minister eisers aanvraag om een verblijfsvergunning asiel voor bepaalde tijd heeft ingewilligd. Het beroep richt zich tegen de ingangsdatum van de verblijfsvergunning.
+
+1.1.
+
+De minister heeft op verzoek van de rechtbank op het beroep gereageerd met een verweerschrift. De minister heeft de rechtbank toestemming gegeven om zonder zitting uitspraak te doen op het beroep.
+
+1.2.
+
+De rechtbank heeft eiser in de gelegenheid gesteld te reageren op het verweerschrift. Daarvan heeft eiser geen gebruik gemaakt. Eiser heeft evenmin binnen de door de rechtbank gestelde termijn laten weten dat hij ter zitting gehoord wil worden.
+
+1.3.
+
+De rechtbank heeft vervolgens het onderzoek gesloten. De rechtbank doet uitspraak zonder zitting.
+
+Beoordeling door de rechtbank
+
+2. De rechtbank beoordeelt of de minister de ingangsdatum van eisers verblijfsvergunning juist heeft vastgesteld. Zij doet dat aan de hand van de beroepsgronden van eiser.
+
+3. De rechtbank verklaart het beroep gegrond. Hierna legt de rechtbank uit hoe zij tot dit oordeel komt en welke gevolgen dit oordeel heeft.
+
+Waar gaat het beroep over?
+
+4. De minister heeft aan eiser een verblijfsvergunning asiel voor bepaalde tijd verleend. Deze verblijfsvergunning is geldig van 22 februari 2023 tot 22 februari 2028. Eiser is het niet eens met de ingangsdatum van de verblijfsvergunning. Hij vindt dat hij de verblijfsvergunning moet krijgen vanaf 20 februari 2023. Op deze datum heeft hij zich in het Aanmeldcentrum Ter Apel gemeld om asiel aan te vragen. Dat blijkt uit de loopbrief. Volgens eiser heeft de minister ten onrechte de ingangsdatum van de verblijfsvergunning vastgesteld op de datum waarop eiser het verplichte aanvraagformulier heeft ingediend.
+
+Heeft eiser belang bij het beroep?
+
+5. De minister vindt dat eiser geen actueel en reëel belang heeft bij de inhoudelijke beoordeling van het beroep. Het verschil tussen de datum waarop eiser de asielwens heeft geuit en de datum van het indienen van het aanvraagformulier is namelijk maar twee dagen. Dit tijdsverschil is volgens de minister zo klein dat de aanpassing van de ingangsdatum voor eiser geen feitelijke betekenis heeft. De minister vindt daarom dat de rechtbank het beroep niet-ontvankelijk moet verklaren.
+
+5.1.
+
+De rechtbank oordeelt dat eiser belang heeft bij een inhoudelijk oordeel en aanpassing van de ingangsdatum van zijn verblijfsvergunning. De minister heeft niet onderbouwd of concreet gemaakt dat de aanpassing voor eiser niet van feitelijke betekenis is. De minister stelt dat het gaat om een klein verschil. De rechtbank oordeelt dat een klein verschil nog niet betekent dat eiser geen enkel belang heeft bij een inhoudelijk oordeel over zijn beroep. Niet is uitgesloten dat een eerdere ingangsdatum van betekenis is voor latere verblijfsaanvragen of andere verstrekkingen. Eiser kan daarom door het instellen van beroep in een gunstigere positie komen. De rechtbank betrekt daarbij ook dat de Afdeling in de uitspraak van 20 januari 2025 niet heeft geoordeeld dat het tijdsverschil tussen het kenbaar maken van de asielwens en het indienen van de aanvraag met het aanvraagformulier van belang is voor het bepalen van de ingangsdatum. De rechtbank behandelt daarom het beroep hierna inhoudelijk.
+
+Heeft de minister de ingangsdatum van de verblijfsvergunning juist vastgesteld?
+
+6. De rechtbank oordeelt dat de minister de ingangsdatum van de verblijfsvergunning niet juist heeft vastgesteld. De minister heeft ten onrechte de datum waarop eiser het aanvraagformulier heeft ingediend als uitgangspunt genomen. Volgens de uitspraak van de Afdeling van 20 januari 2025 volgt uit de wet en het Unierecht dat een asielaanvraag is ontvangen op het moment dat een vreemdeling in persoon bij de autoriteiten zijn asielwens kenbaar heeft gemaakt. Dit moment kan bijvoorbeeld blijken uit de loopbrief. Uit de loopbrief blijkt dat eiser zijn asielwens op 20 februari 2023 kenbaar heeft gemaakt. Het beroep is daarom gegrond.
+
+Conclusie en gevolgen
+
+7. Het beroep is gegrond. De rechtbank vernietigt daarom het bestreden besluit, voor zover de minister daarin de ingangsdatum van de verblijfsvergunning asiel heeft vastgesteld op 22 februari 2023. Uit het oogpunt van definitieve geschillenbeslechting zal de rechtbank zelf in de zaak voorzien door de ingangsdatum van de verblijfsvergunning van eiser vast te stellen op 20 februari 2023 en te bepalen dat deze uitspraak in de plaats treedt van het vernietigde gedeelte van het besluit.
+
+8. De minister moet de proceskosten van eiser vergoeden. Deze vergoeding bedraagt € 907,- omdat de gemachtigde van eiser een beroepschrift heeft ingediend. De rechtbank ziet geen aanleiding om de wegingsfactor zeer licht toe te passen, zoals de minister heeft verzocht. De wegingsfactor is afhankelijk van het gewicht van de zaak. Behandeling van een zaak in de bezwaar-en beroepsprocedure behoort in beginsel tot de categorie gemiddeld, tenzij er duidelijke redenen zijn om hiervan af te wijken. Daarvan is in deze zaak niet gebleken. Dat alleen wordt geprocedeerd over de ingangsdatum van de verblijfsvergunning, is onvoldoende grond om een zodanige reden aan te nemen. De rechtbank ziet in de Afdelingsuitspraak van 20 januari 2025 ook geen aanknopingspunten om een lagere wegingsfactor toe te kennen.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart het beroep gegrond;
+
+- vernietigt het besluit van 27 maart 2024, voor zover daarin de ingangsdatum van de verblijfsvergunning asiel is vastgesteld op 22 februari 2023;
+
+- stelt de ingangsdatum van de verblijfsvergunning asiel vast op 20 februari 2023;
+
+- bepaalt dat deze uitspraak in de plaats treedt van het besluit van 27 maart 2024, voor zover dit besluit is vernietigd;
+
+- veroordeelt de minister in de proceskosten van eiser tot een bedrag van € 907,-
+
+Deze uitspraak is gedaan door mr. F.J. Sijens, rechter, in aanwezigheid van mr. M.C. Drenten-Boon, griffier, en openbaar gemaakt door middel van geanonimiseerde publicatie op rechtspraak.nl.
+
+De uitspraak is bekendgemaakt op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een beroepschrift. U moet dit beroepschrift indienen binnen 4 weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven.
+
+M35-H formulier.
+
+Afdeling bestuursrechtspraak van de Raad van State.
+
+ECLI:NL:RVS:2025:159, en herhaald in 10 februari 2025 (ECLI:NL:RVS:2025:489).
+
+Artikel 44, tweede lid, van de Vreemdelingenweet 2000.
+
+Artikel 8:72, derde lid, aanhef en onder b, van de Algemene wet bestuursrecht.
+
+Zie bijvoorbeeld de uitspraak van de Afdeling van 11 februari 2015, ECLI:NL:RVS:2015:408.
