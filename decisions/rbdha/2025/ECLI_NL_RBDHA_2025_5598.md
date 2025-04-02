@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:5598"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2025/57 met annotatie van mr. G.R. den Dekker"]
 ---
 
 # ECLI:NL:RBDHA:2025:5598 Rechtbank Den Haag , 02-04-2025 / C/09/659657
