@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:4547"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2681"]]
 ---
 
 # ECLI:NL:RBDHA:2025:4547 Rechtbank Den Haag , 03-04-2025 / 11239373 EL 24-9
