@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:5395"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2567, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:5395 Rechtbank Den Haag , 03-04-2025 / 23/7679
