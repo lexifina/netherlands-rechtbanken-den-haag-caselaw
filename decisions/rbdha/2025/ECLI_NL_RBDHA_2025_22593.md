@@ -10,6 +10,7 @@ procedure: "Tussenuitspraak"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:22593"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5905"]]
 ---
 
 # ECLI:NL:RBDHA:2025:22593 Rechtbank Den Haag , 11-04-2025 / NL24.42498
