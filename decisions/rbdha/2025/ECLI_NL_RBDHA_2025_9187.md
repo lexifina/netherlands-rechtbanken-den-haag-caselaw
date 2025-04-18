@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:9187"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4714, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:9187 Rechtbank Den Haag , 18-04-2025 / NL25.13011
