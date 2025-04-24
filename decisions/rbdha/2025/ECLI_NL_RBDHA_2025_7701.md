@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:7701"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0112", "OR-Updates.nl 2025-0124"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:3069"]]
 ---
 
 # ECLI:NL:RBDHA:2025:7701 Rechtbank Den Haag , 24-04-2025 / C/09/672992 / HA RK 24-526
