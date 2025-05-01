@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:7425"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2025/9261"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2584, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:7425 Rechtbank Den Haag , 01-05-2025 / 23/5510
