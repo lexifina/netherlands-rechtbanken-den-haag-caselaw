@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:8559"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2762, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:8559 Rechtbank Den Haag , 06-05-2025 / 11294214
