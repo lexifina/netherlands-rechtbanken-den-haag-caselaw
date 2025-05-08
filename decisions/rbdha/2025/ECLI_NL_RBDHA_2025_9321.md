@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:9321"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:654, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:9321 Rechtbank Den Haag , 08-05-2025 / C/09/682893 KG ZA 25-283
