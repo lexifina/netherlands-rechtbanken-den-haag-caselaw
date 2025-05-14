@@ -1,0 +1,93 @@
+---
+ecli: "ECLI:NL:RBDHA:2025:8456"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL24.9649"
+decided: "2025-05-14"
+published: "2025-05-14"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:8456"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2025:8456 Rechtbank Den Haag , 14-05-2025 / NL24.9649
+
+## Inhoudsindicatie
+
+Beroep tegen brief 24 januari 2024, einde tijdelijke bescherming
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Groningen
+
+Bestuursrecht
+
+zaaknummers: NL24.9649
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam], V-nummer: [nummer], eiser
+
+(gemachtigde: mr. A.J. de Boer),
+
+en
+
+de minister van Asiel en Migratie.
+
+Inleiding
+
+1. In deze uitspraak beslist de rechtbank over het beroep van eiser tegen een brief van de minister van 24 januari 2024.
+
+1.1.
+
+Omdat het beroep kennelijk niet-ontvankelijk is, doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
+
+Beoordeling door de rechtbank
+
+Inleiding
+
+2. In een besluit van de IND stond dat eisers recht op tijdelijke bescherming op 4 september 2023 zou stoppen. In september 2023 kreeg eiser een brief waarin stond dat hij langer gebruik mocht maken van de rechten van de Richtlijn Tijdelijke Bescherming en dat dit mocht tot de Afdeling bestuursrechtspraak van de Raad van State (Afdeling) uitspraak zou doen. De Afdeling heeft op 17 januari 2024 uitspraak gedaan.
+
+De brief van 24 januari 2024
+
+3. In de brief 24 januari 2024 staat dat eiser tot en met 4 maart 2024 onder de Richtlijn Tijdelijke Bescherming valt. Het recht op tijdelijke bescherming mocht volgens de Afdeling niet op 4 september 2023 stoppen. Daarom is 4 maart 2024 de laatste dag waarop eiser recht heeft op tijdelijke bescherming. De IND hoeft daarvoor geen nieuw besluit te nemen. Het oude besluit van de IND geldt niet meer. Dat besluit trekt de IND in. Eiser krijgt vóór 4 maart 2024 een nieuw terugkeerbesluit van de IND, aldus de brief. Tegen deze brief heeft eiser onderhavig beroep ingesteld.
+
+Het terugkeerbesluit en beëindiging tijdelijke bescherming
+
+4. Op 7 februari 2024 heeft de minister een nieuw terugkeerbesluit genomen. Ook daartegen heeft eiser beroep ingesteld. Dit beroep staat bekend onder zaaknummer NL24.7626. Bij uitspraak van vandaag heeft de rechtbank dat beroep onder verwijzing naar de uitspraken van de Afdeling van 23 april 2025 gegrond verklaard en het terugkeerbesluit van 7 februari 2024 vernietigd.
+
+5. In de uitspraken van 23 april 2025 heeft de Afdeling ook geoordeeld dat de tijdelijke bescherming is geëindigd op 4 maart 2024. Dit betekent dat eiser vanaf 4 maart 2024 geen recht meer heeft op verblijf in Nederland op grond van de Richtlijn Tijdelijke Bescherming.
+
+Oordeel van de rechtbank
+
+6. Gelet op de uitspraken van de Afdeling is de rechtbank van oordeel, los van de vraag of het onderhavige beroep tijdig is ingediend en los van de vraag of de brief van 24 januari 2024 op rechtsgevolg is gericht, dat geen aanleiding bestaat voor het oordeel dat de minister zich ten onrechte op het standpunt heeft gesteld dat de tijdelijke bescherming met ingang van 4 maart 2024 is geëindigd. In zoverre is het beroep ongegrond.
+
+7. Voor zover het beroep is gericht tegen het terugkeerbesluit, overweegt de rechtbank dat eiser geen belang meer heeft bij een beoordeling van het beroep, omdat de rechtbank het terugkeerbesluit van 7 februari 2024 met de uitspraak van vandaag (NL24.7626) heeft vernietigd. In zoverre is het beroep niet-ontvankelijk.
+
+Conclusie en gevolgen
+
+8. Het beroep voor zover gericht op het beëindigen van de tijdelijke bescherming is ongegrond en voor zover gericht tegen het terugkeerbesluit niet-ontvankelijk.
+
+9. De minister hoeft de door eiser gemaakte proceskosten niet te vergoeden.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep tegen het beëindigen van de tijdelijke bescherming ongegrond;
+
+verklaart het beroep tegen het terugkeerbesluit niet-ontvankelijk.
+
+Deze uitspraak is gedaan door mr. A.G.D. Overmars, rechter, in aanwezigheid van mr. M.A. Buikema, griffier en openbaar gemaakt door middel van geanonimiseerde publicatie op rechtspraak.nl.
+
+De uitspraak is openbaar en bekendgemaakt op:
+
+Informatie over verzet
+
+Als partijen het niet eens zijn met deze uitspraak, kunnen zij een verzetschrift sturen naar de rechtbank waarin zij uitleggen waarom zij het niet eens zijn met deze uitspraak. Het verzetschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Als partijen graag een zitting willen om het verzetschrift toe te lichten, moeten zij dit in het verzetschrift vermelden.
+
+Richtlĳn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tĳdelĳke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen.
