@@ -3,7 +3,7 @@ ecli: "ECLI:NL:RBDHA:2025:15893"
 court: "Rechtbank Den Haag"
 court_code: "RBDHA"
 docket: "C/09/684409 / FA RK 25-3213"
-decided: "2025-08-26"
+decided: "2025-05-21"
 published: "2025-08-26"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:158
 published_in: ["Rechtspraak.nl", "JGz 2025/66 met annotatie van mr. dr. B.J.M. Frederiks"]
 ---
 
-# ECLI:NL:RBDHA:2025:15893 Rechtbank Den Haag , 26-08-2025 / C/09/684409 / FA RK 25-3213
+# ECLI:NL:RBDHA:2025:15893 Rechtbank Den Haag , 21-05-2025 / C/09/684409 / FA RK 25-3213
 
 ## Inhoudsindicatie
 
