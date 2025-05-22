@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27920"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/633"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/633", "NTFR 2026/993 met annotatie van mr. G.C.A. de Wit"]
 ---
 
 # ECLI:NL:RBDHA:2025:27920 Rechtbank Den Haag , 22-05-2025 / SGR 24/3735 en SGR 25/2626
