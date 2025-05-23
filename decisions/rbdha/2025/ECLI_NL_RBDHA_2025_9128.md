@@ -1,0 +1,93 @@
+---
+ecli: "ECLI:NL:RBDHA:2025:9128"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL24.9711"
+decided: "2025-05-23"
+published: "2025-05-23"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:9128"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2025:9128 Rechtbank Den Haag , 23-05-2025 / NL24.9711
+
+## Inhoudsindicatie
+
+Terugkeerbesluit. Derdelander Oekraïne. Zelfstandig vertrek. Beroep N-O
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Groningen
+
+Bestuursrecht
+
+zaaknummer: NL24.9711
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam] , V-nummer: [nummer] , eiser
+
+(gemachtigde: mr. T. Bruinsma),
+
+en
+
+de minister van Asiel en Migratie.
+
+Inleiding
+
+1. Deze uitspraak gaat over het beroep dat eiser heeft ingediend omdat de minister een terugkeerbesluit heeft opgelegd.
+
+1.1.
+
+De minister heeft de rechtbank op 29 maart 2024 per brief bericht dat eiser zelfstandig is vertrokken uit Nederland.
+
+1.2.
+
+De rechtbank doet uitspraak zonder zitting.
+
+Beoordeling door de rechtbank
+
+2.	In uitspraken van 23 april 2025 heeft de Afdeling bestuursrechtspraak van de Raad van State (Afdeling) geoordeeld dat de minister in 2023 de tijdelijke bescherming van zogenoemde derdelanders in Nederland die daarvóór een tijdelijk verblijf hadden in Oekraïne, eerder mocht beëindigen dan de tijdelijke bescherming van Oekraïners, staatlozen en derdelanders met een permanent verblijf. De bescherming van derdelanders in Nederland die vóór het uitbreken van de oorlog tijdelijk verblijf hadden in Oekraïne, is geëindigd op 4 maart 2024. Dit betekent dat zij vanaf 4 maart 2024 geen recht hebben op verblijf in Nederland op grond van de Europese Richtlijn Tijdelijke Bescherming.
+
+2.1.
+
+In de aangehaalde uitspraken heeft de Afdeling ook geoordeeld dat de minister deze derdelanders vóór 4 maart 2024 niet mocht opdragen om de Europese Unie te verlaten door middel van het opleggen van een terugkeerbesluit.
+
+3.	In de situatie van eiser heeft de minister vóór 4 maart 2024 een terugkeerbesluit opgelegd. De rechtbank stelt vast dat eiser op 18 maart 2024 is vertrokken onder toezicht van de Dienst Terugkeer & Vertrek. De rechtbank oordeelt dat eiser geen belang meer heeft bij een inhoudelijke beoordeling van zijn beroepschrift tegen dit terugkeerbesluit omdat hij zelfstandig uit Nederland is vertrokken. De rechtbank verklaart het beroep kennelijk niet-ontvankelijk.
+
+Conclusie en gevolgen
+
+4. Het beroep is kennelijk niet-ontvankelijk. Dat betekent dat de rechtbank de zaak niet inhoudelijk beoordeelt.
+
+5. De minister moet de door eiser gemaakte proceskosten vergoeden, gelet op de onder 2.1 genoemde uitspraken van de Afdeling waarin is geoordeeld dat de minister het terugkeerbesluit niet heeft mogen opleggen. Deze kosten stelt de rechtbank vast op
+
+€ 907,00.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep niet-ontvankelijk;
+
+veroordeelt de minister in de proceskosten van eiser tot een bedrag van € 907,00.
+
+Deze uitspraak is gedaan door mr. A. Sibma, rechter, in aanwezigheid van mr. J. Dijkstra, griffier, en openbaar gemaakt door middel van gepseudonimiseerde publicatie op rechtspraak.nl.
+
+Deze uitspraak is openbaar en bekendgemaakt op:
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak, kunt u een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen zes weken na de dag waarop deze uitspraak is verzonden. U ziet deze datum hierboven. Als u graag een zitting wilt waarin u uw verzetschrift kunt toelichten, kunt u dit in uw verzetschrift vermelden.
+
+Artikel 8:54 van de Algemene wet bestuursrecht (Awb).
+
+ECLI:NL:RVS:2025:1829 (https://www.raadvanstate.nl/uitspraken/@149949/202401901-2-v3/), ECLI:NL:RVS:2025:1827 (https://www.raadvanstate.nl/uitspraken/@149947/202402020-3-v3/) en ECLI:NL:RVS:2025:1836 (https://www.raadvanstate.nl/uitspraken/@149956/202402066-2-v3/).
+
+Richtlĳn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tĳdelĳke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen.
+
+Op grond van het Besluit proceskosten bestuursrecht voor de door de gemachtigde verleende rechtsbijstand, waarbij 1 punt is gerekend voor het indienen van het beroepschrift met een waarde per punt van € 907,- en een wegingsfactor van 1.
