@@ -10,7 +10,6 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:9670"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:1710"]]
 ---
 
 # ECLI:NL:RBDHA:2025:9670 Rechtbank Den Haag , 26-05-2025 / C/09/24/117 R
