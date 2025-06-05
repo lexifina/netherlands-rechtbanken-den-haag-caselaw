@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:9385"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2273, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:9385 Rechtbank Den Haag , 05-06-2025 / 11261634 RL EXPL  24-12
