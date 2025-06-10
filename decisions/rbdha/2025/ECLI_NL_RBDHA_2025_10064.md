@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:10064"
-published_in: ["Rechtspraak.nl", "JV 2025/195 met annotatie van mr. J. ten Cate"]
+published_in: ["Rechtspraak.nl", "JV 2025/195 met annotatie van mr. J. ten Cate", "Computerrecht 2026/40 met annotatie van A.F. Tadema"]
 ---
 
 # ECLI:NL:RBDHA:2025:10064 Rechtbank Den Haag , 10-06-2025 / NL24.48882
