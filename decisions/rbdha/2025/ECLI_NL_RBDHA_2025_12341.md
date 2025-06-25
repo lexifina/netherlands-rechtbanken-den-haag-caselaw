@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:12341"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2025/139"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2936"]]
 ---
 
 # ECLI:NL:RBDHA:2025:12341 Rechtbank Den Haag , 25-06-2025 / 11295139 \ CV EXPL  24-2910
