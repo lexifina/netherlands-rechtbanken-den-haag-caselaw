@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:11370"
 published_in: ["Rechtspraak.nl", "JAAN 2025/153"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:35, Overig"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:35, Overig"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2883, Overig"]]
 ---
 
 # ECLI:NL:RBDHA:2025:11370 Rechtbank Den Haag , 25-06-2025 / C/09/674082 / HA ZA 24-889
