@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:11120"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "IER 2026/16 met annotatie van C.D. ten Heuvelhof, T. Geerlof"]
 ---
 
 # ECLI:NL:RBDHA:2025:11120 Rechtbank Den Haag , 25-06-2025 / 667550
