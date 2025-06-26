@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:11473"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025070803", "FutD 2025-1448", "VAAN-AR-Updates.nl 2025-0851", "AR-Updates.nl 2025-0851", "V-N Vandaag 2025/1635", "V-N 2025/38.20.8"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2455, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:11473 Rechtbank Den Haag , 26-06-2025 / 11624324 \ RP VERZ \ 25-50247
