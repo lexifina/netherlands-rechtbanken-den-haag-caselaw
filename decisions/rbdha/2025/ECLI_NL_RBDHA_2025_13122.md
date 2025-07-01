@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:13122"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025072404", "FutD 2025-1542", "V-N Vandaag 2025/1534", "NLF 2025/1603", "NDFR Nieuws 2025/1237", "V-N 2025/41.2.3", "NTFR 2025/1715 met annotatie van mr. D.C. Simonis"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1556, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:13122 Rechtbank Den Haag , 01-07-2025 / AWB - 24 _ 3718
