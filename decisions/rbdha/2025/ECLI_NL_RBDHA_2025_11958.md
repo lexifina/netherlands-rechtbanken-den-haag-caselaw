@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:11958"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:939"]]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:939"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:448"]]
 ---
 
 # ECLI:NL:RBDHA:2025:11958 Rechtbank Den Haag , 04-07-2025 / NL23.29544, NL23.29546, NL23.29548
