@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:11747"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/60.11"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1566, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:11747 Rechtbank Den Haag , 04-07-2025 / 09-400517-24
