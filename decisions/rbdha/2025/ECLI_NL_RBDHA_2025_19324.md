@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:19324"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1422", "VAAN-AR-Updates.nl 2025-1422"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1771, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:19324 Rechtbank Den Haag , 04-07-2025 / 11641162 \ RP VERZ 25-50276
