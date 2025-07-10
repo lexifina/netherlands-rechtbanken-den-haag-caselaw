@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:21561"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112002", "Sdu Nieuws Belastingzaken 2025/1285", "FutD 2025-2331", "V-N Vandaag 2025/2350", "NLF 2025/2552 met annotatie van Bastiaan Didden", "V-N 2025/56.2.2"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112002", "Sdu Nieuws Belastingzaken 2025/1285", "FutD 2025-2331", "V-N Vandaag 2025/2350", "NLF 2025/2552 met annotatie van mr. dr. B.M.M. Didden", "V-N 2025/56.2.2"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1808, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:21561 Rechtbank Den Haag , 10-07-2025 / AWB - 23 _ 8234
