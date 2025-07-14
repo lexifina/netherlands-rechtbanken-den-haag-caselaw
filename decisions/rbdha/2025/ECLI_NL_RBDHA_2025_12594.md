@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:12594"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.58"]
 ---
 
 # ECLI:NL:RBDHA:2025:12594 Rechtbank Den Haag , 14-07-2025 / 11787527 EJ VERZ 25-78044
