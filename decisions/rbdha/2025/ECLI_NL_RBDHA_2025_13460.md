@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht; Materieel strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:13460"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1748"]]
 ---
 
 # ECLI:NL:RBDHA:2025:13460 Rechtbank Den Haag , 23-07-2025 / 09/315141-24; 22/001656-22 (tul)
