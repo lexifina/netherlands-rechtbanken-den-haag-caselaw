@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:14212"
 published_in: ["Rechtspraak.nl", "JV 2025/232 met annotatie van prof. mr. G.N. Cornelisse"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5262, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:14212 Rechtbank Den Haag , 30-07-2025 / NL25.32908, 25.33558
