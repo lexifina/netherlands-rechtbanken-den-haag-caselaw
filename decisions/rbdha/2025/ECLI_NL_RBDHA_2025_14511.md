@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:14511"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/1983", "V-N 2025/46.2.4"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2345, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:14511 Rechtbank Den Haag , 31-07-2025 / 25/2229
