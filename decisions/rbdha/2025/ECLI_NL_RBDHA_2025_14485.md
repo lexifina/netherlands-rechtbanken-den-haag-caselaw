@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:14485"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/30 met annotatie van mr. drs. R.H. Zuijderhoudt"]
 ---
 
 # ECLI:NL:RBDHA:2025:14485 Rechtbank Den Haag , 01-08-2025 / 09/353060-24
