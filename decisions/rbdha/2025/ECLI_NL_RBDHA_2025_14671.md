@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Nu de last onder bestuursdwang op de juiste wijze is bekendgemaakt en ook anderszins geen sprake is van een uitzonderlijke situatie, komt de rechtbank slechts toe aan de beoordeling van de rechtmatigheid en de hoogte van de kostenverhaalbeschikking. Naar het oordeel van de rechtbank heeft verweerder de in rekening gebrachte kosten voldoende gespecificeerd. De rechtbank is evenwel van oordeel dat de situatie van de heer Blootshoofd en eiser niet gelijk en en het doorberekenen van 1873,08 euro onder de gegeven omstandigheden daarom niet leidt tot een evenredige uitkomst voor eiser. Beroep gegrond. De rechtbank voorzirt zelf in de zaak en bepaalt dat de op eiser te verhalen kosten worden vastgesteld op 500 euro.
+Nu de last onder bestuursdwang op de juiste wijze is bekendgemaakt en ook anderszins geen sprake is van een uitzonderlijke situatie, komt de rechtbank slechts toe aan de beoordeling van de rechtmatigheid en de hoogte van de kostenverhaalbeschikking. Naar het oordeel van de rechtbank heeft verweerder de in rekening gebrachte kosten voldoende gespecificeerd. De rechtbank is evenwel van oordeel dat de situatie van [naam] en eiser niet gelijk en en het doorberekenen van 1873,08 euro onder de gegeven omstandigheden daarom niet leidt tot een evenredige uitkomst voor eiser. Beroep gegrond. De rechtbank voorziet zelf in de zaak en bepaalt dat de op eiser te verhalen kosten worden vastgesteld op 500 euro.
 
 ## Uitspraak
 
