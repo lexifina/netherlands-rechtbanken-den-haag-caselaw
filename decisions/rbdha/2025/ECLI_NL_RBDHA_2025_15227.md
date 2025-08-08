@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:15227"
-published_in: ["Rechtspraak.nl", "EB 2025/79", "PJ 2025/115"]
+published_in: ["Rechtspraak.nl", "EB 2025/79", "PJ 2025/115", "PR-Updates.nl 2025-0147"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1362, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBDHA:2025:15227 Rechtbank Den Haag , 08-08-2025 / C/09/660174 / FA RK 24-456
