@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:16596"
-published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2025-0300"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2025-0300", "JGz 2026/52 met annotatie van prof. dr. C.L. Mulder"]
 ---
 
 # ECLI:NL:RBDHA:2025:16596 Rechtbank Den Haag , 25-08-2025 / C/09/689363 / FA RK 25-5785
