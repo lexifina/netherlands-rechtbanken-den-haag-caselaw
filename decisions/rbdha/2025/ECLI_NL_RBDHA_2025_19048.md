@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:19048"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2808, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:19048 Rechtbank Den Haag , 27-08-2025 / C/09/689529 / KG ZA 25-771
