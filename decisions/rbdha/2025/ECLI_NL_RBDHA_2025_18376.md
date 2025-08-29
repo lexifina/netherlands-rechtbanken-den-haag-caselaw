@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Beroep niet tijdig gericht tegen niet tijdig genomen beslissing over asiel aanvraag, beroep niet-ontvankelijk.
+Beroep niet tijdig gericht tegen niet tijdig genomen beslissing over asiel aanvraag, beroep niet-ontvankelijk. (ZIE OOK: ECLI:NL:RBDHA:2026:21819)
 
 ## Uitspraak
 
