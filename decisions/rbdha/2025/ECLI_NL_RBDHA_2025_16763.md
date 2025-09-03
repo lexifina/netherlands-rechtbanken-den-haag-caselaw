@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Vorderingen over en weer op grond van ouderschapsplan
+Geschil tussen ex-echtgenoten. Vorderingen over en weer op grond van het ouderschapsplan.
 
 ## Uitspraak
 
