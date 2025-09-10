@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-overeenkomst niet nagekomen, geldlening
+Eiser stelt dat hij een bedrag van € 50.000,00 heeft uitgeleend aan gedaagde, waarvan nog € 11.100,00 openstaat dat hij terugvordert. Gedaagde betwist dat sprake is van een geldige en afdwingbare leningsovereenkomst. Indien en voor zover eiser een vordering heeft op gedaagde, geldt dat gedaagde al bedragen heeft voldaan die moeten worden verrekend. Tot slot voert gedaagde aan dat hij geen geldige ingebrekestelling heeft ontvangen van eiser. Gevorderde hoofdsom toegewezen. Gevorderde contractuele rente eveneens toegewezen.
 
 ## Uitspraak
 
