@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:18603"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:1932, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:18603 Rechtbank Den Haag , 02-10-2025 / C/09/690159 / KG ZA 25-822
