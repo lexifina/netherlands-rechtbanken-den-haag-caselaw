@@ -10,6 +10,7 @@ procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27263"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021706", "V-N Vandaag 2026/315", "FutD 2026-0320", "NLF 2026/0365", "NDFR Nieuws 2026/344", "V-N 2026/11.2.1", "NTFR 2026/463 met annotatie van mr. C.H. Strating"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2042, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:27263 Rechtbank Den Haag , 09-10-2025 / AWB - 23 _ 7820
