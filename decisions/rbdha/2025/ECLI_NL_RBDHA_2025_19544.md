@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:19544"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2026/13 met annotatie van S. Moonen"]
 ---
 
 # ECLI:NL:RBDHA:2025:19544 Rechtbank Den Haag , 15-10-2025 / SGR 22/1516 OCT95
