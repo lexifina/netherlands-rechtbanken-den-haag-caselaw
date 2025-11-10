@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:21039"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/146"]
 ---
 
 # ECLI:NL:RBDHA:2025:21039 Rechtbank Den Haag , 10-11-2025 / C/09/692838 / KG ZA 25-1001
