@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:21648"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1500", "VAAN-AR-Updates.nl 2025-1500"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2834, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:21648 Rechtbank Den Haag , 12-11-2025 / 11769531 \ EJ VERZ  25-83004
