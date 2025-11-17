@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:21447"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5562, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2025:21447 Rechtbank Den Haag , 17-11-2025 / NL25.26669 (beroep) NL25.26670 (voorlopige voorziening)
