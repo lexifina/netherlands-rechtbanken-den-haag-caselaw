@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:23413"
-published_in: ["Rechtspraak.nl", "RF 2026/27"]
+published_in: ["Rechtspraak.nl", "RF 2026/26"]
 ---
 
 # ECLI:NL:RBDHA:2025:23413 Rechtbank Den Haag , 17-11-2025 / 09-115818-24
