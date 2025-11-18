@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:21657"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0241"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0241", "JOR 2026/147 met annotatie van prof. mr. A.J. Tekstra"]
 ---
 
 # ECLI:NL:RBDHA:2025:21657 Rechtbank Den Haag , 18-11-2025 / 11240463 RL EXPL 24-14537 (hoofdzaak)
