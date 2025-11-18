@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27612"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2026-0102"]
 ---
 
 # ECLI:NL:RBDHA:2025:27612 Rechtbank Den Haag , 18-11-2025 / C/09/691335 / HA RK 25-488
