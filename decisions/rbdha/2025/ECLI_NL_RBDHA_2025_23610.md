@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:23610"
-published_in: ["Rechtspraak.nl", "RI 2026/22"]
+published_in: ["Rechtspraak.nl", "RI 2026/22", "JOR 2026/118 met annotatie van mr. B.Y. Houtackers"]
 ---
 
 # ECLI:NL:RBDHA:2025:23610 Rechtbank Den Haag , 19-11-2025 / C/09/679409 HA ZA 25-114
