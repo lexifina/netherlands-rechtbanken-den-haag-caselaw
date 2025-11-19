@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:21768"
-published_in: ["Rechtspraak.nl", "PJ 2026/6 met annotatie van E. Lutjens"]
+published_in: ["Rechtspraak.nl", "PJ 2026/6 met annotatie van E. Lutjens", "PR-Updates.nl 2025-0209"]
 ---
 
 # ECLI:NL:RBDHA:2025:21768 Rechtbank Den Haag , 19-11-2025 / 11583607 RL EXPL 25-4335
