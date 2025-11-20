@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:26997"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0081"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:565, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:26997 Rechtbank Den Haag , 20-11-2025 / C/09/691230 KG ZA 25-886
