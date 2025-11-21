@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:22000"
 published_in: ["Rechtspraak.nl", "JV 2026/66 met annotatie van mr. dr. H. Oosterom-Staples"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3427, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBDHA:2025:22000 Rechtbank Den Haag , 21-11-2025 / NL24.35493
