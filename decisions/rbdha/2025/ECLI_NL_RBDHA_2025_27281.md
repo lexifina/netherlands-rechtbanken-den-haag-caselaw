@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:RBDHA:2025:27281"
 court: "Rechtbank Den Haag"
 court_code: "RBDHA"
-docket: "NL25.15376"
+docket: "NL25.15358"
 decided: "2025-11-24"
 published: "2026-02-09"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:272
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:RBDHA:2025:27281 Rechtbank Den Haag , 24-11-2025 / NL25.15376
+# ECLI:NL:RBDHA:2025:27281 Rechtbank Den Haag , 24-11-2025 / NL25.15358
 
 ## Inhoudsindicatie
 
