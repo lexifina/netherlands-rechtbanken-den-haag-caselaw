@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:22543"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0251", "OR-Updates.nl 2025-0249", "RI 2026/13", "JONDR 2026/199"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0251", "OR-Updates.nl 2025-0249", "RI 2026/13", "JONDR 2026/199", "JOR 2026/94 met annotatie van mr. F.J. Verhagen"]
 ---
 
 # ECLI:NL:RBDHA:2025:22543 Rechtbank Den Haag , 26-11-2025 / C/09/672906 / HA ZA 24-824
