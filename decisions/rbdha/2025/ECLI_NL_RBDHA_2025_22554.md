@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBDHA:2025:22554"
 court: "Rechtbank Den Haag"
 court_code: "RBDHA"
 docket: "NL25.41810"
-decided: "2025-11-28"
+decided: "2025-11-27"
 published: "2025-11-28"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:22554"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3091, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:RBDHA:2025:22554 Rechtbank Den Haag , 28-11-2025 / NL25.41810
+# ECLI:NL:RBDHA:2025:22554 Rechtbank Den Haag , 27-11-2025 / NL25.41810
 
 ## Inhoudsindicatie
 
