@@ -1,0 +1,143 @@
+---
+ecli: "ECLI:NL:RBDHA:2025:25375"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "C/09/676884 / FA RK 24-8780"
+decided: "2025-11-28"
+published: "2025-12-29"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht; Personen- en familierecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:25375"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2025:25375 Rechtbank Den Haag , 28-11-2025 / C/09/676884 / FA RK 24-8780
+
+## Inhoudsindicatie
+
+vaststellen geboortegegevens
+
+## Uitspraak
+
+Rechtbank DEN HAAG
+
+Enkelvoudige kamer
+
+Rekestnummer: FA RK 24-8780
+
+Zaaknummer: C/09/676884
+
+Datum beschikking: 28 november 2025
+
+Vaststellen geboortegegevens
+
+Beschikking op het op 5 december 2025 ingekomen verzoekschrift van:
+
+[verzoekster],
+
+verzoekster,
+
+wonende op een bij de rechtbank bekend adres,
+
+advocaat: mr. C.A.E.C.J. Hooft te Gilze.
+
+Als belanghebbende wordt aangemerkt:
+
+de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage,
+
+zetelend te ’s-Gravenhage,
+
+hierna te noemen: de ambtenaar.
+
+Procedure
+
+De rechtbank heeft kennisgenomen van de stukken, waaronder:
+
+- het verzoekschrift, met bijlagen;
+
+- het F9-formulier van 10 december 2024 van de zijde van verzoekster, met bijlagen;
+
+- de brief van 18 februari 2025 van de ambtenaar, met bijlagen;
+
+- het F9-formulier van 3 juni 2025 van de zijde van verzoekster, met bijlagen;
+
+- de brief van 17 juni 2025 van de ambtenaar.
+
+Op 31 oktober 2025 is de zaak ter zitting van deze rechtbank behandeld in de vorm van een gecombineerde behandeling van zowel het onderhavige verzoek als de verzoeken van de drie kinderen van verzoekster. Op laatstgenoemde verzoeken is bij afzonderlijke beschikkingen van 28 november 2025 beslist.
+
+Ter zitting zijn verschenen:
+
+verzoekster, haar zoon [naam 1] en haar dochter [naam 2], bijgestaan door mr. R.G.J. van Kerkhof, waarnemend voor mr. Hooft en M. Masshoor, een tolk;
+
+[naam 3], namens de ambtenaar.
+
+Verzoek en verweer
+
+Het verzoek strekt ertoe dat de rechtbank de voor het opmaken van de geboorteakte van verzoeker noodzakelijke gegevens zal vaststellen zoals vermeld onder punt 6 van het verzoekschrift, voor zover mogelijk met uitvoerbaarverklaring bij voorraad.
+
+De ambtenaar voert verweer.
+
+Feiten
+
+- Verzoekster is bij Koninklijk Besluit van 21 november 2005 met nummer 05.004311, genaturaliseerd. Hierbij is de geslachtsnaam vastgesteld als “[geslachtsnaam]” en de voornaam als “[voornaam]”.
+
+- In de registers van de Burgerlijke Stand van de gemeente ’s-Gravenhage komt geen geboorteakte van verzoekster voor.
+
+- In de Basisregistratie Personen (BRP) staat verzoekster geregistreerd met de geslachtsnaam “[geslachtsnaam]” en de voornaam “[voornaam]”, geboren op [geboortedatum 1]1960 te [geboorteplaats], [land].
+
+- In de BRP is als nationaliteit van verzoekster opgenomen: Nederlandse.
+
+Beoordeling
+
+Rechtsmacht en toepasselijk recht
+
+Omdat verzoekster de Nederlandse nationaliteit bezit, acht de rechtbank het verzoek voldoende met de Nederlandse rechtssfeer verbonden, zodat, gelet op het bepaalde in artikel 3, aanhef en onder c van het Wetboek van Burgerlijke Rechtsvordering, de Nederlandse rechter rechtsmacht toekomt.
+
+Het verzoek tot vaststelling van de geboortegegevens is gegrond op artikel 1:25c van het Burgerlijk Wetboek (BW). De rechtbank zal op dit verzoek Nederlands recht als haar interne recht toepassen.
+
+Inhoudelijke beoordeling
+
+Ingevolge artikel 1:25c, lid 1, BW, kan deze rechtbank, indien ten aanzien van een buiten Nederland geboren persoon geen akte van geboorte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie is opgemaakt of kan worden overgelegd, op verzoek van het openbaar ministerie, van een belanghebbende of van de ambtenaar, de voor het opmaken van een geboorteakte noodzakelijke gegevens vaststellen, indien:
+
+die persoon Nederlander is of te eniger tijd Nederlander dan wel Nederlands onderdaan niet-Nederlander is geweest;
+
+die persoon rechtmatig verblijft op grond van artikel 8, onder c en d, van de Vreemdelingenwet 2000;
+
+op grond van Boek 1 van het Burgerlijk Wetboek een latere vermelding aan de akte van geboorte moet worden toegevoegd.
+
+Nu verzoekster de Nederlandse nationaliteit heeft, kan zij worden ontvangen in haar verzoek.
+
+Hier te lande is geen geboorteakte ten name van verzoekster ingeschreven en onder de overgelegde stukken bevindt zich evenmin de benodigde geboorteakte ten name van verzoekster. Verzoekster heeft echter aannemelijk gemaakt niet te kunnen beschikken over de benodigde overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte geboorteakte.
+
+Verzoekster voert aan dat zij veel last ondervindt van het feit dat haar geboortedatum op dit moment als [geboortedatum 1]1960 geregistreerd is. Op de zitting is nader toegelicht dat zij bij verschillende instanties een geboortedatum moest opgeven die geregistreerd kon worden. Zij heeft toen gekozen voor [geboortedatum 2] 1960. Zij geeft aan er daarom belang bij te hebben dat haar geboortedatum wordt vastgesteld op [geboortedatum 2] 1960. Vaststelling van een andere datum zou immers betekenen dat ook haar registraties bij allerlei instanties moeten worden gewijzigd.
+
+De ambtenaar voert verweer tegen het verzoek. Op de door verzoekster ingediende huwelijksakte is opgenomen dat verzoekster in 1977 17 jaar oud was. Uit de Taskera waar de ambtenaar over beschikt blijkt echter dat verzoekster in 1980 17 jaar oud was. Daarnaast is er een verklaring van het Afghaanse Consulaat-Generaal waaruit blijkt dat de geboortedatum van verzoekster 20 november 1960 is, waarbij de ambtenaar opmerkt dat het onderliggende stuk waar deze datum op gebaseerd zou zijn niet aangetroffen is. Gelet op deze tegenstrijdigheden meent de ambtenaar dat niet kan worden vastgesteld wat de juiste geboortedatum van verzoekster is en dat het verzoek daarom moet worden afgewezen.
+
+De rechtbank overweegt als volgt. Op de zitting is door de dochter van verzoekster nader toegelicht dat het gezin in het verleden geprobeerd heeft om de bij hen bekende geboortedata van alle gezinsleden te laten registreren in het kader van de naturalisatie. Dit verzoek is destijds afgewezen, omdat deze data niet met zekerheid konden worden vastgesteld. De rechtbank is daarom van oordeel dat zij nu ook niet zonder meer deze gegevens als vaststaand kan aannemen, te meer nu uit het standpunt van de ambtenaar blijkt dat er meerdere mogelijke data zijn zodat niet kan worden vastgesteld wat de juiste geboortedatum moet zijn. De rechtbank overweegt in dat kader dat de openbare orde zich in beginsel verzet tegen opname van onzekere c.q. onjuiste gegevens in de registers van de burgerlijke stand en dat onjuiste geboortedata niet vervangen zouden moeten worden door geboortedata waarvan de juistheid eveneens onzeker is.
+
+Gelet echter op de door verzoekster geschetste problemen die zij ondervindt door de huidige registratie van een niet bestaande geboortedatum en het door verzoekster gestelde belang bij vaststelling van een bestaande geboortedatum, zal de rechtbank conform het verzoek een concrete geboortedatum vaststellen, te weten [geboortedatum 2] 1960. Het openbare belang dat zich in beginsel verzet tegen opname van onzekere dan wel onjuiste gegevens in de registers van de burgerlijke stand acht de rechtbank ondergeschikt aan de belangen van verzoekster bij het vaststellen van een bestaande geboortedatum.
+
+Uitvoerbaar bij voorraad
+
+Nu de aard van de zaak zich verzet tegen het uitvoerbaar bij voorraad verklaren van de beschikking, zal de rechtbank het hiertoe strekkend verzoek afwijzen.
+
+Beslissing
+
+De rechtbank:
+
+stelt de volgende voor het opmaken van een geboorteakte noodzakelijke gegevens vast:
+
+Geslachtsnaam			: [voornaam]
+
+Voornaam			: -
+
+Geboortedatum			: [geboortedatum 2] 1960
+
+Geboorteplaats			: [geboorteplaats], [land]
+
+Geslacht				: V (vrouwelijk)
+
+wijst af het meer of anders verzochte.
+
+Deze beschikking is gegeven door mr. C. de Jong-Kwestro, bijgestaan door mr. N.C. Gantenbein als griffier, en uitgesproken ter openbare terechtzitting van 28 november 2025.
