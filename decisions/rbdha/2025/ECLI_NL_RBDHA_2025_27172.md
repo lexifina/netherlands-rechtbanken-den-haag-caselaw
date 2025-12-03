@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27172"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/97 met annotatie van mr. A.F. Vandewall, mr. drs. W. van Hilten"]
 ---
 
 # ECLI:NL:RBDHA:2025:27172 Rechtbank Den Haag , 03-12-2025 / AWB 23/4546
