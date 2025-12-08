@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:23988"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/617", "V-N 2026/16.2.3"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/617", "V-N 2026/16.2.3", "NDFR Nieuws 2026/707", "NTFR 2026/881 met annotatie van mr. L. Ketner"]
 ---
 
 # ECLI:NL:RBDHA:2025:23988 Rechtbank Den Haag , 08-12-2025 / 24_2376
