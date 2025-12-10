@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:24723"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RF 2026/41"]
 ---
 
 # ECLI:NL:RBDHA:2025:24723 Rechtbank Den Haag , 10-12-2025 / C/09/688980 / HA ZA 25-650
