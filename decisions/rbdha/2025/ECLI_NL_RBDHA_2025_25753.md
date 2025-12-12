@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:25753"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/119 met annotatie van mr. H. de Voer"]
 ---
 
 # ECLI:NL:RBDHA:2025:25753 Rechtbank Den Haag , 12-12-2025 / SGR 24/2638
