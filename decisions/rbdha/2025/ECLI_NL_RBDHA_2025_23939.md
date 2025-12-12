@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:23939"
-published_in: ["Rechtspraak.nl", "Prg. 2026/54", "JOR 2026/62 met annotatie van mr. E.A.H. ten Berge"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/54", "JOR 2026/62 met annotatie van mr. E.A.H. ten Berge", "JHV 2026/15 met annotatie van mr. E.A.H. ten Berge", "WR 2026/79"]
 ---
 
 # ECLI:NL:RBDHA:2025:23939 Rechtbank Den Haag , 12-12-2025 / 11953267
