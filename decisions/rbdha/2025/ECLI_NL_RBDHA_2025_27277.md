@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27277"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/30", "INS-Updates.nl 2026-0048", "PJ 2026/42 met annotatie van E. Lutjens"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/30", "INS-Updates.nl 2026-0048", "PJ 2026/42 met annotatie van E. Lutjens", "JOR 2026/139 met annotatie van mr. dr. A.M. Mennens"]
 ---
 
 # ECLI:NL:RBDHA:2025:27277 Rechtbank Den Haag , 15-12-2025 / C/09/694519 / KG ZA 25-1122
