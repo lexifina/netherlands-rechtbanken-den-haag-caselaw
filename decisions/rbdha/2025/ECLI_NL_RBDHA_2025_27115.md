@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27115"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/70", "Computerrecht 2026/116 met annotatie van G. van Til"]
 ---
 
 # ECLI:NL:RBDHA:2025:27115 Rechtbank Den Haag , 23-12-2025 / C/09/691174 KG ZA 25-880
