@@ -18,6 +18,8 @@ published_in: ["Rechtspraak.nl"]
 
 Vergunninghoudster heeft op  een omgevingsvergunning aangevraagd voor het plaatsen van een hek tussen de Telesiastraat en de Wilsonweg in Hillegom.  De vergunning is van rechtswege was verleend omdat het college niet binnen acht weken op de aanvraag had beslist. Beroep van omwonenden, toetsing kruimelgevallenbeleid, openbaren veiligheid, participatie, detournement de pouvoir. ongegrond.
 
+Hersteluitspraak gedaan op 20-07-2026, ECLI:NL:RBDHA:2026:19779.
+
 ## Uitspraak
 
 RECHTBANK DEN HAAG
@@ -28,7 +30,7 @@ zaaknummer: SGR 24/7281
 
 uitspraak van de enkelvoudige kamer van 23 december 2025 in de zaak tussen
 
-[eiseres] uit [woonplaats] , eiseres(gemachtigden: mr. W. Visser en R. Semrek)
+[eiseres] uit [woonplaats] , eiseres(gemachtigden: mr. W. Visser en [gemachtigde])
 
 en
 
