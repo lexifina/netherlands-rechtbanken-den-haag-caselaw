@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:25456"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/166 met annotatie van mr. J.M. Blanco Fernández", "JONDR 2026/609"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBDHA:2026:16928"]]
 ---
 
 # ECLI:NL:RBDHA:2025:25456 Rechtbank Den Haag , 24-12-2025 / C/09/664938 / HA ZA 24-338
