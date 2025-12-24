@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27705"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0479", "VAAN-AR-Updates.nl 2026-0479"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0479", "VAAN-AR-Updates.nl 2026-0479", "RAR 2026/94"]
 ---
 
 # ECLI:NL:RBDHA:2025:27705 Rechtbank Den Haag , 24-12-2025 / C/09/694542 / KG ZA 25-1123
