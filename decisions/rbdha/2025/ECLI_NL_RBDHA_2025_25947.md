@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:25947"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/286"]
 ---
 
 # ECLI:NL:RBDHA:2025:25947 Rechtbank Den Haag , 29-12-2025 / C/09/695497 KG RK 25-1649
