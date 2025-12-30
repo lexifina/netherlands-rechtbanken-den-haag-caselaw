@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2025:27334"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2026-0071"]
 ---
 
 # ECLI:NL:RBDHA:2025:27334 Rechtbank Den Haag , 30-12-2025 / C/09/675146 / FA RK 24-7883
