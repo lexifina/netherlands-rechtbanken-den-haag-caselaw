@@ -18,6 +18,8 @@ published_in: ["Rechtspraak.nl"]
 
 Echtscheiding met nevenvoorzieningen en alimentatie voor de jongmeerderjarige
 
+Hersteluitspraak 10-9-2026: ECLI:NL:RBDHA:2026:29926
+
 ## Uitspraak
 
 Rechtbank DEN HAAG
