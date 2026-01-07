@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:700"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0033", "Sdu Nieuws Insolventierecht 2026/33"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0033", "Sdu Nieuws Insolventierecht 2026/33", "JOR 2026/113 met annotatie van mr. drs. N.B. Pannevis", "RI 2026/50"]
 ---
 
 # ECLI:NL:RBDHA:2026:700 Rechtbank Den Haag , 07-01-2026 / C/09/696198, FT RK 25-866
