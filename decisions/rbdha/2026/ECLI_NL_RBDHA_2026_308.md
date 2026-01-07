@@ -1,0 +1,116 @@
+---
+ecli: "ECLI:NL:RBDHA:2026:308"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL25.40246"
+decided: "2026-01-07"
+published: "2026-01-09"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:308"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2026:308 Rechtbank Den Haag , 07-01-2026 / NL25.40246
+
+## Inhoudsindicatie
+
+Beroep niet tijdig, asiel, WBV 2023/3, beroep gegrond, overschrijding 21-maandentermijn, beslistermijn van 8 weken
+
+## Uitspraak
+
+uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Utrecht Bestuursrecht zaaknummer: NL25.40246
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[eiser 1] , met V-nummer: [V-nummer] ,
+
+[eiser 2]
+, met V-nummer: [V-nummer] , [eiser 3], met V-nummer: [V-nummer] , hierna gezamenlijk: eisers
+
+(gemachtigde: mr. S.J. Koolen), en
+
+de minister van Asiel en Migratie, de minister.
+
+Procesverloop
+
+Deze uitspraak gaat over het beroep dat eisers hebben ingediend, omdat de minister volgens hen niet op tijd heeft beslist op hun aanvragen tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd (hierna: aanvragen).
+
+Overwegingen
+
+1. De rechtbank vindt het in deze zaak niet nodig om partijen uit te nodigen voor een zitting.1
+
+2. Als een bestuursorgaan niet op tijd op een aanvraag beslist, dan kan de betrokkene daartegen in beroep gaan. Voordat hij beroep kan instellen, moet de betrokkene schriftelijk aan het bestuursorgaan laten weten dat binnen twee weken alsnog moet worden beslist op zijn aanvraag (de zogenoemde ingebrekestelling). Als er na twee weken nog steeds geen besluit is genomen, dan kan de betrokkene beroep instellen.2
+
+Is het beroep van eisers gegrond?
+
+3. De minister heeft de aanvragen op 4 december 2023 ontvangen. De minister moet uiterlijk binnen zes maanden na ontvangst van de aanvragen beslissen.3 De minister heeft deze termijn onder toepassing van WBV 2023/34 met negen maanden verlengd.5 Eisers
+
+1. Artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb).
+
+2 Artikel 6:2, onder b, en 6:12, tweede lid, van de Awb.
+
+3 Artikel 42 van de Vreemdelingenwet 2000 (Vw).
+
+4 Staatscourant van 8 februari 2023, nr. 3235.
+
+5 Artikel 42, vierde lid, aanhef en onder b, van de Vw.
+
+hebben de minister op 6 augustus 2025 in gebreke gesteld. Dat is hoe dan ook tijdig geweest, ongeacht de vraag over de rechtmatigheid van WBV 2023/3.6 Eisers hebben meer dan twee weken na de ingebrekestellingen beroep ingesteld tegen het niet tijdig beslissen op de aanvragen. Het beroep is kennelijk gegrond.
+
+Welke nadere beslistermijn legt de rechtbank aan de minister op?
+
+4. De rechtbank geeft de minister in beginsel een termijn van twee weken na de dag van verzending van de uitspraak om alsnog een besluit te nemen. Er kunnen omstandigheden zijn die ervoor zorgen dat de rechtbank een andere termijn geeft.7 In deze zaak is dit aan de orde.
+
+5. De rechtbank stelt vast dat dat de termijn van 21 maanden waarbinnen de minister de aanvragen moet hebben behandeld inmiddels is overschreden.8 De rechtbank overweegt dat de 21-maandentermijn ziet op de beslistermijn. Dit moet worden onderscheiden van de nadere termijn die de rechtbank met deze uitspraak oplegt. Bij het bepalen van een passende nadere beslistermijn maakt de rechtbank een afweging. Daarbij houdt zij rekening met het belang van zowel snelle als zorgvuldige besluitvorming.9 De omstandigheid dat de 21-maandentermijn is overschreden, is één van de aspecten die de rechtbank in deze afweging meeweegt. Ook houdt de rechtbank er rekening mee dat uit de beschikbare stukken blijkt dat eisers nog niet zijn gehoord omtrent hun asielmotieven. De rechtbank bepaalt daarom dat de minister binnen acht weken na de dag van verzending van deze uitspraak besluiten op de aanvragen bekend moet maken.
+
+Legt de rechtbank de minister een rechterlijke dwangsom op?
+
+6. De rechtbank verbindt aan haar uitspraak een dwangsom overeenkomstig het beleid dat de rechtbanken in dit verband hanteren.10 De rechtbank bepaalt in deze zaak dat de minister een dwangsom van € 100,- moet betalen voor elke dag waarmee de minister de in de uitspraak bepaalde beslistermijn nu nog overschrijdt. Daarbij geldt een maximum van € 15.000,-.
+
+Conclusie en gevolgen
+
+7. Het beroep is gegrond. Dat betekent dat eisers gelijk krijgen en dat de minister binnen acht weken alsnog besluiten op de aanvragen bekend moet maken. Als de minister dat niet doet, verbeurt hij een dwangsom.
+
+8. Omdat het beroep gegrond is, krijgen eisers ook een vergoeding voor de proceskosten die zij hebben gemaakt. De minister moet dit betalen. Volgens het Besluit proceskosten bestuursrecht is dit een vast bedrag, omdat eisers een professionele (juridische) hulpverlener hebben ingeschakeld om voor hen een beroepschrift in te dienen. Omdat de zaak alleen gaat over de vraag of de beslistermijn is overschreden, wordt een lager bedrag toegekend. Verder zijn er geen kosten gemaakt die vergoed kunnen worden. Toegekend wordt € 467,- (1 punt
+
+6 Zie ECLI:EU:C:2025:326.
+
+7 Artikel 8:55d, eerste en derde lid, van de Awb.
+
+8 Artikel 31, vijfde lid, van de Procedurerichtlijn.
+
+9 ECLI:NL:RVS:2020:1560.
+
+10 Artikel 8:55d, tweede lid, van de Awb. Zie https://www.rechtspraak.nl/Onderwerpen/Overheidsorganisatie-beslist-niet-op-tijd/Paginas/extra-dwangsom.aspx.
+
+voor het indienen van het beroepschrift, met een waarde per punt van € 934,- en een wegingsfactor 0,5).
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het met besluiten gelijk te stellen niet tijdig nemen van besluiten;
+
+draagt de minister op om binnen acht weken na de dag van verzending van deze uitspraak alsnog besluiten op de aanvragen bekend te maken;
+
+bepaalt dat de minister aan eisers een dwangsom van € 100,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 15.000,-;
+
+veroordeelt de minister in de proceskosten van eisers tot een bedrag van € 467,-.
+
+Deze uitspraak is gedaan door mr. A. Skerka, rechter, in aanwezigheid van mr. A.W. van Eerden, griffier.
+
+De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:
+
+07 januari 2026
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak kunt een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen zes weken na de dag waarop deze uitspraak is verzonden. Als u graag een zitting wilt waarbij u persoonlijk uw mening aan de rechter kunt geven, kunt u dit in uw verzetschrift aangeven.
