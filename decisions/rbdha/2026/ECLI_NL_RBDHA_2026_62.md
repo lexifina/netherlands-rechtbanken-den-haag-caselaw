@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:62"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2026/52", "Sdu Nieuws Personen- en familierecht 2026/39", "JERF Actueel 2026/13", "ERF-Updates.nl 2026-0053", "VEAN-ERF-Updates.nl 2026-0053", "VFP 2026/39"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2026/52", "Sdu Nieuws Personen- en familierecht 2026/39", "JERF Actueel 2026/13", "ERF-Updates.nl 2026-0053", "VEAN-ERF-Updates.nl 2026-0053", "VFP 2026/39", "JERF 2026/109 met annotatie van prof. mr. F.W.J.M. Schols"]
 ---
 
 # ECLI:NL:RBDHA:2026:62 Rechtbank Den Haag , 07-01-2026 / C/09/683598 / HA ZA 25-321
