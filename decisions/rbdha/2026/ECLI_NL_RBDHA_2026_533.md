@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:533"
-published_in: ["Rechtspraak.nl", "Notamail 2026/17", "Sdu Nieuws Personen- en familierecht 2026/62", "RVR 2026/23", "RN 2026/26"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/17", "Sdu Nieuws Personen- en familierecht 2026/62", "RVR 2026/23", "RN 2026/26", "JOR 2026/112 met annotatie van mr. J.H.M. van de Wiel"]
 ---
 
 # ECLI:NL:RBDHA:2026:533 Rechtbank Den Haag , 07-01-2026 / 682131
