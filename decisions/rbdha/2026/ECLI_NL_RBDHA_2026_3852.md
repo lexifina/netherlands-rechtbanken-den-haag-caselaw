@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3852"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/156 met annotatie van mr. E. Schmieman", "JONNDR 2026/606"]
 ---
 
 # ECLI:NL:RBDHA:2026:3852 Rechtbank Den Haag , 12-01-2026 / C/09/685403 / HA RK 25-258
