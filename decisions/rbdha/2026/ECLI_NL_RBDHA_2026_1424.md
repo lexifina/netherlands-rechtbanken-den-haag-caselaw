@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1424"
-published_in: ["Rechtspraak.nl", "Notamail 2026/32"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/32", "RN 2026/65"]
 ---
 
 # ECLI:NL:RBDHA:2026:1424 Rechtbank Den Haag , 14-01-2026 / C/09/684286 / HA ZA 25-361
