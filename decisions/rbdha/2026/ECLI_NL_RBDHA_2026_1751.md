@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1751"
-published_in: ["Rechtspraak.nl", "Notamail 2026/40", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/58", "GJ 2026/30 met annotatie van mr. dr. A.G.H. Klaassen"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/40", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/58", "GJ 2026/30 met annotatie van mr. dr. A.G.H. Klaassen", "JOR 2026/124 met annotatie van mr. P.H.N. Quist", "JONDR 2026/531"]
 ---
 
 # ECLI:NL:RBDHA:2026:1751 Rechtbank Den Haag , 14-01-2026 / C/09/692511/ HA RK 25-568
