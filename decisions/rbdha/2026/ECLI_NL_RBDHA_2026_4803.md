@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:4803"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0164"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0164", "GZR-Updates.nl 2026-0067"]
 ---
 
 # ECLI:NL:RBDHA:2026:4803 Rechtbank Den Haag , 15-01-2026 / SGR 24/8871
