@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1217"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/94 met annotatie van mr. dr. A.M. Reneman"]
 ---
 
 # ECLI:NL:RBDHA:2026:1217 Rechtbank Den Haag , 20-01-2026 / NL24.27169
