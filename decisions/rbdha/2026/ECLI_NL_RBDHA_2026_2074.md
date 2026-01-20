@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:2074"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/258 met annotatie van J. Mastenbroek"]
 ---
 
 # ECLI:NL:RBDHA:2026:2074 Rechtbank Den Haag , 20-01-2026 / 24/7387
