@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:851"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BIE 2026-3, nr. 6 met annotatie van Roderick Chalmers Hoynck van Papendrecht", "IER 2026/25 met annotatie van J.M. Boelens"]
 ---
 
 # ECLI:NL:RBDHA:2026:851 Rechtbank Den Haag , 20-01-2026 / 694213
