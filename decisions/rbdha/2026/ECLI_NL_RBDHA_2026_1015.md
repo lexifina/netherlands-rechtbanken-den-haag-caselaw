@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1015"
-published_in: ["Rechtspraak.nl", "O&A 2026/14", "NJFCZ 2026/132"]
+published_in: ["Rechtspraak.nl", "O&A 2026/14", "NJFCZ 2026/132", "JA 2026/57"]
 ---
 
 # ECLI:NL:RBDHA:2026:1015 Rechtbank Den Haag , 21-01-2026 / C/09/678183 / HA ZA 25-29
