@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:8365"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042006", "V-N Vandaag 2026/763", "NDFR Nieuws 2026/618", "Sdu Nieuws Belastingzaken 2026/536"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042006", "V-N Vandaag 2026/763", "NDFR Nieuws 2026/618", "Sdu Nieuws Belastingzaken 2026/536", "FutD 2026-0720", "NTFR 2026/816 met annotatie van drs. M.J.J.R. van Mourik", "V-N 2026/21.1.4"]
 ---
 
 # ECLI:NL:RBDHA:2026:8365 Rechtbank Den Haag , 21-01-2026 / AWB - 25 _ 3698
