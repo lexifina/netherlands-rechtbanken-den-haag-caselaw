@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3477"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/155"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/155", "JPF 2026/126 met annotatie van mr. dr. H.J. Weijers"]
 ---
 
 # ECLI:NL:RBDHA:2026:3477 Rechtbank Den Haag , 22-01-2026 / C/09/674939 / FA RK 24-7786
