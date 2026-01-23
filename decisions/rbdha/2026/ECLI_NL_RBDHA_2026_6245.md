@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:6245"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040707", "V-N Vandaag 2026/664", "Sdu Nieuws Belastingzaken 2026/471", "Sdu Nieuws Personen- en familierecht 2026/210", "FutD 2026-0638", "NDFR Nieuws 2026/590"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040707", "V-N Vandaag 2026/664", "Sdu Nieuws Belastingzaken 2026/471", "Sdu Nieuws Personen- en familierecht 2026/210", "FutD 2026-0638", "NDFR Nieuws 2026/590", "NTFR 2026/801 met annotatie van mr. drs. A.J. Meijer", "V-N 2026/25.2.3", "VFP 2026/85"]
 ---
 
 # ECLI:NL:RBDHA:2026:6245 Rechtbank Den Haag , 23-01-2026 / AWB - 24 _ 9651
