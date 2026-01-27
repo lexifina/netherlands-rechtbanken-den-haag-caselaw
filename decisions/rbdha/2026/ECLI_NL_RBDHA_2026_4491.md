@@ -140,7 +140,7 @@ Aantal bevindingen. Pa haat mij hij greep me om mijn nek. Eindelijk eerlijkheid 
 
 - Naar de school van [de minderjarige 1] op 25 november 2025
 
-[de minderjarige 1] ervaart angst klachten bij juffen van Casa en gevoel van negeren. Ik zal de namen uiteraard om privacy redenen niet noemen.
+[de minderjarige 1] ervaart angst klachten bij juffen van [school] en gevoel van negeren. Ik zal de namen uiteraard om privacy redenen niet noemen.
 
 Ik ben iemand die direct is en geen meldingen doet bij Veilig Thuis of andere hulpverleners. Wel denk ik dat het goed is dat [de minderjarige 1] wat adempauze krijgt. Hij is na zijn verhaal weer een open jongen geworden, maar wil hem nu voorzichtig hierin opbouwen.
 
@@ -188,7 +188,7 @@ Op 13 december 2025 een mail aan de moeder over het zien van de kinderen en “o
 
 Bericht in de nacht van 18 december aan [de minderjarige 2] :
 
-Doorgestuurd: ik sla een jaar over. [naam 2] heeft er voor gezorgd dat er meerdere keren politie op mijn kids is afgestuurd met onware beschuldigingen en mij uitgesloten van alle systemen van VoetbalAssist. Mijn kinderen zijn mishandeld en hun vader verstootte en eerst zal ik alles herstellen ook op het Hoogeind. Vrede zal uiteindelijk komen maar niet nu.
+Doorgestuurd: ik sla een jaar over. [naam 2] heeft er voor gezorgd dat er meerdere keren politie op mijn kids is afgestuurd met onware beschuldigingen en mij uitgesloten van alle systemen van [bedrijf] . Mijn kinderen zijn mishandeld en hun vader verstootte en eerst zal ik alles herstellen ook op het [bedrijf] . Vrede zal uiteindelijk komen maar niet nu.
 
 (.. diverse foto’s)
 
