@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:4722"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0174"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0174", "JA 2026/71 met annotatie van mr. E.A.L. van Emden"]
 ---
 
 # ECLI:NL:RBDHA:2026:4722 Rechtbank Den Haag , 28-01-2026 / C/09/671254 / HA ZA 24-711
