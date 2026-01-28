@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1344"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/29", "JM 2026/33 met annotatie van W.Th. Douma", "JA 2026/38 met annotatie van mr. D. Delger, S. van Deursen", "O&A 2026/15", "NJFCZ 2026/119", "JOR 2026/90 met annotatie van mr. S.T. Pennink"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/29", "JM 2026/33 met annotatie van W.Th. Douma", "JA 2026/38 met annotatie van mr. D. Delger, S. van Deursen", "O&A 2026/15", "NJFCZ 2026/119", "JOR 2026/90 met annotatie van mr. S.T. Pennink", "AB 2026/114 met annotatie van L.M. Nijenhuis", "TvPP 2026/33, p.115 met annotatie van mr. A.P. Koburg", "M en R 2026/95 met annotatie van F.M. van Beek"]
 ---
 
 # ECLI:NL:RBDHA:2026:1344 Rechtbank Den Haag , 28-01-2026 / C/09/659832 / HA ZA 24-53
