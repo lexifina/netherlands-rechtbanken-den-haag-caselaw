@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1824"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/52"]
 ---
 
 # ECLI:NL:RBDHA:2026:1824 Rechtbank Den Haag , 28-01-2026 / C/09/687965 / HA ZA 25-595
