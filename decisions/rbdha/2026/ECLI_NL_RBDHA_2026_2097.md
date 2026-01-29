@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:2097"
-published_in: ["Rechtspraak.nl", "RN 2026/25", "RO 2026/31"]
+published_in: ["Rechtspraak.nl", "RN 2026/25", "RO 2026/31", "JONDR 2026/359"]
 ---
 
 # ECLI:NL:RBDHA:2026:2097 Rechtbank Den Haag , 29-01-2026 / C/09/693174 HA RK 25-593
