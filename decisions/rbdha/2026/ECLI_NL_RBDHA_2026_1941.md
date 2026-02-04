@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1941"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RO 2026/42", "JONDR 2026/612"]
 ---
 
 # ECLI:NL:RBDHA:2026:1941 Rechtbank Den Haag , 04-02-2026 / C/09/687041 / HA ZA 25-540
@@ -80,7 +80,7 @@ De feiten
 
 2.1.	‘
 
-[partij A sub 1] ’ is een garagebedrijf in [plaats] (hierna: de garage). In eerste instantie is het bedrijf geëxploiteerd door [partij A sub 2] als eenmanszaak. Nadat [partij B sub 1] ongeveer een jaar als (deeltijd) werknemer heeft meegewerkt hebben [partij A  sub 2 en 3] c.s. en [partij B] c.s. op 24 februari 2017 de vof opgericht met het oogmerk om de garage samen te exploiteren. [partij A sub 2] en [partij B sub 1] repareerden en onderhielden auto’s en [partij A sub 3] en Pottuit verrichtten administratieve en ondersteunende werkzaamheden.
+[partij A sub 1] ’ is een garagebedrijf in [plaats] (hierna: de garage). In eerste instantie is het bedrijf geëxploiteerd door [partij A sub 2] als eenmanszaak. Nadat [partij B sub 1] ongeveer een jaar als (deeltijd) werknemer heeft meegewerkt hebben [partij A  sub 2 en 3] c.s. en [partij B] c.s. op 24 februari 2017 de vof opgericht met het oogmerk om de garage samen te exploiteren. [partij A sub 2] en [partij B sub 1] repareerden en onderhielden auto’s en [partij A sub 3] en [partij B sub 2] verrichtten administratieve en ondersteunende werkzaamheden.
 
 2.2.
 
