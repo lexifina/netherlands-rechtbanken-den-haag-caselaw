@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:2170"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0280"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0280", "TAR 2026/17"]
 ---
 
 # ECLI:NL:RBDHA:2026:2170 Rechtbank Den Haag , 04-02-2026 / 11979018 EJ VERZ 25-83492 en 11983588 EJ VERZ 25-83507
