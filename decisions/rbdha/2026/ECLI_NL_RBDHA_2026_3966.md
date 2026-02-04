@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3966"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VR 2026/105"]
 ---
 
 # ECLI:NL:RBDHA:2026:3966 Rechtbank Den Haag , 04-02-2026 / 11430299 MB VERZ 24-22543
