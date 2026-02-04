@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:2519"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/120"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/120", "JBPr 2026/41 met annotatie van mr. M.C. van Leyenhorst"]
 ---
 
 # ECLI:NL:RBDHA:2026:2519 Rechtbank Den Haag , 04-02-2026 / C/09/680176 / HA RK 25-65
