@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:7548"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041402", "FutD 2026-0681", "V-N Vandaag 2026/771"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041402", "FutD 2026-0681", "V-N Vandaag 2026/771", "V-N 2026/20.2.3", "Belastingblad 2026/264 met annotatie van L.L.C. Blom"]
 ---
 
 # ECLI:NL:RBDHA:2026:7548 Rechtbank Den Haag , 05-02-2026 / AWB - 25 _ 1607
