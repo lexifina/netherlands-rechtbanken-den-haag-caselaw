@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3555"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042307", "V-N Vandaag 2026/806"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042307", "V-N Vandaag 2026/806", "FutD 2026-0787", "V-N 2026/20.2.2"]
 ---
 
 # ECLI:NL:RBDHA:2026:3555 Rechtbank Den Haag , 09-02-2026 / 24_9593
