@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5203"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032402", "V-N Vandaag 2026/559", "FutD 2026-0547", "V-N 2026/18.18.2"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032402", "V-N Vandaag 2026/559", "FutD 2026-0547", "V-N 2026/18.18.2", "Belastingadvies 2026/13-14.1"]
 ---
 
 # ECLI:NL:RBDHA:2026:5203 Rechtbank Den Haag , 10-02-2026 / SGR 24/6583
