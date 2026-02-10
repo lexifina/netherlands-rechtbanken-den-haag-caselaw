@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5204"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032402", "FutD 2026-0547", "NDFR Nieuws 2026/496"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032402", "FutD 2026-0547", "NDFR Nieuws 2026/496", "NTFR 2026/838 met annotatie van mr. P.A. van Tilburg"]
 ---
 
 # ECLI:NL:RBDHA:2026:5204 Rechtbank Den Haag , 10-02-2026 / SGR 24/6585
