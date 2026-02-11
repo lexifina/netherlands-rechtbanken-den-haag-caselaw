@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:4703"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "IER 2026/45 met annotatie van P.J. Kreijger"]
 ---
 
 # ECLI:NL:RBDHA:2026:4703 Rechtbank Den Haag , 11-02-2026 / C/09/681422 / HA ZA 25-217
