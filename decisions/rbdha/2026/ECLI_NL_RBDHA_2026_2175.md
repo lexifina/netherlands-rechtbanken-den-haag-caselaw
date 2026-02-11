@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:2175"
-published_in: ["Rechtspraak.nl", "JBO 2026/7 met annotatie van Redactie", "JBO 2026/12 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "JBO 2026/7 met annotatie van Redactie", "JBO 2026/12 met annotatie van Redactie", "Jurisprudentie HSE 2026/16", "M en R 2026/81 met annotatie van F.T. Ribeiro Bártolo, R. Bruijnsteen"]
 ---
 
 # ECLI:NL:RBDHA:2026:2175 Rechtbank Den Haag , 11-02-2026 / C/09/665509 / HA ZA 24-374
