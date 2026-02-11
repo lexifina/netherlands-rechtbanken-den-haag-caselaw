@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:2180"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/75 met annotatie van W.M. van den Bosch", "RVR 2026/34"]
 ---
 
 # ECLI:NL:RBDHA:2026:2180 Rechtbank Den Haag , 11-02-2026 / C/09/689485 / HA ZA 25-675
