@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3821"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/77"]
 ---
 
 # ECLI:NL:RBDHA:2026:3821 Rechtbank Den Haag , 12-02-2026 / 693519
