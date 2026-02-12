@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:1975"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0254", "AR-Updates.nl 2026-0254", "Sdu Nieuws Arbeidsrecht 2026/73"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0254", "AR-Updates.nl 2026-0254", "Sdu Nieuws Arbeidsrecht 2026/73", "TRA 2026/47 met annotatie van D.J. Buijs"]
 ---
 
 # ECLI:NL:RBDHA:2026:1975 Rechtbank Den Haag , 12-02-2026 / 11430804 RP VERZ 24-50701
