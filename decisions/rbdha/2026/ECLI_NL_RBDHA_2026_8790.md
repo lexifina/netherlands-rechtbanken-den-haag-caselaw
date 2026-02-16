@@ -96,7 +96,7 @@ Beoordeling door de rechtbank
 
 Het asielrelaas
 
-3. Eiser legt aan zijn asielaanvraag het volgende ten grondslag. Eiser is 25 jaar en komt uit Malawi. Sinds november 2024 is hij lid van de [organisatie] (hierna: [organisatie]). Hij heeft op 26 december 2024 en op 6 januari 2025 tijdens evenementen van de [organisatie] gesproken. Tijdens het evenement op 6 januari 2025 werd hij aangevallen. Van deze aanval is aangifte gedaan bij de politie. Ook moest eiser naar het ziekenhuis voor behandeling van zijn letsel. Na zijn ontslag uit het ziekenhuis heeft hij per e-mail doodsbedreigingen ontvangen en is er een groep mannen aan zijn deur gekomen om hem te ontvoeren. Eiser kon ontsnappen en is kort daarna naar Nederland gereisd. Eiser stelt dat hij wordt gezocht door de autoriteiten in Malawi en dat hij bij terugkeer levensgevaar loopt. Eiser heeft ter onderbouwing van zijn asielrelaas de volgende documenten overgelegd:
+3. Eiser legt aan zijn asielaanvraag het volgende ten grondslag. Eiser is 25 jaar en komt uit Malawi. Sinds november 2024 is hij lid van de [organisatie] (hierna: [organisatie] ). Hij heeft op 26 december 2024 en op 6 januari 2025 tijdens evenementen van de [organisatie] gesproken. Tijdens het evenement op 6 januari 2025 werd hij aangevallen. Van deze aanval is aangifte gedaan bij de politie. Ook moest eiser naar het ziekenhuis voor behandeling van zijn letsel. Na zijn ontslag uit het ziekenhuis heeft hij per e-mail doodsbedreigingen ontvangen en is er een groep mannen aan zijn deur gekomen om hem te ontvoeren. Eiser kon ontsnappen en is kort daarna naar Nederland gereisd. Eiser stelt dat hij wordt gezocht door de autoriteiten in Malawi en dat hij bij terugkeer levensgevaar loopt. Eiser heeft ter onderbouwing van zijn asielrelaas de volgende documenten overgelegd:
 
 - zijn paspoort met reisstempels;
 
@@ -106,7 +106,7 @@ Het asielrelaas
 
 - foto's van verwondingen;
 
-- een schermafbeelding van zijn digitale [organisatie]-lidmaatschapskaart;
+- een schermafbeelding van zijn digitale [organisatie] -lidmaatschapskaart;
 
 - een schermafbeelding van een Whatsappgroep.
 
@@ -118,7 +118,7 @@ Het bestreden besluit
 
 2. Problemen vanwege politieke activiteiten.
 
-De minister heeft het eerste asielmotief geloofwaardig bevonden. De minister heeft het tweede asielmotief niet geloofwaardig bevonden. De minister acht het geloofwaardig dat eiser lid is van de [organisatie], maar acht het niet geloofwaardig dat eiser door zijn lidmaatschap problemen heeft ondervonden. Eiser heeft namelijk geen oprechte inspanningen geleverd om de doodsbedreigingen te overleggen die hij per e-mail zou hebben ontvangen. Eisers verklaringen over zijn aanwezigheid op de [organisatie]-evenementen komen daarnaast niet
+De minister heeft het eerste asielmotief geloofwaardig bevonden. De minister heeft het tweede asielmotief niet geloofwaardig bevonden. De minister acht het geloofwaardig dat eiser lid is van de [organisatie] , maar acht het niet geloofwaardig dat eiser door zijn lidmaatschap problemen heeft ondervonden. Eiser heeft namelijk geen oprechte inspanningen geleverd om de doodsbedreigingen te overleggen die hij per e-mail zou hebben ontvangen. Eisers verklaringen over zijn aanwezigheid op de [organisatie] -evenementen komen daarnaast niet
 
 overeen met de reisstempels in zijn paspoort. Ook komen eisers verklaringen niet overeen met de rapporten van de politie en het ziekenhuis die hij heeft overgelegd. Daarnaast heeft eiser summier verklaard over zijn ontsnapping van de groep mannen die aan zijn deur kwam. Verder heeft de minister het ongeloofwaardig geacht dat eiser gezocht zou worden door de autoriteiten, aangezien hij legaal en probleemloos Malawi uit heeft kunnen reizen. Omdat eiser volgens de minister kennelijk inconsequent, tegenstrijdig en vals heeft verklaard, heeft de minister de aanvraag van eiser afgewezen als kennelijk ongegrond. De minister heeft daarbij een terugkeerbesluit tegen eiser uitgevaardigd en aan hem een inreisverbod voor de duur van twee jaren opgelegd.
 
@@ -182,7 +182,7 @@ De rechtbank volgt eiser niet in zijn stelling dat hij oprechte inspanningen hee
 
 De rechtbank is van oordeel dat de minister het asielrelaas van eiser niet ten onrechte ongeloofwaardig heeft bevonden. De minister heeft mogen betrekken dat uit de stempels in eisers paspoort volgt dat hij niet in Malawi was ten tijde van het
 
-[organisatie]-evenement van 26 december 2024. De minister heeft mogen vinden dat deze ongerijmdheid ook afbreuk doet aan de geloofwaardigheid van eisers deelname aan het [organisatie]-evenement op 6 januari 2025, tijdens welk evenement eiser stelt te zijn aangevallen. Ook heeft de minister het bevreemdend mogen vinden dat zowel het politierapport als het rapport van het ziekenhuis zijn afgestempeld op 3 maart 2025 en dat beide stempels met pen zijn aangepast naar 6 januari 2025. Daarnaast heeft de minister het tegenstrijdig mogen achten dat in het politierapport staat dat eiser zelf aangifte heeft gedaan, maar dat eiser heeft verklaard dat een vriend van hem voor hem aangifte heeft gedaan. De minister heeft ook mogen betrekken dat eiser legaal en probleemloos is uitgereisd en dat dit niet strookt met zijn eigen verklaring dat de autoriteiten naar hem op zoek zijn.
+[organisatie] -evenement van 26 december 2024. De minister heeft mogen vinden dat deze ongerijmdheid ook afbreuk doet aan de geloofwaardigheid van eisers deelname aan het [organisatie] -evenement op 6 januari 2025, tijdens welk evenement eiser stelt te zijn aangevallen. Ook heeft de minister het bevreemdend mogen vinden dat zowel het politierapport als het rapport van het ziekenhuis zijn afgestempeld op 3 maart 2025 en dat beide stempels met pen zijn aangepast naar 6 januari 2025. Daarnaast heeft de minister het tegenstrijdig mogen achten dat in het politierapport staat dat eiser zelf aangifte heeft gedaan, maar dat eiser heeft verklaard dat een vriend van hem voor hem aangifte heeft gedaan. De minister heeft ook mogen betrekken dat eiser legaal en probleemloos is uitgereisd en dat dit niet strookt met zijn eigen verklaring dat de autoriteiten naar hem op zoek zijn.
 
 9.3.
 
