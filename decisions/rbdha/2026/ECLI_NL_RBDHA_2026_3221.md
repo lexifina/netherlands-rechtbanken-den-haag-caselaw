@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3221"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0350", "VAAN-AR-Updates.nl 2026-0350", "JAR 2026/93 met annotatie van mr. A. van Welie, mr. D. Schwartz"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0350", "VAAN-AR-Updates.nl 2026-0350", "JAR 2026/93 met annotatie van mr. A. van Welie, mr. D. Schwartz", "RAR 2026/80", "TRA 2026/60 met annotatie van R.D. Poelstra"]
 ---
 
 # ECLI:NL:RBDHA:2026:3221 Rechtbank Den Haag , 18-02-2026 / 11699043 \ CV EXPL  25-1532
