@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Europees civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:2981"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "O&A 2026/48"]
 ---
 
 # ECLI:NL:RBDHA:2026:2981 Rechtbank Den Haag , 18-02-2026 / C/09/682584 / HA ZA 25-284
