@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3261"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0136", "VEAN-ERF-Updates.nl 2026-0136", "JERF Actueel 2026/53"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0136", "VEAN-ERF-Updates.nl 2026-0136", "JERF Actueel 2026/53", "JERF 2026/79"]
 ---
 
 # ECLI:NL:RBDHA:2026:3261 Rechtbank Den Haag , 18-02-2026 / C/09/676470 / HA ZA 24-1019
