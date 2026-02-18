@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5687"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0218", "JERF Actueel 2026/96"]
 ---
 
 # ECLI:NL:RBDHA:2026:5687 Rechtbank Den Haag , 18-02-2026 / C/09/687565 / HA ZA 25-567
