@@ -34,7 +34,7 @@ Scheiding met nevenvoorzieningen
 
 Beschikking op het op 14 november 2024 ingekomen verzoek van:
 
-[de vrouw],
+[de vrouw] ,
 
 de vrouw,
 
@@ -44,7 +44,7 @@ advocaat: mr. E.R. Boertje te Rotterdam.
 
 Als belanghebbende wordt aangemerkt:
 
-[de man],
+[de man] ,
 
 de man,
 
@@ -86,11 +86,11 @@ de man, bijgestaan door zijn advocaat.
 
 Feiten
 
-Partijen zijn gehuwd op [datum] 1995 te [plaats 1].
+Partijen zijn gehuwd op [datum] 1995 te [plaats 1] .
 
-Zij zijn de ouders van de [jongmeerderjarige], geboren op [geboortedatum 1] 2006.
+Zij zijn de ouders van de [jongmeerderjarige] , geboren op [geboortedatum 1] 2006.
 
-Zij zijn ook de ouders van de inmiddels [meerderjarige], geboren op [geboortedatum 2] 2004 te [geboorteplaats], [geboorteland].
+Zij zijn ook de ouders van de inmiddels [meerderjarige] , geboren op [geboortedatum 2] 2004 te [geboorteplaats] , [geboorteland] .
 
 Partijen zijn gehuwd in gemeenschap van goederen.
 
@@ -108,7 +108,7 @@ Bovendien heeft de man, zelfstandig verzocht om de echtscheiding, met nevenvoorz
 
 - de verdeling van de tussen partijen bestaande gemeenschap van goederen als volgt vast te stellen:
 
-- te bepalen dat de echtelijke woning te ([postcode]) [plaats 2] aan het adres [adres] dient te worden verkocht waarna de opbrengst bij helfte dient te worden verdeeld conform een ‘spoorboekje’;
+- te bepalen dat de echtelijke woning te ( [postcode] ) [plaats 2] aan het adres [adres] dient te worden verkocht waarna de opbrengst bij helfte dient te worden verdeeld conform een ‘spoorboekje’;
 
 - te bepalen dat de saldi op de gezamenlijke bankrekeningen bij de ING en de Triodosbank van partijen per peildatum bij helfte tussen partijen worden verdeeld;
 
@@ -124,11 +124,11 @@ De vrouw voert verweer, welk verweer hierna – voor zover nodig – zal worden 
 
 Bovendien heeft de vrouw, na wijziging, aanvullend verzocht:
 
-te bepalen dat de vrouw per datum van de te geven beschikking gerechtigd is tot het uitsluitend gebruik van de woning aan de [adres] te ([postcode]) [plaats 2], alsmede tot de daarbij behorende inboedel en de man te bevelen de woning niet (verder) te betreden;
+te bepalen dat de vrouw per datum van de te geven beschikking gerechtigd is tot het uitsluitend gebruik van de woning aan de [adres] te ( [postcode] ) [plaats 2] , alsmede tot de daarbij behorende inboedel en de man te bevelen de woning niet (verder) te betreden;
 
 de verdeling van de (ontbonden) gemeenschap van goederen vast te stellen inhoudende:
 
-- te bepalen dat de man voor de helft dient bij te dragen in de eigenaarslasten van de woning aan de [adres] te ([postcode]) [plaats 2] ad € 370,- per maand vanaf 14 november 2024 tot aan de datum van overdracht van de woning aan (een) derde(n) en daarbij te bepalen dat de man aan de vrouw dient te voldoen € 80,05 ten behoeve van de sinds juli 2025 door hem te weinig betaalde eigenaarslasten;
+- te bepalen dat de man voor de helft dient bij te dragen in de eigenaarslasten van de woning aan de [adres] te ( [postcode] ) [plaats 2] ad € 370,- per maand vanaf 14 november 2024 tot aan de datum van overdracht van de woning aan (een) derde(n) en daarbij te bepalen dat de man aan de vrouw dient te voldoen € 80,05 ten behoeve van de sinds juli 2025 door hem te weinig betaalde eigenaarslasten;
 
 - te bepalen dat de inboedelgoederen van partijen worden verdeeld, conform de inboedellijsten van partijen die als productie 35 in het geding zijn gebracht en daarbij te bepalen dat de inboedel wordt toebedeeld aan de vrouw tegen een waarde van € 3.000,-, onder de verplichting voor de vrouw om € 1.500,- aan de man te vergoeden;
 
@@ -150,7 +150,7 @@ te bepalen dat de man binnen vier weken na datum van de te wijzen beschikking aa
 
 de wijze van de verdeling van de erfrechtelijke verkrijging van de man uit hoofde van de nalatenschap van zijn moeder vast te stellen althans te bepalen waarbij de man de helft van de gekapitaliseerde waarde van zijn vordering aan de vrouw dient te voldoen binnen zes weken na datum van de te wijzen beschikking althans de wijze van de verdeling te bepalen zoals uw rechtbank in goede justitie juist acht met vermeerdering van de wettelijke rente vanaf datum ontbinding van het huwelijk;
 
-te bepalen dat de man met ingang van de datum indiening verzoekschrift, althans 1 juli 2025, althans bij datum zoals de rechtbank in goede justitie juist acht, aan [jongmeerderjarige], zal voldoen als bijdrage van de kosten van studie en levensonderhoud het bedrag van € 532,- per maand, althans een bijdrage zoals uw rechtbank in goede justitie juist acht, bij vooruitbetaling te voldoen door het bedrag over te maken (uiterlijk) op de eerste dag van de kalendermaand op door [jongmeerderjarige] aan te wijzen bankrekening;
+te bepalen dat de man met ingang van de datum indiening verzoekschrift, althans 1 juli 2025, althans bij datum zoals de rechtbank in goede justitie juist acht, aan [jongmeerderjarige] , zal voldoen als bijdrage van de kosten van studie en levensonderhoud het bedrag van € 532,- per maand, althans een bijdrage zoals uw rechtbank in goede justitie juist acht, bij vooruitbetaling te voldoen door het bedrag over te maken (uiterlijk) op de eerste dag van de kalendermaand op door [jongmeerderjarige] aan te wijzen bankrekening;
 
 te bepalen dat de man met ingang van de datum indiening verzoekschrift, althans 1 juli 2025, althans bij datum zoals uw rechtbank in goede justitie juist acht, aan de vrouw zal voldoen € 1.689,- bruto als bijdrage van de kosten van levensonderhoud van de vrouw, althans een bijdrage zoals uw rechtbank in goede justitie juist acht, bij vooruitbetaling te voldoen door dit bedrag over te maken (uiterlijk) op de eerste dag van de kalendermaand op een door de vrouw aan te wijzen bankrekening;
 
@@ -200,7 +200,7 @@ Behoeftigheid en aanvullende behoefte
 
 De man betwist dat de vrouw behoeftig is. Volgens de man kan de vrouw worden geacht zelf volledig in haar levensonderhoud te voorzien. De vrouw is gepromoveerd en heeft na haar promotie gewerkt als onderzoekster aan de universiteit. De vrouw heeft later zelf besloten minder te gaan werken. Nu volgt de vrouw cursussen op een vakgebied dat niets te maken heeft met haar studie. De man is daarom van mening dat het aan de vrouw zelf te wijten is dat zij nog geen baan en inkomen heeft.
 
-De vrouw is het hier niet mee eens. Zij stelt dat zij destijds in afstemming met de man minder is gaan werken vanwege de adoptie van [meerderjarige] en de komst van [jongmeerderjarige]. Het was belangrijk dat de hechting met [meerderjarige] goed verliep mede gelet op de snelle komst van [jongmeerderjarige] na de adoptie. Daarna is de vrouw weer deels gaan werken. In samenspraak met de man heeft de vrouw vervolgens ontslag genomen in verband met burn-out klachten. De vrouw doet nu haar best om een baan te vinden en heeft daartoe een post-HBO opleiding gedaan in aanvulling op haar studie. De vrouw is inmiddels ook via uitzendbureaus op zoek naar werk.
+De vrouw is het hier niet mee eens. Zij stelt dat zij destijds in afstemming met de man minder is gaan werken vanwege de adoptie van [meerderjarige] en de komst van [jongmeerderjarige] . Het was belangrijk dat de hechting met [meerderjarige] goed verliep mede gelet op de snelle komst van [jongmeerderjarige] na de adoptie. Daarna is de vrouw weer deels gaan werken. In samenspraak met de man heeft de vrouw vervolgens ontslag genomen in verband met burn-out klachten. De vrouw doet nu haar best om een baan te vinden en heeft daartoe een post-HBO opleiding gedaan in aanvulling op haar studie. De vrouw is inmiddels ook via uitzendbureaus op zoek naar werk.
 
 De rechtbank overweegt gelet op de overgelegde sollicitaties dat de vrouw aantoonbaar zich inspant om arbeid en inkomen te verwerven. Daarnaast acht de rechtbank het ook in het belang van de man dat de vrouw haar mogelijkheden vergroot door zich bij te scholen middels een post-HBO opleiding. De rechtbank vertrouwt er gelet op die opleiding en de sollicitaties op dat de vrouw op termijn een baan zal vinden, en de man daarover inlicht, maar acht het, juist met het oog op de ontwikkeling van haar verdiencapaciteit, van belang de vrouw de ruimte te geven. De rechtbank zal derhalve niet uitgaan van inkomen aan de zijde van de vrouw.
 
@@ -248,7 +248,7 @@ Omvang
 
 De man en de vrouw hebben de volgende vermogensbestanddelen gesteld die in de verdeling zouden moeten worden betrokken:
 
-de echtelijke woning aan het adres [adres] te ([postcode]) [plaats 2];
+de echtelijke woning aan het adres [adres] te ( [postcode] ) [plaats 2] ;
 
 de inboedel;
 
@@ -338,11 +338,11 @@ De rechtbank:
 
 *
 
-spreekt de echtscheiding uit tussen partijen, gehuwd op [datum] 1995 te [plaats 1];
+spreekt de echtscheiding uit tussen partijen, gehuwd op [datum] 1995 te [plaats 1] ;
 
 *
 
-bepaalt dat de vrouw jegens de man bevoegd is de bewoning van de echtelijke woning te ([postcode]) [plaats 2] aan het adres [adres] en het gebruik van de zaken die behoren bij deze woning en tot de inboedel daarvan, voort te zetten gedurende zes maanden na de inschrijving van deze beschikking, onder de voorwaarde dat de vrouw deze woning op het moment van die inschrijving bewoont en aan de man uitsluitend of mede toebehoort of ten gebruike toekomt;
+bepaalt dat de vrouw jegens de man bevoegd is de bewoning van de echtelijke woning te ( [postcode] ) [plaats 2] aan het adres [adres] en het gebruik van de zaken die behoren bij deze woning en tot de inboedel daarvan, voort te zetten gedurende zes maanden na de inschrijving van deze beschikking, onder de voorwaarde dat de vrouw deze woning op het moment van die inschrijving bewoont en aan de man uitsluitend of mede toebehoort of ten gebruike toekomt;
 
 *
 
@@ -352,7 +352,7 @@ bepaalt dat de man aan de vrouw, met ingang van de dag dat de beschikking van ec
 
 stelt de verdeling van de huwelijksgemeenschap als volgt vast, onder de voorwaarde van inschrijving van de echtscheidingsbeschikking in de registers van de burgerlijke stand:
 
-- met betrekking tot de woning, gelegen aan het adres [adres] te ([postcode]) [plaats 2] en de daaraan gekoppelde hypothecaire geldleningen en polissen:
+- met betrekking tot de woning, gelegen aan het adres [adres] te ( [postcode] ) [plaats 2] en de daaraan gekoppelde hypothecaire geldleningen en polissen:
 
 1. de woning wordt verkocht en geleverd aan een derde op de volgende wijze en onder de volgende voorwaarden:
 
