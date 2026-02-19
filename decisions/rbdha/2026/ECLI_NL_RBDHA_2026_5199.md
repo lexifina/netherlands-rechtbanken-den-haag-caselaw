@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5199"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032403", "V-N Vandaag 2026/532", "Sdu Nieuws Belastingzaken 2026/428", "FutD 2026-0558", "NDFR Nieuws 2026/497", "NTFR 2026/642 met annotatie van mr. A.J. Blank"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032403", "V-N Vandaag 2026/532", "Sdu Nieuws Belastingzaken 2026/428", "FutD 2026-0558", "NDFR Nieuws 2026/497", "NTFR 2026/642 met annotatie van mr. A.J. Blank", "V-N 2026/20.17.12"]
 ---
 
 # ECLI:NL:RBDHA:2026:5199 Rechtbank Den Haag , 19-02-2026 / SGR 25/5299, SGR 25/5300, SGR 25/5301, SGR 25/5302, SGR 25/5303
