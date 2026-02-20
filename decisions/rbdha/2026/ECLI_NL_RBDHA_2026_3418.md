@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3418"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/71"]
 ---
 
 # ECLI:NL:RBDHA:2026:3418 Rechtbank Den Haag , 20-02-2026 / C/09/697102 / KG ZA 26-6
