@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:3805"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "EB 2026/48"]
 ---
 
 # ECLI:NL:RBDHA:2026:3805 Rechtbank Den Haag , 26-02-2026 / C/09/698034
