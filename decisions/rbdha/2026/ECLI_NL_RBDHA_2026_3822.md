@@ -198,7 +198,7 @@ De verdachte had rondom de periode van het schietincident gips om zijn linkerhan
 
 De verdachte heeft tevens verklaard dat hij op 22 juni 2023 een deel van het rode gaas eigenhandig (de rechtbank begrijpt: slechts) tot zijn knokkels heeft verwijderd.
 
-Op een video die in de mobiele telefoon van G.J.A. Domenie (hierna: Domenie, een nauw contact van de verdachte) werd aangetroffen, is te zien dat het gips van de verdachte om zijn linkerhand vanaf polshoogte niet roodkleurig was. Deze video is in de nacht direct na het schietincident gemaakt. Dit past bij het beeld van het witte gedeelte om de pols van de bestuurder van de motorscooter op de camerabeelden van de [adres 2] te Voorburg .
+Op een video die in de mobiele telefoon van [naam 3] (hierna: [naam 3] , een nauw contact van de verdachte) werd aangetroffen, is te zien dat het gips van de verdachte om zijn linkerhand vanaf polshoogte niet roodkleurig was. Deze video is in de nacht direct na het schietincident gemaakt. Dit past bij het beeld van het witte gedeelte om de pols van de bestuurder van de motorscooter op de camerabeelden van de [adres 2] te Voorburg .
 
 Uit de bewijsmiddelen volgt verder dat de verdachte het gips op 24 juni 2023 zelf heeft verwijderd of heeft laten verwijderen. De verdachte heeft dus, kort na het schietincident, het gips verwijderd dat pas enkele dagen daarvoor was aangebracht.
 
