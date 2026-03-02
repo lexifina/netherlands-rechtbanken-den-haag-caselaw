@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5894"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/100"]
 ---
 
 # ECLI:NL:RBDHA:2026:5894 Rechtbank Den Haag , 02-03-2026 / NL25.21903
