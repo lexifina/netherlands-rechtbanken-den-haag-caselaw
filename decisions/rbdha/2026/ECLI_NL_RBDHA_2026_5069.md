@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5069"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GJ 2026/60 met annotatie van mr. M. de Jong"]
 ---
 
 # ECLI:NL:RBDHA:2026:5069 Rechtbank Den Haag , 04-03-2026 / C/09/684899 / HA ZA 25-405
