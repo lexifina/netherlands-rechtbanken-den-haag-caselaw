@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:7892"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/53 met annotatie van mr. drs. M. van der Veldt"]
 ---
 
 # ECLI:NL:RBDHA:2026:7892 Rechtbank Den Haag , 04-03-2026 / C/09/699808 / FA RK 26-1615
