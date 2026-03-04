@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:7866"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hersteluitspraak: ECLI:NL:RBDHA:2026:14322"]]
 ---
 
 # ECLI:NL:RBDHA:2026:7866 Rechtbank Den Haag , 04-03-2026 / C/09/695537 / FA RK 25-9121
