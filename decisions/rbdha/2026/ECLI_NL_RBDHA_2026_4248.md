@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:4248"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Privacyrecht 2026/48"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Privacyrecht 2026/48", "JBP 2026/70 met annotatie van mr. K. Konings"]
 ---
 
 # ECLI:NL:RBDHA:2026:4248 Rechtbank Den Haag , 04-03-2026 / C/09/697042 / KG ZA 26/2
