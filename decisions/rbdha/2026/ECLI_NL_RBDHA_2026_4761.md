@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:4761"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/153", "Sdu Nieuws Insolventierecht 2026/69", "RVR 2026/60"]
 ---
 
 # ECLI:NL:RBDHA:2026:4761 Rechtbank Den Haag , 04-03-2026 / C/09/684656 / HA ZA 25-382
