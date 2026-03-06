@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:4898"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/137 met annotatie van R. Stijnen"]
 ---
 
 # ECLI:NL:RBDHA:2026:4898 Rechtbank Den Haag , 06-03-2026 / 699594
