@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5470"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032720", "FutD 2026-0552", "V-N Vandaag 2026/592", "NDFR Nieuws 2026/580"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032720", "FutD 2026-0552", "V-N Vandaag 2026/592", "NDFR Nieuws 2026/580", "NTFR 2026/786 met annotatie van J. Kamel LLM", "V-N 2026/25.2.2"]
 ---
 
 # ECLI:NL:RBDHA:2026:5470 Rechtbank Den Haag , 10-03-2026 / 25/4614
