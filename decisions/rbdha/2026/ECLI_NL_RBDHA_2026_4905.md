@@ -139,7 +139,7 @@ Is eiser niet in staat geweest om coherent te verklaren vanwege trauma’s?
 
 Deze beroepsgrond kan niet slagen. Uit het medisch advies van Medifirst volgt dat eiser gehoord kan worden, maar wel met de kanttekening dat sprake is van beperkte concentratie. De minister stelt zich terecht op het standpunt dat uit de gehoren blijkt dat hiermee afdoende rekening is gehouden. Daartoe heeft de minister van belang kunnen vinden dat uit de onder 7. overgelegde medische informatie niet uit blijkt dat eiser ten tijde van de gehoren niet coherent kon verklaren. Eiser heeft bovendien geen deskundigenrapport overgelegd waaruit dit blijkt. Daarom heeft de minister de tegenstrijdigheden terecht aan eiser tegengeworpen.
 
-Heeft de minister de juridische vervolging vanwege de problemen met Hossein ten onrechte ongeloofwaardig geacht?
+Heeft de minister de juridische vervolging vanwege de problemen met [naam collega] ten onrechte ongeloofwaardig geacht?
 
 9.	Eiser stelt dat de minister zijn verklaringen over de gestelde strafzaak ten onrechte ongeloofwaardig vindt en dat van hem in redelijkheid niet verlangd kan worden om documenten uit Iran te verkrijgen. Eiser voert ook aan dat hij via zijn broer alsnog een dagvaarding heeft verkregen waaruit blijkt dat hij daadwerkelijk wordt vervolgd.
 
