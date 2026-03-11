@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5732"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0478", "AR-Updates.nl 2026-0478"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0478", "AR-Updates.nl 2026-0478", "PR-Updates.nl 2026-0104", "PJ 2026/56 met annotatie van J. Kaldenberg"]
 ---
 
 # ECLI:NL:RBDHA:2026:5732 Rechtbank Den Haag , 11-03-2026 / C/09/688587 / HA ZA 25-630
