@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5088"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/58 met annotatie van mr. Y. Bosschaart"]
 ---
 
 # ECLI:NL:RBDHA:2026:5088 Rechtbank Den Haag , 11-03-2026 / C/09/684589 / HA ZA 25-379
@@ -163,7 +163,7 @@ Op 30 juni 2014 is [eisende partij 1] tegen het besluit van 30 april 2014 in bez
 
 “Na veel gepuzzel en een bezoek aan het Belastingkantoor in Leeuwarden, ben ik erachter gekomen dat ik een aantal zaken digitaal onjuist heb ingevuld. Althans, op een wijze dat de Belastingdienst heeft gemeend dat ik geen recht zou hebben op de kinderopvangtoeslag in 2013. Na de uitleg heb ik op aanwijzing van de desbetreffende adviseur van de Belastingdienst wijzigingen doorgevoerd. Dit op 4 juni 2014. (…)
 
-Deze wijziging die ik heb doorgevoerd zal duidelijk maken dat ik over 2013 recht had op de kinderopvangtoeslag en ik daarom niet het bedrag van € 10.041,00 onder aanslagnummer 1070.71.215.T.3.00371 hoef te betalen aan de Belastingdienst.”
+Deze wijziging die ik heb doorgevoerd zal duidelijk maken dat ik over 2013 recht had op de kinderopvangtoeslag en ik daarom niet het bedrag van € 10.041,00 onder aanslagnummer [aanslagnummer] hoef te betalen aan de Belastingdienst.”
 
 2.16.
 
