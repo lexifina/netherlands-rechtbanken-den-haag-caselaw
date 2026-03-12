@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:6327"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet Ruimte 2026/358 met annotatie van M.G.O. de Lange"]
 ---
 
 # ECLI:NL:RBDHA:2026:6327 Rechtbank Den Haag , 12-03-2026 / 25/3034
