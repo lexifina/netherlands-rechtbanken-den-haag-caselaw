@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:8635"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0095"]
 ---
 
 # ECLI:NL:RBDHA:2026:8635 Rechtbank Den Haag , 12-03-2026 / C/09/668824 / FA RK 24-4704
