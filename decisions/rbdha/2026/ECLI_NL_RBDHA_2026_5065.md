@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:5065"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/177 met annotatie van mr. F. Schüller"]
 ---
 
 # ECLI:NL:RBDHA:2026:5065 Rechtbank Den Haag , 12-03-2026 / NL22.10458 tussenuitspraak
