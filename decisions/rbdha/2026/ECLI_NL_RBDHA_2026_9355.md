@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9355"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0194"]
 ---
 
 # ECLI:NL:RBDHA:2026:9355 Rechtbank Den Haag , 13-03-2026 / C/09/694672 / HA RK 25-675
