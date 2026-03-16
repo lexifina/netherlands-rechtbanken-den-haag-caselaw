@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9717"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/257"]
 ---
 
 # ECLI:NL:RBDHA:2026:9717 Rechtbank Den Haag , 16-03-2026 / C/09/674546 / FA RK 24-7605
