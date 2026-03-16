@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-volgt
+geslachtsnaamwijzing naar naam stiefvader
 
 ## Uitspraak
 
