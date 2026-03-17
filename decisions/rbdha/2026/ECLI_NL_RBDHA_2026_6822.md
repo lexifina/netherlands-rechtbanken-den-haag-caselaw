@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:6822"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2530"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2530", "JAAN 2026/97", "RVR 2026/59", "JAAN 2026/115 met annotatie van mr. J.J. Veldhoen"]
 ---
 
 # ECLI:NL:RBDHA:2026:6822 Rechtbank Den Haag , 17-03-2026 / 697687
