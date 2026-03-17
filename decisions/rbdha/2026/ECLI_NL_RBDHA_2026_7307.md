@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:7307"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2026/122", "JERF 2026/95 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBDHA:2026:7307 Rechtbank Den Haag , 17-03-2026 / 697715
