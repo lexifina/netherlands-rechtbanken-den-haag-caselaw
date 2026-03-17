@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Volgt
+Vonnis kort geding. Contactverbod en gebiedsverbod. Raadsonderzoek ten behoeve van de bodemprocedure.
 
 ## Uitspraak
 
