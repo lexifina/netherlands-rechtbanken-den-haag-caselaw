@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Volgt
+Machtiging uithuisplaatsing toegewezen en voor overige afgewezen
 
 ## Uitspraak
 
