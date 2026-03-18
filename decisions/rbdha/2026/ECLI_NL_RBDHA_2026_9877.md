@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Volgt
+opname ouderschapsplan en kinderalimentatie
 
 ## Uitspraak
 
