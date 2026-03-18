@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Volgt
+Beschikking van de kinderrechter over een ondertoezichtstelling (artikel 1:255 BW) en een machtiging tot uithuisplaatsing (artikel 1:265b BW). Ter zitting trekt de Raad het verzoek tot een machtiging tot uithuisplaatsing in.
 
 ## Uitspraak
 
