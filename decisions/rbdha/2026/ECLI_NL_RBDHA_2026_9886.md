@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Volgt
+Beschikking van de kinderrechter over een ondertoezichtstelling (artikel 1:255 BW). De kinderrechter merkt op dat de signalen van dwingende controle serieus genomen moeten worden.
 
 ## Uitspraak
 
