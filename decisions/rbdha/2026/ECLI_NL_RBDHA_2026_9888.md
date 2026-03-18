@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-volgt
+Afwijzing aansluitende zorgmachtiging tot het verlenen van verplichte zorg.
 
 ## Uitspraak
 
