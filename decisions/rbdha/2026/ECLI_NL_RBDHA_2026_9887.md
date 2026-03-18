@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-volgt
+Machtiging tot uithuisplaatsing afgewezen. Een terugplaatsing bij ouders is op dit moment de enige mogelijkheid om ervoor te zorgen dat de minderjarige behandeling krijgt, dagbesteding heeft (school) en er verdere hulpverlening wordt ingezet.
 
 ## Uitspraak
 
