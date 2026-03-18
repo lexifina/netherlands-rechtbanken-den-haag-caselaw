@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-volgt
+gezag, hoofdverblijfplaats, zorg- c.q. omgangsregeling en voorlopige voorziening ex artikel 223 Rv
 
 ## Uitspraak
 
