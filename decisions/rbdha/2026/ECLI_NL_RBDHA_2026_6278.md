@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:6278"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0503", "VAAN-AR-Updates.nl 2026-0503", "PS-Updates.nl 2026-0165"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0503", "VAAN-AR-Updates.nl 2026-0503", "PS-Updates.nl 2026-0165", "Jurisprudentie HSE 2026/55"]
 ---
 
 # ECLI:NL:RBDHA:2026:6278 Rechtbank Den Haag , 19-03-2026 / 11646693 \ CV EXPL  25-1166
