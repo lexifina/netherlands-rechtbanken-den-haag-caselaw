@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-volgt
+Machtiging tot het verlenen van verplichte zorg.
 
 ## Uitspraak
 
