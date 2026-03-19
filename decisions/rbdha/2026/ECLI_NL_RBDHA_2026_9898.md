@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-volgt
+Gezamenlijk gezag. Geen verweer gevoerd door de moeder.
 
 ## Uitspraak
 
