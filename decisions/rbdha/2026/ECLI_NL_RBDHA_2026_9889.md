@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Volgt
+Gezag en verdeling van de zorg- en opvoedingstaken. Raadsonderzoek gelast.
 
 ## Uitspraak
 
