@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:8222"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/120"]
 ---
 
 # ECLI:NL:RBDHA:2026:8222 Rechtbank Den Haag , 24-03-2026 / 09/081584-21  (ontneming)
