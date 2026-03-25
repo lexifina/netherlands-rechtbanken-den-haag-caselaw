@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9191"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042304"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042304", "V-N Vandaag 2026/832", "FutD 2026-0746", "NDFR Nieuws 2026/716", "V-N 2026/26.2.3", "NTFR 2026/983 met annotatie van mr. drs. F. de Jong"]
 ---
 
 # ECLI:NL:RBDHA:2026:9191 Rechtbank Den Haag , 25-03-2026 / AWB - 25 _ 8985
