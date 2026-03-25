@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:6640"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2532"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2532", "JAAN 2026/134 met annotatie van mr. M. Verschoor, mr. V. Jasarevic"]
 ---
 
 # ECLI:NL:RBDHA:2026:6640 Rechtbank Den Haag , 25-03-2026 / C/09/688426 / HA ZA 25-616
