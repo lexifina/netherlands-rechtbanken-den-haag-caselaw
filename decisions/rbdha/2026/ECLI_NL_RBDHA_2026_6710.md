@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:6710"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0094"]
 ---
 
 # ECLI:NL:RBDHA:2026:6710 Rechtbank Den Haag , 25-03-2026 / C/09/680777 / HA ZA 25-182
