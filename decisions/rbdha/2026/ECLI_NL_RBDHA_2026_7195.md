@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:7195"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2531"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2531", "JAAN 2026/103"]
 ---
 
 # ECLI:NL:RBDHA:2026:7195 Rechtbank Den Haag , 26-03-2026 / C/09/696611 / KG ZA 25-1273
