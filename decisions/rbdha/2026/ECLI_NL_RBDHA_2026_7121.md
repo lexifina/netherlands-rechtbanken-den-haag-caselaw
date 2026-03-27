@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:7121"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/96"]
 ---
 
 # ECLI:NL:RBDHA:2026:7121 Rechtbank Den Haag , 27-03-2026 / NL25.24480
