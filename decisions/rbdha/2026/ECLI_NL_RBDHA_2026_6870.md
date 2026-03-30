@@ -10,6 +10,7 @@ procedure: "Vereenvoudigde behandeling"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:6870"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3131, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBDHA:2026:6870 Rechtbank Den Haag , 30-03-2026 / LEE 25/2171
