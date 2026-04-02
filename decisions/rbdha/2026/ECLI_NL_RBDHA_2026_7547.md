@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:7547"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0582"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0582", "Sdu Nieuws Arbeidsrecht 2026/144", "Prg. 2026/183"]
 ---
 
 # ECLI:NL:RBDHA:2026:7547 Rechtbank Den Haag , 02-04-2026 / 12084360 \ RL EXPL 26-3294
