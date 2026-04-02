@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9409"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2363, Niet bevoegd"]]
 ---
 
 # ECLI:NL:RBDHA:2026:9409 Rechtbank Den Haag , 02-04-2026 / AWB 26 3434
