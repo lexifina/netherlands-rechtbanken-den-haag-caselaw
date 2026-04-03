@@ -36,7 +36,7 @@ zaaknummer: NL25.46660
 
 uitspraak van de enkelvoudige kamer in de zaak tussen
 
-[naam 1], V-nummer: [v-nummer], eiseres,
+[naam 1] , V-nummer: [v-nummer] , eiseres,
 (gemachtigde: mr. F.J.M. Schonkeren),
 
 en
@@ -60,7 +60,7 @@ Deze procedure over de reguliere verblijfsvergunning
 
 2.1.
 
-Eiseres heeft op 6 september 2018 aangifte gedaan van mensenhandel. Eiseres heeft, samengevat, naar voren gebracht dat haar partner op 10 september 2017 in Rusland is neergeschoten, dat zij beiden op 19 september 2017 naar Armenië zijn gevlucht en dat zij - om uitlevering aan Rusland te voorkomen - op 6 maart 2018 naar Wit-Rusland zijn gereisd. Eiseres heeft vervolgens naar voren gebracht dat zij en haar partner door een persoon genaamd André op 11 maart 2018 vanuit Brest (bij de grens met Polen) Europa zijn ingereisd, dat zij toen is overgedragen aan een vrouw ([naam 2] alias [naam 3]), dat zij tewerk is gesteld in een bordeel en dat zij op 23 juli 2018 heeft weten te ontsnappen. Eiseres stelt na haar ontsnapping met een vrachtwagenchauffeur naar Nederland te zijn meegereden.
+Eiseres heeft op 6 september 2018 aangifte gedaan van mensenhandel. Eiseres heeft, samengevat, naar voren gebracht dat haar partner op 10 september 2017 in Rusland is neergeschoten, dat zij beiden op 19 september 2017 naar Armenië zijn gevlucht en dat zij - om uitlevering aan Rusland te voorkomen - op 6 maart 2018 naar Wit-Rusland zijn gereisd. Eiseres heeft vervolgens naar voren gebracht dat zij en haar partner door een persoon genaamd [naam 2] op 11 maart 2018 vanuit Brest (bij de grens met Polen) Europa zijn ingereisd, dat zij toen is overgedragen aan een vrouw ( [naam 3] alias [naam 4] ), dat zij tewerk is gesteld in een bordeel en dat zij op 23 juli 2018 heeft weten te ontsnappen. Eiseres stelt na haar ontsnapping met een vrachtwagenchauffeur naar Nederland te zijn meegereden.
 
 2.2.
 
