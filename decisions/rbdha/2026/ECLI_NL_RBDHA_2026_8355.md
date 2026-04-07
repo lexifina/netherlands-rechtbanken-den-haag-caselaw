@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:8355"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042104"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042104", "FutD 2026-0723", "NLF 2026/0799", "NDFR Nieuws 2026/867", "NTFR 2026/1236 met annotatie van mr. J.A.L. Heldens"]
 ---
 
 # ECLI:NL:RBDHA:2026:8355 Rechtbank Den Haag , 07-04-2026 / SGR 25/3032
