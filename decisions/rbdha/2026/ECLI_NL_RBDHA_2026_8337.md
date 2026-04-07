@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:8337"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042101", "Notamail 2026/93"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042101", "Notamail 2026/93", "V-N Vandaag 2026/824", "FutD 2026-0708", "Sdu Nieuws Belastingzaken 2026/556", "NDFR Nieuws 2026/676", "Sdu Nieuws Personen- en familierecht 2026/265", "NTFR 2026/851 met annotatie van mr. A.C.M. de Vries", "Belastingadvies 2026/13-14.6"]
 ---
 
 # ECLI:NL:RBDHA:2026:8337 Rechtbank Den Haag , 07-04-2026 / SGR 25/5345
