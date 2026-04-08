@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:8959"
-published_in: ["Rechtspraak.nl", "Notamail 2026/94"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/94", "Sdu Nieuws Personen- en familierecht 2026/245", "ERF-Updates.nl 2026-0250", "VEAN-ERF-Updates.nl 2026-0250", "JERF 2026/128 met annotatie van mr. L.A.G.M. van der Geld"]
 ---
 
 # ECLI:NL:RBDHA:2026:8959 Rechtbank Den Haag , 08-04-2026 / C/09/687795 / HA ZA 25-587
