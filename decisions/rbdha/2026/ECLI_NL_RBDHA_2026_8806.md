@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:8806"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0089", "RI 2026/49", "JOR 2026/199 met annotatie van mr. dr. R.E. de Vries"]
 ---
 
 # ECLI:NL:RBDHA:2026:8806 Rechtbank Den Haag , 08-04-2026 / C/09/687586 / HA ZA 25-569
