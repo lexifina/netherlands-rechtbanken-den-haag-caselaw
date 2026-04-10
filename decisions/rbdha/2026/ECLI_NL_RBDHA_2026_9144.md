@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9144"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/632"]
 ---
 
 # ECLI:NL:RBDHA:2026:9144 Rechtbank Den Haag , 10-04-2026 / 25/1952
