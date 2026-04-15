@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9384"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0246", "VEAN-ERF-Updates.nl 2026-0246"]
 ---
 
 # ECLI:NL:RBDHA:2026:9384 Rechtbank Den Haag , 15-04-2026 / C/09/670590
