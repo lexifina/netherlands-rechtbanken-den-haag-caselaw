@@ -30,7 +30,7 @@ zaaknummer: NL24.21116
 
 uitspraak van de enkelvoudige kamer in de zaak tussen
 
-[eiser], V-nummer: [nummer], eiser
+[eiser] , V-nummer: [nummer] , eiser
 (gemachtigde: mr. M. Wiersma),
 
 en
@@ -66,7 +66,7 @@ Eiser heeft beroep ingesteld tegen het bestreden besluit. Verweerder heeft op he
 
 2.3.
 
-De rechtbank heeft het beroep op 3 maart 2026 op zitting behandeld. Hieraan hebben deelgenomen: eiser, de gemachtigde van eiser en de gemachtigde van verweerder. [naam 2], de neef van eiser, is ter ondersteuning van eiser meegekomen.
+De rechtbank heeft het beroep op 3 maart 2026 op zitting behandeld. Hieraan hebben deelgenomen: eiser, de gemachtigde van eiser en de gemachtigde van verweerder. [naam 2] , de neef van eiser, is ter ondersteuning van eiser meegekomen.
 
 Beoordeling door de rechtbank
 
