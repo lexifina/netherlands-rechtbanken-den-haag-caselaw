@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9257"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/138", "AR-Updates.nl 2026-0606"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/138", "AR-Updates.nl 2026-0606", "PR-Updates.nl 2026-0135", "Prg. 2026/168", "JAR 2026/130 met annotatie van mr. dr. M.A.C. Keijzer", "RAR 2026/102", "JIN 2026/87 met annotatie van mr. M.P. Bökkerink-de Koning", "TRA 2026/59 met annotatie van M. Verhagen"]
 ---
 
 # ECLI:NL:RBDHA:2026:9257 Rechtbank Den Haag , 17-04-2026 / 12021742 RP VERZ 25-51044
