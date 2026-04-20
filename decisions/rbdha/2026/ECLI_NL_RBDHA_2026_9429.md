@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9429"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/178 met annotatie van mr. F. Schüller"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBDHA:2024:9590"]]
 ---
 
 # ECLI:NL:RBDHA:2026:9429 Rechtbank Den Haag , 20-04-2026 / NL22.10458
