@@ -30,7 +30,7 @@ zaaknummer: NL25.52659
 
 uitspraak van de enkelvoudige kamer in de zaak tussen
 
-[naam 1], V-nummer: [v-nummer], eiseres,
+[naam 1] , V-nummer: [v-nummer] , eiseres,
 (gemachtigde: mr. J. Oosterhof),
 
 en
@@ -106,7 +106,7 @@ Verklaring van [naam 2] (member of parliament);
 
 Verklaring van [naam 3] (counselor);
 
-Verklaring van buurvrouw Zisengwe;
+Verklaring van buurvrouw [naam 7] ;
 
 Verklaring van de ‘cousin sister’.
 
@@ -138,7 +138,7 @@ De rechtbank oordeelt dat de minister niet ten onrechte concludeert dat eiseres 
 
 7.3.
 
-Voor wat betreft het bezoeken van politieke tegenstanders thuis door de Zanu-PF herhaalt eiseres dat dit de modus operandi van de Zanu-PF is, zoals ook blijkt uit de door haar in de zienwijze aangehaalde bronnen. Eiseres heeft hierbij ook voorbeelden aangehaald van vergelijkbare gevallen waarin de Zanu-PF tegenstanders uit de weg ruimt, evenals vergelijkbare gevallen van o.a. [naam 4] en [naam 5].
+Voor wat betreft het bezoeken van politieke tegenstanders thuis door de Zanu-PF herhaalt eiseres dat dit de modus operandi van de Zanu-PF is, zoals ook blijkt uit de door haar in de zienwijze aangehaalde bronnen. Eiseres heeft hierbij ook voorbeelden aangehaald van vergelijkbare gevallen waarin de Zanu-PF tegenstanders uit de weg ruimt, evenals vergelijkbare gevallen van o.a. [naam 4] en [naam 5] .
 
 7.4.
 
