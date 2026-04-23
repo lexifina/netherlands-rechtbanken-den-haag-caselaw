@@ -1,0 +1,118 @@
+---
+ecli: "ECLI:NL:RBDHA:2026:15043"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL25.61580"
+decided: "2026-04-23"
+published: "2026-06-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:15043"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2026:15043 Rechtbank Den Haag , 23-04-2026 / NL25.61580
+
+## Inhoudsindicatie
+
+Beroep gericht tegen niet tijdig beslissen na de uitspraak van deze rechtbank en zittingsplaats van 28 mei 2025. In die uitspraak staat onder meer dat de minister binnen twintig weken na verzending van die uitspraak moet beslissen op de aanvraag om een machtiging tot voorlopig verblijf voor gezinshereniging nareis asiel. Eiser stelt nu beroep in, omdat de minister binnen die termijn geen beslissing heeft genomen op de aanvraag.
+
+Dictum: gegrond.
+
+## Uitspraak
+
+uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Utrecht Bestuursrecht zaaknummer: NL25.61580
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[eiser]
+, V-nummer: [V-nummer] , eiser (gemachtigde: mr. T.M. van der Wal),
+
+en
+
+de minister van Asiel en Migratie, de minister.
+
+Procesverloop
+
+Deze uitspraak gaat over het beroep dat eiser heeft ingediend na de uitspraak van deze rechtbank en zittingsplaats van 28 mei 2025.1 In die uitspraak staat onder meer dat de minister binnen twintig weken na verzending van die uitspraak moet beslissen op de aanvraag om een machtiging tot voorlopig verblijf voor gezinshereniging nareis asiel (hierna: de aanvraag). Eiser stelt nu beroep in, omdat de minister binnen die termijn geen beslissing heeft genomen op de aanvraag.
+
+Overwegingen
+
+1. De rechtbank vindt het in deze zaak niet nodig om partijen uit te nodigen voor een zitting.2
+
+2. Voor aanvragen die zijn ingediend vóór 28 maart 2025 geldt een beslistermijn van 90 dagen na indiening daarvan. De minister kan deze termijn verlengen met ten hoogste drie maanden.3 De minister heeft van deze bevoegdheid gebruik gemaakt.
+
+3. Als een bestuursorgaan niet op tijd op een aanvraag beslist, dan kan de betrokkene daartegen in beroep gaan. Voordat hij beroep kan instellen, moet de betrokkene schriftelijk aan het bestuursorgaan laten weten dat binnen twee weken alsnog moet worden beslist op zijn aanvraag (de zogenoemde ingebrekestelling). Als er na twee weken nog steeds geen besluit is genomen, dan kan de betrokkene beroep instellen.4
+
+1. Zaaknummer NL25.10942.
+
+2 Artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb).
+
+3 ECLI:NL:RVS:2025:5787.
+
+4 Artikel 6:2, onder b, en 6:12, tweede lid, van de Awb.
+
+Is het beroep van eiser ontvankelijk en gegrond?
+
+4. Soms kan niet worden verwacht dat de betrokkene eerst een ingebrekestelling stuurt. Dat is in dit geval zo, omdat de bestuursrechter in de uitspraak van 28 mei 2025 een uitdrukkelijke en inmiddels verstreken termijn heeft gesteld voor het nemen van een besluit.5
+
+5. De rechtbank stelt vast dat eiser onderhavig beroep heeft ingesteld op
+
+15 december 2025, terwijl de rechterlijke dwangsom op dat moment nog niet was volgelopen. Bij een beroep tegen het niet tijdig-nemen van een besluit blijft procesbelang in beginsel bestaan zolang er nog geen besluit is, ook als een eerder opgelegde dwangsom nog niet volledig is verbeurd.6 Ondanks het ontbreken van een ingebrekestelling en het nog niet volledig verbeuren van de eerder opgelegde rechtelijke dwangsom is het beroep van eiser dus ontvankelijk en kennelijk gegrond.
+
+Welke nadere beslistermijn legt de rechtbank aan de minister op?
+
+6. De rechtbank geeft de minister in beginsel een termijn van twee weken na de dag van verzending van de uitspraak om alsnog een besluit te nemen.7 Er kunnen omstandigheden zijn die ervoor zorgen dat de rechtbank een andere termijn geeft.8
+
+7. De minister heeft geen verweerschrift ingediend. Onduidelijk is daardoor wanneer de minister gaat beslissen op de aanvraag. De rechtbank vindt het passend om te bepalen dat de minister binnen een termijn van twee weken na verzending van de uitspraak moet beslissen.
+
+De rechtbank verbindt een rechterlijke dwangsom aan de uitspraak
+
+8. De rechtbank verbindt aan haar uitspraak een dwangsom overeenkomstig het beleid dat de rechtbanken in dit verband hanteren.9 De rechtbank bepaalt in deze zaak dat de minister een dwangsom van € 100,- moet betalen voor elke dag waarmee de minister de in de uitspraak bepaalde beslistermijn nu nog overschrijdt. Daarbij geldt een maximum van € 15.000,-. Mede onder invloed van de uitspraak van de Afdeling bestuursrechtspraak van Raad van State van 31 maart 2026, ECLI:NL:RVS:2026:1792, hanteert deze zittingsplaats van de rechtbank bij opvolgende beroepen tegen het niet-tijdig beslissen niet langer het hogere tarief van € 250,-, met een maximum van € 37.500,-. Dit is slechts anders indien de rechtbank een sterke prikkel voor de minister nodig acht om tot een besluit op de aanvraag te komen. Daarvan is in deze zaak geen sprake.
+
+5 ECLI:NL:RVS:2021:774.
+
+6 ECLI:NL:RVS:2024:4865.
+
+7 Artikel 8:55d, eerste lid, van de Awb.
+
+8 Artikel 8:55d, derde lid, van de Awb.
+
+9 Artikel 8:55d, tweede lid, van de Awb.
+
+Zie https://www.rechtspraak.nl/onderwerpen/overheidsorganisatie-beslist-niet-op-tijd/extra-dwangsom.
+
+Conclusie en gevolgen
+
+9. Het beroep is gegrond. Dat betekent dat eiser gelijk krijgt en dat de minister binnen de onder 7. genoemde termijn alsnog een besluit op de aanvraag bekend moet maken. Als de minister dat niet doet, moet hij een dwangsom betalen.
+
+10. Omdat het beroep gegrond is, krijgt eiser ook een vergoeding voor de proceskosten die hij heeft gemaakt. De minister moet dit betalen. Volgens het Besluit proceskosten bestuursrecht is dit een vast bedrag, omdat eiser een professionele (juridische) hulpverlener heeft ingeschakeld om voor hem een beroepschrift in te dienen. Omdat de zaak alleen gaat over de vraag of de beslistermijn is overschreden, wordt een lager bedrag toegekend (wegingsfactor 0,5). Verder zijn er geen kosten gemaakt die vergoed kunnen worden. Toegekend wordt € 467,- (1 punt voor het indienen van het beroepschrift, met een waarde per punt van € 934,- en een wegingsfactor 0,5). Ook moet de minister het door eiser betaalde griffierecht vergoeden.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het met een besluit gelijk te stellen niet tijdig nemen van een besluit;
+
+draagt de minister op om binnen twee weken na de dag van verzending van deze uitspraak een besluit op de aanvraag bekend te maken dan wel aan eiser nader onderzoek aan te bieden en dit aan eiser mee te delen;
+
+bepaalt dat de minister aan eiser een dwangsom van € 100,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 15.000,-;
+
+bepaalt dat de minister het door eiser betaalde griffierecht van € 194,- vergoedt;
+
+veroordeelt de minister in de proceskosten van eiser tot een bedrag van € 467,-.
+
+Deze uitspraak is gedaan door mr. R.J.A. Schaaf, rechter, in aanwezigheid van M. Eradus, griffier.
+
+De uitspraak is uitgesproken in het openbaar en bekendgemaakt op 23 april 2026.
+
+Bent u het niet eens met deze uitspraak?
+
+Als u het niet eens bent met deze uitspraak kunt een brief sturen naar de rechtbank waarin u uitlegt waarom u het er niet mee eens bent. Dit heet een verzetschrift. U moet dit verzetschrift indienen binnen zes weken na de dag waarop deze uitspraak is verzonden. Als u graag een zitting wilt waarbij u persoonlijk uw mening aan de rechter kunt geven, kunt u dit in uw verzetschrift aangeven.
