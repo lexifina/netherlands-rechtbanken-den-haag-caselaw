@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9853"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/190 met annotatie van C.M. ten Ham, K.M. Kager, M.H. van Wilgen"]
 ---
 
 # ECLI:NL:RBDHA:2026:9853 Rechtbank Den Haag , 24-04-2026 / AWB 25/17178, 25/18646, 25/17036, 25/16952, 25/17084, 25/17184 e.v.
