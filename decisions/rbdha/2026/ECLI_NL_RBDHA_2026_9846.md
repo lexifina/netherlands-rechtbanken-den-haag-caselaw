@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:9846"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/165"]
 ---
 
 # ECLI:NL:RBDHA:2026:9846 Rechtbank Den Haag , 24-04-2026 / C/09/703834 / KG RK 26-682
