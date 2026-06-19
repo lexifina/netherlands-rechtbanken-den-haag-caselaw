@@ -1,0 +1,103 @@
+---
+ecli: "ECLI:NL:RBDHA:2026:18754"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "AWB 26/5226"
+decided: "2026-06-19"
+published: "2026-07-08"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:18754"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2026:18754 Rechtbank Den Haag , 19-06-2026 / AWB 26/5226
+
+## Inhoudsindicatie
+
+Er is bezwaar gemaakt tegen de beëindiging van de Landelijke Vreemdelingenvoorziening (LVV) in de gemeente Utrecht. De minister heeft het bezwaar niet-ontvankelijk verklaard, omdat de vreemdeling geen procesbelang meer zou hebben bij de behandeling van het bezwaarschrift. De rechtbank is van oordeel dat de minister zich terecht op dit stand punt heeft gesteld. De vreemdeling maakt namelijk geen gebruik meer van de LVV (of hoeft hier geen gebruik meer van te maken). De minister heeft dan ook terecht bepaald dat het procesbelang bij de bezwaarprocedure daarom is komen te vervallen.
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Utrecht
+
+Bestuursrecht
+
+zaaknummer: AWB 26/5226
+
+uitspraak van de enkelvoudige kamer van 19 juni 2026 in de zaak tussen
+
+[eiser] , eiser
+
+V-nummer: [V-nummer]
+
+(gemachtigde: mr. W.G. Fischer),
+
+en
+
+de minister van Asiel en Migratie, de minister.
+
+Inleiding
+
+1. In deze uitspraak beslist de rechtbank over het beroep van eiser tegen het bestreden besluit van de minister waarin het bezwaar niet-ontvankelijk is verklaard.
+
+1.1.
+
+Omdat over de uitkomst van deze zaak geen twijfel bestaat, doet de rechtbank uitspraak zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) maakt dat mogelijk.
+
+Feiten
+
+2. De zaak heeft betrekking op de beëindiging van de Landelijke Vreemdelingenvoorziening (LVV) in de gemeente Utrecht. De LVV (ook wel de ‘bed-bad-brood’ regeling genoemd) bood opvang en begeleiding bij terugkeer aan vreemdelingen die illegaal in Nederland verbleven. Eind 2024 heeft de minister aan diverse van deze vreemdelingen kenbaar gemaakt dat de opvang en de begeleiding op grond van de LVV in Utrecht vanaf 1 januari 2025 stopt. Eiser heeft een dergelijk besluit gekregen. Hij is het hier niet mee eens en heeft hiertegen bezwaar gemaakt.
+
+2.1.
+
+In het bestreden besluit heeft de minister het bezwaar van eiser niet-ontvankelijk verklaard. Daaraan heeft de minister ten grondslag gelegd dat eiser geen (proces)belang meer heeft bij de behandeling van het bezwaarschrift, omdat hij is vertrokken uit Nederland.
+
+Beoordeling door de rechtbank
+
+3. De rechtbank is van oordeel dat de minister het bezwaar terecht niet-ontvankelijk heeft verklaard, omdat geen sprake meer is van procesbelang. Het beroep is dus kennelijk ongegrond.
+
+3.1.
+
+Het is vaste rechtspraak dat procesbelang het belang is dat een betrokkene heeft bij de uitkomst van een procedure. Dit betekent dat het erom gaat of het doel dat die betrokkene  voor ogen staat met het rechtsmiddel kan worden bereikt en voor hem van feitelijke betekenis is. Een betrokkene die opkomt tegen een besluit heeft belang bij een beoordeling van diens rechtsmiddel, tenzij vast komt te staan dat ieder belang bij de procedure ontbreekt of is vervallen. Als er geen procesbelang (meer) bestaat, is het rechtsmiddel niet-ontvankelijk.
+
+3.2.
+
+In het bestreden besluit staat dat eiser Nederland heeft verlaten en naar Ierland is vertrokken. Op 7 januari 2025 heeft eiser daar een asielaanvraag ingediend. De Ierse autoriteiten hebben de Nederlandse autoriteiten verzocht om de behandeling van de asielaanvraag over te nemen op grond van de Dublinverordening. De Nederlandse autoriteiten hebben ingestemd met dit verzoek. Hiertegen heeft eiser in Ierland beroep ingesteld. De Ierse autoriteiten hebben verzocht om verlenging van de termijn om de overdracht uit te voeren vanwege de schorsende werking van het beroep. HetHet is de minister niet gebleken dat eiser weer in Nederland verblijft.
+
+3.3.
+
+De rechtbank ziet geen aanleiding om te twijfelen aan de juistheid van het bestreden besluit. In zijn gronden heeft eiser het bovenstaande niet betwist. De rechtbank overweegt dat, doordat eiser Nederland heeft verlaten de vraag naar de rechtmatigheid van de beëindiging van de opvang op grond van de LVV voor hem geen feitelijke betekenis meer heeft. Dit maakt dat verweerder terecht heeft geconcludeerd dat er in beginsel geen procesbelang is. Het is weliswaar mogelijk dat eiser op enig moment aan Nederland zal worden overgedragen door Ierland, maar dat is een onzekere toekomstige gebeurtenis waar nu geen procesbelang aan kan worden ontleend. Bovendien zal eiser op dat moment, zoals in het bestreden besluit staat vermeld, in beginsel recht hebben op opvang van het Centraal Orgaan opvang asielzoekers vanwege de door hem in Ierland ingediende asielaanvraag, die dan door Nederland moet worden overgenomen en zal worden beoordeeld.
+
+4. Verder wijst de rechtbank het verzoek om schadevergoeding vanwege het overschrijden van de redelijke termijn af.
+
+4.1.
+
+De redelijke termijn voor het doorlopen van een bezwaar- en beroepsprocedure is in beginsel twee jaar. Die termijn is hier nog niet overschreden. Desondanks kan er schade zijn als gevolg van een te lange bezwaarfase. Die schade moet worden onderbouwd. Van een dergelijke onderbouwing is niet gebleken.
+
+Conclusie en gevolgen
+
+5. Het beroep is kennelijk ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. R.J.A. Schaaf, rechter, in aanwezigheid van mr. S. Westerhof, griffier.
+
+Uitgesproken in het openbaar op 19 juni 2026.
+
+griffier
+
+rechter
+
+Een afschrift van deze uitspraak is verzonden aan partijen op:
+
+Informatie over verzet
+
+Als partijen het niet eens zijn met deze uitspraak, kunnen zij een verzetschrift sturen naar de rechtbank waarin zij uitleggen waarom zij het niet eens zijn met deze uitspraak. Het verzetschrift moet worden ingediend binnen zes weken na de dag waarop deze uitspraak is verzonden. Als partijen graag een zitting willen om het verzetschrift toe te lichten, moeten zij dit in het verzetschrift vermelden.
+
+Zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 2 februari 2026 (ECLI:NL:RVS:2026:515).
