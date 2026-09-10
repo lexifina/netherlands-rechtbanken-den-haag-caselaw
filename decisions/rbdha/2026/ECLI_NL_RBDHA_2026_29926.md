@@ -1,0 +1,117 @@
+---
+ecli: "ECLI:NL:RBDHA:2026:29926"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "C/09/674621 / FA RK 24-7650"
+decided: "2026-09-10"
+published: "2026-10-11"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht; Personen- en familierecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:29926"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2026:29926 Rechtbank Den Haag , 10-09-2026 / C/09/674621 / FA RK 24-7650
+
+## Inhoudsindicatie
+
+Herstelbeschikking. Oorspronkelijke uitspraak: ECLI:NL:RBDHA:2026:2190
+
+## Uitspraak
+
+Rechtbank DEN HAAG
+
+Enkelvoudige Kamer
+
+Rekestnummer: FA RK 24-7650
+
+Zaaknummer: C/09/674621
+
+Datum verbetering: 10 september 2026
+
+Verbetering van een beschikking
+
+Bijlage bij de beschikking van 6 januari 2026, gegeven op 10 september 2026
+
+in de zaak waarin op 6 januari 2026 een beschikking is gegeven en uitgesproken, op verzoek van:
+
+[de vrouw] ,
+
+de vrouw,
+
+wonende op een bij de rechtbank bekend adres,
+
+advocaat: mr. L. Rijsdam in Leiden
+
+(voorheen mr. R.W. van den Hoek in Leiden).
+
+Als belanghebbende wordt aangemerkt:
+
+[de man] ,
+
+de man,
+
+wonende op een bij de rechtbank bekend adres,
+
+advocaat: mr. J-M.F. Honders in Rotterdam.
+
+Procedure
+
+De rechtbank heeft kennisgenomen van:
+
+het bericht van 4 augustus 2026 van de man, met bijlagen, ingekomen op 28 augustus 2026;
+
+het e-mailbericht van 26 augustus 2026 van de man, met bijlagen;
+
+het e-mailbericht van 26 augustus 2026 van de vrouw;
+
+het e-mailbericht van 7 september 2026 van de vrouw.
+
+Verzoek en verweer
+
+De man verzoekt de beschikking van 6 januari 2026 op grond van artikel 31 Wetboek van Burgerlijke Rechtsvordering (hierna: Rv) te verbeteren, in die zin dat zowel bij de feiten als in het dictum als huwelijksdatum “ [dag 1] 1988” wordt vervangen door “ [dag 2] 1988”.
+
+Namens de vrouw wordt verzocht om conform het verzoek van de man met spoed een herstelbeschikking af te geven.
+
+Beoordeling
+
+In het overgelegde attestation de mariage van het Consulaat Generaal van het Koninkrijk van Marokko in Rotterdam is vermeld dat partijen op [dag 1] 1988 met elkaar zijn gehuwd. In de Basisregistratie Personen is het huwelijk echter geregistreerd op [dag 2] 1988.
+
+Gelet hierop zal de rechtbank de beschikking van 6 januari 2026 op grond van artikel 31 Rv verbeteren, zoals hierna in het dictum weergegeven.
+
+Beslissing
+
+De rechtbank:
+
+*
+
+verbetert voormelde beschikking van 6 januari 2026 als volgt:
+
+op pagina 2
+
+“Feiten
+
+- Partijen zijn volgens het overgelegde ‘Attestation de mariage’ van het Consulaat Generaal van het Koninkrijk van Marokko in Rotterdam, op [dag 1] 1988 in [plaats] , Marokko met elkaar gehuwd.”
+
+wordt vervangen door:
+
+“Feiten
+
+- Partijen zijn volgens het overgelegde ‘Attestation de mariage’ van het Consulaat Generaal van het Koninkrijk van Marokko in Rotterdam, op [dag 1] 1988 in [plaats] , Marokko met elkaar gehuwd. In de Basisregistratie Personen (BRP) staat het huwelijk geregistreerd op [dag 2] 1988.”
+
+in het dictum op pagina 7
+
+“spreekt de echtscheiding uit tussen partijen, met elkaar gehuwd op [dag 1] 1988 in [plaats] , Marokko;”
+
+wordt vervangen door:
+
+“spreekt de echtscheiding uit tussen partijen, met elkaar gehuwd op [dag 1] 1988 in [plaats] , Marokko, welk huwelijk in de Basisregistratie Personen is geregistreerd op
+
+[dag 2] 1988;”
+
+*
+
+handhaaft de beschikking van 6 januari 2026 voor het overige.
+
+De beschikking van 6 januari 2026 is hersteld door mr. A.S. Perniciaro, rechter, in tegenwoordigheid van mr. S. Sluijmer als griffier, en uitgesproken op de openbare zitting van 10 september 2026.
