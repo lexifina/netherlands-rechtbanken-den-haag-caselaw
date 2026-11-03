@@ -1,0 +1,101 @@
+---
+ecli: "ECLI:NL:RBDHA:2026:32249"
+court: "Rechtbank Den Haag"
+court_code: "RBDHA"
+docket: "NL26.7301"
+decided: "2026-11-03"
+published: "2026-11-03"
+type: "uitspraak"
+procedure: "Vereenvoudigde behandeling"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:32249"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBDHA:2026:32249 Rechtbank Den Haag , 03-11-2026 / NL26.7301
+
+## Inhoudsindicatie
+
+bnt regulier
+
+## Uitspraak
+
+RECHTBANK DEN HAAG
+
+Zittingsplaats Groningen
+
+Bestuursrecht
+
+zaaknummer: NL26.7301
+
+uitspraak van de enkelvoudige kamer in de zaak tussen
+
+[naam], eiseres, V-nummer: [nummer],(gemachtigde: mr. E.G. Grigorjan)
+
+mede namens haar kinderen: [naam],V-nummer: [nummer],[naam],V-nummer: [nummer],[naam],V-nummer: [nummer],
+
+en
+
+de minister van Asiel en Migratie, de minister.
+
+Inleiding
+
+1. Deze uitspraak gaat over het opvolgende beroep dat eiseres heeft ingediend, omdat de minister niet op tijd zou hebben beslist op de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf.
+
+1.1.
+
+Eiseres heeft gevraagd om vrijstelling van het griffierecht. De rechtbank ziet aanleiding om dit verzoek toe te wijzen. Eiseres hoeft dus geen griffierecht te betalen.
+
+1.2.
+
+De rechtbank heeft partijen laten weten dat zij een zitting niet nodig vindt en heeft gevraagd of partijen het daarmee eens zijn. Partijen hebben daarna niet om een zitting gevraagd. De rechtbank heeft het beroep daarom niet op zitting behandeld en sluit hierbij het onderzoek.
+
+Beoordeling door de rechtbank
+
+2. In een eerdere beroepsprocedure niet tijdig beslissen heeft de rechtbank de minister opgedragen om binnen acht weken alsnog een beslissing op de aanvraag te nemen. De minister heeft dit niet gedaan.
+
+3. Het beroep is ontvankelijk en gegrond.
+
+4. Het gaat in deze zaak om een opvolgend beroep tegen het niet tijdig beslissen. Mede gelet op de beslistermijn die de rechtbank in een eerdere procedure heeft opgelegd en het tijdsverloop sindsdien, bepaalt de rechtbank daarom dat de minister binnen vier weken een beslissing op de aanvraag moet nemen. De termijn begint op de dag na het bekendmaken van deze uitspraak.
+
+5. De rechtbank legt alleen een rechterlijke dwangsom op.
+
+6. Het LOVB heeft op 21 mei 2026 een aanbeveling vastgesteld over de rechterlijke dwangsom bij beroepen wegens het niet tijdig beslissen in vreemdelingenzaken. Deze aanbeveling strekt ertoe tot een meer uniforme vaststelling van de rechterlijke dwangsom te komen, waarbij rekening wordt gehouden met zowel het belang van tijdige besluitvorming als met de uitvoerbaarheid van de door de rechtbank gestelde beslistermijn. De rechtbank volgt de aanbeveling van het LOVB onverkort. De rechtbank bepaalt dat de minister een dwangsom van € 50,- per dag moet betalen als hij de door de rechtbank opgelegde beslistermijn overschrijdt. Hierbij geldt een maximum van € 15.000,-.
+
+7. De minister moet de door eiseres gemaakte proceskosten vergoeden. Deze kosten stelt de rechtbank vast op € 467,-.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep gegrond;
+
+vernietigt het, met een besluit gelijk te stellen, niet tijdig nemen van een besluit;
+
+draagt de minister op binnen vier weken na bekendmaking van deze uitspraak alsnog een besluit op de aanvraag bekend te maken.
+
+bepaalt dat de minister aan eiseres een dwangsom van € 50,- moet betalen voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 15.000,-;
+
+veroordeelt de minister in de proceskosten van eiseres tot een bedrag van € 467,-.
+
+Deze uitspraak is gedaan door mr. A.G.D. Overmars, rechter, in aanwezigheid van A.W. Landman, griffier en openbaar gemaakt door middel van geanonimiseerde publicatie op rechtspraak.nl.
+
+Deze uitspraak is bekendgemaakt op:
+
+Informatie over hoger beroep
+
+Een partij die het niet eens is met deze uitspraak, kan een hogerberoepschrift sturen naar de Afdeling bestuursrechtspraak van de Raad van State waarin wordt uitgelegd waarom deze partij het niet eens is met de uitspraak. Het hogerberoepschrift moet worden ingediend binnen vier weken na de dag waarop deze uitspraak is verzonden. Kan de indiener de behandeling van het hoger beroep niet afwachten, omdat de zaak spoed heeft, dan kan de indiener de voorzieningenrechter van de Afdeling vragen om een voorlopige voorziening (een tijdelijke maatregel) te treffen.
+
+Artikel 8:57, eerste lid, van de Algemene wet bestuursrecht (Awb)
+
+NL25.674 .
+
+ECLI:NL:RVS:2022:3352 en ECLI:NL:RVS:2022:3353.
+
+Het Landelijk Overleg Vakinhoud Bestuursrecht. In dit overleg zijn alle afdelingen bestuursrecht van de rechtbanken vertegenwoordigd.
+
+Aanbeveling rechterlijke dwangsom bij beroep niet tijdig beslissen in vreemdelingenzaken, raadpleegbaar via www.rechtspraak.nl.
+
+Artikel 8:55d, tweede lid, van de Awb.
+
+Op grond van het Besluit proceskosten bestuursrecht voor de door de gemachtigde verleende rechtsbijstand, waarbij 1 punt is gerekend voor het indienen van het beroepschrift met een waarde per punt van € 934,- en een wegingsfactor van 0,5.
