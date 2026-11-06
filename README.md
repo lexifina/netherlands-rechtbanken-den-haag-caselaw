@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): den haag
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Den Haag (with the former Rechtbank 's-Gravenhage), Netherlands, which global-law reads at `netherlands/rechtbanken-den-haag/caselaw/`.
+
 Every decision of the rechtbanken (district courts): den haag that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 108,535 decisions from 1986-12-09 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-den-haag/caselaw`.
